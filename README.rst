@@ -2,22 +2,31 @@ Cross-disciplinary computational analysis
 =========================================
 Here is a growing collection of interactive IPython notebook tutorials on large-scale computational analysis.
 
-Option 1
---------
-1. Download and unpack the notebooks into a folder.
+Install packages
+----------------
+::
 
-    wget https://github.com/invisibleroads/crosscompute-tutorials/zipball/master -O crosscompute-tutorials.zip
-    unzip -j -d crosscompute-tutorials crosscompute-tutorials.zip
+    git clone https://github.com/invisibleroads/crosscompute-scripts.git
+    cd crosscompute-scripts
+    bash fabfile.sh
 
-2. Start IPython notebook in the folder.
+Open notebooks
+--------------
+1. Download and unpack the notebooks into a folder. ::
+
+    git clone https://github.com/invisibleroads/crosscompute-tutorials.git
+
+2. Start IPython notebook in the folder. ::
 
     cd crosscompute-tutorials
     ipython notebook --pylab=inline
 
-Option 2
---------
-1. Start IPython notebook.
+Ask questions
+-------------
+https://groups.google.com/d/forum/crosscompute-tutorials
 
-   ipython notebook --pylab=inline
+Stay updated
+------------
+news.crosscompute.com
 
-2. Drag and drop an IPython notebook onto the home page.
+twitter.com/crosscompute
