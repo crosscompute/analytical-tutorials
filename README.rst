@@ -27,6 +27,6 @@ https://groups.google.com/d/forum/crosscompute-tutorials
 
 Stay updated
 ------------
-news.crosscompute.com
+http://news.crosscompute.com
 
-twitter.com/crosscompute
+http://twitter.com/crosscompute
