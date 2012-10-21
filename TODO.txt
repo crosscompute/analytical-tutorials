@@ -1,5 +1,9 @@
 release crosscompute-tutorials +
     add another cross-validation example
+    add more text to MTA
+    run gm using subprocess
+    include heatmap gif
+    make links clickable
 
 release crosscompute-tutorials XXX
     make worksheet notebooks and solution notebooks
@@ -12,3 +16,4 @@ release crosscompute-tutorials XXX
     fix erroneous MTA network
     change animate heatmap into a real-world example
     include picture of Cathaleen teaching a charla
+
