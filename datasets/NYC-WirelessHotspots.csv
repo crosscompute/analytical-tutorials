@@ -1,0 +1,1256 @@
+OBJECTID,Shape,NAME,ID,ADDRESS,CITY,ZIP,PHONE,TYPE,URL
+1,"(40.84807994600004, -73.93587786099994)",111 Wadsworth Ave,1115,111 Wadsworth Ave,New York,10033,212-568-3417,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-111-Wadsworth-Avenue-17B-1284187.htm
+2,"(40.76611954300006, -73.98791631199992)",404 W 54th Street,1117,404 W 54th Street,New York,10019, ,Free, 
+3,"(40.73336500100004, -73.99938299299993)",Barnes & Noble,1120,396 Avenue of the Americas,New York,10011,212-674-8780,Free,http://www.barnesandnobleinc.com
+4,"(40.732595090000075, -73.99755181599994)",Gizzi's Coffee,1131,16 W. 8th Street,New York,10011,212-260-9700,Free,http://www.openwifinyc.com/classic/a/Gizzis-Coffee-NY-10011
+5,"(40.63824581200004, -73.7852876199999)",JFK International Airport - Continental Airlines Presidents Club,1137,Terminal 3 near Gate 6,Jamaica,11430, ,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+6,"(40.77394694900005, -73.87021737599991)",LaGuardia Airport - Continental Airlines Presidents Club,1139,"Concourse A, third level",Flushing,11371,718-505-7435,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+7,"(40.76856292700006, -73.8615473289999)",LaGuardia Airport - Northwest WorldClubs Lounge,1141,Behind the Northwest ticket counter,Flushing,11371,718-476-7196,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+8,"(40.705118249000066, -74.0183821519999)",Wagner Park,1175,Battery  Place & 1 Place,New York,10280, ,Free,http://www.nycwireless.net/press/wagner-park-gets-hotter-with-wi-fi/
+9,"(40.840409771000054, -73.8768904929999)",McDonald's,233,1101 E Tremont Ave,Bronx,10460, ,Fee-based,http://www.mcdonalds.com/wireless.html
+10,"(40.89298107800005, -73.85725811099991)",McDonald's,234,4174 White Plains Rd,Bronx,10466, ,Fee-based,http://www.mcdonalds.com/wireless.html
+11,"(40.80766949400004, -73.91882831099991)",McDonald's,235,513 E 138th St,Bronx,10454, ,Fee-based,http://www.mcdonalds.com/wireless.html
+12,"(40.85545387900004, -73.86731573599991)",McDonald's,236,2170 White Plains Rd,Bronx,10462, ,Fee-based,http://www.mcdonalds.com/wireless.html
+13,"(40.88955408400005, -73.84330846799992)",McDonald's,237,1201 E 233rd St,Bronx,10466, ,Fee-based,http://www.mcdonalds.com/wireless.html
+14,"(40.85477094300006, -73.88853625299993)",McDonald's,238,2357 Arthur Ave,Bronx,10458, ,Fee-based,http://www.mcdonalds.com/wireless.html
+15,"(40.83549139000007, -73.89065010099995)",McDonald's,239,1600 Boston Rd,Bronx,10460, ,Fee-based,http://www.mcdonalds.com/wireless.html
+16,"(40.825175915000045, -73.90861401099994)",McDonald's,240,3279 3rd Avenue,Bronx,10456, ,Fee-based,http://www.mcdonalds.com/wireless.html
+17,"(40.83506530800008, -73.91994045199993)",McDonald's,241,86 E 167th St,Bronx,10452, ,Fee-based,http://www.mcdonalds.com/wireless.html
+18,"(40.839681505000044, -73.91552217299994)",McDonald's,242,101 E 170th St,Bronx,10452, ,Fee-based,http://www.mcdonalds.com/wireless.html
+19,"(40.88405235100004, -73.90169801199994)",McDonald's,243,5765 Broadway,Bronx,10463, ,Fee-based,http://www.mcdonalds.com/wireless.html
+20,"(40.85432915800004, -73.90727261899991)",McDonald's,244,2065 Jerome Ave,Bronx,10453, ,Fee-based,http://www.mcdonalds.com/wireless.html
+21,"(40.844490535000034, -73.84660241899991)",McDonald's,245,1515 Williamsbridge Rd,Bronx,10461, ,Fee-based,http://www.mcdonalds.com/wireless.html
+22,"(40.833203325000056, -73.85875233099995)",McDonald's,246,1982 Westchester Ave,Bronx,10462, ,Fee-based,http://www.mcdonalds.com/wireless.html
+23,"(40.88125122800005, -73.88244180899994)",McDonald's,247,3440-42 Jerome Ave,Bronx,10467, ,Fee-based,http://www.mcdonalds.com/wireless.html
+24,"(40.82250681000005, -73.89136154099992)",McDonald's,248,982 Southern Blvd,Bronx,10459, ,Fee-based,http://www.mcdonalds.com/wireless.html
+25,"(40.82255467200008, -73.87368257899993)",McDonald's,249,1600 Bruckner Blvd,Bronx,10473, ,Fee-based,http://www.mcdonalds.com/wireless.html
+26,"(40.82802869200009, -73.92526783399995)",McDonald's,250,51-67 E 161st St,Bronx,10451, ,Fee-based,http://www.mcdonalds.com/wireless.html
+27,"(40.82494034900009, -73.92036454299995)",McDonald's,251,212 E 161st Street,Bronx,10451, ,Fee-based,http://www.mcdonalds.com/wireless.html
+28,"(40.81983135300004, -73.92703654499991)",McDonald's,252,597-99 Grand Concourse,Bronx,10451, ,Fee-based,http://www.mcdonalds.com/wireless.html
+29,"(40.85019720300005, -73.91651367499992)",McDonald's,253,1745 University Ave,Bronx,10453, ,Fee-based,http://www.mcdonalds.com/wireless.html
+30,"(40.86697659400005, -73.89737379499991)",McDonald's,254,2630 Jerome Ave,Bronx,10468, ,Fee-based,http://www.mcdonalds.com/wireless.html
+31,"(40.80632370200004, -73.92566787399994)",McDonald's,255,85 Bruckner Blvd,Bronx,10454, ,Fee-based,http://www.mcdonalds.com/wireless.html
+32,"(40.834507176000045, -73.85227011299992)",McDonald's,256,1317 Castlehill Avenue,Bronx,10462, ,Fee-based,http://www.mcdonalds.com/wireless.html
+33,"(40.87260920600005, -73.85228308799992)",McDonald's,257,1212 E Gun Hill Road,Bronx,10469, ,Fee-based,http://www.mcdonalds.com/wireless.html
+34,"(40.872813016000066, -73.8787975109999)",McDonald's,258,300 E 204th St,Bronx,10467, ,Fee-based,http://www.mcdonalds.com/wireless.html
+35,"(40.864055516000064, -73.86708888299995)",McDonald's,259,2516 White Plains Rd,Bronx,10467, ,Fee-based,http://www.mcdonalds.com/wireless.html
+36,"(40.82639169600009, -73.8616429839999)",McDonald's,260,1865 Bruckner Blvd,Bronx,10472, ,Fee-based,http://www.mcdonalds.com/wireless.html
+37,"(40.835382870000046, -73.8612123119999)",Starbucks,261,1385 Metropolitan Avenue,Bronx,10462, ,Fee-based,http://www.starbucks.com
+38,"(40.873164175000056, -73.90838895999991)",Starbucks,262,50 W. 225th Street,Bronx,10463, ,Fee-based,http://www.starbucks.com
+39,"(40.81681635700005, -73.91700714899991)",T-Mobile,263,2883 3rd Ave,Bronx,10455, ,Fee-based,http://www.t-mobile.com/
+40,"(40.861747877000084, -73.89426192399992)",T-Mobile,264,314 East Fordham Road,Bronx,10458, ,Fee-based,http://www.t-mobile.com/
+41,"(40.81668737400008, -73.92093801199991)",The UPS Store,265,318a East 149th St,Bronx,10451, ,Fee-based,http://www.theupsstore.com/
+42,"(40.67754047900007, -73.8977157839999)",McDonald's,266,50 Jamaica Ave,Brooklyn,11207,541-389-8334,Fee-based,http://www.mcdonalds.com/wireless.html
+43,"(40.64398930700008, -74.01108413399993)",McDonald's,267,5121 5th Ave,Brooklyn,11220, ,Fee-based,http://www.mcdonalds.com/wireless.html
+44,"(40.67525180500007, -73.9842348379999)",McDonald's,268,275-81 Fourth Ave,Brooklyn,11215, ,Fee-based,http://www.mcdonalds.com/wireless.html
+45,"(40.60492597000007, -73.9982065449999)",McDonald's,269,1983 86th St,Brooklyn,11214, ,Fee-based,http://www.mcdonalds.com/wireless.html
+46,"(40.71198034400004, -73.94320259599994)",McDonald's,270,741 Grand St,Brooklyn,11211, ,Fee-based,http://www.mcdonalds.com/wireless.html
+47,"(40.67732107200004, -73.9225381139999)",McDonald's,271,1883 Atlantic Avenue,Brooklyn,11233, ,Fee-based,http://www.mcdonalds.com/wireless.html
+48,"(40.69870549600006, -73.95277442499992)",McDonald's,272,35-40 Nostrand Ave,Brooklyn,11206,718-934-9539,Fee-based,http://www.mcdonalds.com/wireless.html
+49,"(40.63235390600005, -73.94798642599994)",McDonald's,273,2154 Nostrand Ave,Brooklyn,11210, ,Fee-based,http://www.mcdonalds.com/wireless.html
+50,"(40.59931783800005, -73.98899890399991)",McDonald's,274,2411 86th St,Brooklyn,11214, ,Fee-based,http://www.mcdonalds.com/wireless.html
+51,"(40.653736440000046, -74.00541313399992)",McDonald's,275,968 4th Ave,Brooklyn,11232, ,Fee-based,http://www.mcdonalds.com/wireless.html
+52,"(40.64875534300006, -73.95797385899994)",McDonald's,276,943 Flatbush Avenue,Brooklyn,11226,718-703-3248,Fee-based,http://www.mcdonalds.com/wireless.html
+53,"(40.60956217000006, -73.95709453799992)",McDonald's,277,1607 Kings Highway,Brooklyn,11229, ,Fee-based,http://www.mcdonalds.com/wireless.html
+54,"(40.65786940600009, -73.88962933899995)",McDonald's,278,819 Pennsylvania Ave,Brooklyn,11207, ,Fee-based,http://www.mcdonalds.com/wireless.html
+55,"(40.669754331000036, -73.9867126449999)",McDonald's,279,289 9th St,Brooklyn,11215, ,Fee-based,http://www.mcdonalds.com/wireless.html
+56,"(40.771190603000036, -73.95698679599991)",Starbucks,587,1449 Second Avenue,New York,10021,212-472-0653,Fee-based,http://www.starbucks.com
+57,"(40.77031142800007, -73.95474539399993)",Starbucks,588,1445 First Avenue,New York,10021,212-472-7784,Fee-based,http://www.starbucks.com
+58,"(40.77467543900008, -73.95443192499994)",Starbucks,589,1559 2nd Avenue,New York,10028,212-472-7972,Fee-based,http://www.starbucks.com
+59,"(40.77754244000005, -73.97839385999993)",Starbucks,590,267-275 Columbus Ave,New York,10023,212-579-7834,Fee-based,http://www.starbucks.com
+60,"(40.77418342400006, -73.98151800699992)",Starbucks,591,152 - 154 Columbus Avenue,New York,10023,212-721-0470,Fee-based,http://www.starbucks.com
+61,"(40.77990543800007, -73.97725208799994)",Starbucks,592,338 Columbus Avenue,New York,10023,646-505-1106,Fee-based,http://www.starbucks.com
+62,"(40.76098703400004, -73.97000655099993)",Starbucks,593,116 E. 57th Street,New York,10022,212-486-1632,Fee-based,http://www.starbucks.com
+63,"(40.76230819600005, -73.97386486099992)",Starbucks,594,725 5th Avenue,New York,10022,212-421-7154,Fee-based,http://www.starbucks.com
+64,"(40.76485352600008, -73.9784773959999)",Starbucks,595,142 W. 57th Street,New York,10019,646-710-1905,Fee-based,http://www.starbucks.com
+65,"(40.77747548600007, -73.95549153899992)",Starbucks,596,1488 Third Avenue,New York,10028,212-744-7458,Fee-based,http://www.starbucks.com
+66,"(40.76382673200004, -73.97713123099993)",Starbucks,597,1380 Sixth Avenue,New York,10019,212-977-1382,Fee-based,http://www.starbucks.com
+67,"(40.76371729300007, -73.97896509899994)",Starbucks,598,120 W. 56th Street,New York,10019,212-262-9273,Fee-based,http://www.starbucks.com
+68,"(40.76932541100007, -73.98263851899992)",Starbucks,599,1841 Broadway,New York,10023,212-307-0162,Fee-based,http://www.starbucks.com
+69,"(40.76736296200005, -73.98290978699993)",Starbucks,600,4 Columbus Circle,New York,10019,212-265-0658,Fee-based,http://www.starbucks.com
+70,"(40.780255974000056, -73.95567383199995)",Starbucks,601,120 EAST 87TH ST,New York,10128,212-426-2580,Fee-based,http://www.starbucks.com
+71,"(40.77765022600005, -73.98280243799991)",Starbucks,603,2045 Broadway,New York,10023,212-496-1551,Fee-based,http://www.starbucks.com
+72,"(40.76039134500007, -73.96062514999994)",Starbucks,604,1102 1st Ave,New York,10021,212-688-9118,Fee-based,http://www.starbucks.com
+73,"(40.764714017000074, -73.9811776869999)",Starbucks,605,870 7th Avenue,New York,10019,212-586-2142,Fee-based,http://www.starbucks.com
+74,"(40.78373379900006, -73.97464725799995)",Starbucks,606,444 Columbus Avenue,New York,10024,212-769-2296,Fee-based,http://www.starbucks.com
+75,"(40.754874457000085, -73.98344357699995)",Starbucks,607,1100 Avenue of the Americas,New York,10036,212-398-4508,Fee-based,http://www.starbucks.com
+76,"(40.762998183000036, -73.97904113599992)",Starbucks,608,1345 6th Ave,New York,10019,212-265-8610,Fee-based,http://www.starbucks.com
+77,"(40.76677576000009, -73.98411930999993)",Starbucks,609,322 West 57th Street,New York,10019,212-399-0714,Fee-based,http://www.starbucks.com
+78,"(40.769512381000084, -73.98497066999994)",Starbucks,610,2 Columbus Avenue,New York,10019,212-489-6757,Fee-based,http://www.starbucks.com
+79,"(40.76193311900005, -73.97847111999994)",Starbucks,611,1320 Avenue of the Americas,New York,10019,212-969-9066,Fee-based,http://www.starbucks.com
+80,"(40.764173449000054, -73.9820947629999)",Starbucks,612,1710 Broadway,New York,10019,212-245-0761,Fee-based,http://www.starbucks.com
+81,"(40.78105613000008, -73.98081559699995)",Starbucks,613,2140 Broadway,New York,10023,212-580-1141,Fee-based,http://www.starbucks.com
+82,"(40.77601047600007, -73.95043411099994)",Starbucks,614,1631 1st Ave,New York,10028,212-737-6534,Fee-based,http://www.starbucks.com
+83,"(40.75783899600009, -73.97071905799993)",Starbucks,615,599 Lexington Ave,New York,10022,212-754-1864,Fee-based,http://www.starbucks.com
+84,"(40.761686663000035, -73.98178498899995)",Starbucks,616,156 W 52nd St,New York,10019,212-581-6410,Fee-based,http://www.starbucks.com
+85,"(40.76047024600007, -73.9788758819999)",Starbucks,617,1290 6th Ave,New York,10019,212-977-4861,Fee-based,http://www.starbucks.com
+86,"(40.75855618200006, -73.9740937389999)",Starbucks,618,45 E. 51st Street,New York,10022,212-688-8834,Fee-based,http://www.starbucks.com
+87,"(40.78672916600004, -73.97224574299992)",Starbucks,619,540 Columbus Avenue,New York,10024,212-496-4139,Fee-based,http://www.starbucks.com
+88,"(40.76220834900005, -73.98299413699993)",Starbucks,620,1656 Broadway,New York,10019,212-397-7124,Fee-based,http://www.starbucks.com
+89,"(40.78475564200005, -73.97859734899993)",Starbucks,621,2252 Broadway,New York,10024,212-721-4157,Fee-based,http://www.starbucks.com
+90,"(40.75602010500006, -73.9641072789999)",Starbucks,622,400 East 54th Street,New York,10022,212-688-8951,Fee-based,http://www.starbucks.com
+91,"(40.75685684800004, -73.97263254099994)",Starbucks,623,560 Lexington Avenue,New York,10022,212-751-2937,Fee-based,http://www.starbucks.com
+92,"(40.76388846700007, -73.98544844599991)",Starbucks,624,871 8th Avenue,New York,10019,212-246-7699,Fee-based,http://www.starbucks.com
+93,"(40.759155657000065, -73.97967403299992)",Starbucks,625,30 Rockefeller Plaza,New York,10020,212-586-0911,Fee-based,http://www.starbucks.com
+94,"(40.782633984000086, -73.95151606999991)",Starbucks,626,1642 Third Avenue,New York,10128,212-360-0425,Fee-based,http://www.starbucks.com
+95,"(40.76087453700006, -73.98391857199994)",Starbucks,627,750 Seventh Avenue,New York,10019,212-974-0032,Fee-based,http://www.starbucks.com
+96,"(40.75642373900007, -73.97510161999992)",Starbucks,628,280 Park Avenue,New York,10017,212-573-9869,Fee-based,http://www.starbucks.com
+97,"(40.77909693400005, -73.94734102399991)",Starbucks,629,400 East 90th Street,New York,10128,212-987-0891,Fee-based,http://www.starbucks.com
+98,"(40.75508549300008, -73.96872424999992)",Starbucks,630,943 Second Avenue,New York,10022,212-715-0752,Fee-based,http://www.starbucks.com
+99,"(40.75676313900004, -73.98565213699993)",Starbucks,631,1500 Broadway,New York,10036,212-221-7515,Fee-based,http://www.starbucks.com
+100,"(40.76224454900006, -73.9869613219999)",Starbucks,632,825 Eighth Avenue,New York,10019,212-307-7173,Fee-based,http://www.starbucks.com
+101,"(40.75628164900007, -73.97825276799995)",Starbucks,633,575 Fifth Avenue,New York,10017,212-490-3189,Fee-based,http://www.starbucks.com
+102,"(40.75998819600005, -73.9855142749999)",Starbucks,634,1585 Broadway,New York,10036,212-541-7515,Fee-based,http://www.starbucks.com
+103,"(40.75899747200003, -73.9714910109999)",Starbucks,635,630 Lexington Ave,New York,10022,212-521-8075,Fee-based,http://www.starbucks.com
+104,"(40.76233247500005, -73.98782405299994)",Starbucks,636,325 W 49th St,New York,10019,212-765-2205,Fee-based,http://www.starbucks.com
+105,"(40.75787156700005, -73.9824141009999)",Starbucks,637,1185 Sixth Avenue,New York,10036,212-382-0352,Fee-based,http://www.starbucks.com
+106,"(40.75392792200006, -73.9714715259999)",Starbucks,638,757 Third Avenue,New York,10017,212-715-9884,Fee-based,http://www.starbucks.com
+107,"(40.70135824400006, -73.9434821349999)",McDonald's,280,700 Broadway,Brooklyn,11206, ,Fee-based,http://www.mcdonalds.com/wireless.html
+108,"(40.67623571900003, -73.89066967899993)",McDonald's,281,2800 Atlantic Ave,Brooklyn,11207, ,Fee-based,http://www.mcdonalds.com/wireless.html
+109,"(40.57955036000004, -73.9750991599999)",McDonald's,282,606 Neptune Ave,Brooklyn,11224, ,Fee-based,http://www.mcdonalds.com/wireless.html
+110,"(40.68010104000007, -73.9401147019999)",McDonald's,283,1531 Fulton Street,Brooklyn,11216, ,Fee-based,http://www.mcdonalds.com/wireless.html
+111,"(40.66372609900009, -73.95999375299994)",McDonald's,284,57 Empire Blvd,Brooklyn,11225, ,Fee-based,http://www.mcdonalds.com/wireless.html
+112,"(40.62208857300004, -74.02775167499993)",McDonald's,285,430 86th St.,Brooklyn,11209, ,Fee-based,http://www.mcdonalds.com/wireless.html
+113,"(40.63580047700009, -73.96814242999994)",McDonald's,286,880 Coney Island Ave,Brooklyn,11218, ,Fee-based,http://www.mcdonalds.com/wireless.html
+114,"(40.63377564600006, -73.91551621499991)",McDonald's,287,7602 Flatlands Avenue,Brooklyn,11236, ,Fee-based,http://www.mcdonalds.com/wireless.html
+115,"(40.65042913600007, -73.9498174659999)",McDonald's,288,2848 Church Avenue,Brooklyn,11226,718-940-8082,Fee-based,http://www.mcdonalds.com/wireless.html
+116,"(40.63381991700004, -74.02728457799992)",McDonald's,289,7124 3rd Ave.,Brooklyn,11209, ,Fee-based,http://www.mcdonalds.com/wireless.html
+117,"(40.69931850800003, -73.9197536449999)",McDonald's,290,428 Knickerbocker Ave,Brooklyn,11237, ,Fee-based,http://www.mcdonalds.com/wireless.html
+118,"(40.70894033700006, -73.95891339399992)",McDonald's,291,267 Broadway,Brooklyn,11211, ,Fee-based,http://www.mcdonalds.com/wireless.html
+119,"(40.610083158000066, -73.92013823299993)",McDonald's,292,5407 Kings Plz,Brooklyn,11234, ,Fee-based,http://www.mcdonalds.com/wireless.html
+120,"(40.66480279100006, -73.9235078559999)",McDonald's,293,1101 Rutland Avenue,Brooklyn,11212, ,Fee-based,http://www.mcdonalds.com/wireless.html
+121,"(40.72248803800005, -73.93929374899994)",McDonald's,294,652 Meeker Ave,Brooklyn,11222, ,Fee-based,http://www.mcdonalds.com/wireless.html
+122,"(40.68512549900004, -73.99123106499991)",New York Perks,295,193 Smith Street,Brooklyn,11201, ,Fee-based, 
+123,"(40.67575505700006, -73.9743169759999)",Ozzie's Coffee -  7th Ave.,296,57 7th Avenue,Brooklyn,11217,718-398-6695,Fee-based, 
+124,"(40.674801236000064, -73.98138692299995)",Ozzies Coffee and Tea,297,249 5th Avenue,Brooklyn,11215,718-768-6868,Fee-based, 
+125,"(40.697641719000046, -73.99222115799995)",Park Plaza Diner,298,220 Cadman Plaza West,Brooklyn,11201, ,Fee-based, 
+126,"(40.63411930600006, -74.02639478499992)",Uprising Cafe - 3rd Ave,299,7025 3rd Ave,Brooklyn,11209, ,Fee-based, 
+127,"(40.667190014000084, -73.98165218899993)",Uprising Cafe - 9 street,300,328 7th Ave,Brooklyn,11215, ,Fee-based, 
+128,"(40.71382874100004, -73.95178976699992)",Kelloggs Diner,301,518 Metropolitan Ave,Brooklyn,11211, ,Fee-based, 
+129,"(40.61911611600004, -73.98979170199993)",Starbucks,303,6423 18th Avenue,Brooklyn,11204,718-234-7160,Fee-based,http://www.starbucks.com
+130,"(40.631525228000044, -74.02747458399995)",Starbucks,304,7419 3rd Avenue,Brooklyn,11209,718-836-3519,Fee-based,http://www.starbucks.com
+131,"(40.619251804000044, -74.03304556699993)",Starbucks,305,9202 Third Avenue,Brooklyn,11209,718-492-7395,Fee-based,http://www.starbucks.com
+132,"(40.57794904300005, -73.96123668799993)",Starbucks,306,607 Brighton Beach Av,Brooklyn,11235,718-934-3211,Fee-based,http://www.starbucks.com
+133,"(40.688490684000044, -73.99257920199994)",Starbucks,307,167 Court Street,Brooklyn,11201,718-222-9729,Fee-based,http://www.starbucks.com
+134,"(40.69240857400007, -73.99129430499994)",Starbucks,308,50 Court Street,Brooklyn,11201,718-855-0369,Fee-based,http://www.starbucks.com
+135,"(40.632255426000086, -73.94872507299993)",Starbucks,309,33 Hillel Place,Brooklyn,11210,718-338-2489,Fee-based,http://www.starbucks.com
+136,"(40.672074991000045, -73.97755923599993)",Starbucks,310,164 7th Avenue,Brooklyn,11215,718-369-1213,Fee-based,http://www.starbucks.com
+137,"(40.71672463800007, -73.95935229999992)",The Internet Garage,311,218 Bedford Avenue,Brooklyn,11211, ,Fee-based, 
+138,"(40.71137722200007, -73.9446928289999)",Power Talk,312,700 Grand Street,Brooklyn,11211, ,Fee-based, 
+139,"(40.67966658200004, -73.9647865199999)",Purity Diner,313,43 Underill Ave.,Brooklyn,11238,212-937-8902,Fee-based,http://www.s-ilink.net
+140,"(40.604072140000085, -74.00696125399992)",Goal Post,314,1752 Bath Ave.,Brooklyn,11214, ,Fee-based, 
+141,"(40.613863740000056, -74.03317256399993)",Laundry King,315,9814 4th Avenue,Brooklyn,11209, ,Fee-based, 
+142,"(40.72016884000004, -73.8454635839999)",McDonald's,316,106-15 71ST AVE,Forest Hills,11375, ,Fee-based,http://www.mcdonalds.com/wireless.html
+143,"(40.711254557000075, -73.85443338199991)",McDonald's,317,98-01 METROPOLITAN AVE,Forest Hills,11375, ,Fee-based,http://www.mcdonalds.com/wireless.html
+144,"(40.72748390000004, -73.8123906159999)",McDonald's,318,72-69 KISSENA BLVD,Flushing,11367, ,Fee-based,http://www.mcdonalds.com/wireless.html
+145,"(40.70689005300005, -73.80262355999992)",McDonald's,319,87-88 PARSON BLVD,Jamaica,11432, ,Fee-based,http://www.mcdonalds.com/wireless.html
+146,"(40.70369337400007, -73.80001098199995)",McDonald's,320,159-01 JAMAICA AVENUE,Jamaica,11432, ,Fee-based,http://www.mcdonalds.com/wireless.html
+147,"(40.72961108000004, -73.86301654499994)",McDonald's,321,95-05A 63RD DR,Rego Park,11374, ,Fee-based,http://www.mcdonalds.com/wireless.html
+148,"(40.73376072900004, -73.86974467899995)",McDonald's,322,91-19 QUEEN BLVD,Elmhurst,11373, ,Fee-based,http://www.mcdonalds.com/wireless.html
+149,"(40.73694261400004, -73.8655887349999)",McDonald's,323,95-05 57TH AVE,Corona,11373, ,Fee-based,http://www.mcdonalds.com/wireless.html
+150,"(40.686563970000066, -73.82398279499995)",McDonald's,324,119-05 LIBERTY AVE,Richmond Hills,11419, ,Fee-based,http://www.mcdonalds.com/wireless.html
+151,"(40.749551833000055, -73.86310546999994)",McDonald's,325,40-12 NATIONAL ST,Corona,11368, ,Fee-based,http://www.mcdonalds.com/wireless.html
+152,"(40.71357046700007, -73.78116981699992)",McDonald's,326,181-25 HILLSIDE AVENUE,Jamaica,11432, ,Fee-based,http://www.mcdonalds.com/wireless.html
+153,"(40.73813354300006, -73.88291444399994)",McDonald's,327,80-03 QUEENS BLVD,Elmhurst,11373, ,Fee-based,http://www.mcdonalds.com/wireless.html
+154,"(40.68616160000005, -73.79329203299994)",McDonald's,328,114-01 SUTPHIN BLVD,Jamaica,11436, ,Fee-based,http://www.mcdonalds.com/wireless.html
+155,"(40.74807311700005, -73.88372705899991)",McDonald's,329,37-59 82ND ST,Jackson Heights,11372, ,Fee-based,http://www.mcdonalds.com/wireless.html
+156,"(40.74723378200008, -73.88988188799993)",McDonald's,330,75-11 ROOSEVELT AVE,Jackson Heights,11372, ,Fee-based,http://www.mcdonalds.com/wireless.html
+157,"(40.75111634600006, -73.87022325399994)",McDonald's,331,37-19 JUNCTION BLVD,Corona,11368, ,Fee-based,http://www.mcdonalds.com/wireless.html
+158,"(40.76381425800008, -73.80951586399993)",McDonald's,332,155-14 ROOSEVELT AVE,Flushing,11354, ,Fee-based,http://www.mcdonalds.com/wireless.html
+159,"(40.713309378000076, -73.90971967899992)",McDonald's,333,54-29 METROPOLITAN AVE,Ridgewood,11385, ,Fee-based,http://www.mcdonalds.com/wireless.html
+160,"(40.726281449000055, -73.90669313799992)",McDonald's,334,59-60 55TH ROAD,Maspeth,11378, ,Fee-based,http://www.mcdonalds.com/wireless.html
+161,"(40.76965478200009, -73.83417509199995)",McDonald's,335,3001 STRATTON ST,Flushing,11354, ,Fee-based,http://www.mcdonalds.com/wireless.html
+162,"(40.75788745700004, -73.77976447399993)",McDonald's,336,203-11 NORTHERN BLVD,Bayside,11361, ,Fee-based,http://www.mcdonalds.com/wireless.html
+163,"(40.76435211100005, -73.88093703499993)",McDonald's,337,88-05 ASTORIA BLVD,E Elmhurst,11369, ,Fee-based,http://www.mcdonalds.com/wireless.html
+164,"(40.65780276800007, -73.83994589499991)",McDonald's,338,159-40 CROSS BAY BLVD,Howard Beach,11414, ,Fee-based,http://www.mcdonalds.com/wireless.html
+165,"(40.753395450000085, -73.90834793999994)",McDonald's,339,51-35 NORTHERN BLVD,Woodside,11377, ,Fee-based,http://www.mcdonalds.com/wireless.html
+166,"(40.69944620500007, -73.91053547299992)",McDonald's,340,54-04 MYRTLE AVE,Ridgewood,11385, ,Fee-based,http://www.mcdonalds.com/wireless.html
+167,"(40.741711240000086, -73.91963041199995)",McDonald's,342,45-06 GREENPOINT AVE,Sun,11104, ,Fee-based,http://www.mcdonalds.com/wireless.html
+168,"(40.72921946300005, -73.74438851299993)",McDonald's,343,88-14 SPRINGFIELD BLVD,Hillside,11427, ,Fee-based,http://www.mcdonalds.com/wireless.html
+169,"(40.75944409600004, -73.91825899899993)",McDonald's,344,31-67 STEINWAY ST,Astoria,11103, ,Fee-based,http://www.mcdonalds.com/wireless.html
+170,"(40.87027917200004, -73.82861632099991)",NYC Public Library - Baychester Branch,1,2049 Asch Loop North,Bronx,10475,718-379-6700,Free,http://www.nypl.org/branch/services/wifi.html
+171,"(40.82661067600009, -73.85018107899992)",NYC Public Library - Castel Hill Branch,2,947 Castle Hill Avenue,Bronx,10473,718-824-3838,Free,http://www.nypl.org/branch/services/wifi.html
+172,"(40.84769385000004, -73.78636716099993)",NYC Public Library - City Island Branch,3,320 City Island Avenue,Bronx,10464,718-885-1703,Free,http://www.nypl.org/branch/services/wifi.html
+173,"(40.82999431400009, -73.87501990299995)",NYC Public Library - Clason's Point Branch,4,1215 Morrison Avenue,Bronx,10472,718-842-1235,Free,http://www.nypl.org/branch/services/wifi.html
+174,"(40.870140491000086, -73.84506443399994)",NYC Public Library - Eastchester Branch,5,1385 East Gun Hill Road,Bronx,10469,718-653-3292,Free,http://www.nypl.org/branch/services/wifi.html
+175,"(40.88889472000005, -73.84083619599994)",NYC Public Library - Edenwald Branch,6,1255 East 233rd Street,Bronx,10466,718-798-3355,Free,http://www.nypl.org/branch/services/wifi.html
+176,"(40.857437754000046, -73.90927460499995)",NYC Public Library - Francis Martin Branch,8,2150 University Avenue,Bronx,10453,718-295-5287,Free,http://www.nypl.org/branch/services/wifi.html
+177,"(40.81868873900004, -73.89413524399993)",NYC Public Library - Hunt's Point Branch,9,877 Southern Boulevard,Bronx,10459,718-617-0338,Free,http://www.nypl.org/branch/services/wifi.html
+178,"(40.86904119500008, -73.90119231999995)",NYC Public Library - Jerome Park Branch,10,118 Eames Place,Bronx,10468,718-549-5200,Free,http://www.nypl.org/branch/services/wifi.html
+179,"(40.88032201200008, -73.90798492699992)",NYC Public Library - Kingsbridge Branch,11,280 West 231st Street,Bronx,10463,718-548-5656,Free,http://www.nypl.org/branch/services/wifi.html
+180,"(40.84429395700005, -73.82788812599995)",NYC Public Library - Pelham Bay Branch,12,3060 Middletown Road,Bronx,10461,718-792-6744,Free,http://www.nypl.org/branch/services/wifi.html
+181,"(40.90372441100004, -73.9027722539999)",NYC Public Library - Riverdale Branch,13,5540 Mosholu Avenue,Bronx,10471,718-549-1212,Free,http://www.nypl.org/branch/services/wifi.html
+182,"(40.818710714000076, -73.86289094799992)",NYC Public Library -Soundview Branch,14,660 Soundview Avenue,Bronx,10473,718-589-0880,Free,http://www.nypl.org/branch/services/wifi.html
+183,"(40.88627489000004, -73.91467093799992)",NYC Public Library - Spuyten Duyvil Branch,15,650 W. 235th St.,Bronx,10463,718-796-1202,Free,http://www.nypl.org/branch/services/wifi.html
+184,"(40.82290464000005, -73.81909491699992)",NYC Public Library - Throg's Neck Branch,16,3025 Cross Bronx Expressway Extension,Bronx,10465,718-792-2612,Free,http://www.nypl.org/branch/services/wifi.html
+185,"(40.88276095100008, -73.89392111299992)",NYC Public Library - Van Cortlandt,17,3874 Sedgwick Avenue,Bronx,10463,718-543-5150,Free,http://www.nypl.org/branch/services/wifi.html
+186,"(40.85487928800006, -73.86414303999993)",NYC Public Library - Van Nest Branch,18,2147 Barnes Avenue,Bronx,10462,718-829-5864,Free,http://www.nypl.org/branch/services/wifi.html
+187,"(40.89109825300005, -73.85951905299993)",NYC Public Library - Wakefield Branch,19,4100 Lowerre Place,Bronx,10466,718-652-4663,Free,http://www.nypl.org/branch/services/wifi.html
+188,"(40.84467596500008, -73.88304497799993)",NYC Public Library - West Farms Branch,20,2085 Honeywell Avenue,Bronx,10460,718-367-5376,Free,http://www.nypl.org/branch/services/wifi.html
+189,"(40.84110633000006, -73.84662106499991)",NYC Public Library - Westchester Square,21,2521 Glebe Avenue,Bronx,10461,718-863-0436,Free,http://www.nypl.org/branch/services/wifi.html
+190,"(40.900440124000056, -73.86794216099992)",NYC Public Library - Woodlawn Heights,22,4355 Katonah Avenue,Bronx,10470,718-519-9627,Free,http://www.nypl.org/branch/services/wifi.html
+191,"(40.808280928000045, -73.93044839999993)",The Bruckner Bar & Grill,23,1 Bruckner Blvd,Bronx,10454,718-665-2001,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bruckner_Bar_and_Grill_New_York_NY_23205.aspx
+192,"(40.81736402300004, -73.92731020999992)",Longwood Art Gallery Hostos Community College Campus,24,450 Grand Concourse,Bronx,10451,718-518-6728,Free, 
+193,"(40.68068718200004, -73.88724084699993)",Brooklyn Public Library - Arlington,25,203 Arlington Ave.,Brooklyn,11207,718-277-6105,Free,http://www.brooklynpubliclibrary.org/
+194,"(40.633627224000065, -74.02953989199995)",Brooklyn Public Library - Bay Ridge,26,7223 Ridge Blvd.,Brooklyn,11209,718-748-5709,Free,http://www.brooklynpubliclibrary.org/
+195,"(40.68182101300005, -73.95616470699991)",Brooklyn Public Library - Bedford,27,496 Franklin Avenue,Brooklyn,11238,718-623-0012,Free,http://www.brooklynpubliclibrary.org/
+196,"(40.63888676000005, -73.98900679299993)",Brooklyn Public Library - Borough Park,29,1265 43rd St.,Brooklyn,11219,718-437-4085,Free,http://www.brooklynpubliclibrary.org/
+197,"(40.57610901500004, -73.96677419199995)",Brooklyn Public Library - Brighton Beach,30,16 Brighton First Rd.,Brooklyn,11235,718-946-2917,Free,http://www.brooklynpubliclibrary.org/
+198,"(40.695670917000086, -73.99138113899994)",Brooklyn Public Library - Brooklyn Heights,31,280 Cadman Plaza West,Brooklyn,11201,718-623-7100,Free,http://www.brooklynpubliclibrary.org/
+199,"(40.67537039200005, -73.94856574799991)",Brooklyn Public Library - Brower Park,32,725 St. Marks Ave.,Brooklyn,11216,718-773-7208,Free,http://www.brooklynpubliclibrary.org/
+200,"(40.67152760300007, -73.90860463899992)",Brooklyn Public Library - Brownsville,33,61 Glenmore Ave.,Brooklyn,11212,718-498-9721,Free,http://www.brooklynpubliclibrary.org/
+201,"(40.704559422000045, -73.93961664599993)",Brooklyn Public Library - Bushwick,34,340 Bushwick Ave.,Brooklyn,11206,718-602-1348,Free,http://www.brooklynpubliclibrary.org/
+202,"(40.64220850000004, -73.89952476799994)",Brooklyn Public Library - Canarsie,36,1580 Rockaway Pkwy.,Brooklyn,11236,718-257-6547,Free,http://www.brooklynpubliclibrary.org/
+203,"(40.68321545500004, -73.9980205569999)",Brooklyn Public Library - Carroll Gardens,37,396 Clinton St.,Brooklyn,11231,718-596-6972,Free,http://www.brooklynpubliclibrary.org/
+204,"(40.67224293600009, -73.9681106029999)",Brooklyn Public Library - Central Library,39,Grand Army Plaza,Brooklyn,11238,718-230-2100,Free,http://www.brooklynpubliclibrary.org/
+205,"(40.63574080900008, -73.94761988599993)",Brooklyn Public Library - Clarendon,40,2035 Nostrand Ave.,Brooklyn,11210,718-421-1159,Free,http://www.brooklynpubliclibrary.org/
+206,"(40.68737976600005, -73.9660300459999)",Brooklyn Public Library - Clinton Hill,41,380 Washington Ave.,Brooklyn,11238,718-398-8713,Free,http://www.brooklynpubliclibrary.org/
+207,"(40.57676898700004, -73.98609757899993)",Brooklyn Public Library - Coney Island,42,1901 Mermaid Ave.,Brooklyn,11224,718-265-3220,Free,http://www.brooklynpubliclibrary.org/
+208,"(40.64080360000008, -73.9659636749999)",Brooklyn Public Library - Cortelyou,44,1305 Cortelyou Rd.,Brooklyn,11226,718-693-7763,Free,http://www.brooklynpubliclibrary.org/
+209,"(40.66120165600006, -73.94813333699994)",Brooklyn Public Library - Crown Heights Branch,45,560 New York Ave.,Brooklyn,11225,718-773-1180,Free,http://www.brooklynpubliclibrary.org/
+210,"(40.67270539400005, -73.87403488199993)",Brooklyn Public Library - Cypress Hills,46,1197 Sutter Ave.,Brooklyn,11208,718-277-6004,Free,http://www.brooklynpubliclibrary.org/
+211,"(40.69481730100006, -73.92839945399993)",Brooklyn Public Library - DeKalb,47,790 Bushwick Ave.,Brooklyn,11221,718-455-3898,Free,http://www.brooklynpubliclibrary.org/
+212,"(40.616308022000055, -74.01198722399994)",Brooklyn Public Library - Dyker,48,8202 13th Ave.,Brooklyn,11228,718-748-6261,Free,http://www.brooklynpubliclibrary.org/
+213,"(40.655711548000056, -73.91493701499991)",Brooklyn Public Library - East Flatbush,49,9612 Church Ave.,Brooklyn,11212,718-922-0927,Free,http://www.brooklynpubliclibrary.org/
+214,"(40.66846512700005, -73.93364020799993)",Brooklyn Public Library - Eastern Parkway,50,1044 Eastern Pkwy.,Brooklyn,11213,718-953-4225,Free,http://www.brooklynpubliclibrary.org/
+215,"(40.65192292000006, -73.95823854699995)",Brooklyn Public Library - Flatbush,53,22 Linden Blvd.,Brooklyn,11226,718-856-0813,Free,http://www.brooklynpubliclibrary.org/
+216,"(40.61976964200005, -73.9332131399999)",Brooklyn Public Library - Flatlands,54,2065 Flatbush Ave.,Brooklyn,11234,718-253-4409,Free,http://www.brooklynpubliclibrary.org/
+217,"(40.616372987000034, -74.03136924199993)",Brooklyn Public Library - Fort Hamilton,55,9424 Fourth Ave.,Brooklyn,11209,718-748-6919,Free,http://www.brooklynpubliclibrary.org/
+218,"(40.591357996000056, -73.92396644699994)",Brooklyn Public Library - Gerritsen Beach Branch,56,2808 Gerritsen Ave.,Brooklyn,11229,718-368-1435,Free,http://www.brooklynpubliclibrary.org/
+219,"(40.59054527300009, -73.97180776599993)",Brooklyn Public Library - Gravesend,57,303 Ave. X,Brooklyn,11223,718-382-5792,Free,http://www.brooklynpubliclibrary.org/
+220,"(40.72605069000008, -73.95069134899995)",Brooklyn Public Library - Greenpoint,58,107 Norman Ave.,Brooklyn,11222,718-349-8504,Free,http://www.brooklynpubliclibrary.org/
+221,"(40.605690957000036, -73.98623201099991)",Brooklyn Public Library - Highlawn,59,1664 W. 13th St.,Brooklyn,11223,718-234-7208,Free,http://www.brooklynpubliclibrary.org/
+222,"(40.595238330000086, -73.96060011299994)",Brooklyn Public Library - Homecrest,60,2525 Coney Island Ave.,Brooklyn,11223,718-382-5924,Free,http://www.brooklynpubliclibrary.org/
+223,"(40.63447528000006, -73.8893041369999)",Brooklyn Public Library - Jamaica Bay,61,9727 Seaview Ave.,Brooklyn,11236,718-241-3571,Free,http://www.brooklynpubliclibrary.org/
+224,"(40.753417726000066, -73.9896917129999)",Fedex Kinko's,453,500 7th Avenue,New York,10018,646-366-9166,Fee-based,http://www.FedexKinkos.com
+225,"(40.748034389000054, -73.98236977899995)",Fedex Kinko's,454,191 Madison Avenue,New York,10016,212-685-3449,Fee-based,http://www.FedexKinkos.com
+226,"(40.748034389000054, -73.98236977899995)",Fedex Kinko's,454,191 Madison Avenue,New York,10016,212-685-3449,Fee-based,http://www.FedexKinkos.com
+227,"(40.74834223000005, -73.98544462399991)",Fedex Kinko's,455,350 Fifth Avenue,New York,10001,212-279-3556,Fee-based,http://www.FedexKinkos.com
+228,"(40.74834223000005, -73.98544462399991)",Fedex Kinko's,455,350 Fifth Avenue,New York,10001,212-279-3556,Fee-based,http://www.FedexKinkos.com
+229,"(40.72209408200007, -73.98488395599992)",Fedex Kinko's,456,250 East Houston Street,New York,10002,212-253-9020,Fee-based,http://www.FedexKinkos.com
+230,"(40.72209408200007, -73.98488395599992)",Fedex Kinko's,456,250 East Houston Street,New York,10002,212-253-9020,Fee-based,http://www.FedexKinkos.com
+231,"(40.715831381000044, -74.00589795099995)",Fedex Kinko's,457,105 Duane Street,New York,10007,212-406-1220,Fee-based,http://www.FedexKinkos.com
+232,"(40.715831381000044, -74.00589795099995)",Fedex Kinko's,457,105 Duane Street,New York,10007,212-406-1220,Fee-based,http://www.FedexKinkos.com
+233,"(40.70522282400009, -74.00679508699994)",Fedex Kinko's,458,100 Wall Street,New York,10005,212-269-0024,Fee-based,http://www.FedexKinkos.com
+234,"(40.70522282400009, -74.00679508699994)",Fedex Kinko's,458,100 Wall Street,New York,10005,212-269-0024,Fee-based,http://www.FedexKinkos.com
+235,"(40.73012593900006, -73.99179521999991)",Fedex Kinko's,459,21 Astor Place,New York,10003,212-228-9511,Fee-based,http://www.FedexKinkos.com
+236,"(40.73012593900006, -73.99179521999991)",Fedex Kinko's,459,21 Astor Place,New York,10003,212-228-9511,Fee-based,http://www.FedexKinkos.com
+237,"(40.73875277600007, -73.99292002599992)",Flat Iron,460,10 West 18th Street,New York,10011,212-352-9333,Fee-based, 
+238,"(40.75146311900005, -73.9713859599999)",Food Expo,461,833B 2nd Avenue,New York,10017,212-983-5482,Fee-based, 
+239,"(40.73875277600007, -73.99292002599992)",Food Works,462,10 W. 18th Street,New York,10011,212-352-9333,Fee-based, 
+240,"(40.76107452800005, -73.96873587699992)",Smilers 707,463,707 Lexington Ave,New York,10022,212-980-0890,Fee-based, 
+241,"(40.752652871000066, -73.97709536499991)",Grand Central Station,465,42nd St & Park Ave,New York,10017,516-298-2969,Fee-based,http://www.grandcentralterminal.com/
+242,"(40.714771789000054, -73.99218308699994)",Happy Shabu Shabu & Cafe,466,54 Canal Street,New York,10002, ,Fee-based, 
+243,"(40.74920109100009, -73.9836146159999)",Happy Times,467,377 5th Ave,New York,10016, ,Fee-based, 
+244,"(40.768079183000054, -73.98188793399993)",HotZone,468,Columbus Circle,New York,10023, ,Fee-based, 
+245,"(40.72154055700008, -74.00412711599995)",Howard Grand Corp,469,307 W Broadway,New York,10013,212-226-3030,Fee-based, 
+246,"(40.71001780000006, -74.00867482099994)",Internet Cafe NYC,470,17 John Street,New York,10038,212-217-6043,Fee-based, 
+247,"(40.798181029000034, -73.96109038899993)",Jazz on the Park,471,36 W 106th Street,New York,10025, ,Fee-based, 
+248,"(40.76048717300006, -73.96880473699991)",Juan Valdez NYC,472,140 East 57th Street,New York,10022, ,Fee-based, 
+249,"(40.709638976000065, -74.00926631499993)",Klatch,473,9 Maiden Lane,New York,10038,212-227-7276,Fee-based, 
+250,"(40.72479524700009, -73.98759640499992)",Kudos Beans,474,49 1/2 First Ave,New York,10003, ,Fee-based, 
+251,"(40.724283367000055, -73.9784147339999)",Lava Gina Lounge,475,116 Avenue C,New York,10009, ,Fee-based, 
+252,"(40.72104105400007, -73.99727987599994)",Lemast's Deli,476,400 Broome Street,New York,10013,212-965-0219,Fee-based, 
+253,"(40.75736296700006, -73.96636613899994)",Lenny's,477,1024 2nd Avenue,New York,10022,212-355-5700,Fee-based,http://www.lennysnyc.com/
+254,"(40.784773691000055, -73.97305077899995)",Lennys,478,489 Columbus Ave,New York,10024,212-787-9368,Fee-based,http://www.lennysnyc.com/
+255,"(40.74773042700008, -73.98782672099992)",Little Park,479,1250 Broadway,New York,10001,877-353-3377,Fee-based, 
+256,"(40.745009871000036, -73.98370225899993)",Log-on Cafe,480,41 E. 30th St.,New York,10016, ,Fee-based, 
+257,"(40.76243706900004, -73.96332048799991)",Mail Boxes Etc,481,1173 Second Ave,New York,10021, ,Fee-based,http://www.mbe.com
+258,"(40.76243706900004, -73.96332048799991)",Mail Boxes Etc,481,1173 Second Ave,New York,10021, ,Fee-based,http://www.mbe.com
+259,"(40.715814941000076, -74.00532438699992)",McDonalds,482,317 Broadway,New York,10007,212-577-9702,Fee-based,http://www.mcdonalds.com/wireless.html
+260,"(40.709339739000086, -74.00995159599995)",McDonalds,483,160 Broadway,New York,10038, ,Fee-based,http://www.mcdonalds.com/wireless.html
+261,"(40.71495043200008, -73.99726569599994)",McDonalds,484,26 Bowery,New York,10013,212-406-0428,Fee-based,http://www.mcdonalds.com/wireless.html
+262,"(40.71852139200007, -74.0011435639999)",McDonalds,485,262 Canal St,New York,10013, ,Fee-based,http://www.mcdonalds.com/wireless.html
+263,"(40.71633333600005, -74.01059113799994)",McDonalds,486,167 Chambers Street,New York,10007,212-608-2405,Fee-based,http://www.mcdonalds.com/wireless.html
+264,"(40.70296891800007, -74.01227690999991)",McDonalds,487,6 Water Street,New York,10004,212-509-0920,Fee-based,http://www.mcdonalds.com/wireless.html
+265,"(40.712940795000065, -73.98923625799995)",McDonalds,488,213 Madison Street,New York,10002,212-619-1848,Fee-based,http://www.mcdonalds.com/wireless.html
+266,"(40.71886938100005, -73.98824324499992)",McDonalds,489,114 Delancey St,New York,10002, ,Fee-based,http://www.mcdonalds.com/wireless.html
+267,"(40.730757520000054, -74.0011076909999)",McDonalds,490,136 W 3rd St,New York,10012, ,Fee-based,http://www.mcdonalds.com/wireless.html
+268,"(40.72911870900003, -73.99325659599992)",McDonalds,491,724 Broadway,New York,10003,212-529-9660,Fee-based,http://www.mcdonalds.com/wireless.html
+269,"(40.72643091600008, -73.98581019799991)",McDonalds,492,102-106 1st Ave,New York,10009,212-477-9171,Fee-based,http://www.mcdonalds.com/wireless.html
+270,"(40.729617973000074, -73.98949695199991)",McDonalds,493,27 3rd Avenue,New York,10003, ,Fee-based,http://www.mcdonalds.com/wireless.html
+271,"(40.733735583000055, -73.99990618499993)",McDonalds,494,405 6th Ave,New York,10014,212-645-6662,Fee-based,http://www.mcdonalds.com/wireless.html
+272,"(40.73790756600005, -73.99683894999993)",McDonalds,495,541 6th Avenue,New York,10011, ,Fee-based,http://www.mcdonalds.com/wireless.html
+273,"(40.73817384900008, -73.99954893499995)",McDonalds,496,154 West 14th Street,New York,10011, ,Fee-based,http://www.mcdonalds.com/wireless.html
+274,"(40.73080833600005, -73.98243206599994)",McDonalds,497,404 East 14th Street,New York,10009,212-598-0045,Fee-based,http://www.mcdonalds.com/wireless.html
+275,"(40.73705361800006, -73.9907443059999)",McDonalds,498,39 Union Square West,New York,10003,212-645-9079,Fee-based,http://www.mcdonalds.com/wireless.html
+276,"(40.741898276000086, -73.99317230199995)",McDonalds,499,686 6th Ave,New York,10010, ,Fee-based,http://www.mcdonalds.com/wireless.html
+277,"(40.73704395800007, -73.97964469499993)",McDonalds,500,336 East 23rd Street,New York,10010,212-674-9027,Fee-based,http://www.mcdonalds.com/wireless.html
+278,"(40.74604269400004, -73.9909307229999)",McDonalds,501,809-811 6th Avenue,New York,10001,212-741-2367,Fee-based,http://www.mcdonalds.com/wireless.html
+279,"(40.74295406400006, -73.98377493899994)",McDonalds,502,401 Park Avenue South,New York,10016,212-683-4919,Fee-based,http://www.mcdonalds.com/wireless.html
+280,"(40.747667912000054, -73.99739427899993)",McDonalds,503,335 8th Avenue,New York,10001,212-243-9594,Fee-based,http://www.mcdonalds.com/wireless.html
+281,"(40.69554154400004, -73.79022813699993)",Queens Library - South Jamaica,999,108-41 Guy R. Brewer Boulevard,Jamaica,11433,718-739-4088,Free,http://www.queenslibrary.org/
+282,"(40.67477726100009, -73.80926181599995)",Queens Library - South Ozone Park,1000,128-16 Rockaway Boulevard,South Ozone Park,11420,718-529-1660,Free,http://www.queenslibrary.org/
+283,"(40.69252838700004, -73.76010878799991)",Queens Library - St. Albans,1001,191-05 Linden Boulevard,St. Albans,11412,718-528-8196,Free,http://www.queenslibrary.org/
+284,"(40.74080911500005, -73.92166915999991)",Queens Library - Sunnyside,1002,43-06 Greenpoint Avenue,Long Island City,11104,718-784-3033,Free,http://www.queenslibrary.org/
+285,"(40.78853177800005, -73.81071655699992)",Queens Library - Whitestone,1003,151-10 14 Road,Whitestone,11357,718-767-8010,Free,http://www.queenslibrary.org/
+286,"(40.64403284000008, -74.07253699499995)",St. George-Staten Island Ferry Terminal,150,1 Bay St,Staten Island,10301, 718 876-8441,Free,http://www.nyc.gov/html/dot/html/ferrybus/statfery.shtml
+287,"(40.62213110600004, -74.08961305399993)",St. John's University Loretto Memorial Library,153,300 Howard Avenue,Staten Island,10301,718-390-4457,Free,http://www.stjohns.edu/academics/libraries/services/mobile_computing
+288,"(40.76491430900006, -73.95955031799991)",NYC Public Library - 67th Street Branch,154,328 East 67th Street,New York,10021,212-734-1717,Free,http://www.nypl.org/branch/services/wifi.html
+289,"(40.80298150100003, -73.95353121199992)",NYC Public Library - 115th Street,155,203 West 115th Street,New York,10026,212-666-9393,Free,http://www.nypl.org/branch/services/wifi.html
+290,"(40.80301911500004, -73.9348461319999)",NYC Public Library - 125th Street,156,224 East 125th Street,New York,10035,212-534-5050,Free,http://www.nypl.org/branch/services/wifi.html
+291,"(40.79418564000008, -73.9434647249999)",NYC Public Library - Aguilar,157,174 East 110th Street,New York,10029,212-534-2930,Free,http://www.nypl.org/branch/services/wifi.html
+292,"(40.71333374500006, -73.99649021999994)",NYC Public Library - Chatham Square,158,33 East Broadway,New York,10002,212-964-6598,Free,http://www.nypl.org/branch/services/wifi.html
+293,"(40.81475074300005, -73.94121462399994)",NYC Public Library - Countee Cullen,159,104 West 136th Street,New York,10030,212-491-2070,Free,http://www.nypl.org/branch/services/wifi.html
+294,"(40.847869967000065, -73.93386605299992)",NYC Public Library - Fort Washington,161,535 West 179th Street,New York,10033,212-927-3533,Free,http://www.nypl.org/branch/services/wifi.html
+295,"(40.81377512500006, -73.9570640419999)",NYC Public Library - George Bruce,162,518 West 125th Street,New York,10027,212-662-9727,Free,http://www.nypl.org/branch/services/wifi.html
+296,"(40.71939791400007, -73.97960679199991)",NYC Public Library - Hamilton Fish Park,163,415 East Houston Street,New York,10002,212-673-2290,Free,http://www.nypl.org/branch/services/wifi.html
+297,"(40.825686225000084, -73.94801957999994)",NYC Public Library - Hamilton Grange,164,503 West 145th Street,New York,10031,212-926-2147,Free,http://www.nypl.org/branch/services/wifi.html
+298,"(40.806185509000045, -73.94330281899994)",NYC Public Library - Harlem,165,9 West 124th Street,New York,10027,212-348-5620,Free,http://www.nypl.org/branch/services/wifi.html
+299,"(40.72989555000004, -74.00532911899995)",NYC Public Library - Hudson Park,166,66 Leroy Street,New York,10014,212-243-6876,Free,http://www.nypl.org/branch/services/wifi.html
+300,"(40.86573036000004, -73.92585455099993)",NYC Public Library - Inwood,167,4790 Broadway,New York,10034,212-942-2445,Free,http://www.nypl.org/branch/services/wifi.html
+301,"(40.734605668000086, -73.99917008699992)",NYC Public Library - Jefferson Market,168,425 Avenue of Americas,New York,10011,212-243-4334,Free,http://www.nypl.org/branch/services/wifi.html
+302,"(40.82658319600006, -73.93600461099993)",NYC Public Library - Macomb's Bridge,169,2650 Adam Clayton Powell Jr Blvd.,New York,10039,212-281-4900,Free,http://www.nypl.org/branch/services/wifi.html
+303,"(40.751780834000044, -73.98150617599993)",NYC Public Library - Mid-Manhattan Library,170,455 Fifth Avenue,New York,10016,212-340-0833,Free,http://www.nypl.org/branch/services/wifi.html
+304,"(40.71360800800005, -74.00786006299995)",NYC Public Library - New Amsterdam,171,9 Murray Street,New York,10007,212-732-8186,Free,http://www.nypl.org/branch/services/wifi.html
+305,"(40.728920636000055, -73.98778325299992)",NYC Public Library - Ottendorfer,172,135 2nd Avenue,New York,10003,212-674-0947,Free,http://www.nypl.org/branch/services/wifi.html
+306,"(40.76125463500006, -73.95016714099995)",NYC Public Library - Roosevelt Island,173,524 Main Street,New York,10044,212-308-6243,Free,http://www.nypl.org/branch/services/wifi.html
+307,"(40.81466551900007, -73.94094374999992)",NYC Public Library - Schomburg Ctr for Research in Black Culture,174,515 Malcolm X Boulevard,New York,10037,212-491-2200,Free,http://www.nypl.org/branch/services/wifi.html
+308,"(40.71445583700006, -73.98853621099994)",NYC Public Library - Seward Park,175,192 East Broadway,New York,10002,212-477-6770,Free,http://www.nypl.org/branch/services/wifi.html
+309,"(40.72730844600005, -73.98040894099995)",NYC Public Library - Tompkins Square,176,331 East 10th Street,New York,10009,212-228-4747,Free,http://www.nypl.org/branch/services/wifi.html
+310,"(40.83451465200005, -73.93967577399991)",NYC Public Library - Washington Heights,177,1000 Saint Nicholas Avenue,New York,10032,212-923-6054,Free,http://www.nypl.org/branch/services/wifi.html
+311,"(40.72365408300004, -73.99827911199992)",Activebeauty,178,"Broadway, between Prince Street & Spring Street",New York,10012,917-206-4912,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-Active-Beauty-com-1083578.htm
+312,"(40.70497244100005, -74.01366225999993)",Bowling Green Park,180,Broadway and Whitehall,New York,10004, ,Free,http://www.downtownny.com/wireless.asp
+313,"(40.75374089500008, -73.98356296599991)",Bryant Park,181,6th Avenue & 42nd Street,New York,10018, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bryant_Park_New_York_NY_6144.aspx
+314,"(40.742554314000074, -74.00605188299994)",Chelsea Market,182,75 Ninth Avenue,New York,10011, ,Free,http://www.chelseamarket.com/
+315,"(40.71226038200007, -74.00705190899993)",City Hall Park,183,corner Broadway and Murray Street,New York,10007, ,Free,http://www.downtownny.com/wireless.asp
+316,"(40.725022462000084, -73.98291342999994)",EVill Net,184,Avenue A & Avenue B 2nd & 10th Streets,New York,10009, ,Free,http://www.magicbike.net/evill/faq.html
+317,"(40.72916830500009, -74.0011906499999)",Groovy Greenwich Village Node,185,Covers cafes around the corner of  MacDougal St &,New York,10012, ,Free,http://auth.nycwireless.net/hotspots_map.php
+318,"(40.72098890800004, -74.00246758999992)",Location One,186,26 Greene Street,New York,10013,212-334-3347,Free, 
+319,"(40.70116275100008, -74.0132827939999)",Whitehall-Staten Island Ferry Terminal,187,South St. and State St.,New York,10004, ,Free,http://www.nyc.gov/html/dot/html/ferrybus/statfery.shtml
+320,"(40.71706061700007, -74.01143537899992)",Washington Market Park,188,corner Chambers St. and Greenwich St.,New York,10007, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Washington_Market_Park_New_York_NY_18297.aspx
+321,"(40.71314063400007, -74.01541701499991)",Winter Garden In the World Financial Center,189,West Side Highway between Vessey St. and Liberty S,New York,10280,212-417-7000,Free,http://www.openwifinyc.com/classic/index.php
+322,"(40.705568853000045, -74.00163025199993)",South Street Seaport,190,South Street and Fulton Street,New York,10038, ,Free,http://www.downtownny.com/discover/wifi/
+323,"(40.72634799500008, -73.98171166799995)",Tompkins Square Park,191,500 E 9th St,New York,10009, ,Free,http://auth.nycwireless.net/hotspots_map.php
+324,"(40.738475701000084, -74.00407042599994)",'sNice,192,45 8th Ave,New York,10014,212-645-0310,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_sNice_New_York_NY_6740.aspx
+325,"(40.72439665200005, -73.98287751299995)",Ace Bar,193,531 East 5th Street,New York,10009,212-979-8476,Free,http://maps.google.com/maps?hl=en&ie=UTF-8&q=ace+bar+nyc&fb=1&split=1&gl=us&view=text&latlng=16021670854050475894&dtab=1&ei=i5NkSoaCNYrCNb2l-OwL&oi=md_structdata&sa=X
+326,"(40.725119791000054, -73.99897537999993)",Apple Store Soho,195,103 Prince St,New York,10012,212-226-3126,Free,http://www.apple.com
+327,"(40.721476901000074, -73.98823196099994)",ARK Communications,196,90 Stanton Street,New York,10002,212-387-0040,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-ARK-Comm
+328,"(40.71427229800008, -74.00696194299991)",Blue Spoon Coffee Company,197,76 Chambers St,New York,10007,212-619-7230,Free,http://www.bluespooncoffee.com/
+329,"(40.72495762500006, -73.9927122389999)",Bowery Poetry Club,198,308 Bowery,New York,10012,212-619-7230,Free,http://www.bowerypoetry.com/
+330,"(40.73574197600004, -73.9976978489999)",Cassava,199,474 6th Ave,New York,10011, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cassava_Bubble_Tea_New_York_NY_6209.aspx
+331,"(40.77792018400004, -73.94899203199992)",Choux Factory,200,1685 First Avenue,New York,10128,212-627-4318,Free,http://www.yelp.com/biz/choux-factory-new-york-city
+332,"(40.72368146000008, -74.00438339499993)",Circa Tabac,201,32 Watts Street,New York,10013,212-803-5890,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+333,"(40.731652301000054, -74.00181851499991)",Cornelia Street Cafe,203,13 Cornelia Street,New York,10014,212-989-9319,Free,http://www.corneliastreetcafe.com/home.asp
+334,"(40.77662060800009, -73.95232922299994)",The Downtown Uptown Café  Lounge,204,1626 Second Avenue,New York,10028,212-327-1327,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Downtown_Uptown_Cafe_Lounge_New_York_NY_12093.aspx
+335,"(40.72284307800004, -73.98261094499992)",The Downtown Uptown Café  Lounge,205,41 Avenue B,New York,10009,212-477-1021,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+336,"(40.72990858400004, -73.98632180399994)",Dunkin Donuts,206,166 2nd Ave,New York,10003, ,Free,http://www.openwifinyc.com/classic/a/Dunkin-Donuts-2nd-Ave-NY-10003
+337,"(40.72197364200008, -73.98765465199995)",Earth Matters,207,177 Ludlow St.,New York,10002,212-475-4180,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Earth_Matters_New_York_NY_12189.aspx
+338,"(40.729629430000045, -74.00050873599992)",Esperanto Cafe,208,114 MacDougal Street,New York,10012,212-475-5400,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+339,"(40.738011860000086, -74.0033956069999)",Grounded,209,28 Jane Street,New York,10014,212-647-0943,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Grounded_New_York_NY_6424.aspx
+340,"(40.72995830900004, -73.98934175099993)",Hecht Viewing Garden,210,3 Av & 9 St,New York,10003,212-353-9063,Free,http://evpcnyc.org/hecht/index.html
+341,"(40.70772623100004, -74.00210641299992)",Jeremy's Ale House,212,228 Front Street,New York,10038,212-964-3537,Free,http://www.jeremysalehouse.com/
+342,"(40.72240945300007, -73.98291770899993)",Lalita Java Espresso Bar and Coffee Lounge,213,210 East Third St.,New York,10009,212-228-8448,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Lalita_Java_Espresso_Bar_and_Coffee_Lounge_New_York_NY_14112.aspx
+343,"(40.705120599000054, -74.01414559099993)",NewsCafe on Broadway,214,11 Broadway,New York,10004,877-353-3377,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-NewsCafe-on-Broadway-1020785.htm
+344,"(40.745922273000076, -74.00135335099992)",Parish & Co Restaurant,215,202 Ninth Avenue,New York,10011, ,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+345,"(40.73829185000005, -74.00237440899991)",Soy Luck Club,217,115 Greenwich Avenue,New York,10014,212-229-9191,Free,http://www.soyluckclub.com/
+346,"(40.72692474200005, -73.98406025699995)",St. Dymphna's,218,118 St. Mark's Place,New York,10009, ,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+347,"(40.761708834000046, -73.9697499319999)",Startegy Atrium and Cafe,219,115 E. 57th St.,New York,10022, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+348,"(40.76041723800006, -73.99659963899995)",Starwich Salads & Sandwiches,220,525 West 42nd Street,New York,10036,212-736-9170,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+349,"(40.751951605000045, -73.98569287499993)",Starwich Salads & Sandwiches,222,1010 Sixth Avenue,New York,10018,212-302-7775,Free,"http://maps.google.com/maps?f=q&source=s_q&view=text&hl=en&gl=us&q=Starwich+Salads+%26+Sandwiches&ie=UTF8&sll=40.733004,-73.989567&sspn=0.054551,0.037553&latlng=3880808307508616319&ei=bsJkSv7QPI2sMrnBsZUM&cd=1"
+350,"(40.75917862500006, -73.96198310099993)",State of Grace Pub,224,1074 1st Ave,New York,10022,212-207-3858,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-State-of-Grace-Pub-1251393.htm
+351,"(40.73610065300005, -73.9855302929999)",Sunburst Espresso Bar,225,206 3rd Avenue,New York,10003,212-674-1702,Free,http://www.yelp.com/biz/sunburst-espresso-bar-new-york
+352,"(40.72721566200005, -73.98387979199993)",Sympathy for the Kettle,226,109 St. Marks Place,New York,10009,212-979-1650,Free,http://www.yelp.com/biz/sympathy-for-the-kettle-new-york-2
+353,"(40.730631267000035, -74.00015514799992)",Tea Spot,227,127 Macdougal St.,New York,10012,212-505-0969,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tea_Spot_New_York_NY_5991.aspx
+354,"(40.74358905100007, -73.99333452499991)",Tekserve,228,119 West 23rd St.,New York,10011,212-929-3645,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tekserve_Corp_New_York_NY_17267.aspx
+355,"(40.72942253400004, -73.9845214899999)",Veniero's Pasticceria & Caffe,229,342 East 11th Street,New York,10003,212-674-7070,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Venieros_Pasticceria_and_Caffe_New_York_NY_18191.aspx
+356,"(40.783162298000036, -73.94824776999991)",Ziggies Cafe & Coffeehouse,230,1817 2nd Avenue,New York,10128,212-289-0824,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+357,"(40.779973227000085, -73.95557652899993)",Barnes & Noble,383,1280 Lexington Ave,New York,10028, ,Free,http://www.barnesandnobleinc.com
+358,"(40.777946445000055, -73.95264240299991)",Barnes & Noble,384,240 East 86th Street,New York,10028, ,Free,http://www.barnesandnobleinc.com
+359,"(40.786265262000086, -73.97869797499993)",Barnes & Noble,385,2289 Broadway,New York,10024, ,Free,http://www.barnesandnobleinc.com
+360,"(40.774065446000066, -73.98179243499993)",Barnes & Noble,386,1972 Broadway,New York,10023, ,Free,http://www.barnesandnobleinc.com
+361,"(40.73715231600005, -73.98940555299993)",Barnes & Noble,387,33 East 17th Street,New York,10003, ,Free,http://www.barnesandnobleinc.com
+362,"(40.758505728000046, -73.96978387199994)",Barnes & Noble,388,160 E 54th Street,New York,10022, ,Free,http://www.barnesandnobleinc.com
+363,"(40.742126135000035, -73.99398785199992)",Barnes & Noble,389,675 Avenue Of The Americas,New York,10010, ,Free,http://www.barnesandnobleinc.com
+364,"(40.75568065600004, -73.97882325899991)",Barnes & Noble,390,555 5th Ave,New York,10017,212-541-5614,Free,http://www.barnesandnobleinc.com
+365,"(40.72973072800005, -73.99227514099994)",Barnes & Noble,391,4 Astor Place,New York,10003, ,Free,http://www.barnesandnobleinc.com
+366,"(40.78252501700007, -73.98028200899995)",Cosi,412,2186 Broadway,New York,10024,212-595-5616,Free,http://www.getcosi.com
+367,"(40.76114406000005, -73.97230589999992)",Cosi,413,60 East 56th Street,New York,10022,212-588-1225,Free,http://www.getcosi.com
+368,"(40.76217567200007, -73.98485320099991)",Cosi,415,1633 Broadway,New York,10019,212-397-9838,Free,http://www.getcosi.com
+369,"(40.75873037700006, -73.9805765719999)",Cosi,416,61 West 48th Street,New York,10020,212-265-2674,Free,http://www.getcosi.com
+370,"(40.75500205700007, -73.97555333199995)",Cosi,417,257 Park Avenue,New York,10017,212-598-4070,Free,http://www.getcosi.com
+371,"(40.75426682500006, -73.97731498399992)",Cosi,418,38 East 45th Street,New York,10017,212-370-0705,Free,http://www.getcosi.com
+372,"(40.75157886400007, -73.97332768399991)",Cosi,419,685 3rd Avenue,New York,10017,212-697-8449,Free,http://www.getcosi.com
+373,"(40.75284684800005, -73.99001663999991)",Cosi,421,498 7th Avenue,New York,10017,212-947-1005,Free,http://www.getcosi.com
+374,"(40.74513591900006, -73.98227310499993)",Cosi,424,461 Park Avenue South,New York,10016,212-634-3467,Free,http://www.getcosi.com
+375,"(40.713563401000044, -74.0148579989999)",Cosi,425,200 Vesey Street,New York,10281,212-571-2001,Free,http://www.getcosi.com
+376,"(40.705280135000066, -74.01104383099994)",Cosi,426,55 Broad Street,New York,10004,212-344-5000,Free,http://www.getcosi.com
+377,"(40.73432811400005, -73.99118850699995)",Cosi,428,841 Broadway,New York,10003,212-614-8544,Free,http://www.getcosi.com
+378,"(40.754078210000046, -73.9816499129999)",Cosi,429,11 West 42nd Street,New York,10036,212-398-6662,Free,http://www.getcosi.com
+379,"(40.70321350000006, -74.00907426999993)",Vietnam Veterans Memorial Plaza,775,55 Water Street,New York,10004, ,Free,http://www.downtownny.com/discover/wifi/
+380,"(40.73581961200006, -73.99039723999994)",Union Square Park,776,4th Avenue & Broadway,New York,10003, ,Free,http://www.unionsquarenyc.org/
+381,"(40.70933062000006, -74.01740717299992)",Rector Park,777, ,New York,10280, ,Free,http://www.bpcparks.org/bpcp/parks/parks.php#rector
+382,"(40.742221735000044, -73.98802260199994)",Madison Square Park,779,Madison Avenue and 23rd Street,New York,10010, ,Free,http://www.nycgovparks.org/parks/madisonsquarepark
+383,"(40.70437995300006, -73.99007439199994)",Brooklyn Bridge Park,783,92 Plymouth Street,Brooklyn,11201, ,Free,http://auth.nycwireless.net/hotspots_map.php
+384,"(40.76355119700008, -73.97229406899993)",Apple Store,784,767 5th Avenue,New York,10022,212-336-1440,Free,http://www.apple.com/retail/fifthavenue/
+385,"(40.724238695000054, -73.99719676599995)",Bway.net,787,568 Broadway,New York,10012, ,Free,http://auth.nycwireless.net/node_list.php
+386,"(40.83325294200006, -73.90114428699991)",Community Access,789,1363 Franklin Avenue,Bronx,10456, ,Free,http://auth.nycwireless.net/node_list.php
+387,"(40.69250426900004, -73.9393607149999)",Community Access,790,910 DeKalb Avenue,Brooklyn,11221, ,Free,http://auth.nycwireless.net/node_list.php
+388,"(40.841689443000064, -73.93990057499991)",Coogan's,791,600 West 169th Street,New York,10032, ,Free, 
+389,"(40.703306532000056, -73.98779155499994)",DUMBO Wireless,792,155 Water St,Brooklyn,11201,718-210-3650,Free,http://dumbonyc.com/2008/05/14/155water-greendesk/
+390,"(40.73062302800008, -74.00092728499993)",Fat Black Pussycat,794,130 W 3rd St,New York,10012, ,Free,http://www.thefatblackpussycat.com/gallery.html
+391,"(40.74979226000005, -73.99480282699994)",Golden Krust Bakery& Grill,795,408 8th Ave,New York,10001,212-244-4049,Free,http://nymag.com/listings/restaurant/Golden-Krust-Bakery/
+392,"(40.73283511100004, -73.97398466899995)",Stuyvesant Cove Park,800,23rd Street and East River Drive,New York,10002, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Stuyvesant_Cove_Park_New_York_NY_24465.aspx
+393,"(40.86213829900004, -73.90121703699992)",Subway,801,2438 Jerome Ave,Bronx,10468, ,Free,http://auth.nycwireless.net/node_list.php
+394,"(40.70424815800004, -74.0104738039999)",Stone Street,819,Stone Street,New York,10004, ,Free,http://www.downtownny.com/discover/wifi/
+395,"(40.71500533600005, -74.01524212599992)",Chevys Fresh Mex Restaurant,827,102 North End Avenue,New York,10282,201-807-9090,Free,http://www.chevysny.com
+396,"(40.84514179200005, -73.93431601399993)",Citywidetech.com,828,514 W 176th Street,New York,10033,917-628-3131,Free,http://www.citywidetech.com
+397,"(40.75768729200007, -73.97421712099992)",Cosi,831,320 Park Avenue,New York,10022,212-754-6081,Free,http://www.getcosi.com
+398,"(40.739063130000034, -73.99018251299992)",Equinox 102 - Broadway @ 19th,832,897 Broadway,New York,10003,212-780-9300,Free,http://www.equinoxfitness.com/
+399,"(40.75733159100008, -73.96717015899992)",Equinox 106 - 2nd Ave @ 54th,833,250 East 54th Street,New York,10022,212-277-5400,Free,http://www.equinoxfitness.com/
+400,"(40.76217556000006, -73.98485368599995)",Equinox 107 - Broadway @ 50th,834,1633 Broadway,New York,10019,212-541-7000,Free,http://www.equinoxfitness.com/
+401,"(40.75267176300008, -73.97587674699992)",Equinox 109 - Lexington Ave @ 44th,835,420 Lexington Avenue,New York,10017,212-953-2499,Free,http://www.equinoxfitness.com/
+402,"(40.70762904700007, -74.0107699109999)",Equinox 110 - Wall St @ Nassau,836,14 Wall Street,New York,10005,212-964-6688,Free,http://www.equinoxfitness.com/
+403,"(40.724237423000034, -73.9971958559999)",Equinox 114 - Broadway @ Prince,837,568 Broadway,New York,10012,212-334-4631,Free,http://www.equinoxfitness.com/
+404,"(40.70837513200007, -74.0140769269999)",Morans,851,103 Washington Street,New York,10006,212-732-2020,Free,http://www.moransnyc.com
+405,"(40.746999978000076, -74.00142298299994)",SidewayZen,860,410 West 24th St,New York,10011, ,Free,http://sidewayzen.com
+406,"(40.72479242700007, -73.99271653999995)",Slainte Pub NYC,861,304 Bowery St,New York,10012,212-253-7030,Free,http://www.slaintenyc.com
+407,"(40.750274449000074, -73.99195399999991)",McDonalds,504,"7th Ave & West 32nd St, Penn Station Lower Level",New York,10001,212-736-6157,Fee-based,http://www.mcdonalds.com/wireless.html
+408,"(40.74915509600004, -73.9892737159999)",McDonalds,505,901 6th Avenue,New York,10001,212-268-4082,Fee-based,http://www.mcdonalds.com/wireless.html
+409,"(40.747963335000065, -73.98452439999994)",McDonalds,506,341 5th Avenue,New York,10016,212-686-5342,Fee-based,http://www.mcdonalds.com/wireless.html
+410,"(40.74497344300005, -73.97908289399993)",McDonalds,507,480 3rd Avenue,New York,10016, ,Fee-based,http://www.mcdonalds.com/wireless.html
+411,"(40.750480924000044, -73.9905872459999)",McDonalds,508,429 7th Avenue,New York,10001,212-736-7890,Fee-based,http://www.mcdonalds.com/wireless.html
+412,"(40.752479261000076, -73.99284638099994)",McDonalds,509,490 8th Ave,New York,10001,212-947-0771,Fee-based,http://www.mcdonalds.com/wireless.html
+413,"(40.75078521100005, -73.98672896599993)",McDonalds,510,972 6th Ave,New York,10018, ,Fee-based,http://www.mcdonalds.com/wireless.html
+414,"(40.754282782000075, -73.99970041899991)",McDonalds,511,427 10th Avenue,New York,10001, ,Fee-based,http://www.mcdonalds.com/wireless.html
+415,"(40.754726840000046, -73.98832354199993)",McDonalds,512,556 7th Ave,New York,10018, ,Fee-based,http://www.mcdonalds.com/wireless.html
+416,"(40.75150622000007, -73.98065447099992)",McDonalds,513,280 Madison Ave,New York,10016, ,Fee-based,http://www.mcdonalds.com/wireless.html
+417,"(40.75616781400004, -73.98816447199994)",McDonalds,514,220 West 42nd Street,New York,10036,212-840-6250,Fee-based,http://www.mcdonalds.com/wireless.html
+418,"(40.75805351400004, -73.9887597199999)",McDonalds,515,688 8th Avenue,New York,10036,212-221-3863,Fee-based,http://www.mcdonalds.com/wireless.html
+419,"(40.734486598000046, -73.75568166999994)",Queens Library - Windsor Park,1004,79-50 Bell Boulevard,Bayside,11364,718-468-8300,Free,http://www.queenslibrary.org/
+420,"(40.69454691200008, -73.86144645999991)",Queens Library - Woodhaven,1005,85-41 Forest Parkway,Woodhaven,11421,718-849-1010,Free,http://www.queenslibrary.org/
+421,"(40.64577850300009, -73.77556267199992)",JFK International Airport - Jet Blue,1027,Terminal 5,Jamaica,11430, ,Free,http://www.jetblue.com/about/whyyoulllike/about_WhyWireless.html
+422,"(40.86577293700009, -73.82981821999994)",Barnes & Noble,1031,290 Baychester Ave,Bronx,10475,718-862-3945,Free,http://www.barnesandnobleinc.com
+423,"(40.59224737200009, -74.16253775899992)",Barnes & Noble,1042,2245 Richmond Avenue,Staten Island,10314,718-982-6983,Free,http://www.barnesandnobleinc.com
+424,"(40.78069713300005, -73.77645545299993)",Barnes & Noble,1070,23-80 Bell Blvd.,Bayside,11360,718-224-1083,Free,http://www.barnesandnobleinc.com
+425,"(40.70452591800006, -74.00640363999992)",Wall Street Park,1072, ,New York,10005, ,Free,http://www.downtownny.com/?sid=49
+426,"(40.70624698800009, -74.0085078699999)",60 Wall St. Atrium,1073,60 Wall Street,New York,10005, ,Free,http://www.downtownny.com/?sid=49
+427,"(40.900598107000064, -73.86751988299994)",City Line Diner,1079,4350 Katonah Ave.,Bronx,10470,718-231-4952,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_City_Line_Diner_Bronx_NY_24466.aspx
+428,"(40.723630152000055, -73.9763123919999)",Community Access - Avenue D,1080,107 Avenue D,New York,10009, ,Free, 
+429,"(40.79210574800004, -73.94536206999993)",MediaNoche,1081,161 East 106th Street,New York,10029, ,Free,http://www.medianoche.us/
+430,"(40.77770461400007, -73.9799682279999)",Limeleaf,1086,128 W 72 Street,New York,10023,212-501-7800,Free,http://www.menupages.com/restaurants/lime-leaf/
+431,"(40.724445855000056, -73.99172033999992)",Avalon Bowery Place,1088,11 East 1st St,New York,10003,866-679-5715,Free,http://development.inputnine.com/archive/avalon/boweryplace/site/
+432,"(40.73126505500005, -73.99346761599992)",Cosi,1090,53 East 8th Street,New York,10003,212-260-1507,Free,http://www.getcosi.com
+433,"(40.77230553000004, -73.98524712999995)",Lincoln Center - Damrosch Park,1112,62nd Street near Amsterdam Avenue,New York,10023, ,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+434,"(40.77230950200004, -73.98339123199992)",Lincoln Center - Josie Robertson Plaza,1113,Columbus Avenue between 62nd and 65th Streets,New York,10023, ,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+435,"(40.77300233100004, -73.98367444699994)",Lincoln Center - North Plaza,1114,65th Street between Amsterdam Avenue and Columbus Avenue,New York,10023, ,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+436,"(40.72601103800008, -74.0053570959999)",Starbucks,878,140 Varick Street,New York,10013,646-230-9816,Fee-based,http://www.starbucks.com
+437,"(40.63569503800005, -73.9745954089999)",Brooklyn Public Library - Kensington,62,410 Ditmas Ave.,Brooklyn,11218,718-435-9431,Free,http://www.brooklynpubliclibrary.org/
+438,"(40.594862198000044, -73.94112374899993)",Brooklyn Public Library - Kings Bay,63,3650 Nostrand Ave.,Brooklyn,11229,718-368-1709,Free,http://www.brooklynpubliclibrary.org/
+439,"(40.61025779000005, -73.9531071159999)",Brooklyn Public Library - Kings Highway,64,2115 Ocean Ave.,Brooklyn,11229,718-375-3037,Free,http://www.brooklynpubliclibrary.org/
+440,"(40.713645909000036, -73.94793741899991)",Brooklyn Public Library - Leonard,65,81 Devoe St.,Brooklyn,11211,718-486-3365,Free,http://www.brooklynpubliclibrary.org/
+441,"(40.68300486900006, -73.93480474899991)",Brooklyn Public Library - Macon,66,361 Lewis Ave.,Brooklyn,11233,718-573-5606,Free,http://www.brooklynpubliclibrary.org/
+442,"(40.62306584000004, -73.98944527399993)",Brooklyn Public Library - Mapleton,67,1702 60th St,Brooklyn,11204,718-256-2117,Free,http://www.brooklynpubliclibrary.org/
+443,"(40.691623373000084, -73.95128295099994)",Brooklyn Public Library - Marcy,68,617 DeKalb Ave.,Brooklyn,11216,718-935-0032,Free,http://www.brooklynpubliclibrary.org/
+444,"(40.62921404100007, -74.01187065699992)",Brooklyn Public Library - McKinley Park,69,6802 Fort Hamilton Pkwy,Brooklyn,11219,718-748-8001,Free,http://www.brooklynpubliclibrary.org/
+445,"(40.62589484400007, -73.96031543499993)",Brooklyn Public Library - Midwood,70,975 East 16th St,Brooklyn,11230,718-252-0967,Free,http://www.brooklynpubliclibrary.org/
+446,"(40.61986887100005, -73.91699627999992)",Brooklyn Public Library - Mill Basin,71,2385 Ralph Ave,Brooklyn,11234,718-241-3973,Free,http://www.brooklynpubliclibrary.org/
+447,"(40.665158820000045, -73.88607037899993)",Brooklyn Public Library - New Lots,72,665 New Lots Ave.,Brooklyn,11207,718-649-0311,Free,http://www.brooklynpubliclibrary.org/
+448,"(40.608011084000054, -74.00337819099991)",Brooklyn Public Library - New Utrecht,73,1743 86th St.,Brooklyn,11214,718-236-4086,Free,http://www.brooklynpubliclibrary.org/
+449,"(40.68346050100007, -73.97853972199994)",Brooklyn Public Library - Pacific,74,25 Fourth Ave.,Brooklyn,11217,718-638-1531,Free,http://www.brooklynpubliclibrary.org/
+450,"(40.63263701200009, -73.91998514599993)",Brooklyn Public Library - Paerdegat,75,850 E. 59th St.,Brooklyn,11234,718-241-3994,Free,http://www.brooklynpubliclibrary.org/
+451,"(40.66821683100005, -73.98342903999992)",Brooklyn Public Library - Park Slope,76,431 6th Ave.,Brooklyn,11215,718-832-1853,Free,http://www.brooklynpubliclibrary.org/
+452,"(40.67525516400008, -74.0103502799999)",Brooklyn Public Library - Red Hook,77,7 Wolcott St.,Brooklyn,11231,718-935-0203,Free,http://www.brooklynpubliclibrary.org/
+453,"(40.648637643000086, -73.93037337499993)",Brooklyn Public Library - Rugby,78,1000 Utica Ave.,Brooklyn,11203,718-566-0054,Free,http://www.brooklynpubliclibrary.org/
+454,"(40.61591638900006, -73.97604009899993)",Brooklyn Public Library - Ryder,79,5902- 23rd Ave.,Brooklyn,11204,718-331-2962,Free,http://www.brooklynpubliclibrary.org/
+455,"(40.68480634100007, -73.9151378709999)",Brooklyn Public Library - Saratoga,80,"Thomas S. Boyland St. at ""Macon St.""",Brooklyn,11233,718-573-5224,Free,http://www.brooklynpubliclibrary.org/
+456,"(40.586999295000055, -73.95542766999995)",Brooklyn Public Library - Sheepshead Bay,81,2636 E.14th St.,Brooklyn,11235,718-368-1815,Free,http://www.brooklynpubliclibrary.org/
+457,"(40.65326552100004, -73.8859104949999)",Brooklyn Public Library - Spring Creek Branch,82,12143 Flatlands Ave.,Brooklyn,11207,718-257-6571,Free,http://www.brooklynpubliclibrary.org/
+458,"(40.66446803100007, -73.9052116339999)",Brooklyn Public Library - Stone Avenue,83,581 Mother Gaston Boulevard,Brooklyn,11212,718-485-8347,Free,http://www.brooklynpubliclibrary.org/
+459,"(40.645913128000075, -74.01362854599995)",Brooklyn Public Library - Sunset Park,84,5108 4th Avenue,Brooklyn,11220,718-567-2806,Free,http://www.brooklynpubliclibrary.org/
+460,"(40.592653436000035, -73.98868314299995)",Brooklyn Public Library - Ulmer Park,85,2602 Bath Ave,Brooklyn,11214,718-265-3443,Free,http://www.brooklynpubliclibrary.org/
+461,"(40.694491579000044, -73.97773199799991)",Brooklyn Public Library - Walt Whitman,86,93 Saint Edwards St.,Brooklyn,11205,718-935-0244,Free,http://www.brooklynpubliclibrary.org/
+462,"(40.697482241000046, -73.91221143899992)",Brooklyn Public Library - Washington Irving,87,360 Irving Ave.,Brooklyn,11237,718-628-8378,Free,http://www.brooklynpubliclibrary.org/
+463,"(40.70693067600007, -73.95755485799992)",Brooklyn Public Library - Williamsburgh,88,240 Division Ave.,Brooklyn,11211,718-302-3485,Free,http://www.brooklynpubliclibrary.org/
+464,"(40.648716757000045, -73.97675626499995)",Brooklyn Public Library - Windsor Terrace,89,160 E. 5th St.,Brooklyn,11218,718-686-9707,Free,http://www.brooklynpubliclibrary.org/
+465,"(40.670926835000046, -73.96355466199992)",Brooklyn Museum of Art,90,200 Eastern Parkway,Brooklyn,11238, ,Free,http://www.brooklynmuseum.org/visit/wireless.php
+466,"(40.690985700000056, -73.95589184199991)",Bristens Cafe,91,525 DeKalb Avenue,Brooklyn,11205,646-393-9422,Free,http://www.yelp.com/biz/bristens-eatery-brooklyn
+467,"(40.662813250000056, -73.99160885999993)",Cafe Sutra,92,639A 5th Ave,Brooklyn,11215,718-499-0279,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Sutra_New_York_NY_5519.aspx
+468,"(40.60766711500008, -73.9616191959999)",MishMash,93,1103 Kings Highway,Brooklyn,11229,718-375-5100,Free,http://www.mishmashgourmet.com
+469,"(40.66543357200004, -73.9830620649999)",Naidre's,94,384 Seventh Avenue,Brooklyn,11215,718-965-7585,Free,http://www.naidres.com/
+470,"(40.69462489400007, -73.9856263719999)",Polytechnic University Bern Dibner Library of Science & Technology,95,Five Metrotech Center,Brooklyn,11201,718-260-3600,Free,http://www.poly.edu/research/library
+471,"(40.69306892800006, -73.99210990299991)",St. Francis College McGarry Library,96,180 Remsen Street,Brooklyn,11201,718-489-5201,Free,http://library.stfranciscollege.edu/
+472,"(40.61525506800007, -74.03413135599993)",Kitty Kiernans Bar,97,9715 third avenue,Brooklyn,11209,718-921-0217,Free,http://www.kittykiernans.com/
+473,"(40.71299634600007, -73.95686202899992)",Atlas Café,98,116 Havemeyer St.,Brooklyn,11211,718-782-7470,Free,http://www.yelp.com/biz/atlas-cafe-brooklyn
+474,"(40.681547280000075, -73.93460066199992)",Bread Stuy,99,401 Lewis Ave,Brooklyn,11233,718-771-0633,Free,http://breadstuy.com/main.html
+475,"(40.678743876000055, -73.97326668199992)",Healthy Nibbles,101,305 Flatbush Ave,Brooklyn,11217,718-636-5835,Free,http://hotspotr.com/spot/1456
+476,"(40.67104147200007, -73.98539300099992)",Postmark Cafe,102,326 6th street,Brooklyn,11215,718-768-2613,Free,http://www.yelp.com/biz/postmark-cafe-brooklyn
+477,"(40.68925260900005, -73.9692635589999)",Tillies,103,248 DeKalb Avenue,Brooklyn,11205,718-783-8691,Free,http://tilliesofbrooklyn.com/
+478,"(40.676802431000056, -73.98303393999993)",Brooklyn Lyceum coffee shop,104,225 4th Ave,Brooklyn,11215,718 857-4816,Free,http://www.superpages.com/cities/mtg/wifi-1258829/
+479,"(40.67970554900006, -73.97800012699992)",Gorilla Coffee,105,97 Fifth Ave,Brooklyn,11217,718-230-3244,Free,http://hotspotr.com/spot
+480,"(40.67778304700005, -73.97259288499993)",Heights Coffee,106,335 Flatbush Ave,Brooklyn,11217,718-638-1936,Free,http://www.heightscoffee.com/
+481,"(40.681896616000074, -73.96028210899993)",Outpost Lounge,107,1014 Fulton St.,Brooklyn,11238,718-636-1260,Free,http://www.outaboutbrooklyn.com/outpost-lounge/
+482,"(40.67494846200009, -73.97603331199991)",Tea Lounge,108,837 Union Street,Brooklyn,11215,718-768-4966,Free,http://www.yelp.com/biz/tea-lounge-brooklyn
+483,"(40.676588862000074, -73.97173534099994)",Prospect Perk Cafe,109,183 Sterling Pl,Brooklyn,11238,718-783-7375,Free,http://www.yelp.com/biz/prospect-perk-cafe-brooklyn
+484,"(40.714942664000034, -73.94468265499995)",Mama B's,111,351 Graham Avenue,Brooklyn,11211,718-599-8859,Free,http://newyork.timeout.com/restaurants/williamsburg/2644/mama-bs-cafe-and-juice-bar
+485,"(40.713453704000074, -73.9617494609999)",Supercore,113,305 Bedford Avenue,Brooklyn,11211,718-302-1629,Free,http://www.yelp.com/biz/supercore-brooklyn
+486,"(40.73351948100009, -73.95843277299991)",The Greenpoint Coffee House,114,195 Franklin Street,Brooklyn,11222,718-349-6635,Free,http://www.yelp.com/biz/greenpoint-coffee-house-brooklyn-2
+487,"(40.70527521200006, -73.93355667799995)",The Archive,116,49 Bogart St,Brooklyn,11206,718-381-1944,Free,http://www.yelp.com/biz/the-archive-cafe-brooklyn
+488,"(40.71368872100004, -73.95875896399991)",Lucky Cat,117,245 Grand Street,Brooklyn,11211,718-782-0437,Free,http://www.yelp.com/biz/the-lucky-cat-brooklyn
+489,"(40.71059818200007, -73.9589340149999)",Southside Caffe,120,229 S 4th Street,Brooklyn,11211,718-388-4642,Free,http://www.blockmagazine.com/block_stock_barrel.php?title=lstronggcaught_in_the_wireless_webl_stro&more=1&c=1&tb=1&pb=1
+490,"(40.77238426900004, -73.92872041899994)",Queens Library - Astoria,121,14-01 Astoria Boulevard,Long Island City,11102,718-278-2220,Free,http://www.queenslibrary.org/
+491,"(40.75853035400007, -73.91862469199992)",Queens Library - Broadway,122,40-20 Broadway,Long Island City,11103,718-721-2462,Free,http://www.queenslibrary.org/
+492,"(40.70783676000008, -73.79464232599992)",Queens Library - Central Library  (ALC),123,89-11 Merrick Boulevard,Jamaica,11432,718-990-0700,Free,http://www.queenslibrary.org/
+493,"(40.75089541400007, -73.8619766349999)",Queens Library - Corona,124,38-23 104 Street,Corona,11368,718-426-2844,Free,http://www.queenslibrary.org/
+494,"(40.74706432500005, -73.94424455799992)",Queens Library - Court Square,125,25-01 Jackson Avenue,Long Island City,11101,718-937-2790,Free,http://www.queenslibrary.org/
+495,"(40.762423262000084, -73.8738652049999)",Queens Library - East Elmhurst,126,95-06 Astoria Boulevard,East Elmhurst,11369,718-424-2619,Free,http://www.queenslibrary.org/
+496,"(40.75019615500008, -73.88506957599992)",Queens Library - Jackson Heights,127,35-51 81 Street,Jackson Heights,11372,718-899-2500,Free,http://www.queenslibrary.org/
+497,"(40.75771242500008, -73.8681998639999)",Queens Library - Langston Hughes,128,100-01 Northern Boulevard,Corona,11368,718-651-1100,Free,http://www.queenslibrary.org/
+498,"(40.77681718800005, -73.90941694199995)",Queens Library - Steinway (ALC),131,21-45 31 Street,Long Island City,11105,718-728-1965,Free,http://www.queenslibrary.org/
+499,"(40.74534349700008, -73.90979536299994)",Queens Library - Woodside,132,54-22 Skillman Avenue,Woodside,11377,718-429-4700,Free,http://www.queenslibrary.org/
+500,"(40.72273296700007, -73.80429750799993)",All Friend Cafe,133,7805 164 Street,Queens,11366, ,Free, 
+501,"(40.76386998900006, -73.7707956939999)",Bagels And Bake,135,40-15 Bell Blvd.,Bayside,11361,718-229-6132,Free,http://local.yahoo.com/info-11375980-bagels-and-bake-under-the-green-canopy-bayside
+502,"(40.71928919000004, -73.84246057399992)",Modus Vivendi,136,72-07 Austin Street,Forest Hills,11375,718-997-0500,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Modus_Vivendi_Tea_and_Cafe_Glry_Forest_HillsQueens_NY_14949.aspx
+503,"(40.74632636000007, -73.94501749299991)",Queens City Bakery & Cafe,137,2405 Jackson Ave,Long Island City,11101,718-361-5700,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Queens_City_Bakery_Cafe_New_York_NY_22669.aspx
+504,"(40.74295360000008, -73.95238940099995)",Ten63 Café,138,1063 Jackson Avenue,Long Island City,11101,718-482-7679,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Ten63_Cafe_Queens_NY_17273.aspx
+505,"(40.74541059900008, -73.95348475299994)",Communitea,139,4702 Vernon Blvd,Long Island City,11101,718-729-7708,Free,http://www.yelp.com/biz/communitea-long-island-city
+506,"(40.75804505900004, -73.9233935609999)",Cafe Bar,140,3290 36th St,Astoria,11106,718-204-5273,Free,http://www.yelp.com/biz/cafe-bar-astoria
+507,"(40.72144744600007, -73.85568821499993)",Munch Cafe' & Grill,141,7160 Yellowstone Blvd,Forest Hills,11375,718-544-0075,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Munch_Cafe_and_Grill_Forest_HillsQueens_NY_15107.aspx
+508,"(40.749410615000045, -73.86206993999991)",Astroval Travel,142,103-16 Roosevelt Ave,Corona,11368,718-446-3912,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Corona-New-York-NY-US-Astroval-Travel-1086848.htm
+509,"(40.74024430500003, -73.93037507799994)",Speedimpex USA,143,35-02 48th Ave,Long Island City,11101, ,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Long-Island-City-New-York-NY-US-Speedimpex-USA-1133526.htm
+510,"(40.55242279100008, -74.15111131399993)",NYC Public Library - Great Kills,144,56 Giffords Lane,Staten Island,10308,718-984-6670,Free,http://www.nypl.org/branch/services/wifi.html
+511,"(40.57193382300005, -74.11195644499992)",NYC Public Library - New Dorp Branch,145,309 New Dorp Lane,Staten Island,10306,718-351-2977,Free,http://www.nypl.org/branch/services/wifi.html
+512,"(40.63758562500004, -74.13110527799995)",NYC Public Library - Port Richmond,146,75 Bennett Street,Staten Island,10302,718-442-0158,Free,http://www.nypl.org/branch/services/wifi.html
+513,"(40.634509662000085, -74.11482125799995)",NYC Public Library - West New Brighton Branch,147,976 Castleton Avenue,Staten Island,10310,718-442-1416,Free,http://www.nypl.org/branch/services/wifi.html
+514,"(40.59039168400005, -74.10113897799994)",NYC Public Library - Dongan Hills Branch,148,1617 Richmond Road,Staten Island,10304,718-351-1444,Free,http://www.nypl.org/branch/services/wifi.html
+515,"(40.60957854600008, -74.14850349199992)",NYC Public Library -Todt Hill-Westerleigh Branch,149,2550 Victory Boulevard,Staten Island,10314,718-494-1642,Free,http://www.nypl.org/branch/services/wifi.html
+516,"(40.75761345900008, -73.98175361799991)",McDonalds,516,1188 6th Avenue,New York,10036,212-944-2720,Fee-based,http://www.mcdonalds.com/wireless.html
+517,"(40.75859098400008, -73.98445695799995)",McDonalds,517,1560 Broadway,New York,10036,212-921-8900,Fee-based,http://www.mcdonalds.com/wireless.html
+518,"(40.75613333900009, -73.97776192399994)",McDonalds,518,14 East 47th Street,New York,10017,212-697-8148,Fee-based,http://www.mcdonalds.com/wireless.html
+519,"(40.764781424000034, -74.0008952689999)",McDonalds,519,West 46th St & 12th Avenue Pier 86,New York,10036,212-245-6458,Fee-based,http://www.mcdonalds.com/wireless.html
+520,"(40.76343601700006, -73.9894085919999)",McDonalds,520,735 9th Ave,New York,10019, ,Fee-based,http://www.mcdonalds.com/wireless.html
+521,"(40.76252135900006, -73.9837485139999)",McDonalds,521,1651 Broadway,New York,10019,212-586-5530,Fee-based,http://www.mcdonalds.com/wireless.html
+522,"(40.75615374700004, -73.9708208639999)",McDonalds,522,824 3rd Avenue,New York,10022, ,Fee-based,http://www.mcdonalds.com/wireless.html
+523,"(40.76582319600004, -73.98313400299992)",McDonalds,523,946 8th Avenue,New York,10019, ,Fee-based,http://www.mcdonalds.com/wireless.html
+524,"(40.764260239000066, -73.97632606699995)",McDonalds,524,47 West 57th Street,New York,10019,212-753-4290,Fee-based,http://www.mcdonalds.com/wireless.html
+525,"(40.76089302400004, -73.9674653319999)",McDonalds,525,966 3rd Avenue,New York,10022,212-753-5360,Fee-based,http://www.mcdonalds.com/wireless.html
+526,"(40.77789722700004, -73.98262906299993)",McDonalds,526,2049 Broadway,New York,10023,212-724-0435,Fee-based,http://www.mcdonalds.com/wireless.html
+527,"(40.765835623000044, -73.95701191699993)",McDonalds,527,1286 1st Avenue,New York,10021,212-249-3551,Fee-based,http://www.mcdonalds.com/wireless.html
+528,"(40.77771933000008, -73.95437568299991)",McDonalds,528,1499 3rd Ave,New York,10028, ,Fee-based,http://www.mcdonalds.com/wireless.html
+529,"(40.78965861900008, -73.9702247589999)",McDonalds,530,638 Columbus Ave,New York,10024, ,Fee-based,http://www.mcdonalds.com/wireless.html
+530,"(40.78469609500007, -73.94712354599994)",McDonalds,531,1871 2nd Avenue,New York,10029, ,Fee-based,http://www.mcdonalds.com/wireless.html
+531,"(40.79442403000007, -73.97247263499992)",McDonalds,532,2549 Broadway,New York,10025,212-864-8138,Fee-based,http://www.mcdonalds.com/wireless.html
+532,"(40.79003967300008, -73.94622729999992)",McDonalds,533,1872 3rd Ave,New York,10029,212-828-4071,Fee-based,http://www.mcdonalds.com/wireless.html
+533,"(40.804521701000056, -73.93704082799991)",McDonalds,534,125th St & Lexington Ave,New York,10035,646-672-1381,Fee-based,http://www.mcdonalds.com/wireless.html
+534,"(40.809701386000086, -73.94893155199992)",McDonalds,535,215 West 125th Street,New York,10027,212-864-2201,Fee-based,http://www.mcdonalds.com/wireless.html
+535,"(40.81067204900006, -73.9531104109999)",McDonalds,536,354 W 125th St,New York,10027,212-864-2124,Fee-based,http://www.mcdonalds.com/wireless.html
+536,"(40.815938636000055, -73.95890875299995)",McDonalds,537,600 West 125th St,New York,10027,212-662-2965,Fee-based,http://www.mcdonalds.com/wireless.html
+537,"(40.81239048100008, -73.94160686299995)",McDonalds,538,444 Lenox Avenue,New York,10037, ,Fee-based,http://www.mcdonalds.com/wireless.html
+538,"(40.70816531000008, -74.00485848599993)",McDonalds,539,52 Fulton Street,New York,10038,212-528-2930,Fee-based,http://www.mcdonalds.com/wireless.html
+539,"(40.81792370100004, -73.9413346579999)",McDonalds,540,2379 Adam Clayton Powell Jr Blvd,New York,10030, ,Fee-based,http://www.mcdonalds.com/wireless.html
+540,"(40.826829184000076, -73.9506528039999)",McDonalds,541,3549 Broadway,New York,10031,212-281-5330,Fee-based,http://www.mcdonalds.com/wireless.html
+541,"(40.82221087100004, -73.95315647599995)",McDonalds,542,3410 Broadway,New York,10031, ,Fee-based,http://www.mcdonalds.com/wireless.html
+542,"(40.798657751000064, -73.93991052899992)",McDonalds,543,2142 3rd Ave,New York,10035, ,Fee-based,http://www.mcdonalds.com/wireless.html
+543,"(40.785496830000056, -73.97920016199993)",McDonalds,544,2271 Broadway,New York,10024,212-579-1644,Fee-based,http://www.mcdonalds.com/wireless.html
+544,"(40.85008629200007, -73.93626032299994)",McDonalds,545,4259 Broadway,New York,10033, ,Fee-based,http://www.mcdonalds.com/wireless.html
+545,"(40.81960191100006, -73.90254470799994)",McDonalds,546,839 Westchester Avenue,New York,10455, ,Fee-based,http://www.mcdonalds.com/wireless.html
+546,"(40.86511653600007, -73.92740986199993)",McDonalds,547,208 Dyckman St,New York,10040, ,Fee-based,http://www.mcdonalds.com/wireless.html
+547,"(40.867357698000035, -73.9213080159999)",McDonalds,549,608 West 207th Street,New York,10034,917-544-9496,Fee-based,http://www.mcdonalds.com/wireless.html
+548,"(40.765132924000056, -73.97563986199992)",Mickey Mantle's,550,42 Central Park South,New York,10019, ,Fee-based, 
+549,"(40.765132924000056, -73.97563986199992)",Mickey Mantle's,550,42 Central Park South,New York,10019, ,Fee-based, 
+550,"(40.76644611200004, -73.98220606299992)",Morton Williams Cafe,551,255 West 57th Street,New York,10019,212-586-7750,Fee-based, 
+551,"(40.762376402000086, -73.98793233899994)",New World Grill,552,329 West 49th Street,New York,10019, ,Fee-based, 
+552,"(40.75659045500004, -73.97200098499991)",New York Benjamin,553,125 East 50th Street,New York,10022, ,Fee-based, 
+553,"(40.74920405000006, -73.98519901599991)",New York Gift Mart,554,7 W 34th Street,New York,10001, ,Fee-based, 
+554,"(40.71510690800005, -74.00118679199994)",New York State Supreme Court,555,80 Center St.,New York,10013, ,Fee-based, 
+555,"(40.714291711000044, -74.00156192899993)",New York State Supreme Court,556,60 Center St.,New York,10007, ,Fee-based, 
+556,"(40.73415526900004, -73.99224215399994)",News Cafe,557,107 University Place,New York,10003,212-353-1246,Fee-based, 
+557,"(40.758354197000074, -73.97970315499992)",Nintendo World Store,558,10 Rockefeller Plaza,New York,10020,425-861-2265,Fee-based, 
+558,"(40.758311819000085, -73.97373287399995)",Park Avenue Plaza,559,50 East 52nd Street,New York,10022,212-755-5807,Fee-based, 
+559,"(40.80729747700008, -73.9648671029999)",Pinnacle Pizza,560,2937 Broadway,New York,10025,212-662-1000,Fee-based, 
+560,"(40.73450684200009, -74.00205674199992)",Pizza Villa,561,131 7th Ave S,New York,10014,212-627-7548,Fee-based, 
+561,"(40.76289721200004, -73.98253911699993)",Practicing Law Institute,562,810 7th Avenue,New York,10019, ,Fee-based, 
+562,"(40.76674516300005, -73.98140454899993)",Public Telephone,563,1790 Broadway,New York,10019,212-965-8800,Fee-based, 
+563,"(40.75873061500005, -73.9691015489999)",Public Telephone,564,900 3rd Avenue,New York,10022,212-965-8800,Fee-based, 
+564,"(40.759447170000044, -73.98321864199994)",Public Telephone,565,173 West 48th Street,New York,10036, ,Fee-based, 
+565,"(40.76106435600008, -73.98738750599995)",Public Telephone,566,300 West 48th Street,New York,10036, ,Fee-based, 
+566,"(40.756128222000086, -73.97978324199994)",Public Telephone,567,2 West 46th Street,New York,10036, ,Fee-based, 
+567,"(40.755743961000064, -73.97980140499993)",Public Telephone,568,1 West 45th Street,New York,10036, ,Fee-based, 
+568,"(40.75647724600009, -73.98247221999992)",Public Telephone,569,74 West 45th Street,New York,10036, ,Fee-based, 
+569,"(40.758868729000085, -73.98903391499994)",Public Telephone,570,707 8th Ave,New York,10036,212-965-8800,Fee-based, 
+570,"(40.75411925800006, -73.9808919319999)",Public Telephone,571,2 West 43 Street,New York,10036, ,Fee-based, 
+571,"(40.75067633500004, -73.9755513099999)",Public Telephone,572,650 3rd Avenue,New York,10017, ,Fee-based, 
+572,"(40.74896077100004, -73.97509719099992)",Public Telephone,573,201 East 39th Street,New York,10016, ,Fee-based, 
+573,"(40.73099577700009, -73.98884005399992)",Public Telephone,574,55 3rd Avenue,New York,10003,212-965-8800,Fee-based, 
+574,"(40.785193883000034, -73.94933312299992)",Related-1 Carnegie Hill,575,96th & 3rd Aveneue,New York,10128, ,Fee-based, 
+575,"(40.810818604000076, -73.96372731899993)",Riverside West Waterfront Park,576,475 Riverside Drive,New York,10027, ,Fee-based, 
+576,"(40.709315246000074, -74.00714537999994)",S&K,577,123 William Street,New York,10038, ,Fee-based, 
+577,"(40.80108943700009, -73.95822442999992)",Saurin Parke Cafe,578,301 West 110th Street,New York,10026,212-222-0683,Fee-based, 
+578,"(40.71622667100007, -74.0049528639999)",Shogun One,579,325 Broadway,New York,10007,212-233-1390,Fee-based, 
+579,"(40.75961745200004, -73.98397302099994)",Smilers,580,719 7th Ave.,New York,10036,212-704-0850,Fee-based, 
+580,"(40.721584471000085, -74.00421730799991)",Soho Farms,581,307 W Broadway,New York,10013,212-226-3030,Fee-based, 
+581,"(40.76146821900005, -73.97349338299995)",Sony Plaza,582,550 Madison Ave,New York,10022, ,Fee-based, 
+582,"(40.72580109100005, -73.99903447299994)",Space Untitled,583,133 Greene Street,New York,10012, ,Fee-based, 
+583,"(40.771337094000046, -73.95980996899993)",Starbucks,584,1290 Third Avenue,New York,10021,212-772-6903,Fee-based,http://www.starbucks.com
+584,"(40.774062461000085, -73.95936062599992)",Starbucks,585,1117 Lexington Ave.,New York,10021,212-517-8476,Fee-based,http://www.starbucks.com
+585,"(40.76595046300008, -73.9637120459999)",Starbucks,586,1128 Third Avenue,New York,10021,212-472-6535,Fee-based,http://www.starbucks.com
+586,"(40.78715584300005, -73.95466533299992)",Starbucks,639,1378 Madison Avenue,New York,10128,212-534-7537,Fee-based,http://www.starbucks.com
+587,"(40.760444017000054, -73.98713493899993)",Starbucks,640,770 Eighth Ave,New York,10036,212-830-9001,Fee-based,http://www.starbucks.com
+588,"(40.75687790600006, -73.98200287599991)",Starbucks,641,1166 Avenue of the Americas,New York,10036,212-354-3730,Fee-based,http://www.starbucks.com
+589,"(40.75508511600009, -73.97920243899995)",Starbucks,642,545 Fifth Ave.,New York,10017,212-687-1026,Fee-based,http://www.starbucks.com
+590,"(40.75325912000005, -73.9754456899999)",Starbucks,643,450 Lexington Avenue,New York,10017,212-682-5139,Fee-based,http://www.starbucks.com
+591,"(40.75743554700006, -73.9852188449999)",Starbucks,644,1530 Broadway,New York,10036,212-391-2079,Fee-based,http://www.starbucks.com
+592,"(40.761616307000054, -73.99001532499994)",Starbucks,645,682 9th Avenue,New York,10036,212-397-2288,Fee-based,http://www.starbucks.com
+593,"(40.75359451300005, -73.97809122299992)",Starbucks,646,335 Madison Avenue,New York,10017,212-370-3510,Fee-based,http://www.starbucks.com
+594,"(40.75332851400009, -73.97940149999994)",Starbucks,647,330 Madison Ave,New York,10017,212-682-1880,Fee-based,http://www.starbucks.com
+595,"(40.751590735000036, -73.97750718399993)",Starbucks,648,125 Park Ave,New York,10017,212-557-2718,Fee-based,http://www.starbucks.com
+596,"(40.75168040400007, -73.97325545799993)",Starbucks,649,685 Third Avenue,New York,10017,646-865-1250,Fee-based,http://www.starbucks.com
+597,"(40.792393046000086, -73.9729646319999)",Starbucks,650,2498 Broadway,New York,10025,917-441-1643,Fee-based,http://www.starbucks.com
+598,"(40.752770921000035, -73.97722525899991)",Starbucks,651,7800 Grand Central Station,New York,10017,212-370-4161,Fee-based,http://www.starbucks.com
+599,"(40.74678539900009, -73.98154726099995)",Starbucks,652,3 Park Avenue,New York,10016,212-725-9469,Fee-based,http://www.starbucks.com
+600,"(40.757877843000074, -73.98868033899993)",Starbucks,653,684 Eighth Avenue,New York,10036,212-398-9702,Fee-based,http://www.starbucks.com
+601,"(40.751019463000034, -73.97570998899994)",Starbucks,654,150 E. 42nd Street,New York,10017,212-949-4122,Fee-based,http://www.starbucks.com
+602,"(40.751780480000036, -73.9794200259999)",Starbucks,655,295 Madison Avenue,New York,10017,212-922-9126,Fee-based,http://www.starbucks.com
+603,"(40.73052685000005, -73.95412748599995)",Starbucks,1106,910 Manhattan Avenue,Brooklyn,11222,718-609-0467,Fee-based,http://www.starbucks.com
+604,"(40.76029582800004, -73.98439136999991)",Starbucks,1107,1602 Broadway,New York,10019,212-245-1936,Fee-based,http://www.starbucks.com
+605,"(40.77127448600004, -73.98250825899993)",Starbucks,1108,1889 Broadway,New York,10023,212-245-1362,Fee-based,http://www.starbucks.com
+606,"(40.77853335000009, -73.95601710999995)",Starbucks,1109,1261 Lexington Avenue,New York,10028,212-879-1764,Fee-based,http://www.starbucks.com
+607,"(40.62107497000005, -74.02595055299992)",Starbucks,1110,514 86th Street,Brooklyn,11209,718-491-1340,Fee-based,http://www.starbucks.com
+608,"(40.58176902400004, -74.16600604899992)",Starbucks,1111,2655 Richmond Avenue,Staten Island,10314,718-477-5010,Fee-based,http://www.starbucks.com
+609,"(40.74974946100008, -73.97316748299994)",220 E. 42nd Street,1116,220 E. 42nd Street,New York,10017,877-353-3377,Fee-based, 
+610,"(40.80344782700007, -73.96557705399994)",520 West 110th Street,1118,520 West 110th Street,New York,10025, ,Fee-based, 
+611,"(40.74900063400008, -73.9902871509999)",Arome Deli and Pizzeria,1119,138 West 32nd Street,New York,10001,212-295-7870,Fee-based, 
+612,"(40.79194517500008, -73.97426753199994)",Equinox 103 - Broadway @ 92nd,1123,2465 Broadway,New York,10025,212-719-1818,Fee-based,http://www.equinoxfitness.com/
+613,"(40.77815690600005, -73.9540151729999)",Equinox 104 - 3rd Ave. @ 85th,1124,205 East 85th Street,New York,10028,212-774-6354,Fee-based,http://www.equinoxfitness.com/
+614,"(40.76439821300005, -73.96619917399994)",Equinox 105 - Lexington Ave @ 63rd,1125,140 East 63rd Street,New York,10065,212-774-6355,Fee-based,http://www.equinoxfitness.com/
+615,"(40.713594313000044, -74.00946857299994)",Equinox 111 - Murray @ W. Broadway,1126,54 Murray Street,New York,10007,212-566-6555,Fee-based,http://www.equinoxfitness.com/
+616,"(40.737502034000045, -74.00204411399994)",Equinox 112 - Greenwhich Ave,1127,97 Greenwhich Avenue,New York,10014,212-774-6362,Fee-based,http://www.equinoxfitness.com/
+617,"(40.76850089700008, -73.98307634699995)",Equinox 113 - Columbus Circle @ 60th,1128,10 Columbus Circle,New York,10019,212-871-0425,Fee-based,http://www.equinoxfitness.com/
+618,"(40.75705166500006, -73.9885866329999)",Starbucks,656,251 West 42nd Street,New York,10036,212-398-1982,Fee-based,http://www.starbucks.com
+619,"(40.793636442000036, -73.97310858799995)",Starbucks,657,2521 Broadway,New York,10025,212-316-0374,Fee-based,http://www.starbucks.com
+620,"(40.75026711900006, -73.9744073519999)",Starbucks,658,639 3rd Avenue,New York,10017,212-973-1376,Fee-based,http://www.starbucks.com
+621,"(40.75048179000004, -73.97716107699995)",Starbucks,659,360 Lexington Avenue,New York,10017,212-953-1662,Fee-based,http://www.starbucks.com
+622,"(40.75902273500009, -73.99285289799991)",Starbucks,660,593 Ninth Ave,New York,10036,212-594-7846,Fee-based,http://www.starbucks.com
+623,"(40.75075119200005, -73.97937342299991)",Starbucks,661,90 Park Ave,New York,10016,212-661-5489,Fee-based,http://www.starbucks.com
+624,"(40.795955039000035, -73.97025805899995)",Starbucks,662,2600 Broadway,New York,10025,212-316-9401,Fee-based,http://www.starbucks.com
+625,"(40.753508159000035, -73.98819020999991)",Starbucks,663,525 7th Avenue,New York,10018,212-869-5273,Fee-based,http://www.starbucks.com
+626,"(40.75535835800008, -73.99082838899994)",Starbucks,664,600 Eighth Ave,New York,10018,212-997-7337,Fee-based,http://www.starbucks.com
+627,"(40.752228983000066, -73.98703546599995)",Starbucks,665,1372 Broadway,New York,10018,212-921-0827,Fee-based,http://www.starbucks.com
+628,"(40.760927785000035, -73.99763561299994)",Starbucks,666,555 W. 42ND STREET,New York,10036,212-563-0671,Fee-based,http://www.starbucks.com
+629,"(40.756382948000066, -73.97693165399994)",Starbucks,667,400 Madison Avenue,New York,10017,212-319-1873,Fee-based,http://www.starbucks.com
+630,"(40.74893196900007, -73.98268714299991)",Starbucks,668,200 Madison Avenue,New York,10016,212-684-6873,Fee-based,http://www.starbucks.com
+631,"(40.755108127000085, -73.98621556599994)",Starbucks,669,1460 Broadway,New York,10036,212-869-0191,Fee-based,http://www.starbucks.com
+632,"(40.755632537000054, -73.92246282399992)",Panera Bread,1211,38-01 35th Avenue,Long Island City,11101, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Panera_Bread_Long_Island_City_NY_87229.aspx
+633,"(40.741333282000085, -74.00552696199992)",Apple Store,1212,401 W 14th Street,New York,10014, ,Free,http://www.apple.com/retail/west14thstreet/
+634,"(40.581199017000074, -74.16618372499994)",Apple Store,1213,2655 Richmond Avenue,Staten Island,10314, ,Free,http://www.apple.com/retail/statenisland/
+635,"(40.66871938400004, -73.95033637699993)",Tavern on Nostrand,1214,813 Nostrand Avenue,Brooklyn,11225, ,Free,http://www.wififreespot.com/ny.html
+636,"(40.770902652000075, -73.95406512499994)",American Trash,1215,1471 1st Avenue,New York,10075, ,Free,http://www.nycamericantrash.com/trash_wii.html
+637,"(40.740300940000054, -73.99370327999992)",Boqueria,1216,53 West 19th Street,New York,10011, ,Free,http://www.wififreespot.com/ny.html
+638,"(40.72710551900008, -73.99204361999995)",Bowery Bar,1217,40 E 4th Street,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bowery_Bar_New_York_NY_5589.aspx
+639,"(40.72869528400008, -73.97882167599994)",B Cup Café,1218,212 Avenue B,New York,10009, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_B_Cup_Cafe_New_York_NY_5590.aspx
+640,"(40.729542543000036, -73.9995093899999)",V Bar,1219,225 Sullivan St,New York,10012, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_V_Bar_New_York_NY_5521.aspx
+641,"(40.76963224000008, -73.94131221399994)",Dunkin Donuts,1220,899 Main Street,New York,10044, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Dunkin_Donuts_Cortland_Manor_NY_12141.aspx
+642,"(40.73065974300005, -73.9834149969999)",Dunikn Donuts,1221,215 1st Avenue,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Dunkin_Donuts_New_York_NY_12150.aspx
+643,"(40.73009270700004, -73.9861247739999)",Duncan Donuts,1222,170 2nd Avenue,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Duncan_Donuts_New_York_NY_6342.aspx
+644,"(40.71323522200004, -74.01148891999992)",Plaza at 7 World Trade Center,1223,Vesey Street & Greenwich Street,New York,10048, ,Free,http://www.downtownny.com/discover/wifi/
+645,"(40.685304905000066, -73.99478634399992)",Tea Lounge,1224,254 Court Street,Brooklyn,11231, ,Free,http://www.wififreespot.com/ny.html
+646,"(40.74995917700005, -73.99214703599995)",Penn Station - Waiting Room,1225,7th Avenue & 33rd Street,New York,10119, ,Free,http://www.mta.info/lirr/News/2008/PennWireless.htm
+647,"(40.70477206000004, -74.0093490829999)",British Memorial Garden,1226,Hanover Square,New York,10004, ,Free,http://www.britishmemorialgarden.org/intro.html
+648,"(40.797063448000074, -73.95145113299992)",Central Park Charles a Dana Discovery Center,1227,36 W 110th Street,New York,10026, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Central_Park_Charles_a_Dana_Discovery_Center_New_York_NY_24668.aspx
+649,"(40.730932016000054, -73.86657689399993)",Paletra,1228,62-65 Saunders Strret,Rego Park,11374, ,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Rego-Park-New-York-NY-US-Paletra-1144899.htm
+650,"(40.822102302000076, -73.9496353049999)",Café One,1229,1619 Amsterdam Avenue,New York,10031, ,Free,http://www.openwifinyc.com/classic/a/Cafe-One-NY-10031
+651,"(40.732287634000045, -73.9854871899999)",Net Café,1230,246 East 14th Street,New York,10003, ,Free,http://www.ncafeny.com/
+652,"(40.72933149100004, -73.98150306799994)",Ost Café,1231,441East 12th Street,New York,10009, ,Free,http://www.openwifinyc.com/classic/a/Ost-Cafe-NY-10009
+653,"(40.777951236000035, -73.98159293999993)",Tasty Café,1232,2062 Broadway,New York,10023, ,Free,http://www.openwifinyc.com/classic/a/Tasty-Cafe-NY-10023
+654,"(40.76837719100007, -73.95866011599992)",Beach Café,1233,1362 2nd Avenue,New York,10021, ,Free,http://www.openwifinyc.com/classic/a/Beach-Cafe-NY-10021
+655,"(40.77841654900004, -73.9824424649999)",Gigi Cage,1234,2067 Broadway,New York,10023, ,Free,http://www.openwifinyc.com/classic/a/Gigi-Cafe-NY-10023
+656,"(40.71931119100009, -74.00658449999992)",Pecan,1235,130 Franklin Street,New York,10013, ,Free,http://www.openwifinyc.com/classic/a/Pecan-NY-10013
+657,"(40.70746874100007, -74.00589065399993)",Andrews Coffee Shop,1236,116 John Street,New York,10038, ,Free,http://www.openwifinyc.com/classic/a/Andrews-Coffee-Shop-NY-10038
+658,"(40.74472908300004, -73.99085220299992)",Antique Café,1237,55 West 26th Street,New York,10010, ,Free,http://www.openwifinyc.com/classic/a/Antique-Cafe-NY-10010
+659,"(40.735807375000036, -73.99418370199993)",East West Café,1239,78 5th Avenue,New York,10011, ,Free,http://www.openwifinyc.com/classic/a/East-West-Cafe-NY-10011
+660,"(40.70648033500004, -74.01227067399992)",Bravo Café,1240,52 Broadway,New York,10004, ,Free,http://www.openwifinyc.com/classic/a/Bravo-Cafe-NY-10004
+661,"(40.73438963600006, -74.00269312799992)",Condesa Café,1241,183 West 10th Street,New York,10014, ,Free,http://www.openwifinyc.com/classic/a/Condesa-Cafe-NY-10014
+662,"(40.74640902800007, -73.98317063699994)",Silo Café,1242,31 East 32nd Street,New York,10016, ,Free, 
+663,"(40.76623757400006, -73.95954717299992)",Gotham Coffee House,1243,1298 2nd Avenue,New York,10065, ,Free, 
+664,"(40.72973852400008, -73.98722740499994)",Brama Café,1244,157 2nd Avenue,New York,10003, ,Free, 
+665,"(40.729203677000044, -74.00379979299993)",Ditch Plains,1245,29 Bedford Street,New York,10014, ,Free, 
+666,"(40.719928275000086, -74.0104747449999)",Peace and Love,1246,378 1/2 Greenwich Street,New York,10013, ,Free, 
+667,"(40.768244232000086, -73.98095634599991)",Merchants Gate,1247,Central Park - SW Corner,New York,10000, ,Free, 
+668,"(40.740128276000064, -74.00276082199991)",Balducci's Mezzanine Café,1248,81 8th Avenue,New York,10011, ,Free,http://www.openwifinyc.com/classic/a/Balduccis-Mezzanine-Cafe-NY-10011
+669,"(40.715177890000064, -74.0109351829999)",Kaffe 1668,1249,275 Greenwich Street,New York,10007, ,Free,http://www.openwifinyc.com/classic/a/Kaffe-1668-NY-10007
+670,"(40.77447105600004, -73.95079612699993)",Giana Espresso Bar,1250,1584 1st Avenue,New York,10028, ,Free,http://www.openwifinyc.com/classic/a/Giana-Espresso-Bar-NY-10028
+671,"(40.75695292000006, -73.91530455599991)",Time Café Astoria,1251,44-18 Broadway,Astoria,11103, ,Free,http://www.timecafeny.com/index.php?page=wifi
+672,"(40.76228327700005, -73.77058988499994)",Bagels & Cakes,1252,42-14 Bell Boulevard,Bayside,11361, ,Free,http://www.wififreespot.com/ny.html
+673,"(40.68383485900006, -74.00186003399995)",Coffee Den,1254,144 Union Street,Brooklyn,11231, ,Free,http://www.wififreespot.com/ny.html
+674,"(40.71432482800009, -73.95167758299993)",Crest Café,1255,463 Union Avenue,Brooklyn,11211, ,Free,http://www.wififreespot.com/ny.html
+675,"(40.81242720400007, -73.95507487499992)",Café Addis,1256,435 W 125 Street,New York,10027, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_CAFE_ADDIS_New_York_NY_31195.aspx
+676,"(40.72690548500009, -73.97711089499995)",Cafecito,1257,185 Avenue C,New York,10009, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafecito_New_York_NY_6185.aspx
+677,"(40.76892595700008, -73.91249405499991)",Café Soleil,1258,37-14 Astoria Blvd,Astoria,11103, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Soleil_Queens_NY_32472.aspx
+678,"(40.63067278400007, -74.10336452799993)",Coffe & Tea Market  Café,1259,422 Forest Avenue,Staten Island,10301, ,Free,http://www.wififreespot.com/ny.html
+679,"(40.66979990500005, -73.85748230799993)",Lindenwood diner,1260,2870 Linden Boulevard,Brooklyn,11208, ,Free,http://www.lindenwooddiner.com/reviews.html
+680,"(40.67448955200007, -73.95677135599993)",Saje Café,1261,710 Franklin Avenue,Brooklyn,11238, ,Free,http://www.wififreespot.com/ny.html
+681,"(40.733968366000056, -73.95513064499994)",The Mark Bar,1262,1025 Manhattan Avenue,Brooklyn,11222, ,Free,http://www.wififreespot.com/ny.html
+682,"(40.581358779000084, -74.11143288499994)",Alor Café,1263,2110 Richmond Road,Staten Island,10306, ,Free,http://www.wififreespot.com/ny.html
+683,"(40.72071440800005, -73.98739961899992)",Cake Shop,1264,152 Ludlow Street,New York,10002, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cake_Shop_New_York_NY_5454.aspx
+684,"(40.74210414800007, -74.00115951799995)",Flight 151,1265,151 8th Avenue,New York,10011, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Flight_151_New_York_NY_6377.aspx
+685,"(40.73491801900008, -73.98845651599993)",Galaxy Global Eatery,1266,15 Irving Place,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Galaxy_Global_Eatery_New_York_NY_5758.aspx
+686,"(40.735614500000054, -74.00027876099995)",Greenwich Treehouse,1267,46 Greenwich Avenue,New York,10011, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Greenwich_Treehouse_New_York_NY_5770.aspx
+687,"(40.72986300800005, -73.98050638899991)",Gramstand,1268,214 Avenue A,New York,10009, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Gramstand_New_York_NY_5480.aspx
+688,"(40.711691647000066, -73.94924404699992)",Gimme Coffee,1269,495 Lorimer Street,Brooklyn,11211, ,Free,http://www.wififreespot.com/ny.html
+689,"(40.60658591200007, -73.9634749249999)",Grille de Paris Restaurant,1270,904 Kings Hwy,Brooklyn,11223, ,Free,http://www.wififreespot.com/ny.html
+690,"(40.72480609000007, -73.99671187799993)",Housing Works Bookstore Café,1271,126 Crosby Street,New York,10012, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Housing_Works_Bookstore_Cafe_New_York_NY_5783.aspx
+691,"(40.66081094100008, -73.96134712899993)",Kdog & dunebuggy Coffee,1272,43 Lincoln Road,Brooklyn,11225, ,Free,http://www.wififreespot.com/ny.html
+692,"(40.680016796000075, -73.96828472699991)",Le Gamin,1273,556 Vanderbilt Avenue,Brooklyn,11238, ,Free,http://www.wififreespot.com/ny.html
+693,"(40.71966774400005, -73.9896578609999)",Lucky Jack's,1274,129 Orchard Street,New York,10002, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Lucky_Jacks_New_York_NY_5510.aspx
+694,"(40.71797609500004, -73.99010174499995)",88 Orchard,1275,88 Orchard Street,New York,10002, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+695,"(40.73663409200009, -73.87749359599991)",Pop Diner,1276,86-02 Queens Boulevard,Elmhurst,11373, ,Free,http://www.popdiner.com/
+696,"(40.76744166900005, -73.92297906599993)",Plaza Lounge,1277,29-20 30th Avenue,Astoria,11102, ,Free,http://www.wififreespot.com/ny.html
+697,"(40.72926114300009, -73.98084628899994)",Rapture Café & Books,1278,200 Avenue A,New York,10009, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Rapture_Cafe_and_Books_New_York_NY_19752.aspx
+698,"(40.73734652400009, -73.99056625599991)",Tisserie,1279,857 Broadway,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tisserie_New_York_NY_6842.aspx
+699,"(40.73599371800009, -73.9943614739999)",Best Value Electronics,1280,6 West 14th Street,New York,10011, ,Free,http://www.wififreespot.com/ny.html
+700,"(40.73229699400008, -74.0052437089999)",The Little Owl,1281,90 Bedford Street,New York,10014, ,Free,http://www.thelittleowlnyc.com/
+701,"(40.744694275000086, -73.88431611599992)",la Fusta Restaurant,1282,80-32 Baxter Avenue,Elmhurst,11373, ,Free,http://www.lafustarestaurant.com
+702,"(40.76229642700008, -73.92555450499992)",Sanford Restaurant,1283,30-13 Broadway,Astoria,11106, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Sanford_Restaurant_New_York_NY_19754.aspx
+703,"(40.80771570600007, -73.96228539499992)",Columbia University,1284,114 th - 120th Streets,New York,10023, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Columbia_University_New_York_NY_5679.aspx
+704,"(40.71153061700005, -73.94713310399993)",Business Coffeshop,1285,623 Grand Street,Brooklyn,11211, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Business_Brooklyn_NY_32212.aspx
+705,"(40.705521944000054, -73.93709853199994)",Potion Café,1286,248 McKibbin Street,Brooklyn,11206, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Potion_Cafe_New_York_NY_5870.aspx
+706,"(40.689798316000065, -73.9723430279999)",Smooch,1287,264 Carlton Avenue,Brooklyn,11205, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Smooch_New_York_NY_6738.aspx
+707,"(40.684290230000045, -73.97710532199994)",Buffalo Wild Wings Grill & Bar,1288,139 Flatbush Avenue,Brooklyn,11217, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Buffalo_Wild_Wings_Grill_and_Bar_Brooklyn_NY_329.aspx
+708,"(40.69457332400009, -73.93050744199991)",Goodbye Blue Monday,1289,1087 Broadway,Brooklyn,11221, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Goodbye_Blue_Monday_New_York_NY_19745.aspx
+709,"(40.67717928500008, -73.96939953899994)",Joyce Bakeshop,1290,646 Vanderbilt Avenue,Brooklyn,11238, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Joyce_Bakeshop_Brooklyn_NY_24637.aspx
+710,"(40.68399249200007, -73.93198597999992)",Solomon's Porch,1291,307 Stuyvesant Avenue,Brooklyn,11233, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Solomons_Porch_New_York_NY_6742.aspx
+711,"(40.68846400500007, -73.96021029299993)",CDSC Clinton Hill,1292,352 Classon Avenue,Brooklyn,11238, ,Free,https://auth.nycwireless.net/hotspots_map.php
+712,"(40.686290633000056, -73.93247164899992)",Co Labs,1293,247  Stuyvesant Avenue,Brooklyn,11221, ,Free,https://auth.nycwireless.net/hotspots_map.php
+713,"(40.75498892200005, -73.98716782999992)",Office Depot,1294,1441 Broadway,New York,10018, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Office_Depot_New_York_NY_3837.aspx
+714,"(40.72217242700009, -73.9886341049999)",Sugar Café,1296,200 Allen Street,New York,10002, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Sugar_Cafe_New_York_NY_5537.aspx
+715,"(40.73115522200004, -73.9830377429999)",Vinny Vincenz Square Pizza,1297,231 1st Avenue,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Vinny_Vincenz_Square_Pizza_New_York_NY_6878.aspx
+716,"(40.755812276000086, -73.97888717399991)",Witchcraft - Midtwon,1298,555 5th Avenue,New York,10017, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Wichcraft_New_York_NY_6040.aspx
+717,"(40.720426804000056, -74.0097638659999)",Witchcraft - Tribeca,1299,397 Greenwich Street,New York,10013, ,Free,http://www.openwifinyc.com/classic/a/witchcraft-Tribeca-NY-10013
+718,"(40.73948552000007, -73.99005812199994)",Witchcraft - Flatiron,1300,11 East 20th Street,New York,10003, ,Free,http://www.openwifinyc.com/classic/a/witchcraft-Flatiron-NY-10003
+719,"(40.73046160900009, -73.99305261299992)",Witchcraft - Village,1301,60 East 8th Street,New York,10003, ,Free,http://www.openwifinyc.com/classic/a/witchcraft-Village-NY-10003
+720,"(40.751693713000066, -74.00497354799995)",Wichcraft,1302,269 11th Avenue,New York,10001, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+721,"(40.754611167000064, -73.9746857749999)",Witchcrafft - Park Ave,1303,245 Park Avenue,New York,10017, ,Free,http://www.openwifinyc.com/classic/a/witchcraft-Park-Ave-NY-10167
+722,"(40.71548742500005, -74.01151341399992)",Whole Foods Market,1304,270 Greenwich Street,New Yor k,10007, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89527.aspx
+723,"(40.72345639100007, -73.99188057499993)",Whole Foods Market,1305,95 E Houston Street,New York,10002, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89526.aspx
+724,"(40.73480119300007, -73.99142452699994)",Whole Foods Market,1306,4 Union Square E,New York,10003, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89525.aspx
+725,"(40.745306208000045, -73.99548869799992)",Whole Foods Market,1307,250 7th Avenue,New York,10001, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+726,"(40.76837445700005, -73.98282007799992)",Whole Foods Market,1308,10 Columbus Cir,New York,10019, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+727,"(40.75993901600009, -74.00210084299994)",Yogurteria,1309,699 W 39th Street,New York,10018, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+728,"(40.76562116400004, -73.77159895499994)",Yogurteria,1310,213-35 39th Avenue,Bayside,11361, ,Free,http://www.wififreespot.com/ny.html
+729,"(40.754678640000066, -73.97438720499991)",Yushi Suhi  Park Ave,1311,245 Park Avenue,New York,10017, ,Free,http://www.openwifinyc.com/classic/a/Yushi-Sushi-Park-Ave-NY-10167
+730,"(40.754290096000034, -73.97427039999991)",Juan Valdez -Lexington Avenue,1312,480 Lexington Avenue,New York,10017, ,Free,http://www.openwifinyc.com/classic/a/Juan-Valdez-Lexington-Ave-NY-10167
+731,"(40.75551026100004, -73.98688377899992)",Juan Valdez - Times Square,1313,1451 Broadway,New York,10036, ,Free,http://www.openwifinyc.com/classic/a/Juan-Valdez-Times-Sq-NY-10036
+732,"(40.74529787600005, -73.98438154299993)",Sublte Tea,1314,121 Madison Ave,New York,10016, ,Free,http://www.openwifinyc.com/classic/a/Subtle-Tea-NY-10016
+733,"(40.74065934100008, -73.9882416339999)",Bonobo,1315,18 East 23rd Street,New York,10010, ,Free,http://www.openwifinyc.com/classic/a/Bonobo-NY-10010
+734,"(40.70709606100007, -74.00846933199995)",Koyzina Café,1316,62 William Street,New York,10005, ,Free,http://www.openwifinyc.com/classic/a/Koyzina-Cafe-NY-10006
+735,"(40.70451147300008, -74.00984147299994)",Financier,1317,62 Stone Street,New York,10004, ,Free,http://www.openwifinyc.com/classic/a/Financier-NY-10004
+736,"(40.740922037000075, -73.98544940999994)",Gregory's Coffee,1318,327  Park Avenue South,New York,10010, ,Free,http://www.openwifinyc.com/classic/a/Gregorys-Coffee-NY-10010
+737,"(40.744337089000055, -73.99876997199993)",View Bar,1319,232 8th Avenue,New York,10011, ,Free,http://www.openwifinyc.com/classic/a/View-Bar-NY-10011
+738,"(40.74245456500006, -73.98233837899994)",Rice,1320,115 Lexington Ave,New York,10016, ,Free,http://www.openwifinyc.com/classic/a/Rice-NY-10016
+739,"(40.752596897000046, -73.97732922799992)",Grand Central Terminal at the Dinining Concourse,1321,87 E 42nd Street,New York,10017, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Grand_Central_Terminal_at_the_Dining_Concourse_New_York_NY_19746.aspx
+740,"(40.743995977000054, -73.93512413399992)",Barnes & Noble,1323,31 10 Thomson Avenue,New York,11101, ,Free,http://www.barnesandnobleinc.com
+741,"(40.71708113400007, -74.00699733999994)",Barnes & Noble,1324,40 Worth Street,New York,10013, ,Free,http://www.barnesandnobleinc.com
+742,"(40.71532271700005, -74.0109359349999)",Barnes & Noble,1325,97 Warren Street,New York,10007, ,Free,http://www.barnesandnobleinc.com
+743,"(40.69133630600004, -73.96899430799994)",Barnes & Noble,1326,222 Clinton Avenue,Brooklyn,11205, ,Free,http://www.barnesandnobleinc.com
+744,"(40.77903020900004, -73.95514636099995)",Barnes & Noble,1328,150 East 86th Street,New York,10028, ,Free,http://www.barnesandnobleinc.com
+745,"(40.72077559300004, -73.84691655099994)",Barnes & Noble,1330,70-00 Austin Street,Forest Hills,11375, ,Free,http://www.barnesandnobleinc.com
+746,"(40.72567918300007, -73.7910210359999)",Barnes & Noble,1331,176-60 Union Turnpike,Fresh Meadows,11366, ,Free,http://www.barnesandnobleinc.com
+747,"(40.746308603000045, -73.9803301419999)",Guy & Gallard - East 34 St,1332,120 East 34 Street,New York,10016, ,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-East-34-St-NY-10016
+748,"(40.74763921200008, -73.98345717199993)",Guy & Gallard - Madison Ave,1333,28 East 34th Street,New York,10016, ,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-Madison-Ave-NY-10016
+749,"(40.751936509000075, -73.98945157599991)",Guy & Gallard - 7th Ave,1334,469 7th Avenue,New York,10018, ,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-7th-Ave-NY-10018
+750,"(40.754356948000066, -73.99019472799995)",Guy & Gallard - West 38 St,1335,245 West 38th Street,New York,10018, ,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-West-38-St-NY-10018
+751,"(40.752023387000065, -73.9865712209999)",Guy & Gallard - 6th Ave,1336,1001 6th Avenue,New York,10018, ,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-6th-Ave-NY-10018
+752,"(40.75731596300005, -73.9893649139999)",Chevy's Fresh Mex,1337,259 W 42nd Street,New York,10036, ,Free,http://www.chevysny.com
+753,"(40.566499014000044, -74.11330231999995)",Chevy's Fresh Mex,1338,2690 Hylan Blvd,Staten Island,10306, ,Free,http://www.chevysny.com
+754,"(40.85147419300006, -73.84351383899991)",Good to Go Rest,1339,1894 Eastchester Rd,Bronx,10461, ,Free,http://www.wififreespot.com/ny.html
+755,"(40.82771993000006, -73.92431479599992)",Burger King,1340,103 E 161 Street,Bronx,10451, ,Free,http://www.wififreespot.com/ny.html
+756,"(40.69870546100009, -73.9527751519999)",McDonald's,1346,35-40 Nostrand Ave,Brooklyn,11206, ,Fee-based,http://www.mcdonalds.com/wireless.html
+757,"(40.73046411900009, -73.95391609699993)",Starbucks,1353,910 Manhattan Avenue,Brooklyn,11222, ,Fee-based,http://www.starbucks.com
+758,"(40.64355752100005, -73.78074147899991)",JFK International Airport - Delta Sky Club,1358,"Terminal 4, Second level, landside overlooking the concourse -Oasis Lounge",Jamaica,11430, ,Fee-based,http://www.delta.com/traveling_checkin/airport_information/delta_sky_club/sky_club_locations/index.jsp
+759,"(40.77942605100009, -73.96343466499991)",Metropolitan Museum of Art,1359,1000 Fifth Avenue,New York,10028, ,Fee-based,http://www.metmuseum.org/
+760,"(40.75196581100005, -73.99033438799995)",Starbucks,670,462 7th Avenue,New York,10018,212-279-6432,Fee-based,http://www.starbucks.com
+761,"(40.798858721000045, -73.96933936199991)",Starbucks,671,2681 Broadway,New York,10025,212-280-1811,Fee-based,http://www.starbucks.com
+762,"(40.75259728100008, -73.99275974499994)",Starbucks,672,494 Eighth Ave.,New York,10001,212-947-3860,Fee-based,http://www.starbucks.com
+763,"(40.747702710000056, -73.98549889899994)",Starbucks,673,334 Fifth Ave.,New York,10001,212-279-2960,Fee-based,http://www.starbucks.com
+764,"(40.741675677000046, -74.00448152099995)",Starbucks,674,76 9th Ave,New York,10011,646-230-7145,Fee-based,http://www.starbucks.com
+765,"(40.748213655000086, -73.98934243999992)",Starbucks,676,875 Sixth Ave,New York,10001,212-629-6512,Fee-based,http://www.starbucks.com
+766,"(40.743822983000086, -73.97693239499995)",Starbucks,677,585 2nd Avenue,New York,10016,212-684-1299,Fee-based,http://www.starbucks.com
+767,"(40.73365794100005, -73.98650866299994)",Starbucks,697,145 Third Avenue,New York,10003,212-677-7248,Fee-based,http://www.starbucks.com
+768,"(40.73498181100007, -73.98963704499994)",Starbucks,698,10 UNION SQUARE EAST,New York,10003,212-982-8426,Fee-based,http://www.starbucks.com
+769,"(40.736839855000085, -73.99678848199994)",Starbucks,699,510 Sixth Avenue,New York,10011,212-242-5981,Fee-based,http://www.starbucks.com
+770,"(40.73727904500004, -74.00191970599991)",Starbucks,700,93 Greenwich Avenue,New York,10014,212-462-4697,Fee-based,http://www.starbucks.com
+771,"(40.75146630200004, -73.99075313199995)",Starbucks,701,450 7th Avenue,New York,10001,212-279-1122,Fee-based,http://www.starbucks.com
+772,"(40.73205843100004, -73.9949990529999)",Starbucks,702,21 East 8th Street,New York,10003,212-982-7505,Fee-based,http://www.starbucks.com
+773,"(40.73010385100008, -73.9901355049999)",Starbucks,703,51 Astor Place,New York,10003,212-677-6447,Fee-based,http://www.starbucks.com
+774,"(40.73014516500007, -73.99198644599994)",Starbucks,704,13-25 Astor Place,New York,10003,212-982-3563,Fee-based,http://www.starbucks.com
+775,"(40.73296705200005, -73.99966804199994)",Starbucks,705,378 6th Avenue,New York,10011,212-477-2690,Fee-based,http://www.starbucks.com
+776,"(40.733164643000066, -74.0027314429999)",Starbucks,706,72 Grove Street,New York,10014,646-486-2216,Fee-based,http://www.starbucks.com
+777,"(40.727428055000075, -73.99568130099993)",Starbucks,707,665 Broadway,New York,10012,917-534-0799,Fee-based,http://www.starbucks.com
+778,"(40.72601171800005, -74.00535767199995)",Starbucks,708,150 Varick Street,New York,10013,646-230-9816,Fee-based,http://www.starbucks.com
+779,"(40.72240521100008, -73.99788590899993)",Starbucks,709,72 SPRING STREET,New York,10012,212-219-2961,Fee-based,http://www.starbucks.com
+780,"(40.719341634000045, -73.98986292899991)",Starbucks,710,80 Delancey Street,New York,10002,917-534-1397,Fee-based,http://www.starbucks.com
+781,"(40.721326539000074, -74.00063133099991)",Starbucks,711,471 Broadway,New York,10013,212-219-8787,Fee-based,http://www.starbucks.com
+782,"(40.71860374000005, -73.99974026399991)",Starbucks,712,241 Canal Street,New York,10013,212-219-2725,Fee-based,http://www.starbucks.com
+783,"(40.71590010500006, -74.00327904699992)",Starbucks,713,111 Worth Street,New York,10013,212-964-8846,Fee-based,http://www.starbucks.com
+784,"(40.71495030500006, -74.00604937599991)",Starbucks,714,291 Broadway,New York,10007,212-406-5310,Fee-based,http://www.starbucks.com
+785,"(40.71554299400009, -74.00881261699993)",Starbucks,715,125 Chambers Street,New York,10007,212-791-6368,Fee-based,http://www.starbucks.com
+786,"(40.71244694100005, -74.00831081699994)",Starbucks,716,233 Broadway,New York,10007,212-619-1529,Fee-based,http://www.starbucks.com
+787,"(40.71154403200006, -74.00646748799994)",Starbucks,717,38 Park Row,New York,10038,212-608-8073,Fee-based,http://www.starbucks.com
+788,"(40.71086309800006, -74.00978589899995)",Starbucks,718,195 Broadway,New York,10007,212-385-1104,Fee-based,http://www.starbucks.com
+789,"(40.70972941400004, -74.01086061199993)",Starbucks,719,165 Broadway,New York,10006,212-608-6481,Fee-based,http://www.starbucks.com
+790,"(40.70834634100004, -74.00718495199993)",Starbucks,720,100 William Street,New York,10038,212-509-9709,Fee-based,http://www.starbucks.com
+791,"(40.70885122000004, -74.00938523399992)",Starbucks,721,55 Liberty Street,New York,10005,212-227-0372,Fee-based,http://www.starbucks.com
+792,"(40.70893611900004, -74.01146644799991)",Starbucks,722,115 Broadway,New York,10006,212-732-9268,Fee-based,http://www.starbucks.com
+793,"(40.70615055400009, -74.00680239499991)",Starbucks,723,80 Pine Street,New York,10005,212-480-3970,Fee-based,http://www.starbucks.com
+794,"(40.70620247700003, -74.00992948599992)",Starbucks,724,45 Wall Street,New York,10005,212-269-8717,Fee-based,http://www.starbucks.com
+795,"(40.70515694100004, -74.00693935099991)",Starbucks,725,100 Wall Street,New York,10005,212-809-1556,Fee-based,http://www.starbucks.com
+796,"(40.70448672400005, -74.01272081299993)",Starbucks,726,2 Broadway,New York,10004,212-742-2488,Fee-based,http://www.starbucks.com
+797,"(40.70521972900008, -74.01126022599993)",Starbucks,727,55 Broad Street,New York,10004,212-742-2488,Fee-based,http://www.starbucks.com
+798,"(40.70294142700004, -74.01267723799992)",Starbucks,728,3 New York Plaza,New York,10004,212-785-1082,Fee-based,http://www.starbucks.com
+799,"(40.703221187000054, -74.0144337179999)",Starbucks,729,1 Battery Park Plaza,New York,10004,212-482-1180,Fee-based,http://www.starbucks.com
+800,"(40.85128692400008, -73.93846411299995)",Starbucks,730,803 W 181st St,New York,10033,212-927-4272,Fee-based,http://www.starbucks.com
+801,"(40.79019783600006, -73.97552957399995)",T-Mobile,731,2409 Broadway,New York,10024,212-279-4688,Fee-based,http://www.t-mobile.com/
+802,"(40.75882205800008, -73.98892202299993)",Cyber Cafe - Taste of New York Food Court,732,707 8th Avenue,New York,10036, ,Fee-based, 
+803,"(40.72242653600006, -73.98773754299992)",Tasti D Lite,733,191 E Houston Street,New York,10002,212-228-6407,Fee-based, 
+804,"(40.73933665800007, -73.98507490799994)",Tasti D Lite,734,132 E 23rd Street,New York,10010,212-473-8900,Fee-based, 
+805,"(40.75227616500007, -73.9930737869999)",TGI Friday's,735,W. 34th Street & 8th Avenue,New York,10001, ,Fee-based, 
+806,"(40.72364496100005, -73.98559432899992)",The Coffee Pot,736,41 Avenue A,New York,10009, ,Fee-based, 
+807,"(40.76283405600009, -73.98236224999994)",The Coleman Center,737,810 7th Avenue,New York,10019,212-541-4600,Fee-based, 
+808,"(40.71040494300007, -74.0067090469999)",The Music Gallery,738,49 Ann Street,New York,10038,917-686-0975,Fee-based, 
+809,"(40.801317726000036, -73.96833772299993)",The UPS Store,739,2753 Broadway,New York,10025,212-222-1202,Fee-based,http://www.theupsstore.com/
+810,"(40.778643705000036, -73.95288021399995)",The UPS Store,740,217 E 86 St,New York,10028, ,Fee-based,http://www.theupsstore.com
+811,"(40.78212908900008, -73.97946480899992)",The UPS Store,741,366 Amsterdam Avenue,New York,10024, ,Fee-based,http://www.theupsstore.com/
+812,"(40.760596658000054, -73.96770371699995)",The UPS Store,742,954 3rd Ave,New York,10022,212-319-1928,Fee-based,http://www.theupsstore.com/
+813,"(40.86547542500006, -73.92635737899991)",The UPS Store,743,4768 Broadway,New York,10034,212-304-0282,Fee-based,http://www.theupsstore.com/
+814,"(40.751631461000045, -73.97533801299994)",The UPS Store,744,132 East 43rd St,New York,10017,212-867-0001,Fee-based,http://www.theupsstore.com/
+815,"(40.75186128800004, -73.98795950999994)",The UPS Store,745,1357 Broadway,New York,10018,212-736-3255,Fee-based,http://www.theupsstore.com
+816,"(40.80655785300007, -73.95346730799992)",The UPS Store,746,2216 Frederick Douglas Blvd,New York,10026, ,Fee-based,http://www.theupsstore.com/
+817,"(40.73234116700007, -73.99564489999995)",The UPS Store,747,7 E 8th St,New York,10003,212-477-3350,Fee-based,http://www.theupsstore.com/
+818,"(40.74639760900004, -73.97718413099994)",The UPS Store,748,527 3rd Ave,New York,10016,212-683-9634,Fee-based,http://www.theupsstore.com
+819,"(40.73432486300004, -73.9860683149999)",The UPS Store,749,163 3rd Ave,New York,10003,212-533-9100,Fee-based,http://www.theupsstore.com
+820,"(40.75722163700004, -73.98670241799994)",Time Square Deli,750,211 West 43rd street,New York,10036, ,Fee-based, 
+821,"(40.72943708200006, -73.99292823099995)",T-Mobile,751,732 Broadway,New York,10003,212-674-5377,Fee-based,http://www.t-mobile.com/
+822,"(40.80749515400004, -73.94414697899992)",T-Mobile,752,55 West 125th Street,New York,10027,212-996-9477,Fee-based,http://www.t-mobile.com/
+823,"(40.75242269700004, -73.97911664799994)",T-Mobile,753,307 Madison Avenue,New York,10017,212-687-4800,Fee-based,http://www.t-mobile.com
+824,"(40.74127499900004, -73.99015550399992)",T-Mobile,754,180 Fifth Avenue,New York,10010,212-352-2500,Fee-based,http://www.t-mobile.com/
+825,"(40.77791091800009, -73.95301793899995)",T-Mobile,755,228 East 86th Street,New York,10028,212-535-6604,Fee-based,http://www.t-mobile.com/
+826,"(40.78282378600005, -73.98110035099995)",T-Mobile,756,2181 Broadway,New York,10024,212-580-4381,Fee-based,http://www.t-mobile.com/
+827,"(40.76636208700006, -73.96343384799991)",T-Mobile,757,1138 3rd Avenue,New York,10021,212-535-3100,Fee-based,http://www.t-mobile.com/
+828,"(40.76560852800009, -73.97956737299995)",T-Mobile,758,167 West 57th Street,New York,10019,212-586-4979,Fee-based,http://www.t-mobile.com/
+829,"(40.74512355400009, -73.99888845999993)",T-Mobile,759,253 8th Ave,New York,10011,212-366-5253,Fee-based,http://www.t-mobile.com/
+830,"(40.75880055500005, -73.9744979219999)",T-Mobile,760,485 Madison Ave,New York,10022,646-735-3300,Fee-based,http://www.t-mobile.com/
+831,"(40.75603573600006, -73.97086783899994)",T-Mobile,761,818 3rd Ave,New York,10022,917-369-9071,Fee-based,http://www.t-mobile.com/
+832,"(40.75031902600006, -73.99111059899991)",McDonald's,762,West 33rd Street & 7th Avenue,New York,10001,212-736-6158,Fee-based,http://www.mcdonalds.com/wireless.html
+833,"(40.74693397200008, -73.9839183279999)",Twin Deli,763,162 Madison Ave,New York,10016,212-566-6771,Fee-based, 
+834,"(40.80427083400008, -73.96755971499994)",Webtoast Hotspot on the Upper West Side,764,610 West 110 Street,New York,10025,212-354-2277,Fee-based,http://www.webtoast.com/
+835,"(40.75669642400004, -73.9800140779999)",Webtoast Internet Service Inc.,765,21 West 46 Street,New York,10036,212-354-2277,Fee-based, 
+836,"(40.752046127000085, -73.97633401799993)",Zocalo at Grand Central Terminal,766,42nd Street & Park Avenue,New York,10017, ,Fee-based, 
+837,"(40.772214784000084, -73.97776738499994)",Tavern on the Green: NuVision,767,Central Park at West 67th Steet,New York,10023,800-221-1574,Fee-based, 
+838,"(40.70748952100007, -74.0125013679999)",NuVision,768,71 Broadway,New York,10006,800-221-1574,Fee-based, 
+839,"(40.75252710700005, -73.96770401899994)",Trump World Tower: NuVision,769,845 United Nations Plaza,New York,10017,800-221-1574,Fee-based, 
+840,"(40.76302449600007, -73.97353247199993)",Trump Tower Mall: NuVision,770,737 5th Avenue,New York,10022,800-221-1574,Fee-based, 
+841,"(40.76909744300008, -73.98163855399991)",Trump International: NuVision,771,One Central Park West,New York,10023,800-221-1574,Fee-based, 
+842,"(40.777335349000055, -73.9890958659999)",Trump Place: NuVision,772,140 Riverside Blvd,New York,10023,800-221-1574,Fee-based, 
+843,"(40.77766464300004, -73.98833396299995)",Trump Place: NuVision,773,160 Riverside Blvd,New York,10069,800-221-1574,Fee-based, 
+844,"(40.75960443100007, -73.97286933599992)",Lever House,820,390 Park Avenue,New York,10022, ,Fee-based, 
+845,"(40.73283360600004, -73.99841371799994)",8th Street and Macdougal,822,177 Macdougal Street,New York,10011, ,Fee-based, 
+846,"(40.75614410600008, -73.9709423299999)",Affinia 50,823,155 East 50th Street,New York,10022, ,Fee-based, 
+847,"(40.72322524900005, -73.9912657349999)",Avalon Chrystie Place,824,229 Chrystie street,New York,10002, ,Fee-based, 
+848,"(40.744357223000065, -73.98707235499995)",Cafe 28,825,245 Fifth Avenue,New York,10016, ,Fee-based, 
+849,"(40.74875401200006, -74.00863139499995)",Chelsea Piers,826,West Side Highway and 23rd Street,New York,10010, ,Fee-based,http://www.chelseapiers.com/index.html#
+850,"(40.706697219000034, -74.0089083819999)","Club Quarters, Downtown",829,52 William St,New York,10005,212-269-6400,Fee-based, 
+851,"(40.75592988900007, -73.98131969399992)","Club Quarters, Midtown",830,40 W 45th St,New York,10036,212-354-6400,Fee-based, 
+852,"(40.70877557100005, -74.0067378249999)",Fedex Kinko's,839,110 William Street,New York,10038,212-766-4646,Fee-based,http://www.FedexKinkos.com
+853,"(40.749649341000065, -73.99238295399994)",Houlihan's,840,2 Penn Plaza,New York,10001, ,Fee-based, 
+854,"(40.76797826100005, -73.9845583629999)",Hudson,841,356 W 58th St,New York,10019,212-554-6000,Fee-based, 
+855,"(40.749971568000035, -73.98096247299992)",Jolly Madison Towers,842,22 E 38th St,New York,10016,212-802-0600,Fee-based, 
+856,"(40.75295250000005, -73.98033855099993)",McDonald's,843,18 East 42nd Street,New York,10017,212-599-2127,Fee-based,http://www.mcdonalds.com/wireless.html
+857,"(40.74816030200009, -73.97379337199993)",McDonald's,844,729 2nd Avenue,New York,10016,212-686-7124,Fee-based,http://www.mcdonalds.com/wireless.html
+858,"(40.75527755400009, -73.98412039499993)",McDonald's,847,1109 6th Avenue,New York,10036,212-827-0378,Fee-based,http://www.mcdonalds.com/wireless.html
+859,"(40.84276818500007, -73.93890064499993)",McDonald's,849,4040 Broadway,New York,10032,212-732-7376,Fee-based,http://www.mcdonalds.com/wireless.html
+860,"(40.79381704800005, -73.94265459399992)",McDonald's,850,1997 3rd Ave,New York,10029,212-369-4816,Fee-based,http://www.mcdonalds.com/wireless.html
+861,"(40.71682372400005, -74.00143422799994)",NY State Supreme Court,852,111 Centre St.,New York,10013, ,Fee-based, 
+862,"(40.71711242900005, -74.00746155899992)",NY State Supreme Court,853,71 Thomas St.,New York,10013, ,Fee-based, 
+863,"(40.72887200900004, -73.98792732599992)",Public Telephone,856,37 St. Marks Place,New York,10003, ,Fee-based, 
+864,"(40.74849258200004, -74.00533740799995)",Related-Tate,857,535 W 23rd St,New York,10011, ,Fee-based, 
+865,"(40.74835317600008, -73.97787672999993)",Shelburne Murray Hill,858,303 Lexington Ave,New York,10016,212-689-5200,Fee-based, 
+866,"(40.76019001600008, -73.9843588679999)",Sherwood Equities,859,1600 Broadway,New York,10019, ,Fee-based, 
+867,"(40.75639029900009, -73.97076133799993)",Starbucks,862,830 Third Avenue,New York,10022,212-980-1748,Fee-based,http://www.starbucks.com
+868,"(40.851286482000035, -73.93846303499993)",Starbucks,863,801 West 181st Street,New York,10033,212-927-4272,Fee-based,http://www.starbucks.com
+869,"(40.722403530000065, -73.99788751099993)",Starbucks,864,78 Spring Street,New York,10012,212-219-2961,Fee-based,http://www.starbucks.com
+870,"(40.71329022500004, -74.01012567399994)",Starbucks,865,100 Church Street,New York,10007,212-513-1006,Fee-based,http://www.starbucks.com
+871,"(40.82220985100008, -73.9531553249999)",Starbucks,866,3410 Broadway,New York,10031,212-694-2287,Fee-based,http://www.starbucks.com
+872,"(40.72918249500009, -73.98758354799992)",Starbucks,868,141 2nd Avenue,New York,10003,212-780-0024,Fee-based,http://www.starbucks.com
+873,"(40.74726040100006, -73.98930296399993)",Starbucks,869,63 West 30th Street,New York,10001,212-564-0373,Fee-based,http://www.starbucks.com
+874,"(40.759281705000035, -73.96992760099994)",Starbucks,870,655 Lexington Avenue,New York,10022,212-308-5717,Fee-based,http://www.starbucks.com
+875,"(40.713995466000085, -74.01583337099993)",Starbucks,871,250 Vesey Street,New York,10282,212-587-9512,Fee-based,http://www.starbucks.com
+876,"(40.77782124500004, -73.97819159799991)",Starbucks,872,48 West 73rd Street,New York,10023,212-579-7834,Fee-based,http://www.starbucks.com
+877,"(40.78893260700005, -73.97669122299993)",Starbucks,873,2379 Broadway,New York,10024,212-875-8470,Fee-based,http://www.starbucks.com
+878,"(40.79595396000008, -73.9702566819999)",Starbucks,874,2610 Broadway,New York,10025,212-316-9401,Fee-based,http://www.starbucks.com
+879,"(40.76148561200006, -73.96766718799995)",Starbucks,875,731 Lexington Avenue,New York,10022,212-644-0692,Fee-based,http://www.starbucks.com
+880,"(40.71554141800004, -74.00881170199995)",Starbucks,876,95 West Broadway,New York,10013,212-791-6368,Fee-based,http://www.starbucks.com
+881,"(40.704598170000054, -74.00881439299991)",Starbucks,877,110 Pearl Street,New York,10005,212-482-6530,Fee-based,http://www.starbucks.com
+882,"(40.73340613900007, -73.99282722099991)",TechSpace,882,41 East 11th Street,New York,10003,212-331-1100,Free,http://www.techspace.com/
+883,"(40.731488726000066, -74.00856231799992)",TechSpace,883,95 Morton Street,New York,10014,212-331-1100,Free,http://www.techspace.com/
+884,"(40.732135483000036, -73.9836867439999)",The Cellar,884,325 East 14th Street,New York,10003,212-477-7747,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_The_Cellar_New_York_NY_17413.aspx
+885,"(40.733734223000056, -73.99990689099991)",Cafe Ari,887,3 Greenwich Ave,New York,10014,212-206-7776,Free, 
+886,"(40.71017379600005, -74.0055823209999)",Dante's Gourmet Foods,888,166 William Street,New York,10038,212-233-2255,Free,http://www.yelp.com/biz/dantes-gourmet-foods-new-york
+887,"(40.728260581000086, -73.99499640099992)",Think Coffee,889,118 Mercer Street,New York,10012,212-228-6226,Free,http://www.thinkcoffeenyc.com/
+888,"(40.761526116000084, -73.98347721899995)",Applebee's,890,205 West 50th Street,New York,10019,212-262-2400,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+889,"(40.78151204300008, -73.94959817799992)",Eagle Communication,891,1751 2nd Avenue,New York,10128,516-852-8649,Free,http://www.ezgoal.com/hotspots/wireless/f.asp?fid=151674&wireless-internet
+890,"(40.76363784700004, -73.98099549699992)",Faces and Names,892,161 West 54th Street,New York,10019,212-586-9311,Free,http://www.ezgoal.com/hotspots/wireless/f.asp?fid=122309&wireless-internet
+891,"(40.71568210600009, -73.9873988889999)",Full City Coffee,893,409 Grand Street,New York,10002,212-260-2363,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Full_City_Coffee_New_York_NY_6396.aspx
+892,"(40.71937005600006, -73.98668784699993)",Schiller's Liquor Bar,894,131 Rivington St.,New York,10002,888-287-7913,Free,http://www.wififreespot.com/ny.html
+893,"(40.684092226000075, -73.9996477059999)",Naidre's,895,502 Henry Street,Brooklyn,11231,718-596-3400,Free,http://www.naidres.com/
+894,"(40.683936104000054, -73.99210308699992)",Amazon Café,897,227 Smith St,Brooklyn,11231,718-852-5948,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Amazon_Cafe_New_York_NY_5572.aspx
+895,"(40.75700709700004, -73.9939738949999)",Cafe Andalucia,898,533 9th Avenue,New York,10018,212-505-0657,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Andalucia_New_York_NY_10565.aspx
+896,"(40.765181247000044, -73.96062941399992)",Caffe Med,899,1268 2nd Avenue,New York,10021,212-744-5370,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-Caffe-MED-1251392.htm
+897,"(40.73037830800007, -73.98361981699992)",Cyclo,900,203 1st Ave,New York,10003,212-673-3957,Free,www.cyclorestaurant.com
+898,"(40.760370005000084, -73.97670509799991)",Digby's,901,666 5th Avenue,New York,10019,212-977-7272,Free,www.digbyscafe.com
+899,"(40.71493977000006, -73.99783357299992)",Happy 16 Diner,902,16 Pell Street,New York,10013,212-962-6588,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Happy_16_Diner_New_York_NY_12949.aspx
+900,"(40.71307299500006, -73.99878050199993)",Hip Cup Café,903,225 Park Row,New York,10038,212-227-8870,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Hip_Cup_Cafe_New_York_NY_13116.aspx
+901,"(40.74352668900008, -73.9834510789999)",Les Halles Park Avenue,905,411 Park Avenue South,New York,10016,212-679-4111,Free,http://www.leshalles.net
+902,"(40.710105138000074, -74.00881902099991)",Les Halles Downtown,906,15 John Street,New York,10038,212-285-8585,Free,http://www.leshalles.net
+903,"(40.72718905700009, -73.98906122699992)",Lit Lounge,907,93 2nd Avenue,New York,10003,212-777-7987,Free,http://www.litloungenyc.com
+904,"(40.72461373200008, -73.99477479099994)",Risa,908,47 E Houston St,New York,10012,212-625-1712,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+905,"(40.89826937000004, -73.8627191189999)",Corner Scone,911,4279 Webster Avenue,Bronx,10470,718-231-7766,Free,http://cornerscone.com/
+906,"(40.72553775700004, -73.98281621199993)",My Little Wi-Fi,912,144 East 7th St,New York,10009, ,Free, 
+907,"(40.69071597900006, -73.99218548599993)",Barnes & Noble,915,106 Court Street,Brooklyn,11201, ,Free,http://www.barnesandnobleinc.com
+908,"(40.668876827000076, -73.97953352999991)",Barnes & Noble,916,267 7th Avenue,Brooklyn,11215, ,Free,http://www.barnesandnobleinc.com
+909,"(40.86680476100008, -73.86322248499994)",NYC Public Library - Allerton Branch,939,2740 Barnes Avenue,Bronx,10467,718-881-4240,Free,http://www.nypl.org/branch/services/wifi.html
+910,"(40.85434724000004, -73.88788942799994)",NYC Public Library - Belmont Branch,940,610 E. 186th Street,Bronx,10458,718-933-6410,Free,http://www.nypl.org/branch/services/wifi.html
+911,"(40.86300214400006, -73.89455999799992)",NYC Public Library - Bronx Library Center,941,310 East Kingsbridge Road,Bronx,10458,718-579-4288,Free,http://www.nypl.org/branch/services/wifi.html
+912,"(40.84400224500007, -73.91008714399993)",NYC Public Library - Grand Concourse Branch,942,155 East 173rd Street,Bronx,10457,718-583-6611,Free,http://www.nypl.org/branch/services/wifi.html
+913,"(40.83795924400005, -73.92353960999992)",NYC Public Library - High Bridge Branch,943,78 West 168th Street,Bronx,10452,718-293-7800,Free,http://www.nypl.org/branch/services/wifi.html
+914,"(40.82659226100009, -73.91758265199991)",NYC Public Library - Melrose Branch,944,910 Morris Avenue,Bronx,10451,718-588-0110,Free,http://www.nypl.org/branch/services/wifi.html
+915,"(40.84806678100006, -73.85697712599995)",NYC Public Library - Morris Park Branch,945,985 Morris Park Avenue,Bronx,10462,718-931-0636,Free,http://www.nypl.org/branch/services/wifi.html
+916,"(40.831264056000066, -73.90178897599992)",NYC Public Library - Morrisania Branch,946,610 East 169th Street,Bronx,10456,718-589-9268,Free,http://www.nypl.org/branch/services/wifi.html
+917,"(40.87438014600008, -73.87838435099991)",NYC Public Library - Mosholu Branch,947,285 East 205th Street,Bronx,10467,718-882-8239,Free,http://www.nypl.org/branch/services/wifi.html
+918,"(40.81160446500007, -73.92438264599991)",NYC Public Library - Mott Haven Branch,948,321 East 140th Street,Bronx,10454,718-665-4878,Free,http://www.nypl.org/branch/services/wifi.html
+919,"(40.83373663100008, -73.85835521699994)",NYC Public Library - Parkchester Branch,949,1985 Westchester Avenue,Bronx,10462,718-829-7830,Free,http://www.nypl.org/branch/services/wifi.html
+920,"(40.84949441400005, -73.91757752599995)",NYC Public Library - Sedgwich Branch,950,1701 Martin Luther King Jr Blvd,Bronx,10453,718-731-2074,Free,http://www.nypl.org/branch/services/wifi.html
+921,"(40.846042657000055, -73.89834025499994)",NYC Public Library - Tremont Branch,951,1866 Washington Avenue,Bronx,10457,718-299-5177,Free,http://www.nypl.org/branch/services/wifi.html
+922,"(40.82064189700009, -73.90462885999995)",NYC Public Library - Woodstock Branch,952,761 East 160th Street,Bronx,10456,718-665-6255,Free,http://www.nypl.org/branch/services/wifi.html
+923,"(40.76493495300008, -73.99122081899992)",NYC Public Library - Columbus Branch,953,742 10th Avenue,New York,10019,212-586-5098,Free,http://www.nypl.org/branch/services/wifi.html
+924,"(40.773507324000036, -73.98454684699993)",NYC Public Library for the Performing Arts,954,40 Lincoln Center Plaza,New York,10023,212-870-1630,Free,http://www.nypl.org/branch/services/wifi.html
+925,"(40.59314711500008, -73.78404002699995)",Queens Library - Arverne,955,312 Beach 54 Street,Arverne,11692,718-634-4784,Free,http://www.queenslibrary.org/
+926,"(40.77375244500007, -73.7963431849999)",Queens Library - Auburndale,956,25-55 Francis Lewis Boulevard,Flushing,11358,718-352-2027,Free,http://www.queenslibrary.org/
+927,"(40.680311645000074, -73.7916786099999)",Queens Library - Baisley Park,957,117-11 Sutphin Boulevard,Jamaica,11436,718-529-1590,Free,http://www.queenslibrary.org/
+928,"(40.78253153700007, -73.77700881399994)",Queens Library - Bay Terrace,958,18-36 Bell Boulevard,Bayside,11360,718-423-7004,Free,http://www.queenslibrary.org/
+929,"(40.76012591500006, -73.76836198099994)",Queens Library - Bayside,959,214-20 Northern Boulevard,Bayside,11361,718-229-1834,Free,http://www.queenslibrary.org/
+930,"(40.73540282100004, -73.71726581999991)",Queens Library - Bellerose,960,250-06 Hillside Avenue,Bellerose,11426,718-831-8644,Free,http://www.queenslibrary.org/
+931,"(40.71003489100008, -73.81945311999993)",Queens Library - Briarwood,961,85-12 Main Street,Briarwood,11435,718-658-1680,Free,http://www.queenslibrary.org/
+932,"(40.60073243800008, -73.82005266099992)",Queens Library - Broad Channel,962,16-26 Cross Bay Boulevard,Broad Channel,11693,718-318-4943,Free,http://www.queenslibrary.org/
+933,"(40.69570922400004, -73.7411667959999)",Queens Library - Cambria Heights,963,218-13 Linden Boulevard,Cambria Heights,11411,718-528-3535,Free,http://www.queenslibrary.org/
+934,"(40.76822576400008, -73.73822944099993)",Queens Library - Douglaston/Little Neck,964,249-01 Northern Boulevard,Little Neck,11362,718-225-8414,Free,http://www.queenslibrary.org/
+935,"(40.75754601300008, -73.78430296599993)",Queens Library - East Flushing,965,196-36 Northern Boulevard,Flushing,11358,718-357-6643,Free,http://www.queenslibrary.org/
+936,"(40.73858179100006, -73.87675876499992)",Queens Library - Elmhurst  (ALC),966,86-01 Broadway,Elmhurst,11373,718-271-1020,Free,http://www.queenslibrary.org/
+937,"(40.604486543000064, -73.75264129099992)",Queens Library - Far Rockaway,967,1637 Central Avenue,Far Rockaway,11691,718-327-2549,Free,http://www.queenslibrary.org/
+938,"(40.75779210600007, -73.82886230699995)",Queens Library - Flushing  (ALC),968,41-17 Main Street,Flushing,11355,718-661-1200,Free,http://www.queenslibrary.org/
+939,"(40.72214728800009, -73.8430149969999)",Queens Library - Forest Hills,969,108-19 71 Avenue,Forest Hills,11375,718-268-7934,Free,http://www.queenslibrary.org/
+940,"(40.74154362200005, -73.78227583199993)",Queens Library - Fresh Meadows,970,193-20 Horace Harding Expressway,Fresh Meadows,11365,718-454-7272,Free,http://www.queenslibrary.org/
+941,"(40.70257699800004, -73.87579710799992)",Queens Library - Glendale,972,78-60 73 Place,Glendale,11385,718-821-4980,Free,http://www.queenslibrary.org/
+942,"(40.729253278000044, -73.78190891699995)",Queens Library - Hillcrest,973,187-05 Union Turnpike,Flushing,11366,718-454-2786,Free,http://www.queenslibrary.org/
+943,"(40.72016876500004, -73.76230411099993)",Queens Library - Hollis,974,202-05 Hillside Avenue,Hollis,11423,718-465-7355,Free,http://www.queenslibrary.org/
+944,"(40.66380479600008, -73.8417968629999)",Queens Library - Howard Beach,975,92-06 156 Avenue,Howard Beach,11414,718-641-7086,Free,http://www.queenslibrary.org/
+945,"(40.725918817000036, -73.82071906999994)",Queens Library - Kew Gardens Hills,976,72-33 Vleigh Place,Flushing,11367,718-261-6654,Free,http://www.queenslibrary.org/
+946,"(40.67695306100006, -73.74567356199992)",Queens Library - Laurelton,977,134-26 225 Street,Laurelton,11413,718-528-2822,Free,http://www.queenslibrary.org/
+947,"(40.686907622000035, -73.82482969799992)",Queens Library - Lefferts,978,103-34 Lefferts Boulevard,Richmond Hill,11419,718-843-5950,Free,http://www.queenslibrary.org/
+948,"(40.73744514300006, -73.86166525699991)",Queens Library - Lefrak City,979,98-30 57 Avenue,Corona,11368,718-592-7677,Free,http://www.queenslibrary.org/
+949,"(40.72709375800008, -73.89296053299995)",Queens Library - Maspeth,980,69-70 Grand Avenue,Maspeth,11378,718-639-5228,Free,http://www.queenslibrary.org/
+950,"(40.76375065000008, -73.80983348299992)",Queens Library - McGoldrick,981,155-06 Roosevelt Avenue,Flushing,11354,718-461-1616,Free,http://www.queenslibrary.org/
+951,"(40.71294390200006, -73.88086427499991)",Queens Library - Middle Village,982,72-31 Metropolitan Avenue,Middle Village,11379,718-326-1390,Free,http://www.queenslibrary.org/
+952,"(40.77112585800006, -73.82691581099994)",Queens Library - Mitchell-Linden,983,29-42 Union Street,Flushing,11354,718-539-2330,Free,http://www.queenslibrary.org/
+953,"(40.71118596300005, -73.85367277799992)",Queens Library - North Forest Park,984,98-27 Metropolitan Avenue,Forest Hills,11375,718-261-5512,Free,http://www.queenslibrary.org/
+954,"(40.759245468000074, -73.73182667799995)",Queens Library - North Hills,985,57-04 Marathon Parkway,Little Neck,11362,718-225-3550,Free,http://www.queenslibrary.org/
+955,"(40.751159733000065, -73.99217576199993)",Starbucks,678,1 Penn Plaza,New York,10001,212-760-3001,Fee-based,http://www.starbucks.com
+956,"(40.74890009200004, -73.99255081899992)",Starbucks,679,370 7th Avenue,New York,10001,212-967-2041,Fee-based,http://www.starbucks.com
+957,"(40.75355267400005, -73.99878725799994)",Starbucks,680,450 W. 33rd Street,New York,10001,212-563-0692,Fee-based,http://www.starbucks.com
+958,"(40.74425781900004, -73.98376379399991)",Starbucks,681,424 Park Avenue South,New York,10016,212-725-0637,Fee-based,http://www.starbucks.com
+959,"(40.744941624000035, -73.98658216599995)",Starbucks,682,261 Fifth Avenue,New York,10016,212-779-1557,Fee-based,http://www.starbucks.com
+960,"(40.74202580100007, -73.98032522099993)",Starbucks,683,395 Third Avenue,New York,10016,212-686-2483,Fee-based,http://www.starbucks.com
+961,"(40.745197327000085, -73.99082683599994)",Starbucks,684,776 Avenue of the Americas,New York,10001,212-481-1856,Fee-based,http://www.starbucks.com
+962,"(40.80484153200007, -73.96684062399993)",Starbucks,685,2855 Broadway,New York,10025,212-280-7268,Fee-based,http://www.starbucks.com
+963,"(40.74363560900008, -73.9917538599999)",Starbucks,686,750 6th Avenue,New York,10010,212-481-1856,Fee-based,http://www.starbucks.com
+964,"(40.74015482200008, -73.98695481899995)",Starbucks,687,304 Park Avenue South,New York,10010,212-475-9025,Fee-based,http://www.starbucks.com
+965,"(40.80714655300005, -73.96498638499992)",Starbucks,688,2929 Broadway,New York,10025,212-932-0300,Fee-based,http://www.starbucks.com
+966,"(40.74526628000007, -73.99891011099993)",Starbucks,689,300 W 23rd St,New York,10011,646-638-1571,Fee-based,http://www.starbucks.com
+967,"(40.73878749800008, -73.98353417899995)",Starbucks,690,296-300 Third Avenue,New York,10010,212-598-9858,Fee-based,http://www.starbucks.com
+968,"(40.74183789300008, -73.99321200299994)",Starbucks,691,684 Avenue of the Americas,New York,10010,212-691-1948,Fee-based,http://www.starbucks.com
+969,"(40.74321321200006, -74.00057740699992)",Starbucks,692,177 Eighth Avenue,New York,10011,212-414-8786,Fee-based,http://www.starbucks.com
+970,"(40.737188126000035, -73.99092471099993)",Starbucks,693,41 Union Square West,New York,10003,646-336-6945,Fee-based,http://www.starbucks.com
+971,"(40.80780075100006, -73.9450884659999)",Starbucks,694,77-83 West 125th Street,New York,10027,917-492-2454,Fee-based,http://www.starbucks.com
+972,"(40.74123149900004, -74.0009959969999)",Starbucks,695,124 Eighth Avenue,New York,10011,212-462-2020,Fee-based,http://www.starbucks.com
+973,"(40.733075247000045, -73.98082219199995)",Starbucks,696,286A First Avenue,New York,10009,212-353-1214,Fee-based,http://www.starbucks.com
+974,"(40.76787221100005, -73.8872782009999)",LaGuardia Airport - Hertz,1140,Marine Air Terminal Building #22,Flushing,11371,718-478-5300,Fee-based,https://www.hertz.com/rentacar/index.jsp?bsc=t&targetPage=reservationOnHomepage.jsp
+975,"(40.696453241000086, -73.98348868799991)",McDonald's,1142,169 Tillary St,Brooklyn,11201, ,Fee-based,http://www.mcdonalds.com/wireless.html
+976,"(40.72876901500007, -74.00505402699991)",McDonald's,1143,208 Varick Street,New York,10014, ,Fee-based,http://www.mcdonalds.com/wireless.html
+977,"(40.77037036000007, -73.8640438079999)",McDonald's,1144,US Air East End Terminal - LaGuardia,Flushing,11371, ,Fee-based,http://www.mcdonalds.com/wireless.html
+978,"(40.64947138500008, -73.78283330699992)",McDonald's,1145,British Air Terminal - JFK,Jamaica,11430, ,Fee-based,http://www.mcdonalds.com/wireless.html
+979,"(40.846671323000066, -73.89342598299993)",McDonald's,1146,599 E Tremont Ave,Bronx,10457, ,Fee-based,http://www.mcdonalds.com/wireless.html
+980,"(40.856437001000074, -73.88120092899993)",McDonald's,1147,2505 Southern Blvd,Bronx,10458, ,Fee-based,http://www.mcdonalds.com/wireless.html
+981,"(40.86160165300004, -73.8924506109999)",McDonald's,1148,372 E Fordham Rd,Bronx,10458, ,Fee-based,http://www.mcdonalds.com/wireless.html
+982,"(40.862495513000056, -73.90287429299991)",McDonald's,1149,36 W Fordham Rd,Bronx,10468, ,Fee-based,http://www.mcdonalds.com/wireless.html
+983,"(40.816932558000076, -73.89256989699993)",McDonald's,1150,875 Garrison Ave,Bronx,10474, ,Fee-based,http://www.mcdonalds.com/wireless.html
+984,"(40.65612904300008, -73.93056203499992)",McDonald's,1151,701 Utica Ave,Brooklyn,11203, ,Fee-based,http://www.mcdonalds.com/wireless.html
+985,"(40.65269581000007, -73.92320264499995)",McDonald's,1152,5707-13 Church Ave,Brooklyn,11203, ,Fee-based,http://www.mcdonalds.com/wireless.html
+986,"(40.67013921200004, -73.86034202999991)",McDonald's,1153,2797 Linden Blvd,Brooklyn,11208, ,Fee-based,http://www.mcdonalds.com/wireless.html
+987,"(40.669260777000034, -73.93073292299994)",McDonald's,1154,1133 Eastern Parkway,Brooklyn,11213, ,Fee-based,http://www.mcdonalds.com/wireless.html
+988,"(40.684591932000046, -73.97689339599992)",McDonald's,1155,Atlantic Terminal,Brooklyn,11217, ,Fee-based,http://www.mcdonalds.com/wireless.html
+989,"(40.64458413400007, -73.9877105999999)",McDonald's,1156,3525 Fort Hamilton Parkway,Brooklyn,11218, ,Fee-based,http://www.mcdonalds.com/wireless.html
+990,"(40.63210251000004, -73.92864709399993)",McDonald's,1157,1656 Utica Ave,Brooklyn,11234, ,Fee-based,http://www.mcdonalds.com/wireless.html
+991,"(40.61504724900004, -73.92896362999994)",McDonald's,1158,2240-50 Flatbush Ave.,Brooklyn,11234, ,Fee-based,http://www.mcdonalds.com/wireless.html
+992,"(40.63307400800005, -73.88990217599991)",McDonald's,1159,2028 Rockaway Parkway,Brooklyn,11236, ,Fee-based,http://www.mcdonalds.com/wireless.html
+993,"(40.760332376000065, -73.82797229599993)",McDonald's,1160,136-61 Roosevelt Ave,Flushing,11354, ,Fee-based,http://www.mcdonalds.com/wireless.html
+994,"(40.680156511000064, -73.7772678849999)",McDonald's,1161,166-01 Baisley Boulevard,Jamaica,11434, ,Fee-based,http://www.mcdonalds.com/wireless.html
+995,"(40.743678438000074, -73.92692829099991)",McDonald's,1162,33-80 Queens Blvd,Long Island City,11101, ,Fee-based,http://www.mcdonalds.com/wireless.html
+996,"(40.726783021000074, -73.89426922399991)",McDonald's,1163,69-35 Grand Ave,Maspeth,11378, ,Fee-based,http://www.mcdonalds.com/wireless.html
+997,"(40.75315987000005, -73.97450893099995)",McDonald's,1164,451 Lexington Avenue,New York,10017, ,Fee-based,http://www.mcdonalds.com/wireless.html
+998,"(40.755785880000076, -73.96432124199993)",McDonald's,1165,966 1st Avenue,New York,10022, ,Fee-based,http://www.mcdonalds.com/wireless.html
+999,"(40.83435379000008, -73.94422554099992)",McDonald's,1166,3794 Broadway,New York,10032, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1000,"(40.62549002500003, -74.14934137699993)",McDonald's,1167,1815 Forest Ave,Staten Island,10303, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1001,"(40.725745402000086, -73.99893012699994)",Pomegranate Café,1169,133 Greene Street,New York,10012, ,Fee-based, 
+1002,"(40.75233603800007, -73.99188500299994)",Public Telephone,1170,264 West 35th Street,New York,10001, ,Fee-based, 
+1003,"(40.680862181000066, -73.8464887259999)",Queens Library - Ozone Park,986,92-24 Rockaway Boulevard,Ozone Park,11417,718-845-3127,Free,http://www.queenslibrary.org/
+1004,"(40.58583974000004, -73.81606161999991)",Queens Library - Peninsula  (ALC),987,92-25 Rockaway Beach Boulevard,Rockaway Beach,11693,718-634-1110,Free,http://www.queenslibrary.org/
+1005,"(40.73303457500003, -73.80987988599992)",Queens Library - Pomonok,988,158-21 Jewel Avenue,Flushing,11365,718-591-4343,Free,http://www.queenslibrary.org/
+1006,"(40.78624946800005, -73.84601327899992)",Queens Library - Poppenhusen,989,121-23 14 Avenue,College Point,11356,718-359-1102,Free,http://www.queenslibrary.org/
+1007,"(40.71988588800008, -73.73904381999995)",Queens Library - Queens Village,990,94-11 217 Street,Queens Village,11428,718-776-6800,Free,http://www.queenslibrary.org/
+1008,"(40.74293128100004, -73.82516996499993)",Queens Library - Queensboro Hill,991,60-05 Main Street,Flushing,11355,718-359-8332,Free,http://www.queenslibrary.org/
+1009,"(40.72731689400007, -73.8645028279999)",Queens Library - Rego Park,992,91-41 63 Drive,Rego Park,11374,718-459-5140,Free,http://www.queenslibrary.org/
+1010,"(40.70076560000007, -73.83162541699994)",Queens Library - Richmond Hill,993,118-14 Hillside Avenue,Richmond Hill,11418,718-849-7150,Free,http://www.queenslibrary.org/
+1011,"(40.70517264400007, -73.90257237599991)",Queens Library - Ridgewood,994,20-12 Madison Street,Ridgewood,11385,718-821-4770,Free,http://www.queenslibrary.org/
+1012,"(40.672875538000085, -73.77059021499991)",Queens Library - Rochdale Village  (ALC),995,169-09 137 Avenue,Jamaica,11434,718-723-4440,Free,http://www.queenslibrary.org/
+1013,"(40.65996395600007, -73.73991101299993)",Queens Library - Rosedale,996,144-20 243 Street,Rosedale,11422,718-528-8490,Free,http://www.queenslibrary.org/
+1014,"(40.579391204000046, -73.8377356009999)",Queens Library - Seaside,997,116-15 Rockaway Beach Boulevard,Rockaway Park,11694,718-634-1876,Free,http://www.queenslibrary.org/
+1015,"(40.70701088900006, -73.75379667199991)",Queens Library - South Hollis,998,204-01 Hollis Avenue,South Hollis,11412,718-465-6779,Free,http://www.queenslibrary.org/
+1016,"(40.69662245000006, -73.7431178569999)",McDonald's,345,216-07 LINDEN BLVD,Cambria Heights,11411, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1017,"(40.76061868900007, -73.92615565799991)",McDonald's,346,32-55 31ST STREET,Long Island City,11106, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1018,"(40.77526038000008, -73.91226415699992)",McDonald's,347,22 50 31ST ST,Astoria,11105, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1019,"(40.76638289200008, -73.93097228999994)",McDonald's,348,31-46 21ST ST,Long Island City,11106, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1020,"(40.72623882700009, -73.85275185099994)",Starbucks,349,101-102 Queens Boulevard,Elmhurst,11375, ,Fee-based,http://www.starbucks.com
+1021,"(40.75271339500006, -73.91010661199994)",Starbucks,350,51-06 Northern Blvd,Woodside,11377, ,Fee-based,http://www.starbucks.com
+1022,"(40.760311408000064, -73.91822183799991)",Starbucks,351,31-44 Steinway Street,Astoria,11103, ,Fee-based,http://www.starbucks.com
+1023,"(40.75592319000009, -73.92312167999995)",Starbucks,352,3711 35th Avenue,Astoria,11101, ,Fee-based,http://www.starbucks.com
+1024,"(40.720682484000065, -73.84671339499994)",Starbucks,353,7000 Austin Street,Forest Hills,11375, ,Fee-based,http://www.starbucks.com
+1025,"(40.70726199500007, -73.85528610299991)",Starbucks,354,8989 Union Turnpike,Glendale,11375, ,Fee-based,http://www.starbucks.com
+1026,"(40.72027726600004, -73.84444960799993)",Starbucks,355,107-12 Continental Avenue,Flushing,11375, ,Fee-based,http://www.starbucks.com
+1027,"(40.766837218000035, -73.92883465699992)",Starbucks,356,22-04 31st Avenue,Astoria,11106, ,Fee-based,http://www.starbucks.com
+1028,"(40.757980359000044, -73.8297174249999)",Starbucks,357,41-02 Main Street,Flushing,11355, ,Fee-based,http://www.starbucks.com
+1029,"(40.62930724000006, -74.11586067499991)",McDonald's,358,803 Forest Ave,Staten Island,10310, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1030,"(40.55944634600007, -74.16913235099992)",McDonald's,359,3267 Richmond Ave,Staten Island,10312, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1031,"(40.629944127000044, -74.07634050799993)",McDonald's,360,501 Bay St,Staten Island,10304, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1032,"(40.57643193600006, -74.1667743029999)",McDonald's,361,2795 Richmond Ave,Staten Island,10314, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1033,"(40.58653202600004, -74.16732517299994)",Starbucks,362,2505 Richmond Avenue,Staten Island,10314, ,Fee-based,http://www.starbucks.com
+1034,"(40.569992177000074, -74.11022186299994)",Starbucks,364,2530 Hylan Boulevard,Staten Island,10306, ,Fee-based,http://www.starbucks.com
+1035,"(40.612205567000046, -74.13258616099995)",Starbucks,365,2070 Victory Blvd,Staten Island,10314, ,Fee-based,http://www.starbucks.com
+1036,"(40.554002307000076, -74.1437234089999)",The UPS Store,366,150 L Greaves Lane,Staten Island,10308, ,Fee-based,http://www.theupsstore.com/
+1037,"(40.608061252000084, -74.16228662599991)",The UPS Store,367,1652 Richmond Ave,Staten Island,10314, ,Fee-based,http://www.theupsstore.com/
+1038,"(40.626211529000045, -74.1355644059999)",The UPS Store,368,1351 Forest Ave,Staten Island,10302, ,Fee-based,http://www.theupsstore.com/
+1039,"(40.70534294500004, -74.01398333599991)",11 Broadway,369,11 Broadway,New York,10004,877-353-3377,Fee-based, 
+1040,"(40.70290559700004, -74.01396839799992)",17 State Street,370,17 State Street,New York,10004,877-353-3377,Fee-based, 
+1041,"(40.745290830000044, -73.99394425999992)",21NYC.com,371,159 West 25th Street,New York,10001, ,Fee-based, 
+1042,"(40.75531670700008, -73.98604226799995)",6 Time Square,372,1466 Broadway,New York,10036,877-353-3377,Fee-based, 
+1043,"(40.74695353100009, -73.98662506799991)",7 West 31St Street,373,7 West 31St Street,New York,10001,877-353-3377,Fee-based, 
+1044,"(40.75717985600005, -73.96918167799993)",875 Third Avenue Atrium,374,875 3rd Avenue,New York,10022,212-832-3409,Fee-based, 
+1045,"(40.72423596200008, -73.99778483199992)",Active-Beauty.com,375,Broadway & Prince,New York,10012,917-206-4912,Fee-based, 
+1046,"(40.757909270000084, -73.97818365299992)",Alfredo of Rome at Rockefeller,376,4 West 49th Street,New York,10020,212-397-0100,Fee-based, 
+1047,"(40.736334527000054, -73.99117380799993)",Atrium Cafe,377,25 Union Square,New York,10003,212-924-3331,Fee-based, 
+1048,"(40.75130147800007, -73.9726203859999)",Avis,378,217 E 43rd St,New York,10017,212-593-8350,Fee-based,http://www.avis.com
+1049,"(40.78133608300004, -73.98075412999992)",Avis of West 76th Street,379,216 West 76th Street,New York,10023, ,Fee-based, 
+1050,"(40.71717919100007, -74.00209228099993)",Bagel Deluxe,380,80 Lafayette Street,New York,10013, ,Fee-based, 
+1051,"(40.76745117400009, -73.98570398599992)",Balsley Park,381,West 57th Street & 9th Avenue,New York,10019,516-298-2969,Fee-based, 
+1052,"(40.76478076300003, -73.98762144599993)",Basics Coffee,392,786 9th Avenue,New York,10019,212-541-5614,Fee-based, 
+1053,"(40.78537823800008, -73.97626078099995)",Bean Coffee House,393,473 Amsterdam Avenue,New York,10024,917-441-4141,Fee-based, 
+1054,"(40.76131651900005, -73.9844888099999)",Belly Deli,394,1625 Broadway,New York,10019,212-333-5650,Fee-based, 
+1055,"(40.761742808000065, -73.97399864499994)",Cest Bon Café,395,11 E 55th Street,New York,10022,212-319-6680,Fee-based, 
+1056,"(40.76873532500008, -73.9828588929999)",Borders,396,10 Columbus Circle,New York,10019,212-823-9775,Fee-based,http://www.borders.com
+1057,"(40.74519907200005, -73.9824354889999)",Borders,397,461 Park Avenue South,New York,10016,212-980-6785,Fee-based,http://www.borders.com
+1058,"(40.74272506600005, -73.9768497739999)",Borders,398,550 Second Avenue,New York,10016,212-685-3938,Fee-based,http://www.borders.com
+1059,"(40.707975487000056, -74.01111280799995)",Borders,399,100 Broadway,New York,10005,212-964-1988,Fee-based,http://www.borders.com
+1060,"(40.761004882000066, -73.97587961499994)",Buchmann Tower,400,680 Fifth Avenue,New York,10019, ,Fee-based, 
+1061,"(40.752387956000064, -73.98519108999994)",Cafe 39,401,62 W 39th Street,New York,10018, ,Fee-based, 
+1062,"(40.86423370500006, -73.92895458299995)",Cafe 7 Lounge,402,4710 Broadway,New York,10040, ,Fee-based, 
+1063,"(40.75467446300007, -73.98626979599993)",Cafe Duke II,403,1450 Broadway,New York,10018,212-354-4558,Fee-based, 
+1064,"(40.72372545300004, -73.9988166629999)",Cafe Duke,404,545 Broadway,New York,10012,212-982-5700,Fee-based, 
+1065,"(40.706731897000054, -74.0131179899999)",Cafe Exchange,405,49 Broadway,New York,10006,212-425-5000,Fee-based, 
+1066,"(40.72979411400007, -73.99921344099994)",Swish Cafe and Shabu Shabu,406,88 West 3rd Street,New York,10012,212-777-8808,Fee-based, 
+1067,"(40.761264581000034, -73.9861565349999)",Cybercafe Times Square,407,250 West 49th Street,New York,10019,212-333-4109,Fee-based,http://www.cyber-cafe.com
+1068,"(40.70775842000006, -74.01329132199993)",Cafe World,408,50 Trinity Place,New York,10006, ,Fee-based, 
+1069,"(40.715993421000064, -74.00345580999993)",Civic Deli,411,111 Worth Street,New York,10013,212-619-2720,Fee-based, 
+1070,"(40.768260542000064, -73.98324891199991)",Davidoff Columbus Circle,432,10 Columbus Circle,New York,10019,212-823-6383,Fee-based, 
+1071,"(40.70920825500008, -74.0061823129999)",Deli News,433,94 Fulton Street,New York,10038,212-566-6771,Fee-based, 
+1072,"(40.750755929000036, -73.97552962499992)",Delmanico,434,375 Lexington Ave,New York,10017,212-661-1929,Fee-based, 
+1073,"(40.73921342600005, -73.9874385519999)",Emmas Deli,435,270 Park Avenue South,New York,10010,212-777-0222,Fee-based, 
+1074,"(40.74860031900005, -73.9861122499999)",Empire State Building,436,350 5th Ave,New York,10001, ,Fee-based, 
+1075,"(40.77453732300006, -73.9594217149999)",Fedex Kinko's,437,1122 Lexington Avenue,New York,10021,212-628-5500,Fee-based,http://www.FedexKinkos.com
+1076,"(40.77453732300006, -73.9594217149999)",Fedex Kinko's,437,1122 Lexington Avenue,New York,10021,212-628-5500,Fee-based,http://www.FedexKinkos.com
+1077,"(40.77920917000006, -73.98236513699993)",Fedex Kinko's,438,221 West 72nd Street,New York,10023,212-362-5288,Fee-based,http://www.FedexKinkos.com
+1078,"(40.77920917000006, -73.98236513699993)",Fedex Kinko's,438,221 West 72nd Street,New York,10023,212-362-5288,Fee-based,http://www.FedexKinkos.com
+1079,"(40.76734348700006, -73.98122387599994)",Fedex Kinko's,439,240 Central Park South,New York,10019,212-258-3750,Fee-based,http://www.FedexKinkos.com
+1080,"(40.76734348700006, -73.98122387599994)",Fedex Kinko's,439,240 Central Park South,New York,10019,212-258-3750,Fee-based,http://www.FedexKinkos.com
+1081,"(40.76450295600006, -73.98300799099991)",Fedex Kinko's,440,233 West 54th Street,New York,10019,212-977-2679,Fee-based,http://www.FedexKinkos.com
+1082,"(40.76450295600006, -73.98300799099991)",Fedex Kinko's,440,233 West 54th Street,New York,10019,212-977-2679,Fee-based,http://www.FedexKinkos.com
+1083,"(40.75890919400007, -73.96974759199992)",Fedex Kinko's,441,641 Lexington Avenue,New York,10022,212-572-9995,Fee-based,http://www.FedexKinkos.com
+1084,"(40.75890919400007, -73.96974759199992)",Fedex Kinko's,441,641 Lexington Avenue,New York,10022,212-572-9995,Fee-based,http://www.FedexKinkos.com
+1085,"(40.758151696000084, -73.96993202699991)",Fedex Kinko's,442,153 East 53rd Street,New York,10022,212-753-7580,Fee-based,http://www.FedexKinkos.com
+1086,"(40.758151696000084, -73.96993202699991)",Fedex Kinko's,442,153 East 53rd Street,New York,10022,212-753-7580,Fee-based,http://www.FedexKinkos.com
+1087,"(40.740654944000084, -73.99390137699993)",Fedex Kinko's,443,650 Avenue of the Americas,New York,10011,646-638-9238,Fee-based,http://www.FedexKinkos.com
+1088,"(40.740654944000084, -73.99390137699993)",Fedex Kinko's,443,650 Avenue of the Americas,New York,10011,646-638-9238,Fee-based,http://www.FedexKinkos.com
+1089,"(40.759154797000065, -73.97527747299995)",Fedex Kinko's,444,16 East 52nd Street,New York,10022,212-308-2679,Fee-based,http://www.FedexKinkos.com
+1090,"(40.759154797000065, -73.97527747299995)",Fedex Kinko's,444,16 East 52nd Street,New York,10022,212-308-2679,Fee-based,http://www.FedexKinkos.com
+1091,"(40.75870597900007, -73.98247524299995)",Fedex Kinko's,445,1211 Avenue Of Americas,New York,10036,212-391-2679,Fee-based,http://www.FedexKinkos.com
+1092,"(40.75870597900007, -73.98247524299995)",Fedex Kinko's,445,1211 Avenue Of Americas,New York,10036,212-391-2679,Fee-based,http://www.FedexKinkos.com
+1093,"(40.73857661200009, -73.9871535979999)",Fedex Kinko's,446,257 Park Avenue South,New York,10010,646-602-0074,Fee-based,http://www.FedexKinkos.com
+1094,"(40.73857661200009, -73.9871535979999)",Fedex Kinko's,446,257 Park Avenue South,New York,10010,646-602-0074,Fee-based,http://www.FedexKinkos.com
+1095,"(40.75348066500004, -73.9720311669999)",Fedex Kinko's,447,747 3rd Ave,New York,10017,212-753-7778,Fee-based,http://www.FedexKinkos.com
+1096,"(40.75348066500004, -73.9720311669999)",Fedex Kinko's,447,747 3rd Ave,New York,10017,212-753-7778,Fee-based,http://www.FedexKinkos.com
+1097,"(40.75438460700008, -73.97611662399993)",Fedex Kinko's,448,71 Vanderbilt Street,New York,10017,212-949-2534,Fee-based,http://www.FedexKinkos.com
+1098,"(40.75438460700008, -73.97611662399993)",Fedex Kinko's,448,71 Vanderbilt Street,New York,10017,212-949-2534,Fee-based,http://www.FedexKinkos.com
+1099,"(40.752302549000035, -73.96957734799992)",Fedex Kinko's,449,305 East 46th Street,New York,10017,212-319-6600,Fee-based,http://www.FedexKinkos.com
+1100,"(40.752302549000035, -73.96957734799992)",Fedex Kinko's,449,305 East 46th Street,New York,10017,212-319-6600,Fee-based,http://www.FedexKinkos.com
+1101,"(40.753057572000046, -73.98442215599994)",Fedex Kinko's,450,60 West 40th Street,New York,10018,212-921-1060,Fee-based,http://www.FedexKinkos.com
+1102,"(40.753057572000046, -73.98442215599994)",Fedex Kinko's,450,60 West 40th Street,New York,10018,212-921-1060,Fee-based,http://www.FedexKinkos.com
+1103,"(40.74936168500005, -73.97595240399994)",Fedex Kinko's,451,600 3rd Avenue,New York,10016,212-599-2679,Fee-based,http://www.FedexKinkos.com
+1104,"(40.74936168500005, -73.97595240399994)",Fedex Kinko's,451,600 3rd Avenue,New York,10016,212-599-2679,Fee-based,http://www.FedexKinkos.com
+1105,"(40.74481877200009, -73.99476712599994)",Fedex Kinko's,452,245 Seventh Avenue,New York,10001,212-929-0623,Fee-based,http://www.FedexKinkos.com
+1106,"(40.74481877200009, -73.99476712599994)",Fedex Kinko's,452,245 Seventh Avenue,New York,10001,212-929-0623,Fee-based,http://www.FedexKinkos.com
+1107,"(40.753417726000066, -73.9896917129999)",Fedex Kinko's,453,500 7th Avenue,New York,10018,646-366-9166,Fee-based,http://www.FedexKinkos.com
+1108,"(40.76239190200005, -73.96559875299994)",Starbucks,879,1021 Third Avenue,New York,10021,212-486-6764,Fee-based,http://www.starbucks.com
+1109,"(40.709524213000066, -74.00983253399994)",T-Mobile,880,170 Broadway,New York,10038,212-571-5077,Fee-based,http://www.t-mobile.com/
+1110,"(40.72483543900006, -74.00200505599992)",TCC Teleplex Public Telephone,881,410 West Broadway,New York,10012,212-965-8800,Fee-based, 
+1111,"(40.71636685000004, -74.00408018899992)",The UPS Store,885,342 Broadway,New York,10013,212-842-5383,Fee-based,http://www.theupsstore.com
+1112,"(40.744279996000046, -73.99886212399991)",Big Cup Tea & Coffee House,909,228 8th Ave,New York,10011,212-206-0059,Fee-based, 
+1113,"(40.70877619300006, -74.00793961199992)",Zeytuna Market,910,59 Maiden Ln,New York,10038,347-643-9960,Fee-based, 
+1114,"(40.60949377500009, -73.9953553169999)",AL,913,1933 79th Street,Brooklyn,11214,718-343-9533,Fee-based, 
+1115,"(40.65397712500004, -73.94624600999992)",Affinia Dumont,914,150 E. 34th Street,Brooklyn,11203, ,Fee-based, 
+1116,"(40.69360416100005, -73.99087441699993)",Fedex Kinko's,917,16 Court Street,Brooklyn,11201,718-852-5631,Fee-based,http://www.FedexKinkos.com
+1117,"(40.66916184400009, -73.9122778439999)",McDonald's,918,1642 Pitkin Ave,Brooklyn,11212, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1118,"(40.61296321900005, -73.98280594499994)",McDonald's,919,6620 Bay Pky,Brooklyn,11204,718-331-6739,Fee-based,http://www.mcdonalds.com/wireless.html
+1119,"(40.598077388000036, -73.96146084899993)",McDonald's,920,2410 Coney Island Ave,Brooklyn,11223, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1120,"(40.67352529100009, -73.99914365199993)",McDonald's,921,357 Hamilton Avenue,Brooklyn,11231, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1121,"(40.691413182000076, -73.99186452099991)",McDonald's,922,82 Court St,Brooklyn,11201,718-852-2626,Fee-based,http://www.mcdonalds.com/wireless.html
+1122,"(40.68065139100008, -73.95031686699991)",McDonald's,923,1275 Fulton Street,Brooklyn,11216, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1123,"(40.619160831000045, -73.98974664199994)",McDonald's,924,6419 18th Ave,Brooklyn,11204,718-837-6322,Fee-based,http://www.mcdonalds.com/wireless.html
+1124,"(40.63826742900005, -73.94855865699992)",McDonald's,925,1930 Nostrand Ave,Brooklyn,11210, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1125,"(40.693311365000056, -73.96452339699994)",McDonald's,926,516A Myrtle Ave,Brooklyn,11205,718-638-8523,Fee-based,http://www.mcdonalds.com/wireless.html
+1126,"(40.690763591000064, -73.98624608599994)",McDonald's,927,420 Fulton St,Brooklyn,11201, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1127,"(40.681352519000086, -73.9669800129999)",McDonald's,928,840 Atlantic Ave,Brooklyn,11238, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1128,"(40.689115488000084, -73.92187730299992)",McDonald's,929,1380 Broadway,Brooklyn,11221, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1129,"(40.68456646100009, -73.97723089499993)",Starbucks Atlantic Terminal,930,139 Flatbush Ave,Brooklyn,11217,718-789-3418,Fee-based,http://www.starbucks.com
+1130,"(40.70155450900006, -73.9419325049999)",T-Mobile,932,24 Graham Avenue,Brooklyn,11206,718-302-0046,Fee-based,http://www.t-mobile.com
+1131,"(40.621941966000065, -74.02748973699994)",T-Mobile,933,440 86th Street,Brooklyn,11209,718-748-1220,Fee-based,http://www.t-mobile.com
+1132,"(40.60251484200006, -73.99418006699995)",T-Mobile,934,2165 86th Street,Brooklyn,11214,718-373-1740,Fee-based,http://www.t-mobile.com
+1133,"(40.67796795000004, -73.97272570099994)",The Chocolate Monkey,935,329 Flatbush Ave,Brooklyn,11217, ,Fee-based, 
+1134,"(40.689346529000034, -73.99281437899992)",The UPS Store,936,138 Court St,Brooklyn,11201, ,Fee-based,http://www.theUPSstore.com
+1135,"(40.66736663000006, -73.98148437799995)",The UPS Store,937,320 7th Ave,Brooklyn,11215, ,Fee-based,http://www.theUPSstore.com
+1136,"(40.62357089300008, -74.02477911499994)",The UPS Store,938,8225 5th Ave,Brooklyn,11209,718-680-8225,Fee-based,http://www.theUPSstore.com
+1137,"(40.74059695700004, -73.98807918299991)",McDonald's,1006,22 E 23rd St Flatiron,New York,10010, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1138,"(40.650339692000045, -73.79228971899994)",JFK International Airport - American Airlines Admirals Club (Domestic),1007,"Terminal 9, Concourse C, across from gate 42",Jamaica,11430, ,Fee-based,http://www.aa.com/content/aboutUs/whereWeFly/terminals/terminal_JFK.jhtml
+1139,"(40.647920689000046, -73.78936652499993)",JFK International Airport - American Airlines Admirals Club (International),1008,"Terminal 8, Concourse B, above international ticket lobby",Jamaica,11430, ,Fee-based,http://www.aa.com/content/aboutUs/whereWeFly/terminals/terminal_JFK.jhtml
+1140,"(40.77497453800004, -73.87408076199995)",LaGuardia Airport - American Airlines Admirals Club,1009,"Central Terminal Building, Concourse D, across from Gate D3",Flushing,11369, ,Fee-based,http://www.aa.com/content/aboutUs/whereWeFly/terminals/terminal_LGA.jhtml
+1141,"(40.774595488000045, -73.87209127599994)",LaGuardia Airport,1010,Central Terminal Baggage Claim,Flushing,11369,1-800-550-5030,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=1
+1142,"(40.77472559600005, -73.86950302699995)",LaGuardia Airport,1011,Central Terminal Concourse A,Flushing,11369,718-533-3401,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=1
+1143,"(40.77532589700007, -73.87106924599993)",LaGuardia Airport,1012,Central Terminal Concourse B,Flushing,11369,718-533-3402,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=2
+1144,"(40.775710090000075, -73.87267964499995)",LaGuardia Airport,1013,Central Terminal Concourse C,Flushing,11369,718-533-3403,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=3
+1145,"(40.77550701000007, -73.87448071699993)",LaGuardia Airport,1014,Central Terminal Concourse D,Flushing,11369,718-533-3404,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=4
+1146,"(40.77460060900006, -73.8717121809999)",LaGuardia Airport,1015,Central Terminal Food Court,Flushing,11369,718-533-3405,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=5
+1147,"(40.77460745900004, -73.87289316499994)",LaGuardia Airport,1016,Central Terminal Ticketing Area,Flushing,11369,718-533-3406,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=6
+1148,"(40.77164500400005, -73.86587776399995)",LaGuardia Airport,1017,US Airways Terminal,Flushing,11369,718-533-3407,Fee-based,http://www.boingo.com/search.html?stype=&pgt=results&cnty=US&ste=NY&cty=New%20York&cte=&zc=&dm=1&oft=100&sb=7
+1149,"(40.64338464700006, -73.79091883899991)",JFK International Airport - Roaming,1018,Terminal 1,Jamaica,11430,1-800-550-5030,Fee-based,https://selfcare.hotspot.t-mobile.com/locations/displayUSRoamingLocationDetails.do?locationID=CCG34
+1150,"(40.64808674200009, -73.78898719599994)",JFK International Airport - Roaming,1019,Terminal 8,Jamaica,11430,1-800-550-5030,Fee-based,https://selfcare.hotspot.t-mobile.com/locations/displayUSRoamingLocationDetails.do?locationID=CCG34
+1151,"(40.76924026800003, -73.86229848199991)",LaGuardia Airport - Delta Airlines Crown Room Club,1020,"Concourse level, inside security before Gate 2",Flushing,11369,1-800-323-2323,Fee-based,http://www.delta.com/traveling_checkin/airport_information/airport_maps/new_york_lga/index.jsp
+1152,"(40.638313380000056, -73.78502034299993)",JFK International Airport - Delta Airlines Crown Room Club,1021,"Terminal 3, above Gate 6",Jamaica,11430,1-800-323-2323,Fee-based,http://www.delta.com/traveling_checkin/airport_information/airport_maps/new_york_jfk/index.jsp
+1153,"(40.63792432100007, -73.7853327329999)",JFK International Airport - Delta Business Elite Lounge,1022,"Terminal 3, near Gate 10",Jamaica,11430,1-800-323-2323,Fee-based,http://www.delta.com/traveling_checkin/airport_information/airport_maps/new_york_jfk/index.jsp
+1154,"(40.63856241500008, -73.78707682699991)",JFK International Airport - Delta Business Elite Lounge,1023,"Terminal 3, near Gate 12",Jamaica,11430,1-800-323-2323,Fee-based,http://www.delta.com/traveling_checkin/airport_information/airport_maps/new_york_jfk/index.jsp
+1155,"(40.640473829000086, -73.78925985099994)",JFK International Airport - Delta Business Elite Lounge,1024,"Terminal 2, Upper Mezzanine, near Gate 21",Jamaica,11430,1-800-323-2323,Fee-based,http://www.delta.com/traveling_checkin/airport_information/airport_maps/new_york_jfk/index.jsp
+1156,"(40.64992145600007, -73.78209987799994)",JFK International Airport - United Red Carpet Club,1025,"Terminal 7, one level above Ticket Counter",Jamaica,11430,1-877-822-SPOT,Fee-based,"http://www.united.com/page/article/0,1360,1117,00.html"
+1157,"(40.77485696400004, -73.87257324099994)",LaGuardia Airport - United Red Carpet Club,1026,Concourse C behind ticket counter,Flushing,11369,1-877-822-SPOT,Fee-based,"http://www.united.com/page/article/0,1360,50338,00.html"
+1158,"(40.64991002600004, -73.78357055999993)",JFK International Airport - British Airways Concorde Room,1028,Terminal 7,Jamaica,11430, ,Fee-based,http://btopenzone.hotspot-directory.com/site_details.php?site_id=82846&from=search&offset=1
+1159,"(40.64952871500009, -73.78218527099995)",JFK International Airport - British Airways FIRST Lounge,1029,Terminal 7,Jamaica,11430, ,Fee-based,http://btopenzone.hotspot-directory.com/site_details.php?site_id=82846&from=search&offset=1
+1160,"(40.64998501400004, -73.78292410199992)",JFK International Airport - British Airways Terraces Lounge,1030,Terminal 7,Jamaica,11430, ,Fee-based,http://btopenzone.hotspot-directory.com/site_details.php?site_id=82846&from=search&offset=1
+1161,"(40.75838285200007, -73.97201150799992)",The Seagram Building,1032,375 Park Ave.,New York,10022, ,Fee-based, 
+1162,"(40.75416991800006, -73.9798282669999)",Equinox 108 - Fifth Ave @ 43rd,1033,521 5th Avenue,New York,10017, ,Fee-based,http://www.equinoxfitness.com/
+1163,"(40.75731166600008, -73.9785637299999)",Public Telephone,1034,2 West 48th Street,New York,10036, ,Fee-based, 
+1164,"(40.73178537900009, -73.98861406899994)",Public Telephone,1035,76 3rd Avenue,New York,10003, ,Fee-based, 
+1165,"(40.73713285000008, -73.99032932299991)",Public Telephone,1036,Corner of E. 17th Street + Union Square West,New York,10003, ,Fee-based, 
+1166,"(40.75922824300005, -73.83114366299992)",135 Star Donuts Inc,1037,13541 Roosevelt Ave,Flushing,11354, ,Fee-based, 
+1167,"(40.77742045600007, -73.9091128259999)",31st Street,1038,2121 31st Street,Astoria,11105, ,Fee-based,http://www.AlbAssociates.com
+1168,"(40.74364605800008, -73.95791769699991)",Avalon Riverview-NY,1039,201 50th Ave,Long Island City,11101, ,Fee-based, 
+1169,"(40.66051941500007, -73.80487112499992)",Avis - JFK Airport,1040,305 Federal Circle,Jamaica,11430,718-244-5400,Fee-based,http://www.avis.com/
+1170,"(40.76978341800009, -73.88739967099991)",Avis - LaGuardia,1041,"Laguardia Airport, Building 25",Flushing,11369,718-507-3600,Fee-based,http://www.avis.com/
+1171,"(40.643383293000056, -73.78244711199994)",JFK International Airport - Avion Bar,1043,"Avion Bar, located in Terminal 4",Jamaica,11430, ,Fee-based, 
+1172,"(40.64273983800007, -73.7904030329999)",JFK International Airport - Brooklyn Brewer,1044,"Brooklyn Brewers, located in Terminal 1",Jamaica,11430, ,Fee-based, 
+1173,"(40.64374292000008, -73.7822976779999)",JFK International Airport - Delancy's,1045,"Delancy's, located in Terminal 4",Jamaica,11430, ,Fee-based, 
+1174,"(40.64823715400007, -73.78774568299991)",JFK International Airport - Kosher Franks,1046,Terminal 8 in the vicinity of Kosher Franks,Jamaica,11430, ,Fee-based, 
+1175,"(40.816149486000086, -73.91671117599992)",McDonald's,1047,2870 3rd Ave,Bronx,10455, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1176,"(40.84176232800007, -73.9047341509999)",McDonald's,1048,1625 Webster Ave,Bronx,10457,(718) 299-0849,Fee-based,http://www.mcdonalds.com/wireless.html
+1177,"(40.82839524500008, -73.87800625299991)",McDonald's,1049,1540 Westchester Ave,Bronx,10472, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1178,"(40.64467081300006, -73.92164916799993)",McDonald's,1050,5804 Clarendon Rd,Brooklyn,11203,(718) 451-0834,Fee-based,http://www.mcdonalds.com/wireless.html
+1179,"(40.654721126000084, -73.96162991999995)",McDonald's,1051,180 Parkside Ave,Brooklyn,11226,(718) 282-2289,Fee-based,http://www.mcdonalds.com/wireless.html
+1180,"(40.69475317500007, -73.99503515799995)",Starbucks,1059,112 Montague Street,Brooklyn,11201,718-243-0455,Fee-based,http://www.starbucks.com
+1181,"(40.63025343900006, -74.10629963299994)",Starbucks,1060,480 Forest Ave,Staten Island,10301,718-273-5984,Fee-based,http://www.starbucks.com
+1182,"(40.62497512400006, -74.14745702899995)",Starbucks,1061,1756 Forest Avenue,Staten Island,10303,718-697-0293,Fee-based,http://www.starbucks.com
+1183,"(40.73951413800006, -73.78556022399994)",Starbucks,1062,61-51 188th Street,Fresh Meadows,11365,718-264-0658,Fee-based,http://www.starbucks.com
+1184,"(40.78202195600005, -73.82983624899992)",Starbucks,1063,138-11 20th Avenue,Whitestone,11356,718-539-4072,Fee-based,http://www.starbucks.com
+1185,"(40.760685221000074, -73.76643524799994)",Starbucks,1064,215-29 Northern Blvd.,Bayside,11361,718-281-4165,Fee-based,http://www.starbucks.com
+1186,"(40.743285582000055, -73.91847369699991)",Starbucks,1065,46-09 Queens Blvd.,Sunnyside,11104,718-472-5215,Fee-based,http://www.starbucks.com
+1187,"(40.75452971500005, -73.7378107749999)",Starbucks,1066,242-02 61st Avenue,Douglaston,11362,718-224-5316,Fee-based,http://www.starbucks.com
+1188,"(40.661441600000046, -73.84008125999992)",Starbucks,1067,157-41 Cross Bay Blvd.,Howard Beach,11414,718-641-9332,Fee-based,http://www.starbucks.com
+1189,"(40.75896662100007, -73.95302194399994)",Starbucks,1068,455 Main Street,New York,10044,212-371-1298,Fee-based,http://www.starbucks.com
+1190,"(40.77243355200005, -73.95019983299994)",Starbucks,1069,1515 York Avenue,New York,10028,212-472-3581,Fee-based,http://www.starbucks.com
+1191,"(40.872785606000036, -73.90761056399992)",Starbucks,1071,40-50 W 225th St,Bronx,10463, ,Fee-based,http://www.starbucks.com
+1192,"(40.73512764800006, -73.99399441199995)",Cafeteria 61,1084,61 5th Ave,New York,10003,212-691-5555,Fee-based, 
+1193,"(40.78712206600005, -73.97195169799994)",Columbus Cafe,1085,556 Columbus Ave.,New York,10024,212-721-9040,Fee-based, 
+1194,"(40.75076789900004, -73.9892954419999)",McDonalds,1091,151 WEST 34TH STREET,New York,10001, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1195,"(40.68912750000004, -73.98067439499994)",McDonalds,1092,395 FLATBUSH AVE EXTEN,Brooklyn,11201, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1196,"(40.73036528500006, -73.9540706709999)",McDonalds,1093,904 MANHATTAN AVE & GREENPOINT,Brooklyn,11222, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1197,"(40.80772559400003, -73.9449281439999)",McDonalds,1094,79 W 125TH ST,New York,10027, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1198,"(40.59464922500007, -74.08609862299994)",McDonalds,1095,1388 HYLAN BLVD,Staten Island,10305, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1199,"(40.58736509100004, -73.95366287799993)",McDonalds,1096,1509 SHEEPSHEAD BAY RD,Brooklyn,11235, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1200,"(40.70490463300007, -73.80946026299995)",McDonalds,1097,87-84 SUTPHIN BLVD,Jamaica,11435, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1201,"(40.607762741000045, -74.16288643099995)",McDonalds,1098,1660 RICHMOND AVE,Staten Island,10314, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1202,"(40.706047692000084, -73.79292577199993)",McDonalds,1099,166-30 JAMAICA AVE,Queens,11432, ,Fee-based,http://www.mcdonalds.com/wireless.html
+1203,"(40.71893262100008, -74.00255899599995)",Starbucks,1100,405 Broadway,New York,10013,646-613-0148,Fee-based,http://www.starbucks.com
+1204,"(40.72768896100007, -74.00763947999991)",Starbucks,1101,345 Hudson St.,New York,10014,646-486-0487,Fee-based,http://www.starbucks.com
+1205,"(40.73367828500005, -74.00609828199993)",Starbucks,1102,518 Hudson Street,New York,10014,646-486-0524,Fee-based,http://www.starbucks.com
+1206,"(40.74051783400006, -73.99148731999992)",Starbucks,1103,4 W. 21st Street,New York,10010,646-336-6583,Fee-based,http://www.starbucks.com
+1207,"(40.686238536000076, -73.9909572919999)",Starbucks,1104,164 Smith Street,Brooklyn,11201,718-422-0178,Fee-based,http://www.starbucks.com
+1208,"(40.74911647200008, -73.98379016899992)",Starbucks,1105,373 5th Avenue,New York,10016,212-213-5363,Fee-based,http://www.starbucks.com
+1209,"(40.692471142000045, -73.99146640799995)",Equinox 130 - Brooklyn Heights,1129,194 Joralemon,Brooklyn,11201,718-522-7533,Fee-based,http://www.equinoxfitness.com/
+1210,"(40.76110681700004, -73.96881405499994)",Gourmet Food,1132,707 Lexington Ave,New York,10022,212-980-0890,Fee-based, 
+1211,"(40.642817199000035, -73.79100873399994)",JFK International Airport,1133,Terminals 1 arrival halls and baggage claim,Jamaica,11430,217-244-4444,Fee-based, 
+1212,"(40.64372304600005, -73.78177044699993)",JFK International Airport,1134,Terminals 4 arrival halls and baggage claim,Jamaica,11430,217-244-4444,Fee-based, 
+1213,"(40.649138496000035, -73.78289906999993)",JFK International Airport,1135,Terminals 7 arrival halls and baggage claim,Jamaica,11430,217-244-4444,Fee-based, 
+1214,"(40.64718102000006, -73.79004527099994)",JFK International Airport,1136,Terminals 9 arrival halls and baggage claim,Jamaica,11430,217-244-4444,Fee-based, 
+1215,"(40.65940865200008, -73.80503583799992)",JFK International Airport - Hertz,1138,Building 300 Federal Circle,Jamaica,11430,718-646-6000,Fee-based,https://www.hertz.com/rentacar/index.jsp?bsc=t&targetPage=reservationOnHomepage.jsp
+1216,"(40.69469288100004, -73.98679463799994)",Starbucks,1171,6 Metro Tech,Brooklyn,11201, ,Fee-based,http://www.starbucks.com
+1217,"(40.70270632000006, -73.9909276269999)",Starbucks,1172,67 Front Street,Brookyn,11201, ,Fee-based,http://www.starbucks.com
+1218,"(40.75095599100007, -73.99170605099994)",Starbucks,1173,"1 Penn Plaza, Concourse Level",New York,10119, ,Fee-based,http://www.starbucks.com
+1219,"(40.74642404900004, -73.99365910099993)",Rosa's Pizza,1174,168 W 27th Street,New York,10001, ,Fee-based, 
+1220,"(40.757809268000074, -73.93930490299994)",Queens Library - Long Island City,1178,37-44 21 Street,Long Island City,11101,718-752-3700,Free,http://www.queenslibrary.org/
+1221,"(40.76223213800006, -73.96932374599993)",NYC Public Library - 58th  St  Branch,1179,127 E 58 Street,New York,10022,212-759-7358,Free,http://www.nypl.org/branch/services/wifi.html
+1222,"(40.785957661000054, -73.95180829299994)",NYC Public Library - 96th  St  Branch,1180,112 E 96 Street,New York,10128,212-289-0908,Free,http://www.nypl.org/branch/services/wifi.html
+1223,"(40.738078881000035, -73.98205276399995)",NYC Public Library - Epiphany  Branch,1181,228 E 23rd  Street,New York,10010,212-679-2645,Free,http://www.nypl.org/branch/services/wifi.html
+1224,"(40.795919370000036, -73.96784905599992)",NYC Public Library - Bloomingdale Branch,1182,150 West 100th Street,New York,10025,212-222-8030,Free,http://www.nypl.org/branch/services/wifi.html
+1225,"(40.756779220000055, -73.97247884199993)",NYC Public Library - Terence Cardinal Cooke-Cathedral Branch,1183,560 Lexington Avenue,New York,10022,212-752-3824,Free,http://www.nypl.org/branch/services/wifi.html
+1226,"(40.74382852600007, -73.97993403099991)",NYC Public Library - Kips Bay Branch,1184,446 Third Avenue,New York,10016,212-683-2520,Free,http://www.nypl.org/branch/services/wifi.html
+1227,"(40.80609459500005, -73.96472825299992)",NYC Public Library - Morningside Heights  Branch,1185,2900 Broadway,New York,10025,212-864-2530,Free,http://www.nypl.org/branch/services/wifi.html
+1228,"(40.744511738000085, -73.99595983599994)",NYC Public Library - Muhlenberg  Branch,1186,209 West 23rd Street,New York,10011,212-924-1585,Free,http://www.nypl.org/branch/services/wifi.html
+1229,"(40.724066020000066, -73.99572222599994)",NYC Public Library - Mulberry Branch,1187,10 Jersey Street,New York,10012,212-966-3424,Free,http://www.nypl.org/branch/services/wifi.html
+1230,"(40.77419594100007, -73.98422860399995)",NYC Public Library - Riverside  Branch,1188,127 Amsterdam Avenue,New York,10023,212-870-1810,Free,http://www.nypl.org/branch/services/wifi.html
+1231,"(40.770653748000086, -73.95135003199994)",NYC Public Library -Webster  Branch,1189,1465 York Avenue,New York,10075,212-288-5049,Free,http://www.nypl.org/branch/services/wifi.html
+1232,"(40.77360549600007, -73.95640656299992)",NYC Public Library - Yorkville  Branch,1190,222 East 79th Street,New York,10075,212-744-5824,Free,http://www.nypl.org/branch/services/wifi.html
+1233,"(40.75317061000004, -73.98216942199991)",NYC Public Library- Humanities and Social Sciences Library,1191,Fifth  Avenue and 42nd Street,New York,10016, ,Free,http://www.nypl.org/research/chss/
+1234,"(40.74046668300008, -73.99335263699993)",NYC Public Library - Andrew Heiskell Braille & Talking Book Library,1192,40 West 20th Street,New York,10011,212-206-5400,Free,http://talkingbooks.nypl.org/
+1235,"(40.74824402200005, -73.98297628499995)","NYC PublicLibrary - Science, Industry and Business Library",1194,188 Madison Avenue,New York,10016, ,Free,http://www.nypl.org/research/sibl/
+1236,"(40.80636933800008, -73.96318904999993)",Columbia University Library,1195,535 W 114th Street,New York,10027, ,Free,http://www.columbia.edu/cu/lweb/
+1237,"(40.715434334000065, -74.01263533699995)",St John's University Davis Library,1196,101 Murray Street,New York,10007, ,Free,http://www.stjohns.edu/academics/libraries/campus/davis
+1238,"(40.848180065000065, -73.91285627699995)",Community Access - Davidson Avenue,1197,1750 Davidson Avenue,Bronx,10453, ,Free,https://auth.nycwireless.net/hotspots_map.php
+1239,"(40.72493783500005, -73.99077521699991)",Community Access - East 2nd Street,1198,29 East 2nd Street,New York,10003, ,Free,https://auth.nycwireless.net/hotspots_map.php
+1240,"(40.71109376000004, -73.98359268299993)",Community Access - Gouverneur Court,1199,621 Water Street,New York,10002, ,Free,https://auth.nycwireless.net/hotspots_map.php
+1241,"(40.82407458800009, -73.89866363499993)",Coomunity Access - Rev James A. Polite Avenue,1200,1022 Rev James  A Polite Avenue,Bronx,10459, ,Free,https://auth.nycwireless.net/hotspots_map.php
+1242,"(40.82897582700008, -73.90069926399991)",Community Access -Tinton Avenue,1201,1189 Tinton Avenue,Bronx,10456, ,Free,https://auth.nycwireless.net/hotspots_map.php
+1243,"(40.72619536000008, -73.9989597249999)",Aroma Espresso Bar,1202,145 Greene St,New York,10012, ,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Aroma_Espresso_Bar_New_York_NY_6071.aspx
+1244,"(40.76647975000009, -73.98126402499992)",Associated Supermarket,1203,225 W 57th Street,New York,10019, ,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+1245,"(40.72825798400004, -74.00479306499994)",New Work City,1205,200 Varick Street Room 578,New York,10014, ,Free,http://www.nwcny.com/
+1246,"(40.86769902600008, -73.82863627699993)",Panera Bread,1206,340 Baychester Avenue,Bronx,10475, ,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+1247,"(40.764932172000044, -73.72606140899995)",Panera Bread,1207,25441 Horace Harding Expressway,Little Neck,11362, ,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+1248,"(40.57714882000005, -74.16406542599992)",Panera Bread,1208,280 Marsh Avenue,Staten Island,10314, ,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+1249,"(40.71010737600005, -73.85876661499992)",Panera Bread,1210,7325 Woodhaven Boulevard,Glendale,11385, ,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+1250,"(40.829657679000036, -73.92194475899993)","Joyce Kilmer Park, North End around playground",1360,E 164 St Bet Grand Concourse to Walton Av,Bronx,10451, ,Free,http://www.nycgovparks.org/parks/X028/
+1251,"(40.793633972000066, -73.93674694299995)",Thomas Jefferson Park Recreation Center Building,1361,"1 Avenue, East 111 to 114 streets",Manhattan,10029, ,Free,http://www.nycgovparks.org/parks/thomasjeffersonpark
+1252,"(40.70154456600005, -74.0147714869999)","Battery Park, around Battery Gardens",1362,17 State Street,Manhattan,10004, ,Free,http://www.nycgovparks.org/parks/batterypark
+1253,"(40.73975266100007, -74.0025238149999)",MTA 14th St station (A)(C)(E),0,14th St & 8th Av,Manhattan,10011,877-690-5116,Free,http://www.mta.info
+1254,"(40.73736090700004, -73.99683993799994)",MTA 14th St station (F)(M),0,14th St & 6th Av,Manhattan,10011,877-690-5116,Free,http://www.mta.info
+1255,"(40.745294182000066, -73.99848652499992)",MTA 23rd St station (C)(E),0,23rd St & 8th Av,Manhattan,10011,877-690-5116,Free,http://www.mta.info

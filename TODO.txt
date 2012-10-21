@@ -1,0 +1,14 @@
+release crosscompute-tutorials +
+    add another cross-validation example
+
+release crosscompute-tutorials XXX
+    make worksheet notebooks and solution notebooks
+    implement predictive example
+        add RTree example
+    add caching example
+    record video of deploying AMI on Fedora
+    record video of deploying AMI on Windows
+    check package docs for updates
+    fix erroneous MTA network
+    change animate heatmap into a real-world example
+    include picture of Cathaleen teaching a charla
