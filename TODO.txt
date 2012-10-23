@@ -4,3 +4,4 @@ release crosscompute-tutorials XXX
     add RTree example
     change animate heatmap into a real-world example
     check that notebooks update automatically
+    consider having a dataset as a recurring theme
