@@ -1,19 +1,6 @@
-release crosscompute-tutorials +
-    add another cross-validation example
-    add more text to MTA
-    run gm using subprocess
-    include heatmap gif
-    make links clickable
-
 release crosscompute-tutorials XXX
-    make worksheet notebooks and solution notebooks
-    implement predictive example
-        add RTree example
-    add caching example
-    record video of deploying AMI on Fedora
-    record video of deploying AMI on Windows
-    check package docs for updates
     fix erroneous MTA network
+    implement predictive example
+    add RTree example
     change animate heatmap into a real-world example
-    include picture of Cathaleen teaching a charla
-
+    check that notebooks update automatically
