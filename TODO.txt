@@ -5,3 +5,4 @@ release crosscompute-tutorials XXX
     change animate heatmap into a real-world example
     check that notebooks update automatically
     consider having a dataset as a recurring theme
+    introduce concepts before examples
