@@ -4,18 +4,17 @@ Here is a growing collection of interactive IPython Notebook tutorials on large-
 
 ## Install packages
 
+    cd ~/Documents
     git clone https://github.com/invisibleroads/crosscompute-scripts.git
     cd crosscompute-scripts
     bash fabfile.sh
 
-## Open notebooks
+## Run notebooks
 
-1. Download and unpack the notebooks into a folder.
-
+    cd ~/Documents
+    # Download and unpack the notebooks into a folder
     git clone https://github.com/invisibleroads/crosscompute-tutorials.git
-
-2. Activate virtual environment and start IPython notebook in the folder.
-
+    # Activate virtual environment and start IPython Notebook in the folder
     cd crosscompute-tutorials
     n
 
