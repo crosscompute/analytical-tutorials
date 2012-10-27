@@ -6,3 +6,4 @@ release crosscompute-tutorials XXX
     check that notebooks update automatically
     consider having a dataset as a recurring theme
     introduce concepts before examples
+    look into Google, Yelp, Foursquare business data
