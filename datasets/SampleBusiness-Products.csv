@@ -1,0 +1,11 @@
+ProductID,ProductName,ProductCost,ProductPrice
+1,Centella 250W,200,300
+2,Murolite 250W,350,400
+3,"Proyector Circular de 14""",50,150
+4,"Proyector Circular de 18""",100,200
+5,"Proyector Circular de 22""",150,250
+6,Reflector Rectangular 250W,100,200
+7,Reflector Rectangular 400W,150,300
+8,Reflector Rectangular 1000W,300,500
+9,Wallpak 250W,400,650
+10,Wallpak 400W,600,800
