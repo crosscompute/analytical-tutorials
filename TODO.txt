@@ -1,4 +1,5 @@
 release crosscompute-tutorials XXX
+    write script to convert ipynb to rst
     fix erroneous MTA network
     implement predictive example
     add RTree example
