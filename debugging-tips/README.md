@@ -144,8 +144,8 @@ Paste into a graphical terminal while preserving indents with \<CTRL-SHIFT-V\>.
 Use basic autocompletion (does not require jedi).
 
     vim
-        \<CTRL-n\>
-        \<CTRL-p\>
+        <CTRL-n>
+        <CTRL-p>
 
 
 
