@@ -125,19 +125,15 @@ Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion w
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U jedi
 
-Install [delimitMate](https://github.com/Raimondi/delimitMate) for smart quotes, parentheses and brackets.
+Choose other plugins.
 
-Install [vim-surround](https://github.com/tpope/vim-surround) to surround text with delimiters or tags
-
-Install [vim-repeat](https://github.com/tpope/vim-repeat) to repeat supported plugin actions (such as vim-surround).
-
-Install [SimpylFold](https://github.com/tmhedberg/SimpylFold) for code folding.
-
-Install [vim-fugitive](https://github.com/tpope/vim-fugitive) for integration with Git.
-
-Install [vim-airline](https://github.com/bling/vim-airline) for an informative status bar.
-
-Install [ctrlp](https://github.com/kien/ctrlp.vim) to locate a file by name.
+- [delimitMate](https://github.com/Raimondi/delimitMate) gives smart quotes, parentheses, brackets.
+- [vim-surround](https://github.com/tpope/vim-surround) surrounds text with delimiters or tags
+- [vim-repeat](https://github.com/tpope/vim-repeat) repeats plugin actions (such as vim-surround).
+- [SimpylFold](https://github.com/tmhedberg/SimpylFold) folds code.
+- [vim-fugitive](https://github.com/tpope/vim-fugitive) integrates with git.
+- [vim-airline](https://github.com/bling/vim-airline) provides an informative status bar.
+- [ctrlp](https://github.com/kien/ctrlp.vim) locates a file by name.
 
 Paste into a graphical terminal while preserving indents with \<CTRL-SHIFT-V\>.
 
