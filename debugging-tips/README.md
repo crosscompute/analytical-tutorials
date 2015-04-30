@@ -5,7 +5,7 @@ Python debugging tips and tricks
 
 Isolate development packages from system packages
 -------------------------------------------------
-Keep development packages separate from system packages to prevent conflicts
+Keep development packages separate from system packages to prevent conflicts.
 
     # Install setuptools
     wget https://bootstrap.pypa.io/ez_setup.py -O /tmp/ez_setup.py
@@ -26,7 +26,7 @@ Keep development packages separate from system packages to prevent conflicts
 
 Prototype code
 --------------
-Run multiple terminals with minimal screen clutter
+Run multiple terminals with minimal screen clutter.
 
     # Install tmux
     sudo yum -y install tmux
@@ -60,7 +60,7 @@ Run multiple terminals with minimal screen clutter
     tmux attach         # Attach session
     tmux attach -t 0    # Attach session 0
 
-Experiment incrementally
+Experiment incrementally.
 
     # Install ipython notebook
     source ~/.virtualenvs/crosscompute/bin/activate
@@ -76,7 +76,7 @@ Experiment incrementally
 
 Convert prototype into a script
 -------------------------------
-Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc)
+Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc).
 
     vim .vimrc
         set tabstop=4      " Convert existing tabs to 4 spaces
@@ -86,7 +86,7 @@ Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc)
         set shiftround     " Round indent to multiple of shiftwidth
         set autoindent     " Align new line indent with previous line
 
-Install vundle to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/)
+Install vundle to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/).
 
     git clone --depth=1 https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     vim .vimrc
@@ -102,7 +102,7 @@ Install vundle to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-p
     vim
         :PluginList
 
-Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on save
+Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on save.
 
     vim .vimrc
         Plugin 'scrooloose/syntastic'
@@ -116,7 +116,7 @@ Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on 
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U flake8
 
-Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with <CTRL-SPACE>
+Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with \<CTRL-SPACE\>.
 
     vim .vimrc
         Plugin 'davidhalter/jedi-vim'
@@ -125,42 +125,42 @@ Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion w
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U jedi
 
-Install [delimitMate](https://github.com/Raimondi/delimitMate) for smart quotes, parentheses and brackets
+Install [delimitMate](https://github.com/Raimondi/delimitMate) for smart quotes, parentheses and brackets.
 
 Install [vim-surround](https://github.com/tpope/vim-surround) to surround text with delimiters or tags
 
-Install [vim-repeat](https://github.com/tpope/vim-repeat) to repeat supported plugin actions (such as vim-surround)
+Install [vim-repeat](https://github.com/tpope/vim-repeat) to repeat supported plugin actions (such as vim-surround).
 
-Install [SimpylFold](https://github.com/tmhedberg/SimpylFold) for code folding
+Install [SimpylFold](https://github.com/tmhedberg/SimpylFold) for code folding.
 
-Install [vim-fugitive](https://github.com/tpope/vim-fugitive) for integration with Git
+Install [vim-fugitive](https://github.com/tpope/vim-fugitive) for integration with Git.
 
-Install [vim-airline](https://github.com/bling/vim-airline) for an informative status bar
+Install [vim-airline](https://github.com/bling/vim-airline) for an informative status bar.
 
-Install [ctrlp](https://github.com/kien/ctrlp.vim) to locate a file by name
+Install [ctrlp](https://github.com/kien/ctrlp.vim) to locate a file by name.
 
-Paste into a graphical terminal while preserving indents with <CTRL-SHIFT-V>.
+Paste into a graphical terminal while preserving indents with \<CTRL-SHIFT-V\>.
 
     vim
         :set paste
         :set nopaste
 
-Use basic autocompletion (does not require jedi)
+Use basic autocompletion (does not require jedi).
 
     vim
-        <CTRL-n>
-        <CTRL-p>
+        \<CTRL-n\>
+        \<CTRL-p\>
 
 
 
 Debug script
 ------------
-Install packages
+Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U trepan ipdb bpython pudb
 
-Set breakpoints
+Set breakpoints.
 
     import IPython; IPython.embed()         # Explore breakpoint environment
     import trepan.api; trepan.api.debug()   # Step through code with extra features
@@ -168,7 +168,7 @@ Set breakpoints
     import bpdb; bpdb.set_trace()           # Step through code with bpython
     import pudb; pudb.set_trace()           # Revive Borland Turbo Debugger
 
-Use ipython
+Use ipython.
 
     pdb    # Toggle debugger on exception
     debug  # Start debugger on most recent exception
@@ -182,11 +182,11 @@ Use ipython
     save   # Save commands to file
     store  # Store variables for another session
 
-Run script with arguments (--), drop into ipdb on exception (--pdb), drop into ipython on completion (-i)
+Run script with arguments (--), drop into ipdb on exception (--pdb), drop into ipython on completion (-i).
 
     ipython --pdb -i -- print-lines.py quote1.txt
 
-Step through script with arguments (--)
+Step through script with arguments (--).
 
     trepan2 -- print-lines.py quote2.txt
         b 7             # Set breakpoint at line 7
@@ -200,7 +200,7 @@ Step through script with arguments (--)
 
 Maintain logs during production
 -------------------------------
-Use logging
+Use logging.
 
     import logging
 
@@ -213,7 +213,7 @@ Use logging
     logging.error('d')
     logging.critical('e')
 
-Use traceback to capture unexpected exceptions
+Use traceback to capture unexpected exceptions.
 
     import logging
     import traceback
@@ -223,4 +223,4 @@ Use traceback to capture unexpected exceptions
         exception_text = traceback.format_exc()
         logging.error(exception_text)
 
-Setup logging server with pyzmq to debug microservices (see https://zeromq.github.io/pyzmq/logging.html)
+Setup logging server with pyzmq to debug microservices (see https://zeromq.github.io/pyzmq/logging.html).
