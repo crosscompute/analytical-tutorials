@@ -121,6 +121,7 @@ Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion w
     vim .vimrc
         Plugin 'davidhalter/jedi-vim'
             let g:jedi#popup_on_dot = 0
+            let g:jedi#show_call_signatures = 0
     vim +PluginInstall +qall now
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U jedi
