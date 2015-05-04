@@ -173,7 +173,7 @@ Use ipython.
     whos   # List variables in namespace
     pwd    # Show present working directory
 
-    paste  # Paste clipboard contents
+    paste  # Past clipboard contents
     prun   # Profile code to identify bottlenecks
 
     save   # Save commands to file
