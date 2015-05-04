@@ -116,7 +116,7 @@ Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on 
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U flake8
 
-Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with \<CTRL-SPACE\>.
+Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with CTRL-SPACE.
 
     vim .vimrc
         Plugin 'davidhalter/jedi-vim'
@@ -136,7 +136,7 @@ Choose other plugins.
 - [vim-airline](https://github.com/bling/vim-airline) provides an informative status bar.
 - [ctrlp](https://github.com/kien/ctrlp.vim) locates a file by name.
 
-Paste into a graphical terminal while preserving indents with \<CTRL-SHIFT-V\>.
+Paste into a graphical terminal while preserving indents with CTRL-SHIFT-V.
 
     vim
         :set paste
@@ -145,8 +145,8 @@ Paste into a graphical terminal while preserving indents with \<CTRL-SHIFT-V\>.
 Use basic autocompletion (does not require jedi).
 
     vim
-        <CTRL-n>
-        <CTRL-p>
+        CTRL-n
+        CTRL-p
 
 
 
@@ -183,15 +183,24 @@ Run script with arguments (--), drop into ipdb on exception (--pdb), drop into i
 
     ipython --pdb -i -- print-lines.py quote1.txt
 
-Step through script with arguments (--).
+Step through script with arguments (--) with trepan.
 
     trepan2 -- print-lines.py quote2.txt
         b 7             # Set breakpoint at line 7
         c               # Run until breakpoint
         display line    # Set watch
+        1 + 1           # Execute custom code
         n               # Execute next line
         n               # Execute next line
         info threads    # Show threads
+
+Step through script with arguments (--) with pudb.
+
+    pudb -- explore-values.py
+        n               # Execute next line
+        s               # Step into function
+        CTRL-x          # Execute custom code
+        qq              # Quit
 
 
 
