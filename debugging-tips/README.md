@@ -116,7 +116,7 @@ Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on 
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U flake8
 
-Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with CTRL-SPACE.
+Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion with CTRL-SPACE and documentation with K.
 
     vim .vimrc
         Plugin 'davidhalter/jedi-vim'
