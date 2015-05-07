@@ -69,6 +69,7 @@ Experiment incrementally.
     pip install -U matplotlib
     # Start ipython notebook (see prototype-bits.ipynb)
     ipython notebook
+        debug  # Enter debugger after an exception
         %%capture interesting_output
         %%writefile useful-code.py
 
