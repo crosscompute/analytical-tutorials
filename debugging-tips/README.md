@@ -5,10 +5,7 @@ Python debugging tips and tricks
 
 Isolate development packages from system packages
 -------------------------------------------------
-Keep development packages separate from system packages to prevent conflicts.
-
-- [virtualenv](https://virtualenv.pypa.io/en/latest/)
-- [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+Keep development packages separate from system packages to prevent conflicts using [virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/).
 
     # Install setuptools
     wget https://bootstrap.pypa.io/ez_setup.py -O /tmp/ez_setup.py
@@ -29,9 +26,7 @@ Keep development packages separate from system packages to prevent conflicts.
 
 Prototype code
 --------------
-Run multiple terminals with minimal screen clutter.
-
-- [tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1)
+Run multiple terminals with minimal screen clutter using [tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1).
 
     # Install tmux
     sudo yum -y install tmux
@@ -66,9 +61,7 @@ Run multiple terminals with minimal screen clutter.
     tmux attach         # Attach session
     tmux attach -t 0    # Attach session 0
 
-Experiment incrementally.
-
-- [ipython notebook](http://ipython.org/notebook.html)
+Experiment incrementally using [ipython notebook](http://ipython.org/notebook.html).
 
     # Install ipython notebook
     source ~/.virtualenvs/crosscompute/bin/activate
