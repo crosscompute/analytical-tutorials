@@ -78,9 +78,7 @@ Experiment incrementally using [ipython notebook](http://ipython.org/notebook.ht
 
 Convert prototype into a script
 -------------------------------
-Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc).
-
-- [vim](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
+Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc for an example configuration).
 
     vim .vimrc
         set tabstop=4      " Convert existing tabs to 4 spaces
