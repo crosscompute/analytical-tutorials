@@ -23,6 +23,10 @@ Keep development packages separate from system packages to prevent conflicts usi
     # Activate virtual environment
     workon crosscompute
 
+    # Use shortcuts
+    cdvirtualenv
+    cdsitepackages pip
+
 
 
 Prototype code
