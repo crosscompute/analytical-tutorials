@@ -1,5 +1,6 @@
 Python debugging tips and tricks
 ================================
+http://bit.ly/1IpfNyU
 
 
 
