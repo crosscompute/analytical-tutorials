@@ -7,6 +7,9 @@ Isolate development packages from system packages
 -------------------------------------------------
 Keep development packages separate from system packages to prevent conflicts.
 
+- [virtualenv](https://virtualenv.pypa.io/en/latest/)
+- [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+
     # Install setuptools
     wget https://bootstrap.pypa.io/ez_setup.py -O /tmp/ez_setup.py
     sudo python /tmp/ez_setup.py
@@ -27,6 +30,8 @@ Keep development packages separate from system packages to prevent conflicts.
 Prototype code
 --------------
 Run multiple terminals with minimal screen clutter.
+
+- [tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1)
 
     # Install tmux
     sudo yum -y install tmux
@@ -57,10 +62,13 @@ Run multiple terminals with minimal screen clutter.
         CTRL-a %        # Split into left and right
         CTRL-a d        # Detach
     tmux list-sessions  # List sessions
+    tmux ls             # List sessions
     tmux attach         # Attach session
     tmux attach -t 0    # Attach session 0
 
 Experiment incrementally.
+
+- [ipython notebook](http://ipython.org/notebook.html)
 
     # Install ipython notebook
     source ~/.virtualenvs/crosscompute/bin/activate
@@ -79,6 +87,8 @@ Convert prototype into a script
 -------------------------------
 Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc).
 
+- [vim](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
+
     vim .vimrc
         set tabstop=4      " Convert existing tabs to 4 spaces
         set shiftwidth=4   " Use >> and << to shift indent by 4 columns
@@ -87,7 +97,7 @@ Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc)
         set shiftround     " Round indent to multiple of shiftwidth
         set autoindent     " Align new line indent with previous line
 
-Install vundle to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/).
+Install [vundle](https://github.com/gmarik/Vundle.vim) to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/).
 
     git clone --depth=1 https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     vim .vimrc
@@ -153,6 +163,12 @@ Use basic autocompletion (does not require jedi).
 
 Debug script
 ------------
+- [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html)
+- [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
+- [ipdb](https://pypi.python.org/pypi/ipdb)
+- [bpdb](http://docs.bpython-interpreter.org/bpdb.html)
+- [pudb](https://pypi.python.org/pypi/pudb)
+
 Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
@@ -166,7 +182,7 @@ Set breakpoints.
     import bpdb; bpdb.set_trace()           # Step through code with bpython
     import pudb; pudb.set_trace()           # Revive Borland Turbo Debugger
 
-Use ipython.
+Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
 
     pdb    # Toggle debugger on exception
     debug  # Start debugger on most recent exception
@@ -180,11 +196,11 @@ Use ipython.
     save   # Save commands to file
     store  # Store variables for another session
 
-Run script with arguments (--), drop into ipdb on exception (--pdb), drop into ipython on completion (-i).
+Run script with arguments (--), drop into [ipdb](https://pypi.python.org/pypi/ipdb) on exception (--pdb), drop into [ipython](https://pypi.python.org/pypi/ipython) on completion (-i).
 
     ipython --pdb -i -- print-lines.py quote1.txt
 
-Step through script with arguments (--) with trepan.
+Step through script with arguments (--) with [trepan](https://pypi.python.org/pypi/trepan).
 
     trepan2 -- print-lines.py quote2.txt
         b 7             # Set breakpoint at line 7
@@ -195,7 +211,7 @@ Step through script with arguments (--) with trepan.
         n               # Execute next line
         info threads    # Show threads
 
-Step through script with arguments (--) with pudb.
+Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
 
     pudb -- explore-values.py
         n               # Execute next line
@@ -207,7 +223,7 @@ Step through script with arguments (--) with pudb.
 
 Maintain logs during production
 -------------------------------
-Use logging.
+Use [logging](https://docs.python.org/2/library/logging.html).
 
     import logging
 
@@ -220,7 +236,7 @@ Use logging.
     logging.error('d')
     logging.critical('e')
 
-Use traceback to capture unexpected exceptions.
+Use [traceback](https://docs.python.org/2/library/traceback.html) to capture unexpected exceptions.
 
     import logging
     import traceback
@@ -230,4 +246,4 @@ Use traceback to capture unexpected exceptions.
         exception_text = traceback.format_exc()
         logging.error(exception_text)
 
-Setup logging server with pyzmq to debug microservices (see https://zeromq.github.io/pyzmq/logging.html).
+Setup logging server with [pyzmq](https://pypi.python.org/pypi/pyzmq) to debug microservices (see https://zeromq.github.io/pyzmq/logging.html).
