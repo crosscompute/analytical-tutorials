@@ -36,7 +36,7 @@ Run multiple terminals with minimal screen clutter using [tmux](http://www.openb
     # Install tmux
     sudo yum -y install tmux
     # Configure tmux
-    vim .tmux.conf
+    vim ~/.tmux.conf
         # Turn off status bar
         set -g status off
         # Change key binding from default CTRL-b to CTRL-a
