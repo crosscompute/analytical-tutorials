@@ -2,6 +2,10 @@ Python debugging tips and tricks
 ================================
 http://bit.ly/pdbtips
 
+- Triple exclamation marks (!!!) indicate essential techniques.
+- Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands.
+- Mac OS X and Windows users may find it easier to install a prepackaged solution such as Anaconda.
+
 
 
 Isolate development packages from system packages
@@ -60,10 +64,10 @@ Run multiple terminals with minimal screen clutter using [tmux](http://www.openb
 
         CTRL-a "        # Split into top and bottom
         CTRL-a %        # Split into left and right
-        CTRL-a d        # Detach
+        CTRL-a d        # !!! Detach
     tmux list-sessions  # List sessions
     tmux ls             # List sessions
-    tmux attach         # Attach session
+    tmux attach         # !!! Attach session
     tmux attach -t 0    # Attach session 0
 
 Experiment incrementally using [ipython notebook](http://ipython.org/notebook.html).
@@ -75,7 +79,7 @@ Experiment incrementally using [ipython notebook](http://ipython.org/notebook.ht
     pip install -U matplotlib
     # Start ipython notebook (see prototype-bits.ipynb)
     ipython notebook
-        debug  # Enter debugger after an exception
+        debug  # !!! Enter debugger after an exception
         %%capture interesting_output
         %%writefile useful-code.py
 
@@ -83,7 +87,7 @@ Experiment incrementally using [ipython notebook](http://ipython.org/notebook.ht
 
 Convert prototype into a script
 -------------------------------
-Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc for an example configuration).
+!!! Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc for an example configuration).
 
     vim .vimrc
         set tabstop=4      " Convert existing tabs to 4 spaces
@@ -93,7 +97,7 @@ Update .vimrc (see https://github.com/invisibleroads/scripts/blob/master/.vimrc 
         set shiftround     " Round indent to multiple of shiftwidth
         set autoindent     " Align new line indent with previous line
 
-Install [vundle](https://github.com/gmarik/Vundle.vim) to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/).
+!!! Install [vundle](https://github.com/gmarik/Vundle.vim) to manage plugins (see http://unlogic.co.uk/2013/02/08/vim-as-a-python-ide/).
 
     git clone --depth=1 https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     vim .vimrc
@@ -109,7 +113,7 @@ Install [vundle](https://github.com/gmarik/Vundle.vim) to manage plugins (see ht
     vim
         :PluginList
 
-Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on save.
+!!! Install [syntastic](https://github.com/scrooloose/syntastic) to check syntax on save.
 
     vim .vimrc
         Plugin 'scrooloose/syntastic'
@@ -159,6 +163,8 @@ Use basic autocompletion (does not require jedi).
 
 Debug script
 ------------
+When debugging, you can either set an explicit breakpoint or launch the script through the debugger. With the exception of IPython, the pdb variants share the same keyboard shortcuts.
+
 - [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html)
 - [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
 - [ipdb](https://pypi.python.org/pypi/ipdb)
@@ -170,20 +176,20 @@ Install packages.
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U trepan ipdb bpython pudb
 
-Set breakpoints.
+!!! Set breakpoints.
 
-    import IPython; IPython.embed()         # Explore breakpoint environment
+    import IPython; IPython.embed()         # !!! Explore breakpoint environment
     import trepan.api; trepan.api.debug()   # Step through code with extra features
     import ipdb; ipdb.set_trace()           # Step through code with ipython
     import bpdb; bpdb.set_trace()           # Step through code with bpython
-    import pudb; pudb.set_trace()           # Revive Borland Turbo Debugger
+    import pudb; pudb.set_trace()           # !!! Revive Borland Turbo Debugger
 
 Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
 
-    pdb    # Toggle debugger on exception
-    debug  # Start debugger on most recent exception
+    pdb    # !!! Toggle debugger on exception
+    debug  # !!! Start debugger on most recent exception
 
-    whos   # List variables in namespace
+    whos   # !!! List variables in namespace
     pwd    # Show present working directory
 
     paste  # Paste clipboard contents
@@ -192,26 +198,26 @@ Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
     save   # Save commands to file
     store  # Store variables for another session
 
-Run script with arguments (--), drop into [ipdb](https://pypi.python.org/pypi/ipdb) on exception (--pdb), drop into [ipython](https://pypi.python.org/pypi/ipython) on completion (-i).
+!!! Run script with arguments (--), drop into [ipdb](https://pypi.python.org/pypi/ipdb) on exception (--pdb), drop into [ipython](https://pypi.python.org/pypi/ipython) on completion (-i).
 
     ipython --pdb -i -- print-lines.py quote1.txt
 
 Step through script with arguments (--) with [trepan](https://pypi.python.org/pypi/trepan).
 
     trepan2 -- print-lines.py quote2.txt
-        b 7             # Set breakpoint at line 7
-        c               # Run until breakpoint
+        b 7             # !!! Set breakpoint at line 7
+        c               # !!! Run until breakpoint
         display line    # Set watch
         1 + 1           # Execute custom code
         n               # Execute next line
         n               # Execute next line
         info threads    # Show threads
 
-Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
+!!! Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
 
     pudb -- explore-values.py
-        n               # Execute next line
-        s               # Step into function
+        n               # !!! Execute next line
+        s               # !!! Step into function
         CTRL-x          # Execute custom code
         qq              # Quit
 
