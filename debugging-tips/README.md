@@ -184,6 +184,11 @@ Install packages.
     import bpdb; bpdb.set_trace()           # Step through code with bpython
     import pudb; pudb.set_trace()           # !!! Revive Borland Turbo Debugger
 
+Use two debuggers in tandem.
+
+    import IPython; IPython.embed()
+    import pudb; pudb.set_trace()
+
 Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
 
     pdb    # !!! Toggle debugger on exception
