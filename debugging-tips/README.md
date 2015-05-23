@@ -166,15 +166,16 @@ Debug script
 When debugging, you can either set an explicit breakpoint or launch the script through the debugger. With the exception of IPython, the pdb variants share the same keyboard shortcuts.
 
 - [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html)
-- [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
+- [pudb](https://pypi.python.org/pypi/pudb)
 - [ipdb](https://pypi.python.org/pypi/ipdb)
 - [bpdb](http://docs.bpython-interpreter.org/bpdb.html)
-- [pudb](https://pypi.python.org/pypi/pudb)
+- [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
+- [pdb++](https://bitbucket.org/antocuni/pdb/src)
 
 Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
-    pip install -U trepan ipdb bpython pudb
+    pip install -U trepan ipdb bpython pudb pdbpp
 
 !!! Set breakpoints.
 
