@@ -179,10 +179,10 @@ Install packages.
 !!! Set breakpoints.
 
     import IPython; IPython.embed()         # !!! Explore breakpoint environment
-    import trepan.api; trepan.api.debug()   # Step through code with extra features
+    import pudb; pudb.set_trace()           # !!! Revive Borland Turbo Debugger
     import ipdb; ipdb.set_trace()           # Step through code with ipython
     import bpdb; bpdb.set_trace()           # Step through code with bpython
-    import pudb; pudb.set_trace()           # !!! Revive Borland Turbo Debugger
+    import trepan.api; trepan.api.debug()   # Step through code with extra features
 
 Use two debuggers in tandem.
 
@@ -207,6 +207,14 @@ Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
 
     ipython --pdb -i -- print-lines.py quote1.txt
 
+!!! Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
+
+    pudb -- explore-values.py
+        n               # !!! Execute next line
+        s               # !!! Step into function
+        CTRL-x          # Execute custom code
+        qq              # Quit
+
 Step through script with arguments (--) with [trepan](https://pypi.python.org/pypi/trepan).
 
     trepan2 -- print-lines.py quote2.txt
@@ -218,13 +226,18 @@ Step through script with arguments (--) with [trepan](https://pypi.python.org/py
         n               # Execute next line
         info threads    # Show threads
 
-!!! Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
 
-    pudb -- explore-values.py
-        n               # !!! Execute next line
-        s               # !!! Step into function
-        CTRL-x          # Execute custom code
-        qq              # Quit
+
+Debug test
+----------
+Invoke debugger when a test fails.
+
+    py.test --pdb
+
+Set breakpoints in test.
+
+    import IPython; IPython.embed()
+    import pudb; pudb.set_trace()
 
 
 
