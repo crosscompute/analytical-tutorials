@@ -170,12 +170,11 @@ When debugging, you can either set an explicit breakpoint or launch the script t
 - [ipdb](https://pypi.python.org/pypi/ipdb)
 - [bpdb](http://docs.bpython-interpreter.org/bpdb.html)
 - [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
-- [pdb++](https://bitbucket.org/antocuni/pdb/src)
 
 Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
-    pip install -U trepan ipdb bpython pudb pdbpp
+    pip install -U trepan ipdb bpython pudb
 
 !!! Set breakpoints.
 
@@ -231,14 +230,23 @@ Step through script with arguments (--) with [trepan](https://pypi.python.org/py
 
 Debug test
 ----------
+Testing is easy with [pytest](http://pytest.org/latest/getting-started.html#getstarted), but it only supports the default debugger, which you can extend with [pdb++](https://bitbucket.org/antocuni/pdb/src).
+
+- [pytest](http://pytest.org/latest/getting-started.html#getstarted)
+- [pdb++](https://bitbucket.org/antocuni/pdb/src)
+
+Install packages.
+
+    source ~/.virtualenvs/crosscompute/bin/activate
+    pip install -U pytest pdbpp
+
 Invoke debugger when a test fails.
 
     py.test --pdb
 
 Set breakpoints in test.
 
-    import IPython; IPython.embed()
-    import pudb; pudb.set_trace()
+    import pdb; pdb.set_trace()
 
 
 
