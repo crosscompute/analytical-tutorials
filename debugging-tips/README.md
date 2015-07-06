@@ -170,6 +170,7 @@ When debugging, you can either set an explicit breakpoint or launch the script t
 - [ipdb](https://pypi.python.org/pypi/ipdb)
 - [bpdb](http://docs.bpython-interpreter.org/bpdb.html)
 - [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
+- [ptpython](https://github.com/jonathanslenders/ptpython)
 
 Install packages.
 
