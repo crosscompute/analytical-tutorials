@@ -174,15 +174,17 @@ When debugging, you can either set an explicit breakpoint or launch the script t
 Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
-    pip install -U trepan ipdb bpython pudb
+    pip install -U pudb ipdb bpython trepan ptpython
 
 !!! Set breakpoints.
 
-    import IPython; IPython.embed()         # !!! Explore breakpoint environment
-    import pudb; pudb.set_trace()           # !!! Revive Borland Turbo Debugger
-    import ipdb; ipdb.set_trace()           # Step through code with ipython
-    import bpdb; bpdb.set_trace()           # Step through code with bpython
-    import trepan.api; trepan.api.debug()   # Step through code with extra features
+    import IPython; IPython.embed()           # !!! Explore environment
+    import pudb; pudb.set_trace()             # !!! Revive Turbo Debugger
+    import ipdb; ipdb.set_trace()             # Step through code with ipython
+    import bpdb; bpdb.set_trace()             # Step through code with bpython
+    import trepan.api; trepan.api.debug()     # Step through code with trepan
+
+    from ptpython.ipython import embed; embed(vi_mode=True)  # Explore
 
 Use two debuggers in tandem.
 
