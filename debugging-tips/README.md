@@ -8,6 +8,31 @@ http://bit.ly/pdbtips
 
 
 
+Run commands
+------------
+Here are some [keyboard shortcuts that can save you time in the Bash command shell](http://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/):
+
+    CTRL-w  # Delete word before cursor
+    ALT-d   # Delete word after cursor
+
+    ALT-f   # Move one word forward
+    ALT-b   # Move one word backward
+
+    CTRL-u  # Clear line before cursor
+    CTRL-k  # Clear line after cursor
+    CTRL-l  # Clear screen
+
+    CTRL-r  # Search commands backward
+    CTRL-s  # Search commands forward
+
+    TAB     # Autocomplete paths
+
+You can also set vi editing mode!
+
+    set -o vi
+
+
+
 Isolate development packages from system packages
 -------------------------------------------------
 Keep development packages separate from system packages to prevent conflicts using [virtualenv](https://virtualenv.pypa.io/en/latest/) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/).
