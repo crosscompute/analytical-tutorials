@@ -10,7 +10,7 @@ http://bit.ly/pdbtips
 
 Run commands
 ------------
-Here are some [keyboard shortcuts that can save you time in the Bash command shell](http://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/):
+Here are some [keyboard shortcuts that can save you time in the Bash command shell](http://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/).
 
     CTRL-w  # Delete word before cursor
     ALT-d   # Delete word after cursor
