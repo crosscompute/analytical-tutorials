@@ -4,7 +4,7 @@ http://bit.ly/pdbtips
 
 - Triple exclamation marks (!!!) indicate essential techniques.
 - Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands.
-- Mac OS X and Windows users may find it easier to install a prepackaged solution such as Anaconda.
+- Mac OS X and Windows users may find it easier to install a prepackaged solution such as [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 
 
@@ -95,16 +95,16 @@ Run multiple terminals with minimal screen clutter using [tmux](http://www.openb
     tmux attach         # !!! Attach session
     tmux attach -t 0    # Attach session 0
 
-Experiment incrementally using [ipython notebook](http://ipython.org/notebook.html).
+Experiment incrementally using [jupyter](https://jupyter.org/).
 
-    # Install ipython notebook
+    # Install jupyter
     source ~/.virtualenvs/crosscompute/bin/activate
-    pip install -U ipython pyzmq tornado
+    pip install -U jupyter ipython pyzmq tornado
     # Install optional packages
     pip install -U matplotlib
-    # Start ipython notebook (see prototype-bits.ipynb)
-    ipython notebook
-        debug  # !!! Enter debugger after an exception
+    # Start jupyter (see prototype-bits.ipynb)
+    jupyter notebook
+        %debug  # !!! Enter debugger after an exception
         %%capture interesting_output
         %%writefile useful-code.py
 
