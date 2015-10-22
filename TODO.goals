@@ -1,10 +1,9 @@
-release crosscompute-tutorials XXX
-    write script to convert ipynb to rst
-    fix erroneous MTA network
-    implement predictive example
-    add RTree example
-    change animate heatmap into a real-world example
-    check that notebooks update automatically
-    consider having a dataset as a recurring theme
-    introduce concepts before examples
-    look into Google, Yelp, Foursquare business data
+Release crosscompute-tutorials XXX
+    Check that all exercises work properly
+    Fix erroneous MTA network
+    Implement predictive example
+    Add RTree example
+    Change animate heatmap into a real-world example
+    Consider having a dataset as a recurring theme
+    Introduce concepts before examples
+    Look into Google, Yelp, Foursquare business data

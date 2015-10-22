@@ -1,4 +1,3 @@
-crosscompute-tutorials
+CrossCompute Tutorials
 ======================
-
 Learn how to build analytical tools.
