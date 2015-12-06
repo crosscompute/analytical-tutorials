@@ -1,8 +1,9 @@
-Release crosscompute-tutorials XXX
+Update notebooks for spatiotemporal-analysis
+Update notebooks for computational-analysis
     Check that all exercises work properly
     Fix erroneous MTA network
     Implement predictive example
-    Add RTree example
+    Add rtree example
     Change animate heatmap into a real-world example
     Consider having a dataset as a recurring theme
     Introduce concepts before examples
