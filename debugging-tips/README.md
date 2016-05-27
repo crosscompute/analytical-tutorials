@@ -254,6 +254,11 @@ Step through script with arguments (--) with [trepan](https://pypi.python.org/py
         n               # Execute next line
         info threads    # Show threads
 
+!!! Enter debugger after an exception
+
+    jupyter notebook
+        %debug
+
 
 
 Debug test
