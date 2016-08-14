@@ -1,10 +1,9 @@
 Python debugging tips and tricks
 ================================
-http://bit.ly/pdbtips
+https://slides.com/invisibleroads/debugging-tips
 
 - Triple exclamation marks (!!!) indicate essential techniques.
-- Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands.
-- Mac OS X and Windows users may find it easier to install a prepackaged solution such as [Anaconda](https://store.continuum.io/cshop/anaconda/).
+- Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands. OS X users should use the [brew package manager](http://brew.sh/). Windows users may find it easier to install a prepackaged solution such as [Anaconda](https://store.continuum.io/cshop/anaconda/) or [Python(x,y)](http://python-xy.github.io/).
 
 
 
@@ -63,7 +62,7 @@ Prototype code
 Run multiple terminals with minimal screen clutter using [tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1).
 
     # Install tmux
-    sudo yum -y install tmux
+    sudo dnf -y install tmux
     # Configure tmux
     vim ~/.tmux.conf
         # Turn off status bar
@@ -165,12 +164,10 @@ Install [jedi-vim](https://github.com/davidhalter/jedi-vim) for autocompletion w
 Choose other plugins.
 
 - [delimitMate](https://github.com/Raimondi/delimitMate) gives smart quotes, parentheses, brackets.
-- [vim-surround](https://github.com/tpope/vim-surround) surrounds text with delimiters or tags
-- [vim-repeat](https://github.com/tpope/vim-repeat) repeats plugin actions (such as vim-surround).
-- [SimpylFold](https://github.com/tmhedberg/SimpylFold) folds code.
-- [vim-fugitive](https://github.com/tpope/vim-fugitive) integrates with git.
 - [vim-airline](https://github.com/bling/vim-airline) provides an informative status bar.
-- [ctrlp](https://github.com/kien/ctrlp.vim) locates a file by name.
+- [SimpylFold](https://github.com/tmhedberg/SimpylFold) folds code.
+- [ctrlp](https://github.com/ctrlpvim/ctrlp.vim) locates a file by name.
+- [dirdiff](https://github.com/will133/vim-dirdiff) locates a file by name.
 
 Paste into a graphical terminal while preserving indents with CTRL-SHIFT-V.
 
@@ -192,25 +189,20 @@ When debugging, you can either set an explicit breakpoint or launch the script t
 
 - [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html)
 - [pudb](https://pypi.python.org/pypi/pudb)
+- [wdb](https://pypi.python.org/pypi/wdb)
 - [ipdb](https://pypi.python.org/pypi/ipdb)
-- [bpdb](http://docs.bpython-interpreter.org/bpdb.html)
-- [trepan](https://github.com/rocky/python2-trepan/wiki/Tutorial)
-- [ptpython](https://github.com/jonathanslenders/ptpython)
 
 Install packages.
 
     source ~/.virtualenvs/crosscompute/bin/activate
-    pip install -U pudb ipdb bpython trepan ptpython
+    pip install -U ipython pudb wdb ipdb
 
 !!! Set breakpoints.
 
     import IPython; IPython.embed()           # !!! Explore environment
     import pudb; pudb.set_trace()             # !!! Revive Turbo Debugger
+    import wdb; wdb.set_trace()               # Debug remotely for threads
     import ipdb; ipdb.set_trace()             # Step through code with ipython
-    import bpdb; bpdb.set_trace()             # Step through code with bpython
-    import trepan.api; trepan.api.debug()     # Step through code with trepan
-
-    from ptpython.ipython import embed; embed(vi_mode=True)  # Explore
 
 Use two debuggers in tandem.
 
@@ -237,27 +229,19 @@ Use [ipython](http://ipython.org/ipython-doc/stable/interactive/index.html).
 
 !!! Step through script with arguments (--) with [pudb](https://pypi.python.org/pypi/pudb).
 
-    pudb -- explore-values.py
+    pudb -- explore-values.py arg1 arg2
         n               # !!! Execute next line
         s               # !!! Step into function
         CTRL-x          # Execute custom code
         qq              # Quit
 
-Step through script with arguments (--) with [trepan](https://pypi.python.org/pypi/trepan).
+Trace on CTRL-C.
 
-    trepan2 -- print-lines.py quote2.txt
-        b 7             # !!! Set breakpoint at line 7
-        c               # !!! Run until breakpoint
-        display line    # Set watch
-        1 + 1           # Execute custom code
-        n               # Execute next line
-        n               # Execute next line
-        info threads    # Show threads
+    import pudb; pudb.set_interrupt_handler()
 
-!!! Enter debugger after an exception
+Debug threads or Docker containers.
 
-    jupyter notebook
-        %debug
+    import wdb; wdb.set_trace()
 
 
 
@@ -266,9 +250,9 @@ Debug test
 Testing is easy with [pytest](http://pytest.org/latest/getting-started.html#getstarted), but it only supports the default debugger, which you can extend with [pdb++](https://bitbucket.org/antocuni/pdb/src).
 
 - [pytest](http://pytest.org/latest/getting-started.html#getstarted)
-- [pdb++](https://bitbucket.org/antocuni/pdb/src)
+- [pdb++](https://pypi.python.org/pypi/pdbpp/)
 
-Install packages.
+Install packages. The pdbpp package enhances pdb and is compatible with pytest.
 
     source ~/.virtualenvs/crosscompute/bin/activate
     pip install -U pytest pdbpp
@@ -285,18 +269,24 @@ Set breakpoints in test.
 
 Maintain logs during production
 -------------------------------
-Use [logging](https://docs.python.org/2/library/logging.html).
+Define a namespaced [logger](https://docs.python.org/2/library/logging.html) for the module.
 
     import logging
 
-    logging.getLogger('requests').setLevel(logging.WARNING)
-    logging.basicConfig(level=logging.DEBUG)
+    logger = logging.getLogger(__name__)
+    logger.addHandler(logging.NullHandler())
 
-    logging.debug('a')
-    logging.info('b')
-    logging.warning('c')
-    logging.error('d')
-    logging.critical('e')
+    logger.debug('a')
+    logger.info('b')
+    logger.warning('c')
+    logger.error('d')
+    logger.critical('e')
+
+Specify which loggers to expose in the main script. For example, if your submodules are xyz.abc and xyz.def then you can use logging.getLogger('xyz') to listen to both submodules.
+
+    import logging
+    logging.getLogger('xyz').setLevel(logging.INFO)
+    logging.basicConfig()
 
 Use [traceback](https://docs.python.org/2/library/traceback.html) to capture unexpected exceptions.
 
@@ -305,7 +295,6 @@ Use [traceback](https://docs.python.org/2/library/traceback.html) to capture une
     try:
         {}[0]
     except Exception:
-        exception_text = traceback.format_exc()
-        logging.error(exception_text)
+        logging.error(traceback.format_exc())
 
-Setup logging server with [pyzmq](https://pypi.python.org/pypi/pyzmq) to debug microservices (see https://zeromq.github.io/pyzmq/logging.html).
+Configure a [rsyslog server](https://hynek.me/articles/taking-some-pain-out-of-python-logging/) to centralize logs across multiple processes.
