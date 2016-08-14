@@ -1,14 +1,14 @@
 Python debugging tips and tricks
 ================================
-- This content was first presented as a three hour hands-on workshop in Spanish at the [National Institute of Astrophysics, Optics and Electronics](http://astro.inaoep.mx) in Puebla, Mexico in May 2015 thanks to an invitation from Noe Dominguez Porras and Dr. Ibrahim Torres Aguilar.
-- This content was updated for a [25 minute talk](https://www.pycon.kr/2016apac/program/41) at PyCon Asia Pacific in Seoul, South Korea in August 2016.
+- Triple exclamation marks (!!!) indicate essential techniques.
+- Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands. OS X users should use the [brew package manager](http://brew.sh/). Windows users may find it easier to install a prepackaged solution such as [Anaconda](https://store.continuum.io/cshop/anaconda/) or [Python(x,y)](http://python-xy.github.io/).
 
 Slides https://slides.com/invisibleroads/debugging-tips
 
 Video https://www.youtube.com/watch?v=yZ3Ypil6sJk
 
-- Triple exclamation marks (!!!) indicate essential techniques.
-- Installation instructions are specific to Fedora. Other Linux distributions have equivalent commands. OS X users should use the [brew package manager](http://brew.sh/). Windows users may find it easier to install a prepackaged solution such as [Anaconda](https://store.continuum.io/cshop/anaconda/) or [Python(x,y)](http://python-xy.github.io/).
+- Content first presented as a three hour hands-on workshop in Spanish at the [National Institute of Astrophysics, Optics and Electronics](http://astro.inaoep.mx) in Puebla, Mexico in May 2015 thanks to an invitation from Noe Dominguez Porras and Dr. Ibrahim Torres Aguilar.
+- Content updated for a [25 minute talk](https://www.pycon.kr/2016apac/program/41) at PyCon Asia Pacific in Seoul, South Korea in August 2016.
 
 
 
