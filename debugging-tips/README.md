@@ -108,7 +108,12 @@ Experiment incrementally using [jupyter](https://jupyter.org/).
     pip install -U matplotlib
     # Start jupyter (see prototype-bits.ipynb)
     jupyter notebook
+        # import pdb; pdb.set_trace()
+        # from IPython import embed; embed()
+        from IPython.core.debugger import set_trace; set_trace()
+
         %debug  # !!! Enter debugger after an exception
+
         %%capture interesting_output
         %%writefile useful-code.py
 
