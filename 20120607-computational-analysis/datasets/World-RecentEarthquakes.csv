@@ -1,975 +1,387 @@
-Src,Eqid,Version,Datetime,Lat,Lon,Magnitude,Depth,NST,Region
-nn,00391306,9,"Tuesday, October 16, 2012 07:38:35 UTC",39.0382,-118.1655,1.8,4.40,20,"Nevada"
-ak,10580354,1,"Tuesday, October 16, 2012 07:36:53 UTC",63.5791,-147.3759,1.5,1.50, 7,"Central Alaska"
-ak,10580349,1,"Tuesday, October 16, 2012 07:28:24 UTC",63.3772,-152.2663,2.6,8.00,19,"Central Alaska"
-hv,60413201,1,"Tuesday, October 16, 2012 07:02:44 UTC",19.2758,-155.3887,1.9,40.70,29,"Island of Hawaii, Hawaii"
-ci,15231217,0,"Tuesday, October 16, 2012 06:06:19 UTC",32.6838,-115.7197,1.5,7.60,18,"Southern California"
-ak,10580335,1,"Tuesday, October 16, 2012 05:32:31 UTC",60.7372,-150.1137,2.7,93.70,12,"Kenai Peninsula, Alaska"
-nc,71860670,1,"Tuesday, October 16, 2012 05:26:12 UTC",36.5545,-121.1482,2.2,7.60,22,"Central California"
-ak,10580325,1,"Tuesday, October 16, 2012 05:16:24 UTC",61.0628,-151.2790,1.8,68.80,15,"Southern Alaska"
-ak,10580323,1,"Tuesday, October 16, 2012 05:09:40 UTC",63.9176,-149.6364,1.0,6.70, 6,"Central Alaska"
-nc,71860660,1,"Tuesday, October 16, 2012 05:08:43 UTC",37.4765,-118.8420,2.3,9.30,31,"Central California"
-ak,10580316,1,"Tuesday, October 16, 2012 05:02:44 UTC",62.1520,-145.5793,1.9,20.60,13,"Central Alaska"
-uw,60464802,2,"Tuesday, October 16, 2012 04:39:15 UTC",46.4685,-122.1270,2.1,10.50,36,"Washington"
-ci,15231049,0,"Tuesday, October 16, 2012 04:30:46 UTC",34.8672,-121.0420,2.6,6.60,23,"offshore Central California"
-us,b000d6lv,6,"Tuesday, October 16, 2012 04:15:33 UTC",38.2683,46.9603,4.5,32.40,16,"northwestern Iran"
-ak,10580305,1,"Tuesday, October 16, 2012 03:53:15 UTC",63.5620,-147.6541,1.8,0.10,10,"Central Alaska"
-nc,71860640,0,"Tuesday, October 16, 2012 03:40:39 UTC",38.4303,-122.4898,1.6,6.70,11,"Northern California"
-ci,15231041,0,"Tuesday, October 16, 2012 03:32:46 UTC",35.9583,-117.6622,1.9,3.50,12,"Central California"
-ci,15231033,0,"Tuesday, October 16, 2012 03:23:17 UTC",35.8673,-118.1015,1.3,12.50,34,"Central California"
-ak,10580298,1,"Tuesday, October 16, 2012 03:06:19 UTC",63.2728,-151.5191,1.4,14.80, 5,"Central Alaska"
-ci,15231025,0,"Tuesday, October 16, 2012 02:58:34 UTC",33.3463,-116.2962,2.1,13.00,120,"Southern California"
-ci,15231017,0,"Tuesday, October 16, 2012 02:53:15 UTC",36.0293,-117.7762,1.9,1.40,17,"Central California"
-ci,15231009,0,"Tuesday, October 16, 2012 02:23:12 UTC",32.6565,-115.7065,1.8,13.20,15,"Southern California"
-nc,71860585,1,"Tuesday, October 16, 2012 02:11:59 UTC",38.8322,-122.8052,2.1,2.30,38,"Northern California"
-us,b000d6l1,7,"Tuesday, October 16, 2012 02:03:29 UTC",31.2894,140.2882,5.4,102.60,362,"Izu Islands, Japan region"
-us,b000d6ks,4,"Tuesday, October 16, 2012 01:16:04 UTC",37.2728,37.0825,4.4,5.10,31,"central Turkey"
-nc,71860560,0,"Tuesday, October 16, 2012 00:54:12 UTC",37.6635,-118.9330,1.3,9.40,16,"Long Valley area, California"
-ci,15230961,0,"Tuesday, October 16, 2012 00:28:06 UTC",34.0132,-116.4442,1.7,7.10,60,"Southern California"
-nc,71860555,0,"Tuesday, October 16, 2012 00:25:53 UTC",36.4983,-121.0722,1.5,4.30, 7,"Central California"
-us,b000d6k1,5,"Tuesday, October 16, 2012 00:16:42 UTC",-36.8276,78.7286,5.0,9.80,21,"Mid-Indian Ridge"
-nc,71860550,1,"Tuesday, October 16, 2012 00:11:52 UTC",38.8210,-122.8087,1.1,3.30,23,"Northern California"
-nc,71860545,2,"Tuesday, October 16, 2012 00:08:47 UTC",36.4968,-121.0757,2.1,3.40,42,"Central California"
-nn,00391292,9,"Tuesday, October 16, 2012 00:08:07 UTC",36.8925,-117.6145,1.3,6.10,14,"Central California"
-ak,10580185,2,"Tuesday, October 16, 2012 00:02:11 UTC",62.2234,-145.6887,3.4,16.00,46,"Central Alaska"
-us,b000d6jr,9,"Monday, October 15, 2012 23:43:46 UTC",35.9145,69.6049,5.0,112.20,97,"Hindu Kush region, Afghanistan"
-ci,15230921,0,"Monday, October 15, 2012 23:39:34 UTC",32.9650,-115.8727,1.9,6.00,67,"Southern California"
-ci,15230913,0,"Monday, October 15, 2012 23:31:40 UTC",35.0352,-117.7022,1.5,0.00,26,"Southern California"
-ci,15230881,0,"Monday, October 15, 2012 23:02:10 UTC",33.7523,-116.4958,1.1,14.00,14,"Southern California"
-ci,15230873,0,"Monday, October 15, 2012 23:02:03 UTC",36.0478,-117.6948,2.1,2.10,15,"Central California"
-us,b000d6ij,7,"Monday, October 15, 2012 22:45:03 UTC",51.8269,159.6149,5.1,43.50,231,"off the east coast of the Kamchatka Peninsula, Russia"
-ci,15230857,0,"Monday, October 15, 2012 22:38:34 UTC",33.9900,-118.4287,1.8,4.00,44,"Greater Los Angeles area, California"
-ci,15230849,0,"Monday, October 15, 2012 22:08:43 UTC",36.2733,-118.0280,2.2,0.00,34,"Central California"
-ci,15230841,0,"Monday, October 15, 2012 22:00:26 UTC",35.7925,-118.5018,1.5,1.80,35,"Central California"
-uw,60464652,1,"Monday, October 15, 2012 21:59:07 UTC",47.5400,-122.6548,1.0,22.00,16,"Seattle-Tacoma urban area, Washington"
-us,b000d6er,4,"Monday, October 15, 2012 21:47:54 UTC",36.7274,141.7464,4.7,66.40,145,"near the east coast of Honshu, Japan"
-nc,71860495,3,"Monday, October 15, 2012 21:39:22 UTC",36.5760,-121.1735,2.1,3.60,54,"Central California"
-us,b000d6cs,7,"Monday, October 15, 2012 21:04:20 UTC",-31.8310,-71.7773,5.2,19.90,200,"offshore Coquimbo, Chile"
-ci,15230801,0,"Monday, October 15, 2012 20:50:10 UTC",32.7802,-117.2952,1.3,15.80,16,"Channel Islands region, California"
-ci,15230793,0,"Monday, October 15, 2012 20:48:54 UTC",36.0212,-118.3912,1.4,7.10,13,"Central California"
-ci,15230777,0,"Monday, October 15, 2012 20:38:26 UTC",36.0462,-117.6947,2.1,4.20,12,"Central California"
-ci,15230761,0,"Monday, October 15, 2012 20:31:52 UTC",36.0377,-117.6947,2.3,0.30,40,"Central California"
-nc,71860465,0,"Monday, October 15, 2012 20:21:41 UTC",36.4985,-121.0735,1.3,4.20, 7,"Central California"
-us,b000d6af,6,"Monday, October 15, 2012 20:19:01 UTC",-20.3305,-178.2605,5.2,544.50,390,"Fiji region"
-nc,71860460,0,"Monday, October 15, 2012 20:18:17 UTC",37.5927,-119.0040,1.3,4.30,16,"Central California"
-ci,15230753,0,"Monday, October 15, 2012 20:14:59 UTC",36.0492,-117.6930,2.2,2.20,11,"Central California"
-nc,71860450,0,"Monday, October 15, 2012 20:11:54 UTC",37.5860,-119.0050,1.4,4.90,17,"Central California"
-nc,71860445,0,"Monday, October 15, 2012 20:03:25 UTC",36.7768,-121.2777,1.3,10.20, 9,"Central California"
-ak,10580040,1,"Monday, October 15, 2012 19:43:34 UTC",62.3178,-149.7024,1.8,19.90,13,"Central Alaska"
-ci,15230737,0,"Monday, October 15, 2012 19:40:52 UTC",35.9617,-117.6635,1.2,3.80,12,"Central California"
-ci,15230729,0,"Monday, October 15, 2012 19:39:17 UTC",35.9647,-117.6660,1.4,3.60,20,"Central California"
-ak,10580022,1,"Monday, October 15, 2012 19:11:28 UTC",65.0071,-147.3335,1.8,0.00,14,"northern Alaska"
-ci,15230713,0,"Monday, October 15, 2012 19:10:34 UTC",32.5478,-115.6875,1.8,7.80,15,"Baja California, Mexico"
-ci,15230689,0,"Monday, October 15, 2012 18:31:54 UTC",33.2545,-116.4687,1.6,35.60,17,"Southern California"
-ak,10579961,1,"Monday, October 15, 2012 18:19:54 UTC",62.3442,-149.8487,2.1,0.60,17,"Central Alaska"
-uw,60464577,1,"Monday, October 15, 2012 18:19:22 UTC",47.7125,-122.5768,1.1,14.80,25,"Seattle-Tacoma urban area, Washington"
-ak,10579953,1,"Monday, October 15, 2012 18:11:30 UTC",64.3426,-150.6502,1.6,0.20,11,"Central Alaska"
-nc,71860415,1,"Monday, October 15, 2012 18:06:02 UTC",38.8055,-122.7992,1.1,3.10,25,"Northern California"
-us,b000d65a,7,"Monday, October 15, 2012 17:52:21 UTC",14.1504,-91.0001,5.5,76.50,428,"Guatemala"
-hv,60412951,2,"Monday, October 15, 2012 17:23:57 UTC",19.3692,-155.2310,2.5,3.20,26,"Island of Hawaii, Hawaii"
-nc,71860395,0,"Monday, October 15, 2012 17:23:29 UTC",38.8422,-122.7918,1.2,2.10,16,"Northern California"
-ci,15230641,0,"Monday, October 15, 2012 17:19:18 UTC",35.7908,-118.5045,2.6,3.00,57,"Central California"
-nc,71860380,1,"Monday, October 15, 2012 17:11:07 UTC",38.7940,-122.8028,1.5,3.40,32,"Northern California"
-ci,15230633,0,"Monday, October 15, 2012 17:03:43 UTC",32.9320,-115.7110,1.6,0.00,30,"Southern California"
-hv,60412946,2,"Monday, October 15, 2012 16:46:24 UTC",19.3593,-155.2038,2.1,2.90,10,"Island of Hawaii, Hawaii"
-ak,10579851,1,"Monday, October 15, 2012 16:42:23 UTC",62.0777,-145.0903,1.6,21.40,10,"Central Alaska"
-ci,15230601,3,"Monday, October 15, 2012 16:40:25 UTC",33.1732,-115.6163,1.8,2.00,16,"Southern California"
-nc,71860365,2,"Monday, October 15, 2012 16:39:00 UTC",39.1275,-123.4478,2.0,8.30,31,"Northern California"
-ci,15230593,2,"Monday, October 15, 2012 16:37:55 UTC",33.1745,-115.6133,1.0,2.10,16,"Southern California"
-us,2012gta2,6,"Monday, October 15, 2012 16:35:37 UTC",-3.2349,136.9971,4.5,68.90,30,"Papua, Indonesia"
-us,2012gtay,6,"Monday, October 15, 2012 16:05:11 UTC",-10.8431,113.7010,4.3,19.50,33,"south of Java, Indonesia"
-pr,12289002,0,"Monday, October 15, 2012 16:04:53 UTC",18.8370,-67.3255,2.2,10.00, 4,"Puerto Rico region"
-ak,10579833,1,"Monday, October 15, 2012 15:52:28 UTC",61.3102,-149.8902,1.4,39.90, 6,"Southern Alaska"
-ak,10579828,2,"Monday, October 15, 2012 15:44:43 UTC",51.5667,-178.1585,1.8,22.60,14,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71860350,0,"Monday, October 15, 2012 15:42:46 UTC",38.8300,-122.8543,1.4,2.60,23,"Northern California"
-ak,10579820,1,"Monday, October 15, 2012 15:30:25 UTC",62.0874,-145.3629,2.1,17.80,12,"Central Alaska"
-nn,00391205,9,"Monday, October 15, 2012 14:56:52 UTC",37.0275,-117.8195,1.3,7.00,13,"Central California"
-ak,10579809,1,"Monday, October 15, 2012 14:55:41 UTC",62.3088,-149.8910,1.7,11.60,11,"Central Alaska"
-nc,71860325,2,"Monday, October 15, 2012 14:43:28 UTC",40.2237,-124.1380,1.2,13.90,13,"Northern California"
-ci,15230545,4,"Monday, October 15, 2012 14:41:59 UTC",35.9585,-117.6625,2.3,3.90,25,"Central California"
-nc,71860315,0,"Monday, October 15, 2012 14:40:23 UTC",37.6387,-118.9348,1.0,6.70,14,"Long Valley area, California"
-nc,71860310,0,"Monday, October 15, 2012 14:38:53 UTC",37.6323,-118.9423,1.2,3.50,10,"Long Valley area, California"
-ak,10579795,1,"Monday, October 15, 2012 14:38:03 UTC",62.3417,-149.8841,2.1,4.70,15,"Central Alaska"
-nc,71860295,1,"Monday, October 15, 2012 14:31:24 UTC",38.8053,-122.8068,2.0,1.60,36,"Northern California"
-ci,15230537,4,"Monday, October 15, 2012 14:27:44 UTC",33.6208,-116.6980,1.0,15.00,29,"Southern California"
-nc,71860285,1,"Monday, October 15, 2012 14:21:09 UTC",37.6430,-118.9343,1.6,8.10,23,"Long Valley area, California"
-nc,71860290,0,"Monday, October 15, 2012 14:20:15 UTC",38.8153,-122.7988,1.1,2.20,23,"Northern California"
-nc,71860280,0,"Monday, October 15, 2012 14:13:56 UTC",38.8178,-122.7963,1.2,2.60,21,"Northern California"
-nc,71860265,2,"Monday, October 15, 2012 14:05:16 UTC",37.6428,-118.9337,1.0,7.90,27,"Long Valley area, California"
-ci,15230513,5,"Monday, October 15, 2012 14:00:49 UTC",33.0260,-116.2982,1.2,4.50,45,"Southern California"
-pr,12289003,0,"Monday, October 15, 2012 14:00:37 UTC",19.7040,-64.0865,3.1,7.00, 4,"Virgin Islands region"
-nc,71860255,0,"Monday, October 15, 2012 13:44:18 UTC",36.5543,-121.0973,1.9,3.20, 9,"Central California"
-ak,10579768,1,"Monday, October 15, 2012 13:43:20 UTC",59.2944,-149.7856,3.1,25.40,33,"Kenai Peninsula, Alaska"
-pr,12289001,0,"Monday, October 15, 2012 13:33:34 UTC",19.7667,-64.2687,3.6,35.00,10,"north of the Virgin Islands"
-nc,71860250,0,"Monday, October 15, 2012 13:20:22 UTC",38.7728,-122.7363,1.3,2.90,21,"Northern California"
-se,101512c,A,"Monday, October 15, 2012 13:16:01 UTC",33.6181,-85.7885,2.3,0.10,15,"Alabama"
-ak,10579762,2,"Monday, October 15, 2012 13:05:05 UTC",62.0194,-149.4555,1.2,35.50,15,"Central Alaska"
-nc,71860215,1,"Monday, October 15, 2012 12:48:25 UTC",38.8167,-122.8123,2.3,0.00,36,"Northern California"
-nc,71860200,1,"Monday, October 15, 2012 12:46:20 UTC",38.8130,-122.8058,1.8,0.00,27,"Northern California"
-nc,71860195,3,"Monday, October 15, 2012 12:44:37 UTC",38.8157,-122.7990,2.9,2.70,78,"Northern California"
-uw,60464517,2,"Monday, October 15, 2012 12:44:06 UTC",46.1805,-120.4640,1.0,13.20,12,"Washington"
-nc,71860190,0,"Monday, October 15, 2012 12:42:18 UTC",38.8153,-122.7998,1.3,2.30,23,"Northern California"
-ak,10579746,1,"Monday, October 15, 2012 12:19:18 UTC",63.3068,-149.8498,1.9,132.00,24,"Central Alaska"
-ci,15230473,2,"Monday, October 15, 2012 10:42:32 UTC",35.9578,-117.6640,1.7,3.00,52,"Central California"
-ak,10579737,1,"Monday, October 15, 2012 10:41:08 UTC",63.4192,-144.9496,1.4,0.00, 6,"Central Alaska"
-ak,10579729,1,"Monday, October 15, 2012 10:37:05 UTC",60.5560,-142.2629,2.3,0.60,23,"Southern Alaska"
-ak,10579726,1,"Monday, October 15, 2012 10:35:16 UTC",61.8676,-149.3178,2.4,0.30,29,"Southern Alaska"
-pr,12289000,0,"Monday, October 15, 2012 09:55:51 UTC",18.7488,-64.8115,3.1,51.00, 5,"Virgin Islands region"
-nc,71860150,2,"Monday, October 15, 2012 09:55:34 UTC",37.5677,-118.8307,1.5,5.70,36,"Central California"
-nc,71860125,0,"Monday, October 15, 2012 08:51:35 UTC",36.5438,-121.1310,1.7,5.20, 8,"Central California"
-nc,71860120,0,"Monday, October 15, 2012 08:48:17 UTC",38.8263,-122.8538,1.4,2.30,23,"Northern California"
-nc,71860115,1,"Monday, October 15, 2012 08:48:02 UTC",38.8245,-122.8535,1.8,2.30,30,"Northern California"
-ak,10579709,1,"Monday, October 15, 2012 08:45:20 UTC",59.9905,-141.6247,1.8,8.80,17,"Southeastern Alaska"
-ci,15230457,2,"Monday, October 15, 2012 08:31:18 UTC",34.2043,-117.5390,1.3,10.80,81,"Greater Los Angeles area, California"
-us,b000d5xt,8,"Monday, October 15, 2012 07:49:03 UTC",-13.1571,165.5253,5.3,45.20,135,"Vanuatu"
-ak,10579699,1,"Monday, October 15, 2012 06:42:40 UTC",63.5580,-151.0486,1.2,10.20, 6,"Central Alaska"
-ci,15230441,2,"Monday, October 15, 2012 06:18:22 UTC",35.0845,-118.4747,1.2,11.20,16,"Central California"
-ci,15230433,5,"Monday, October 15, 2012 05:57:44 UTC",32.8803,-116.2505,1.5,8.80,83,"Southern California"
-nc,71860085,2,"Monday, October 15, 2012 05:52:29 UTC",38.8230,-122.7917,1.0,3.30,45,"Northern California"
-nn,00391197,9,"Monday, October 15, 2012 05:36:30 UTC",37.9531,-118.1011,1.1,8.20,15,"Nevada"
-nc,71860050,3,"Monday, October 15, 2012 05:23:03 UTC",36.8525,-121.3137,2.5,7.30,77,"Central California"
-ak,10579685,1,"Monday, October 15, 2012 05:00:22 UTC",61.1331,-152.0683,1.1,6.30, 6,"Southern Alaska"
-nc,71860035,0,"Monday, October 15, 2012 04:58:39 UTC",37.6655,-118.8568,1.3,4.30,11,"Long Valley area, California"
-nc,71860030,1,"Monday, October 15, 2012 04:51:42 UTC",38.8238,-122.8012,1.4,3.30,32,"Northern California"
-ak,10579677,1,"Monday, October 15, 2012 04:21:28 UTC",60.7195,-150.6824,1.7,53.40,14,"Kenai Peninsula, Alaska"
-uu,60001582,2,"Monday, October 15, 2012 04:20:44 UTC",44.3982,-111.0718,1.3,20.10,12,"Yellowstone National Park, Idaho"
-uu,60001577,4,"Monday, October 15, 2012 04:17:32 UTC",44.3987,-111.0360,1.7,14.70,22,"Yellowstone National Park, Wyoming"
-uu,60001567,2,"Monday, October 15, 2012 04:10:23 UTC",44.3900,-111.0380,1.2,6.00, 8,"Yellowstone National Park, Wyoming"
-uu,60001557,8,"Monday, October 15, 2012 04:02:15 UTC",44.3918,-111.0478,3.0,8.90,32,"Yellowstone National Park, Wyoming"
-uu,60001542,3,"Monday, October 15, 2012 03:59:15 UTC",44.3783,-110.9867,1.3,6.00, 6,"Yellowstone National Park, Wyoming"
-uu,60001537,2,"Monday, October 15, 2012 03:57:33 UTC",44.4038,-111.0635,1.9,6.00, 7,"Yellowstone National Park, Idaho"
-uu,60001532,2,"Monday, October 15, 2012 03:52:48 UTC",44.4012,-111.0577,1.5,6.00, 5,"Yellowstone National Park, Idaho"
-uu,60001522,7,"Monday, October 15, 2012 03:45:20 UTC",44.3960,-111.0430,2.7,10.20,31,"Yellowstone National Park, Wyoming"
-uu,60001512,2,"Monday, October 15, 2012 03:40:01 UTC",44.3987,-111.0543,2.0,11.40,10,"Yellowstone National Park, Idaho"
-nc,71859995,0,"Monday, October 15, 2012 03:39:31 UTC",39.4145,-120.1167,1.3,1.30,13,"Northern California"
-uu,60001507,2,"Monday, October 15, 2012 03:37:09 UTC",44.4058,-111.0750,1.5,6.00, 6,"Yellowstone National Park, Idaho"
-uu,60001502,2,"Monday, October 15, 2012 03:36:09 UTC",44.3857,-111.0135,1.5,6.00, 9,"Yellowstone National Park, Wyoming"
-uu,60001497,3,"Monday, October 15, 2012 03:34:46 UTC",44.3943,-111.0352,1.8,6.00, 9,"Yellowstone National Park, Wyoming"
-uu,60001492,2,"Monday, October 15, 2012 03:33:34 UTC",44.3848,-111.0205,1.6,15.70,12,"Yellowstone National Park, Wyoming"
-uu,60001487,2,"Monday, October 15, 2012 03:30:23 UTC",44.3912,-111.0515,1.2,6.00, 7,"Yellowstone National Park, Wyoming"
-uu,60001482,4,"Monday, October 15, 2012 03:27:45 UTC",44.3985,-111.0373,1.8,11.90,17,"Yellowstone National Park, Wyoming"
-uu,60001477,2,"Monday, October 15, 2012 03:25:43 UTC",44.4133,-111.0713,1.6,5.50, 8,"Yellowstone National Park, Idaho"
-uu,60001467,4,"Monday, October 15, 2012 03:22:33 UTC",44.3960,-111.0720,2.5,15.60,19,"Yellowstone National Park, Idaho"
-uu,60001462,3,"Monday, October 15, 2012 03:20:44 UTC",44.3863,-111.0503,2.8,7.10,30,"Yellowstone National Park, Wyoming"
-ak,10579664,1,"Monday, October 15, 2012 03:20:41 UTC",62.8228,-151.1074,1.8,108.90, 8,"Central Alaska"
-uu,60001452,4,"Monday, October 15, 2012 03:18:04 UTC",44.3958,-111.0517,2.1,15.90,18,"Yellowstone National Park, Wyoming"
-uu,60001447,4,"Monday, October 15, 2012 03:16:30 UTC",44.3877,-111.0257,2.0,10.50,13,"Yellowstone National Park, Wyoming"
-uu,60001437,4,"Monday, October 15, 2012 03:11:41 UTC",44.3898,-111.0448,2.4,13.60,20,"Yellowstone National Park, Wyoming"
-uu,60001432,4,"Monday, October 15, 2012 03:11:15 UTC",44.4013,-111.0498,1.7,19.30,15,"Yellowstone National Park, Wyoming"
-uu,60001407,5,"Monday, October 15, 2012 03:06:13 UTC",44.4033,-111.0423,2.3,5.90,17,"Yellowstone National Park, Wyoming"
-uu,60001417,2,"Monday, October 15, 2012 03:05:44 UTC",44.4037,-111.0502,2.5,16.90,13,"Yellowstone National Park, Wyoming"
-uu,60001412,4,"Monday, October 15, 2012 03:04:54 UTC",44.3973,-111.0462,2.1,13.10,18,"Yellowstone National Park, Wyoming"
-ci,15230409,4,"Monday, October 15, 2012 03:00:01 UTC",35.3900,-118.6377,1.6,7.70,63,"Central California"
-uu,60001392,4,"Monday, October 15, 2012 02:58:16 UTC",44.3938,-111.0517,1.9,15.90,11,"Yellowstone National Park, Wyoming"
-uu,60001387,4,"Monday, October 15, 2012 02:56:34 UTC",44.3990,-111.0445,2.2,15.80,23,"Yellowstone National Park, Wyoming"
-uu,60001382,5,"Monday, October 15, 2012 02:54:52 UTC",44.3938,-111.0435,3.1,12.40,35,"Yellowstone National Park, Wyoming"
-ci,15230401,0,"Monday, October 15, 2012 02:54:19 UTC",33.9577,-116.9365,1.2,13.10,70,"Southern California"
-uu,60001377,3,"Monday, October 15, 2012 02:52:58 UTC",44.3772,-111.0085,2.6,11.70,16,"Yellowstone National Park, Wyoming"
-uu,60001372,4,"Monday, October 15, 2012 02:52:16 UTC",44.3927,-111.0288,2.4,12.60,26,"Yellowstone National Park, Wyoming"
-uu,60001367,4,"Monday, October 15, 2012 02:51:45 UTC",44.4063,-111.0538,2.0,10.30,13,"Yellowstone National Park, Wyoming"
-ak,10579653,2,"Monday, October 15, 2012 02:48:57 UTC",60.1360,-140.8110,1.1,7.60,15,"Southern Yukon Territory, Canada"
-uu,60001357,5,"Monday, October 15, 2012 02:47:20 UTC",44.3960,-111.0242,2.0,9.70,22,"Yellowstone National Park, Wyoming"
-us,b000d5uj,A,"Monday, October 15, 2012 02:46:41 UTC",19.2033,-69.0439,4.4,61.30,58,"Dominican Republic region"
-uu,60001352,4,"Monday, October 15, 2012 02:44:35 UTC",44.3893,-111.0358,2.1,14.30,22,"Yellowstone National Park, Wyoming"
-uu,60001347,2,"Monday, October 15, 2012 02:41:38 UTC",44.3780,-111.0185,1.7,12.60, 9,"Yellowstone National Park, Wyoming"
-uu,60001342,2,"Monday, October 15, 2012 02:37:57 UTC",44.3843,-111.0255,1.5,16.80,10,"Yellowstone National Park, Wyoming"
-ci,15230361,0,"Monday, October 15, 2012 01:58:27 UTC",35.3147,-118.5698,1.5,6.80,24,"Central California"
-ak,10579640,1,"Monday, October 15, 2012 01:39:49 UTC",61.3278,-152.6046,2.0,0.10, 9,"Southern Alaska"
-nc,71859965,3,"Monday, October 15, 2012 01:28:46 UTC",37.6583,-118.8580,2.1,5.30,44,"Long Valley area, California"
-us,b000d5u4,B,"Monday, October 15, 2012 01:19:03 UTC",51.9121,159.4455,5.6,21.80,322,"off the east coast of the Kamchatka Peninsula, Russia"
-nc,71859930,0,"Monday, October 15, 2012 00:11:45 UTC",38.4348,-122.2477,2.1,5.60,17,"Northern California"
-us,b000d5tj,8,"Monday, October 15, 2012 00:05:37 UTC",-38.2665,175.9254,4.8,155.20,55,"North Island of New Zealand"
-hv,60412801,1,"Monday, October 15, 2012 00:01:06 UTC",19.2660,-155.4895,1.9,9.30,23,"Island of Hawaii, Hawaii"
-ci,15230321,0,"Sunday, October 14, 2012 23:58:09 UTC",33.5148,-117.5148,1.7,15.40,13,"Southern California"
-nc,71859905,1,"Sunday, October 14, 2012 23:44:26 UTC",37.7665,-122.5992,1.9,5.20,23,"offshore Northern California"
-nc,71859895,0,"Sunday, October 14, 2012 23:28:21 UTC",36.3443,-121.4580,1.3,8.20,11,"Central California"
-nn,00391176,9,"Sunday, October 14, 2012 23:11:14 UTC",38.0793,-118.2259,1.5,8.20,14,"Nevada"
-us,b000d5tb,8,"Sunday, October 14, 2012 23:07:59 UTC",25.1594,101.9398,4.8,10.00,71,"Yunnan, China"
-hv,60412771,1,"Sunday, October 14, 2012 22:46:00 UTC",18.9835,-155.4472,1.8,31.70,19,"Hawaii region, Hawaii"
-hv,60412766,1,"Sunday, October 14, 2012 22:45:26 UTC",19.0033,-155.4197,2.3,41.70,37,"Island of Hawaii, Hawaii"
-us,b000d5t4,7,"Sunday, October 14, 2012 22:40:56 UTC",12.7466,-88.7831,4.6,66.50,108,"offshore El Salvador"
-nc,71859835,2,"Sunday, October 14, 2012 22:16:25 UTC",36.9525,-121.5700,1.3,5.30,33,"Northern California"
-hv,60412761,2,"Sunday, October 14, 2012 21:55:16 UTC",19.3797,-155.2422,2.3,3.80,23,"Island of Hawaii, Hawaii"
-pr,12288004,0,"Sunday, October 14, 2012 21:24:22 UTC",18.9032,-64.9842,2.8,9.00, 6,"Virgin Islands region"
-nn,00391169,9,"Sunday, October 14, 2012 21:21:51 UTC",38.3317,-118.1534,2.3,10.90,17,"Nevada"
-ci,15230265,0,"Sunday, October 14, 2012 20:33:34 UTC",35.9623,-117.6595,1.5,4.00,18,"Central California"
-hv,60412726,1,"Sunday, October 14, 2012 20:24:59 UTC",19.3585,-155.2322,1.8,1.20,13,"Island of Hawaii, Hawaii"
-ci,15230249,0,"Sunday, October 14, 2012 20:12:54 UTC",35.9682,-117.6600,1.7,3.00,31,"Central California"
-ci,15230241,0,"Sunday, October 14, 2012 19:56:38 UTC",35.9562,-117.6645,1.1,4.90,13,"Central California"
-ci,15230233,0,"Sunday, October 14, 2012 19:49:24 UTC",33.7380,-116.9398,1.2,6.40,23,"Southern California"
-us,b000d5rv,6,"Sunday, October 14, 2012 19:36:52 UTC",55.6480,161.7497,4.8,83.00,53,"near the east coast of the Kamchatka Peninsula, Russia"
-pr,12288003,0,"Sunday, October 14, 2012 19:34:54 UTC",17.9655,-67.4479,2.6,11.00, 8,"Puerto Rico region"
-nc,71859680,1,"Sunday, October 14, 2012 19:31:56 UTC",38.8253,-122.8540,2.0,2.30,40,"Northern California"
-ci,15230225,0,"Sunday, October 14, 2012 19:22:31 UTC",36.0425,-117.6933,1.5,1.20,23,"Central California"
-ci,15230201,0,"Sunday, October 14, 2012 18:15:52 UTC",32.2042,-115.2165,2.4,20.10,13,"Baja California, Mexico"
-ak,10579507,1,"Sunday, October 14, 2012 18:03:59 UTC",61.4401,-143.9810,1.7,33.30, 7,"Southern Alaska"
-hv,60412681,1,"Sunday, October 14, 2012 17:59:39 UTC",19.3582,-155.2313,2.1,1.30,16,"Island of Hawaii, Hawaii"
-ci,15230169,0,"Sunday, October 14, 2012 17:53:36 UTC",36.0413,-117.6927,2.0,0.50,40,"Central California"
-ci,15230153,0,"Sunday, October 14, 2012 17:51:50 UTC",36.0428,-117.6948,2.2,2.80,12,"Central California"
-ci,15230145,0,"Sunday, October 14, 2012 17:43:07 UTC",31.9845,-115.0648,3.3,22.70,15,"Baja California, Mexico"
-nc,71859640,0,"Sunday, October 14, 2012 17:29:11 UTC",38.8258,-122.8392,1.4,0.70,23,"Northern California"
-pr,12288002,0,"Sunday, October 14, 2012 17:18:46 UTC",18.1035,-67.2540,2.1,19.00, 4,"Mona Passage, Puerto Rico"
-ak,10579503,1,"Sunday, October 14, 2012 17:06:22 UTC",62.5248,-148.8683,2.0,39.60,10,"Central Alaska"
-nc,71859625,B,"Sunday, October 14, 2012 16:53:07 UTC",40.6450,-125.2722,4.0,23.40,82,"offshore Northern California"
-us,2012gsa9,5,"Sunday, October 14, 2012 16:30:09 UTC",40.7118,74.0993,4.3,10.00,16,"Kyrgyzstan"
-nc,71859610,1,"Sunday, October 14, 2012 16:29:20 UTC",36.8545,-121.3153,2.5,7.70,52,"Central California"
-us,2012gsa8,4,"Sunday, October 14, 2012 16:25:53 UTC",-1.2021,26.7783,4.6,10.00,13,"Democratic Republic of the Congo"
-hv,60412661,1,"Sunday, October 14, 2012 16:18:59 UTC",19.5103,-155.4400,1.8,9.70,12,"Island of Hawaii, Hawaii"
-ci,15230121,1,"Sunday, October 14, 2012 16:02:32 UTC",35.1953,-119.5300,2.3,14.50,33,"Central California"
-nc,71859595,3,"Sunday, October 14, 2012 15:57:51 UTC",39.2442,-122.7283,1.5,13.00,22,"Northern California"
-ak,10579502,1,"Sunday, October 14, 2012 15:56:24 UTC",64.6407,-149.6504,1.2,20.20, 5,"Central Alaska"
-ak,10579500,1,"Sunday, October 14, 2012 15:45:52 UTC",64.5357,-149.3637,1.1,15.30, 5,"Central Alaska"
-nc,71859580,2,"Sunday, October 14, 2012 15:28:15 UTC",37.4205,-118.6035,1.0,7.90,20,"Central California"
-ci,15230105,0,"Sunday, October 14, 2012 15:02:59 UTC",35.3530,-118.5648,1.3,8.50,22,"Central California"
-ak,10579484,1,"Sunday, October 14, 2012 14:58:55 UTC",63.4176,-151.3592,1.1,5.70, 7,"Central Alaska"
-uw,60464242,2,"Sunday, October 14, 2012 14:21:17 UTC",47.6780,-121.5445,1.8,87.20,28,"Washington"
-us,b000d5q4,6,"Sunday, October 14, 2012 14:16:52 UTC",48.3882,154.4504,5.0,53.40,276,"Kuril Islands"
-ak,10579467,1,"Sunday, October 14, 2012 13:32:42 UTC",61.9388,-150.8791,1.7,34.20,11,"Southern Alaska"
-us,b000d5pv,A,"Sunday, October 14, 2012 13:18:53 UTC",-10.2640,161.4090,5.1,62.00,111,"Solomon Islands"
-us,b000d5pu,A,"Sunday, October 14, 2012 13:17:28 UTC",36.1671,69.2401,5.1,53.70,111,"Hindu Kush region, Afghanistan"
-pr,12288001,0,"Sunday, October 14, 2012 13:11:36 UTC",19.3255,-65.6511,3.4,77.00,12,"Puerto Rico region"
-nm,101512a,A,"Sunday, October 14, 2012 13:00:08 UTC",36.4613,-89.5795,1.1,11.00,20,"southeastern Missouri"
-uw,60464212,3,"Sunday, October 14, 2012 12:27:35 UTC",48.5677,-123.0703,2.4,51.20,38,"San Juan Islands region, Washington"
-ci,15230057,0,"Sunday, October 14, 2012 12:18:11 UTC",34.0147,-116.8018,1.2,17.90,49,"Southern California"
-us,b000d5pe,9,"Sunday, October 14, 2012 12:14:41 UTC",42.7779,142.5522,4.5,35.40,165,"Hokkaido, Japan region"
-nc,71859520,1,"Sunday, October 14, 2012 12:10:35 UTC",38.8118,-122.7927,1.4,3.20,26,"Northern California"
-ak,10579430,2,"Sunday, October 14, 2012 11:59:41 UTC",63.4746,-144.9808,3.3,5.80,69,"Central Alaska"
-ak,10579429,1,"Sunday, October 14, 2012 11:55:05 UTC",62.8001,-151.8488,1.5,7.40, 6,"Central Alaska"
-nc,71859510,1,"Sunday, October 14, 2012 11:38:36 UTC",38.3622,-122.5577,2.0,4.20,25,"Northern California"
-ak,10579419,1,"Sunday, October 14, 2012 11:24:00 UTC",59.9522,-152.1543,1.5,119.50, 4,"Southern Alaska"
-nc,71859495,5,"Sunday, October 14, 2012 11:14:26 UTC",37.3475,-119.9578,2.0,20.50,23,"Central California"
-us,b000d5p1,8,"Sunday, October 14, 2012 11:11:35 UTC",38.2270,144.3403,5.6,24.80,552,"off the east coast of Honshu, Japan"
-nc,71859490,3,"Sunday, October 14, 2012 11:11:10 UTC",37.2008,-119.4070,1.6,1.70,17,"Central California"
-us,b000d5p0,9,"Sunday, October 14, 2012 11:09:34 UTC",48.3735,154.4401,5.2,35.30,422,"Kuril Islands"
-nc,71859480,0,"Sunday, October 14, 2012 11:04:56 UTC",38.8168,-122.8122,1.2,3.30,23,"Northern California"
-nc,71859485,3,"Sunday, October 14, 2012 11:02:34 UTC",37.1777,-120.2048,2.0,21.70,13,"Central California"
-us,b000d5p5,3,"Sunday, October 14, 2012 10:50:17 UTC",-35.3055,-73.9328,4.8,20.40,80,"off the coast of Maule, Chile"
-hv,60412621,1,"Sunday, October 14, 2012 10:47:49 UTC",19.3205,-155.2378,1.8,29.60,25,"Island of Hawaii, Hawaii"
-us,b000d5nl,7,"Sunday, October 14, 2012 10:41:24 UTC",14.7111,-92.3929,5.4,83.20,591,"Chiapas, Mexico"
-nc,71859465,3,"Sunday, October 14, 2012 10:21:18 UTC",38.8137,-122.8108,1.6,3.80,54,"Northern California"
-us,b000d5nf,9,"Sunday, October 14, 2012 10:13:38 UTC",41.8610,46.3622,5.3,10.00,239,"Georgia (Sak'art'velo)"
-us,b000d5ne,5,"Sunday, October 14, 2012 10:08:24 UTC",41.6941,46.3851,4.4,9.50,22,"Azerbaijan"
-ak,10579360,2,"Sunday, October 14, 2012 09:58:27 UTC",60.1046,-152.5431,4.3,86.90,110,"Southern Alaska"
-uw,60464162,3,"Sunday, October 14, 2012 09:53:00 UTC",47.7143,-122.6085,1.1,20.60,34,"Seattle-Tacoma urban area, Washington"
-us,b000d5n7,J,"Sunday, October 14, 2012 09:41:59 UTC",48.3040,154.5323,5.8,35.50,639,"Kuril Islands"
-ci,15229993,0,"Sunday, October 14, 2012 09:30:17 UTC",33.0368,-116.3847,1.6,9.90,81,"Southern California"
-ci,15229985,0,"Sunday, October 14, 2012 09:27:32 UTC",35.6777,-118.0405,2.5,13.50,12,"Central California"
-us,b000d5n3,7,"Sunday, October 14, 2012 09:25:10 UTC",36.1228,70.2305,4.1,120.20,18,"Hindu Kush region, Afghanistan"
-nc,71859445,1,"Sunday, October 14, 2012 09:20:12 UTC",38.8118,-122.8075,1.3,3.40,31,"Northern California"
-ak,10579336,1,"Sunday, October 14, 2012 09:16:24 UTC",61.1762,-151.9811,2.9,89.90,39,"Southern Alaska"
-nc,71859440,0,"Sunday, October 14, 2012 09:07:56 UTC",38.8243,-122.8383,1.4,0.00,17,"Northern California"
-nn,00391087,9,"Sunday, October 14, 2012 08:59:49 UTC",39.6609,-119.6849,1.0,12.60,20,"Nevada"
-ci,15229977,0,"Sunday, October 14, 2012 08:45:28 UTC",32.6530,-115.7523,1.6,0.00,27,"Southern California"
-ak,10579328,1,"Sunday, October 14, 2012 08:11:04 UTC",61.7086,-148.2119,1.4,15.00, 6,"Southern Alaska"
-nn,00391081,9,"Sunday, October 14, 2012 07:57:57 UTC",36.9828,-117.8663,1.2,5.90, 5,"Central California"
-ak,10579320,1,"Sunday, October 14, 2012 07:52:21 UTC",60.0725,-152.0384,2.3,38.60,20,"Southern Alaska"
-nc,71859415,4,"Sunday, October 14, 2012 07:45:29 UTC",40.3907,-125.6135,3.3,25.40,37,"offshore Northern California"
-us,b000d5mx,5,"Sunday, October 14, 2012 07:28:36 UTC",33.3860,-109.2056,2.5,5.00,17,"Arizona"
-nc,71859410,2,"Sunday, October 14, 2012 07:22:36 UTC",39.2395,-120.4793,1.0,5.00,14,"Northern California"
-ci,15229945,0,"Sunday, October 14, 2012 07:17:19 UTC",32.7917,-116.7425,1.6,9.80,18,"Southern California"
-ak,10579312,1,"Sunday, October 14, 2012 07:04:38 UTC",60.5655,-142.9655,1.2,0.20, 6,"Southern Alaska"
-hv,60412596,1,"Sunday, October 14, 2012 06:57:50 UTC",19.3245,-155.1710,1.7,7.00,20,"Island of Hawaii, Hawaii"
-ak,10579305,1,"Sunday, October 14, 2012 06:33:41 UTC",65.3615,-144.7554,1.9,0.00, 9,"northern Alaska"
-us,b000d5m3,8,"Sunday, October 14, 2012 06:16:48 UTC",-2.5861,142.2881,4.9,25.40,36,"near the north coast of New Guinea, Papua New Guinea"
-ci,15229921,0,"Sunday, October 14, 2012 06:05:40 UTC",34.2003,-116.8623,1.3,1.80,30,"Southern California"
-ci,15229913,0,"Sunday, October 14, 2012 05:57:48 UTC",32.8973,-115.5137,1.8,15.50,32,"Southern California"
-ak,10579299,1,"Sunday, October 14, 2012 05:56:51 UTC",63.1518,-151.3392,1.7,2.60,11,"Central Alaska"
-ak,10579291,1,"Sunday, October 14, 2012 05:31:31 UTC",64.8456,-146.8537,1.5,11.60, 8,"Central Alaska"
-ak,10579289,1,"Sunday, October 14, 2012 05:27:58 UTC",65.3552,-144.7744,1.7,0.00, 9,"northern Alaska"
-us,b000d5kf,8,"Sunday, October 14, 2012 04:58:07 UTC",-7.1914,156.0636,5.9,60.90,304,"Solomon Islands"
-uw,60464107,3,"Sunday, October 14, 2012 04:25:46 UTC",47.7152,-122.6120,1.6,20.00,32,"Seattle-Tacoma urban area, Washington"
-nc,71859360,2,"Sunday, October 14, 2012 04:20:29 UTC",36.2330,-120.8180,1.5,5.50,29,"Central California"
-ci,15229873,0,"Sunday, October 14, 2012 04:15:22 UTC",36.1185,-117.5923,1.3,0.00,16,"Central California"
-pr,12288000,0,"Sunday, October 14, 2012 04:07:30 UTC",19.0014,-65.0238,2.4,12.00, 4,"Virgin Islands region"
-ci,15229865,0,"Sunday, October 14, 2012 03:51:11 UTC",34.0623,-117.2095,1.2,21.40,18,"Greater Los Angeles area, California"
-us,b000d5k8,6,"Sunday, October 14, 2012 03:42:25 UTC",4.5496,125.1557,4.9,42.70,70,"Kepulauan Sangihe, Indonesia"
-nc,71859355,0,"Sunday, October 14, 2012 03:39:15 UTC",38.8387,-122.7742,1.0,2.20, 9,"Northern California"
-us,b000d5kc,3,"Sunday, October 14, 2012 03:37:31 UTC",-34.6197,-72.2855,4.6,23.10,43,"offshore Libertador O'Higgins, Chile"
-ci,15229841,0,"Sunday, October 14, 2012 03:15:26 UTC",34.0530,-118.3948,1.6,13.80,30,"Greater Los Angeles area, California"
-ci,15229833,0,"Sunday, October 14, 2012 03:11:09 UTC",33.3947,-116.9548,1.1,39.10,25,"Southern California"
-nc,71859320,2,"Sunday, October 14, 2012 03:08:01 UTC",40.7215,-124.2098,1.7,15.10,19,"Northern California"
-ci,15229809,0,"Sunday, October 14, 2012 02:44:26 UTC",36.0482,-117.6903,2.3,1.90,13,"Central California"
-ci,15229801,0,"Sunday, October 14, 2012 02:41:40 UTC",36.0423,-117.6992,1.3,0.10,25,"Central California"
-ci,15229785,0,"Sunday, October 14, 2012 02:37:36 UTC",36.0408,-117.6975,1.7,0.50,34,"Central California"
-ci,15229777,0,"Sunday, October 14, 2012 02:27:13 UTC",32.6657,-115.7478,1.2,0.70,14,"Southern California"
-hv,60412506,2,"Sunday, October 14, 2012 02:27:12 UTC",19.3445,-155.4970,2.6,8.70,40,"Island of Hawaii, Hawaii"
-ci,15229769,0,"Sunday, October 14, 2012 02:09:20 UTC",36.0905,-117.8475,1.7,2.80,16,"Central California"
-ak,10579252,1,"Sunday, October 14, 2012 01:44:27 UTC",62.6864,-151.1603,1.9,96.80,18,"Central Alaska"
-nn,00391050,9,"Sunday, October 14, 2012 01:32:17 UTC",38.5313,-119.4179,1.4,0.00, 9,"Central California"
-ci,15229753,0,"Sunday, October 14, 2012 01:20:18 UTC",36.1133,-117.5917,1.9,0.00,38,"Central California"
-ci,15229745,0,"Sunday, October 14, 2012 01:15:15 UTC",36.5925,-117.3788,2.8,10.60,21,"Central California"
-us,b000d5jf,6,"Sunday, October 14, 2012 01:02:40 UTC",-2.7566,100.0727,4.9,27.50,97,"Kepulauan Mentawai region, Indonesia"
-nc,71859240,1,"Sunday, October 14, 2012 00:57:25 UTC",36.2387,-120.8125,2.3,8.80,46,"Central California"
-ak,10579229,1,"Sunday, October 14, 2012 00:15:14 UTC",63.5761,-147.4709,1.5,10.00, 9,"Central Alaska"
-ci,15229705,0,"Sunday, October 14, 2012 00:11:41 UTC",34.2968,-116.9682,1.5,6.20,69,"Southern California"
-uw,60464022,2,"Sunday, October 14, 2012 00:09:17 UTC",47.7090,-122.5773,1.0,16.70,21,"Seattle-Tacoma urban area, Washington"
-ak,10579221,1,"Saturday, October 13, 2012 23:59:28 UTC",63.0929,-151.4336,1.6,0.10,10,"Central Alaska"
-ak,10579216,1,"Saturday, October 13, 2012 23:54:51 UTC",61.2793,-152.5018,1.8,0.00,12,"Southern Alaska"
-ci,15229689,0,"Saturday, October 13, 2012 23:43:44 UTC",34.0442,-116.8478,1.3,2.70,39,"Southern California"
-ak,10579201,1,"Saturday, October 13, 2012 23:36:53 UTC",59.9954,-141.1096,2.5,5.80,25,"Southeastern Alaska"
-ak,10579195,1,"Saturday, October 13, 2012 23:33:56 UTC",63.4747,-150.1497,1.5,8.10,10,"Central Alaska"
-nc,71859190,2,"Saturday, October 13, 2012 23:32:44 UTC",37.1843,-122.0432,1.4,11.50,19,"Northern California"
-ak,10579196,2,"Saturday, October 13, 2012 23:30:27 UTC",51.6496,-178.1483,1.9,29.10,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10579182,1,"Saturday, October 13, 2012 23:22:12 UTC",59.9240,-141.0172,2.4,0.00,27,"Southeastern Alaska"
-us,b000d5iv,8,"Saturday, October 13, 2012 23:07:52 UTC",-2.5208,142.3012,5.2,6.70,87,"near the north coast of New Guinea, Papua New Guinea"
-us,b000d5in,A,"Saturday, October 13, 2012 22:36:31 UTC",-16.9638,-174.4376,5.1,47.40,153,"Tonga"
-hv,60412416,1,"Saturday, October 13, 2012 22:19:46 UTC",19.3297,-155.1273,1.9,5.90,20,"Island of Hawaii, Hawaii"
-ci,15229673,0,"Saturday, October 13, 2012 22:00:39 UTC",34.0422,-119.0157,2.3,13.30,41,"Channel Islands region, California"
-nc,71859140,1,"Saturday, October 13, 2012 21:54:10 UTC",38.8155,-122.8112,2.4,3.10,52,"Northern California"
-pr,12287004,0,"Saturday, October 13, 2012 21:34:35 UTC",19.7222,-64.2960,3.0,24.00, 4,"Virgin Islands region"
-ci,15229657,0,"Saturday, October 13, 2012 21:20:59 UTC",33.7110,-116.8223,1.6,19.80,82,"Southern California"
-uw,60463937,1,"Saturday, October 13, 2012 21:20:04 UTC",49.4275,-120.5263,2.2,0.00,10,"British Columbia, Canada"
-uw,60463927,3,"Saturday, October 13, 2012 21:14:20 UTC",47.7153,-122.6442,2.0,23.20,39,"Seattle-Tacoma urban area, Washington"
-ci,15229641,1,"Saturday, October 13, 2012 21:13:58 UTC",32.9185,-117.9067,2.7,8.30,37,"Gulf of Santa Catalina, California"
-ci,15229633,0,"Saturday, October 13, 2012 21:11:51 UTC",36.0417,-117.6962,1.8,0.30,33,"Central California"
-ak,10579136,1,"Saturday, October 13, 2012 21:02:50 UTC",63.5373,-151.0457,1.2,13.30, 4,"Central Alaska"
-uw,60463912,3,"Saturday, October 13, 2012 20:51:44 UTC",47.7232,-122.6198,2.7,21.20,68,"Seattle-Tacoma urban area, Washington"
-ak,10579128,1,"Saturday, October 13, 2012 20:40:41 UTC",62.7164,-151.9632,1.4,0.10, 6,"Central Alaska"
-pr,12287003,0,"Saturday, October 13, 2012 20:22:31 UTC",19.7210,-64.1707,3.4,36.00,11,"Virgin Islands region"
-ci,15229561,2,"Saturday, October 13, 2012 20:15:39 UTC",34.2908,-116.9698,1.4,8.50,57,"Southern California"
-ak,10579064,1,"Saturday, October 13, 2012 20:12:49 UTC",62.0099,-147.7709,2.8,13.90,53,"Central Alaska"
-ci,15229497,2,"Saturday, October 13, 2012 20:12:20 UTC",34.1908,-117.5093,1.3,5.00,55,"Greater Los Angeles area, California"
-ak,10579054,2,"Saturday, October 13, 2012 20:03:52 UTC",62.0203,-150.2480,3.3,53.10,63,"Central Alaska"
-ak,10579051,1,"Saturday, October 13, 2012 20:00:01 UTC",61.1950,-152.4020,1.7,8.90,10,"Southern Alaska"
-ci,15229433,2,"Saturday, October 13, 2012 19:54:43 UTC",33.1512,-115.6845,1.2,4.60,15,"Southern California"
-uw,60463847,1,"Saturday, October 13, 2012 19:29:49 UTC",43.3527,-122.4360,1.5,8.30, 6,"Oregon"
-ak,10579039,1,"Saturday, October 13, 2012 19:27:50 UTC",60.2654,-151.7903,1.4,47.90,11,"Kenai Peninsula, Alaska"
-ci,15229417,2,"Saturday, October 13, 2012 19:22:05 UTC",33.6013,-116.6088,1.6,17.30,20,"Southern California"
-us,b000d5eu,8,"Saturday, October 13, 2012 18:44:12 UTC",41.7438,46.3417,4.6,17.40,117,"Azerbaijan"
-ak,10579029,1,"Saturday, October 13, 2012 18:34:28 UTC",62.2060,-145.4728,1.3,22.50, 4,"Central Alaska"
-nc,71859050,2,"Saturday, October 13, 2012 18:33:34 UTC",37.5458,-118.8320,1.2,6.50,30,"Central California"
-nc,71859035,0,"Saturday, October 13, 2012 18:17:38 UTC",36.0350,-120.5972,1.2,3.10,14,"Central California"
-ci,15229401,2,"Saturday, October 13, 2012 18:10:28 UTC",35.3932,-118.7812,1.1,3.60,28,"Central California"
-us,b000d5e7,5,"Saturday, October 13, 2012 17:59:07 UTC",36.6777,71.1427,4.5,202.90,42,"Hindu Kush region, Afghanistan"
-nc,71859015,0,"Saturday, October 13, 2012 17:53:36 UTC",38.7558,-122.7167,1.3,1.70,13,"Northern California"
-us,b000d5e4,7,"Saturday, October 13, 2012 17:52:50 UTC",-19.8946,-173.9494,5.0,25.60,154,"Tonga"
-nc,71859005,3,"Saturday, October 13, 2012 17:50:35 UTC",38.4438,-122.6425,1.8,11.00,58,"Northern California"
-ci,15229393,2,"Saturday, October 13, 2012 17:49:43 UTC",34.1465,-117.4703,1.5,5.00,63,"Greater Los Angeles area, California"
-ci,15229385,4,"Saturday, October 13, 2012 17:38:06 UTC",34.6572,-116.2828,1.3,2.40,24,"Southern California"
-ak,10578999,1,"Saturday, October 13, 2012 17:11:13 UTC",59.4290,-153.1660,2.5,107.10,12,"Southern Alaska"
-ci,15229369,2,"Saturday, October 13, 2012 16:52:09 UTC",33.4365,-117.0410,1.0,10.20,57,"Southern California"
-uw,60463787,3,"Saturday, October 13, 2012 16:49:41 UTC",48.3188,-121.9145,1.8,3.30,18,"Washington"
-ci,15229313,0,"Saturday, October 13, 2012 16:26:18 UTC",33.2590,-115.8613,1.5,7.20,11,"Southern California"
-ak,10578977,1,"Saturday, October 13, 2012 16:06:14 UTC",65.2749,-148.0031,1.0,0.40, 5,"northern Alaska"
-ak,10578973,1,"Saturday, October 13, 2012 15:58:51 UTC",64.6434,-149.6189,1.5,12.60, 7,"Central Alaska"
-hv,60412301,1,"Saturday, October 13, 2012 15:56:39 UTC",19.3715,-155.2342,1.7,3.80,10,"Island of Hawaii, Hawaii"
-ak,10578966,1,"Saturday, October 13, 2012 15:50:43 UTC",62.1828,-147.8611,1.4,30.30, 6,"Central Alaska"
-nc,71858965,3,"Saturday, October 13, 2012 15:50:12 UTC",40.3093,-124.4837,2.3,9.80,17,"offshore Northern California"
-ci,15229305,0,"Saturday, October 13, 2012 15:43:03 UTC",32.7963,-116.1492,1.6,5.00,54,"Southern California"
-nc,71858955,2,"Saturday, October 13, 2012 15:31:42 UTC",40.3117,-124.6397,2.7,10.40,27,"offshore Northern California"
-mb,12282866,2,"Saturday, October 13, 2012 15:21:49 UTC",44.9840,-112.2460,2.4,13.10,47,"western Montana"
-ci,15229289,0,"Saturday, October 13, 2012 15:19:26 UTC",33.7213,-116.8222,1.4,18.50,68,"Southern California"
-ak,10578947,1,"Saturday, October 13, 2012 15:12:41 UTC",61.0555,-152.2414,2.1,94.10,16,"Southern Alaska"
-ak,10578940,1,"Saturday, October 13, 2012 14:44:04 UTC",57.3205,-155.3994,2.2,36.30, 9,"Alaska Peninsula"
-nc,71858945,1,"Saturday, October 13, 2012 14:41:43 UTC",38.8125,-122.8127,1.7,3.00,32,"Northern California"
-ci,15229257,0,"Saturday, October 13, 2012 13:41:57 UTC",33.3368,-116.7215,1.4,21.70,32,"Southern California"
-ci,15229249,0,"Saturday, October 13, 2012 13:39:03 UTC",36.0293,-117.8020,2.3,2.40,10,"Central California"
-nm,101512b,A,"Saturday, October 13, 2012 13:29:40 UTC",36.2461,-89.4587,1.5,6.50,10,"Tennessee"
-hv,60412266,1,"Saturday, October 13, 2012 13:21:47 UTC",19.4768,-155.8142,2.1,14.40,22,"Island of Hawaii, Hawaii"
-ci,15229241,0,"Saturday, October 13, 2012 13:00:39 UTC",34.0468,-117.2677,1.2,16.50,43,"Greater Los Angeles area, California"
-nc,71858900,1,"Saturday, October 13, 2012 12:38:43 UTC",38.8430,-122.8302,1.2,2.60,24,"Northern California"
-nc,71858895,3,"Saturday, October 13, 2012 12:36:49 UTC",36.7745,-121.5177,2.0,9.70,70,"Central California"
-uu,60001227,2,"Saturday, October 13, 2012 12:26:37 UTC",38.6810,-112.1780,1.3,11.20, 5,"Utah"
-ak,10578910,1,"Saturday, October 13, 2012 12:10:38 UTC",62.3279,-151.4571,2.5,11.70,20,"Central Alaska"
-ci,15229225,0,"Saturday, October 13, 2012 12:03:47 UTC",33.1983,-116.8032,1.2,4.60,16,"Southern California"
-ci,15229217,0,"Saturday, October 13, 2012 11:59:41 UTC",36.1510,-117.9282,2.2,2.40,51,"Central California"
-nc,71858840,0,"Saturday, October 13, 2012 11:48:36 UTC",36.4723,-121.0597,1.6,4.90,12,"Central California"
-ak,10578903,2,"Saturday, October 13, 2012 11:35:37 UTC",51.6360,-178.1373,2.6,8.90, 9,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10578901,2,"Saturday, October 13, 2012 11:33:56 UTC",60.0406,-152.1891,2.2,65.40,14,"Southern Alaska"
-nn,00390903,9,"Saturday, October 13, 2012 11:18:33 UTC",39.7152,-119.4557,1.0,8.50,14,"Nevada"
-ak,10578897,1,"Saturday, October 13, 2012 11:17:41 UTC",63.2790,-150.5416,1.6,130.00,10,"Central Alaska"
-hv,60412241,2,"Saturday, October 13, 2012 11:04:52 UTC",19.4980,-155.8000,2.6,11.70,33,"Island of Hawaii, Hawaii"
-nn,00390902,9,"Saturday, October 13, 2012 10:56:59 UTC",38.7109,-119.4918,1.0,11.50, 6,"Nevada"
-ci,15229209,0,"Saturday, October 13, 2012 10:55:43 UTC",33.6610,-116.7745,1.0,15.20,51,"Southern California"
-ci,15229193,0,"Saturday, October 13, 2012 10:40:03 UTC",33.9900,-116.7505,1.3,14.10,64,"Southern California"
-nn,00390901,9,"Saturday, October 13, 2012 10:26:08 UTC",37.1608,-117.3768,1.1,11.80,15,"Nevada"
-us,b000d5bu,7,"Saturday, October 13, 2012 10:03:58 UTC",-11.0586,162.7674,5.1,38.10,109,"Solomon Islands"
-pr,12287001,0,"Saturday, October 13, 2012 09:53:24 UTC",19.6492,-64.1993,2.9,29.00, 3,"Virgin Islands region"
-ak,10578882,2,"Saturday, October 13, 2012 09:45:58 UTC",52.4247,-169.1572,3.2,28.40, 7,"Fox Islands, Aleutian Islands, Alaska"
-ak,10578878,1,"Saturday, October 13, 2012 09:44:12 UTC",61.8453,-149.2567,1.6,5.80,12,"Southern Alaska"
-ak,10578876,1,"Saturday, October 13, 2012 09:37:14 UTC",63.0551,-151.5281,1.5,14.20, 5,"Central Alaska"
-nc,71858805,0,"Saturday, October 13, 2012 09:00:45 UTC",38.8177,-122.7845,1.6,2.10,23,"Northern California"
-nc,71858800,0,"Saturday, October 13, 2012 09:00:35 UTC",38.8162,-122.7848,1.2,1.90,20,"Northern California"
-ci,15229185,0,"Saturday, October 13, 2012 08:52:37 UTC",33.2047,-116.2298,1.6,4.20,43,"Southern California"
-pr,12287000,0,"Saturday, October 13, 2012 08:25:50 UTC",18.8005,-65.5726,3.0,43.00,11,"Puerto Rico region"
-us,b000d5b6,7,"Saturday, October 13, 2012 08:25:45 UTC",-22.2675,170.4315,4.9,36.00,87,"southeast of the Loyalty Islands"
-uw,60463732,3,"Saturday, October 13, 2012 08:15:19 UTC",45.3247,-121.6673,2.1,7.70,20,"Mount Hood area, Oregon"
-nc,71858785,3,"Saturday, October 13, 2012 08:08:32 UTC",38.8303,-122.8080,1.7,0.40,48,"Northern California"
-ak,10578862,1,"Saturday, October 13, 2012 07:55:50 UTC",60.0105,-152.2349,1.6,35.50, 9,"Southern Alaska"
-ak,10578858,1,"Saturday, October 13, 2012 07:47:19 UTC",65.3361,-147.9012,2.1,0.20,13,"northern Alaska"
-us,b000d5az,7,"Saturday, October 13, 2012 07:08:42 UTC",37.5609,95.7632,4.7,30.30,122,"northern Qinghai, China"
-se,101312b,A,"Saturday, October 13, 2012 07:08:33 UTC",35.2473,-84.2395,1.8,6.80, 9,"North Carolina"
-nc,71858770,3,"Saturday, October 13, 2012 07:03:13 UTC",36.3938,-120.5603,1.7,13.20,39,"Central California"
-nc,71858760,0,"Saturday, October 13, 2012 06:48:24 UTC",38.8333,-122.8057,1.0,0.80,10,"Northern California"
-hv,60412191,2,"Saturday, October 13, 2012 06:17:11 UTC",19.3832,-155.2458,2.6,3.60,23,"Island of Hawaii, Hawaii"
-nc,71858755,0,"Saturday, October 13, 2012 06:12:11 UTC",38.8198,-122.7917,1.1,3.60,22,"Northern California"
-ak,10578851,1,"Saturday, October 13, 2012 06:11:02 UTC",65.2899,-148.0002,1.2,2.00, 5,"northern Alaska"
-ci,15229145,0,"Saturday, October 13, 2012 06:09:19 UTC",33.9798,-117.1903,1.3,7.10,41,"Greater Los Angeles area, California"
-nc,71858745,3,"Saturday, October 13, 2012 05:43:20 UTC",38.8177,-122.8207,1.8,3.00,56,"Northern California"
-ak,10578836,1,"Saturday, October 13, 2012 05:39:07 UTC",59.9757,-141.0423,3.3,0.00,49,"Southeastern Alaska"
-ak,10578833,1,"Saturday, October 13, 2012 05:19:00 UTC",63.5463,-150.7865,1.4,5.70, 8,"Central Alaska"
-ci,15229129,0,"Saturday, October 13, 2012 05:11:18 UTC",33.3068,-116.9117,1.2,14.90,64,"Southern California"
-ci,15229009,0,"Saturday, October 13, 2012 04:49:41 UTC",33.3207,-116.7862,1.2,12.40,62,"Southern California"
-ak,10578826,1,"Saturday, October 13, 2012 04:45:37 UTC",63.5102,-151.2680,1.1,12.40, 4,"Central Alaska"
-ci,15228993,0,"Saturday, October 13, 2012 04:31:58 UTC",33.3283,-116.7787,1.1,14.90,41,"Southern California"
-pr,12287002,0,"Saturday, October 13, 2012 04:10:03 UTC",18.1534,-66.9365,2.0,23.00, 8,"Puerto Rico"
-nc,71858700,0,"Saturday, October 13, 2012 04:05:10 UTC",38.7722,-122.7367,1.2,2.10,19,"Northern California"
-se,101312a,C,"Saturday, October 13, 2012 04:03:08 UTC",34.9705,-84.3530,2.5,8.00,21,"Georgia, USA"
-ak,10578819,1,"Saturday, October 13, 2012 03:43:13 UTC",62.0844,-145.0449,1.4,21.90, 7,"Central Alaska"
-uu,60001222,2,"Saturday, October 13, 2012 03:22:53 UTC",39.6352,-110.3935,1.1,1.70, 8,"Utah"
-ak,10578806,1,"Saturday, October 13, 2012 03:13:27 UTC",61.7234,-146.5099,2.7,11.80,57,"Southern Alaska"
-hv,60412106,2,"Saturday, October 13, 2012 02:40:44 UTC",18.8435,-155.1622,2.6,9.20,47,"Hawaii region, Hawaii"
-ci,15228969,0,"Saturday, October 13, 2012 02:30:55 UTC",35.9583,-117.6638,1.5,3.20,27,"Central California"
-nc,71858640,2,"Saturday, October 13, 2012 02:09:37 UTC",37.5658,-118.8298,1.1,5.40,29,"Central California"
-ci,15228953,0,"Saturday, October 13, 2012 01:28:09 UTC",33.6720,-115.9717,1.5,30.90,20,"Southern California"
-us,b000d58x,5,"Saturday, October 13, 2012 01:24:54 UTC",16.8075,-100.2146,4.4,30.80,162,"offshore Guerrero, Mexico"
-ci,15228945,0,"Saturday, October 13, 2012 01:19:19 UTC",33.7392,-116.8598,1.4,10.70,53,"Southern California"
-ak,10578667,1,"Saturday, October 13, 2012 01:12:45 UTC",60.5199,-150.9147,1.7,17.00, 9,"Kenai Peninsula, Alaska"
-uw,60463692,1,"Saturday, October 13, 2012 00:44:32 UTC",46.5183,-122.5660,1.4,0.00,10,"Washington"
-ci,15228937,0,"Saturday, October 13, 2012 00:37:31 UTC",33.9798,-117.2015,2.4,11.70,148,"Greater Los Angeles area, California"
-nc,71858550,2,"Saturday, October 13, 2012 00:28:32 UTC",35.9687,-120.5382,1.0,9.20,29,"Central California"
-ci,15228929,0,"Saturday, October 13, 2012 00:28:15 UTC",35.0893,-119.1210,1.9,22.50,24,"Central California"
-ci,15228921,0,"Saturday, October 13, 2012 00:28:09 UTC",33.3225,-116.7827,1.2,11.80,43,"Southern California"
-ci,15228913,0,"Saturday, October 13, 2012 00:20:53 UTC",36.0175,-117.6180,1.3,7.60,12,"Central California"
-nn,00390891,9,"Saturday, October 13, 2012 00:13:48 UTC",36.7457,-115.9009,1.5,8.40,12,"Nevada"
-ak,10578369,1,"Saturday, October 13, 2012 00:03:17 UTC",59.8042,-151.8620,1.8,53.10, 9,"Kenai Peninsula, Alaska"
-ak,10578795,2,"Friday, October 12, 2012 23:08:02 UTC",65.1888,-146.9378,1.8,0.00, 7,"northern Alaska"
-ak,10578796,2,"Friday, October 12, 2012 23:07:50 UTC",62.5215,-150.0410,1.6,21.20,10,"Central Alaska"
-ak,10578354,2,"Friday, October 12, 2012 23:05:01 UTC",51.4106,-178.1905,2.2,10.10, 6,"Andreanof Islands, Aleutian Islands, Alaska"
-ci,15228889,0,"Friday, October 12, 2012 23:04:13 UTC",34.6462,-116.2883,1.8,1.70,22,"Southern California"
-nc,71858490,3,"Friday, October 12, 2012 22:54:40 UTC",37.5113,-121.6912,1.5,7.00,28,"Northern California"
-ci,15228881,0,"Friday, October 12, 2012 22:50:25 UTC",35.9273,-117.6628,1.6,2.90,31,"Central California"
-ci,15228873,0,"Friday, October 12, 2012 22:42:43 UTC",33.0035,-116.2492,1.4,4.30,30,"Southern California"
-ci,15228865,0,"Friday, October 12, 2012 22:40:19 UTC",33.9825,-117.2005,1.6,11.80,89,"Greater Los Angeles area, California"
-nc,71858480,1,"Friday, October 12, 2012 22:27:50 UTC",38.8122,-122.8093,1.5,2.60,24,"Northern California"
-ci,15228849,0,"Friday, October 12, 2012 21:43:03 UTC",34.5272,-118.1132,1.8,8.70,50,"Southern California"
-ak,10578324,1,"Friday, October 12, 2012 21:30:11 UTC",64.0164,-148.9088,2.2,0.10,21,"Central Alaska"
-us,b000d56a,A,"Friday, October 12, 2012 21:26:34 UTC",-23.6518,-67.9327,4.8,114.30,150,"Antofagasta, Chile"
-uw,60463637,1,"Friday, October 12, 2012 21:13:04 UTC",44.0230,-123.0165,1.6,0.00, 7,"Oregon"
-us,b000d565,9,"Friday, October 12, 2012 21:10:57 UTC",27.7169,139.7825,4.6,483.50,131,"Bonin Islands, Japan region"
-ak,10578316,1,"Friday, October 12, 2012 21:10:14 UTC",60.2089,-152.4214,2.3,91.00, 8,"Southern Alaska"
-ak,10578309,1,"Friday, October 12, 2012 20:53:07 UTC",61.7530,-149.9337,1.3,39.30, 6,"Southern Alaska"
-ci,15228809,0,"Friday, October 12, 2012 20:48:52 UTC",32.5467,-116.7807,1.9,2.70,32,"Baja California, Mexico"
-nn,00391072,9,"Friday, October 12, 2012 20:44:15 UTC",37.3628,-117.1427,1.5,10.40,15,"Nevada"
-nn,00390883,9,"Friday, October 12, 2012 20:42:45 UTC",37.3766,-117.1150,1.5,7.40,15,"Nevada"
-ci,15228785,4,"Friday, October 12, 2012 20:38:03 UTC",37.3500,-117.0995,1.3,0.60,10,"Nevada"
-ci,15228777,2,"Friday, October 12, 2012 20:37:11 UTC",37.3822,-117.1080,1.3,5.20,11,"Nevada"
-ak,10578288,1,"Friday, October 12, 2012 20:10:33 UTC",63.2969,-151.2213,1.4,9.30, 5,"Central Alaska"
-nc,71858390,3,"Friday, October 12, 2012 20:06:01 UTC",40.4800,-123.8025,1.8,5.30,18,"Northern California"
-ci,15228769,4,"Friday, October 12, 2012 19:58:58 UTC",35.9853,-116.0717,1.8,9.60,11,"Central California"
-ci,15228761,2,"Friday, October 12, 2012 19:31:38 UTC",33.1432,-116.4567,1.1,5.10,17,"Southern California"
-us,b000d53n,7,"Friday, October 12, 2012 19:24:15 UTC",9.5780,-84.2971,5.0,45.30,277,"Costa Rica"
-nc,71858430,2,"Friday, October 12, 2012 19:20:47 UTC",37.6450,-119.3868,1.1,6.00,19,"Central California"
-us,b000d53a,6,"Friday, October 12, 2012 19:01:02 UTC",3.0142,126.8285,4.7,59.60,60,"Kepulauan Talaud, Indonesia"
-nc,71858350,0,"Friday, October 12, 2012 18:54:47 UTC",36.2382,-120.7988,1.6,7.00,11,"Central California"
-us,b000d52y,6,"Friday, October 12, 2012 18:53:02 UTC",14.4210,120.6201,4.8,130.20,98,"Luzon, Philippines"
-hv,60412006,1,"Friday, October 12, 2012 18:51:50 UTC",19.3330,-155.1355,1.8,7.00,21,"Island of Hawaii, Hawaii"
-nc,71858335,6,"Friday, October 12, 2012 18:33:35 UTC",37.3773,-121.7412,1.1,2.60,18,"San Francisco Bay area, California"
-hv,60411996,1,"Friday, October 12, 2012 18:32:02 UTC",19.6633,-155.4967,2.2,28.90,38,"Island of Hawaii, Hawaii"
-nc,71858320,2,"Friday, October 12, 2012 18:31:21 UTC",37.3273,-122.1035,1.9,0.00,12,"San Francisco Bay area, California"
-nc,71858325,2,"Friday, October 12, 2012 18:30:33 UTC",40.7363,-122.3215,1.7,0.00,12,"Northern California"
-ak,10578118,1,"Friday, October 12, 2012 18:23:23 UTC",60.3793,-151.1603,1.8,71.80, 5,"Kenai Peninsula, Alaska"
-ci,15228745,2,"Friday, October 12, 2012 18:23:03 UTC",36.0445,-117.6960,1.0,3.80,15,"Central California"
-uw,60463552,1,"Friday, October 12, 2012 18:18:16 UTC",47.0157,-123.0372,1.1,22.60, 9,"Washington"
-uu,60001182,4,"Friday, October 12, 2012 18:13:02 UTC",39.4622,-111.7367,1.4,9.00,15,"Utah"
-ci,15228729,2,"Friday, October 12, 2012 17:52:09 UTC",34.6068,-117.1263,1.5,0.00, 9,"Southern California"
-ci,15228721,2,"Friday, October 12, 2012 17:33:56 UTC",33.2288,-115.5833,1.8,6.10,11,"Southern California"
-ci,15228713,2,"Friday, October 12, 2012 17:18:25 UTC",34.0318,-117.1453,1.2,9.70,24,"Greater Los Angeles area, California"
-ci,15228705,2,"Friday, October 12, 2012 16:56:58 UTC",35.0502,-118.3545,1.4,0.00,10,"Southern California"
-uw,60463527,1,"Friday, October 12, 2012 16:56:42 UTC",46.8440,-119.3507,1.0,0.00, 7,"Washington"
-ak,10578072,1,"Friday, October 12, 2012 16:50:09 UTC",63.2876,-151.3752,1.0,16.80, 5,"Central Alaska"
-ci,15228697,4,"Friday, October 12, 2012 16:46:51 UTC",36.0322,-117.7745,1.6,2.60,40,"Central California"
-ak,10578062,1,"Friday, October 12, 2012 16:15:00 UTC",63.1524,-149.1725,2.3,84.80,28,"Central Alaska"
-nc,71858195,0,"Friday, October 12, 2012 15:29:18 UTC",38.8182,-122.8167,1.4,2.60,23,"Northern California"
-ak,10578046,2,"Friday, October 12, 2012 15:03:59 UTC",61.3234,-152.4647,1.2,4.50, 7,"Southern Alaska"
-ak,10578040,1,"Friday, October 12, 2012 14:38:21 UTC",60.0200,-141.3440,1.3,2.20, 4,"Southern Alaska"
-nc,71858165,2,"Friday, October 12, 2012 14:20:23 UTC",37.8160,-121.9207,2.1,5.40,54,"San Francisco Bay area, California"
-ci,15228673,2,"Friday, October 12, 2012 13:46:36 UTC",32.4013,-115.2193,2.0,10.50,10,"Baja California, Mexico"
-ci,15228665,2,"Friday, October 12, 2012 13:44:37 UTC",35.8623,-118.1053,1.0,13.60,15,"Central California"
-ak,10578023,2,"Friday, October 12, 2012 13:44:24 UTC",61.3199,-147.1069,3.5,1.50,89,"Southern Alaska"
-nc,71858150,3,"Friday, October 12, 2012 13:35:57 UTC",40.1475,-123.8302,1.4,24.10,12,"Northern California"
-nc,71858135,0,"Friday, October 12, 2012 13:28:49 UTC",38.8410,-122.8057,1.6,2.30,12,"Northern California"
-nc,71858120,3,"Friday, October 12, 2012 12:51:11 UTC",37.0905,-122.3522,1.5,5.40,14,"offshore Northern California"
-ak,10578011,1,"Friday, October 12, 2012 12:47:54 UTC",65.2840,-147.9961,1.2,29.90, 8,"northern Alaska"
-ak,10578009,1,"Friday, October 12, 2012 12:46:09 UTC",65.3435,-147.9429,1.6,25.60,10,"northern Alaska"
-ci,15228657,2,"Friday, October 12, 2012 12:29:30 UTC",35.8653,-118.1033,1.1,12.00,37,"Central California"
-uw,60463422,2,"Friday, October 12, 2012 12:24:48 UTC",47.3133,-122.0422,1.8,13.40,32,"Puget Sound region, Washington"
-ci,15228649,2,"Friday, October 12, 2012 12:22:45 UTC",36.2360,-118.3230,1.4,4.50,19,"Central California"
-us,b000d4y9,B,"Friday, October 12, 2012 12:16:19 UTC",10.5109,-62.8137,4.9,12.30,182,"Gulf of Paria, Venezuela"
-ci,15228633,2,"Friday, October 12, 2012 11:21:05 UTC",35.8633,-118.1000,1.0,13.90,15,"Central California"
-hv,60411926,1,"Friday, October 12, 2012 11:13:10 UTC",19.4313,-155.8850,2.4,11.90,25,"Island of Hawaii, Hawaii"
-nc,71858060,2,"Friday, October 12, 2012 11:08:17 UTC",40.3053,-124.5615,1.9,11.40,19,"offshore Northern California"
-ak,10577990,1,"Friday, October 12, 2012 10:52:22 UTC",63.5582,-147.8038,1.5,5.30,15,"Central Alaska"
-hv,60411921,1,"Friday, October 12, 2012 10:47:11 UTC",19.5923,-155.2857,2.0,33.10,32,"Island of Hawaii, Hawaii"
-uw,60463407,2,"Friday, October 12, 2012 10:34:39 UTC",46.3363,-122.2347,1.0,8.30,24,"Washington"
-ci,15228625,0,"Friday, October 12, 2012 10:31:37 UTC",33.8092,-116.8887,1.0,19.60,27,"Southern California"
-ci,15228617,0,"Friday, October 12, 2012 10:28:21 UTC",33.6975,-116.7315,1.4,20.70,86,"Southern California"
-ci,15228601,0,"Friday, October 12, 2012 09:40:26 UTC",35.9287,-117.6590,1.8,3.30,11,"Central California"
-nc,71858050,0,"Friday, October 12, 2012 09:36:50 UTC",38.8057,-122.8168,1.4,3.20,21,"Northern California"
-nc,71858045,2,"Friday, October 12, 2012 09:33:00 UTC",37.0172,-120.1412,1.8,18.30,12,"Central California"
-ci,15228593,0,"Friday, October 12, 2012 09:13:23 UTC",34.8447,-116.9505,2.7,8.40,88,"Southern California"
-pr,12286000,0,"Friday, October 12, 2012 09:00:02 UTC",18.0970,-65.7506,2.8,9.00, 3,"Puerto Rico region"
-ak,10577975,1,"Friday, October 12, 2012 08:26:58 UTC",63.2569,-151.4074,1.2,1.20, 4,"Central Alaska"
-nc,71858005,1,"Friday, October 12, 2012 07:53:09 UTC",38.8247,-122.8065,1.3,2.80,23,"Northern California"
-nc,71858000,3,"Friday, October 12, 2012 07:43:54 UTC",37.5140,-118.8720,1.7,7.80,37,"Central California"
-nc,71857995,1,"Friday, October 12, 2012 07:37:03 UTC",38.8228,-122.7997,1.1,3.10,23,"Northern California"
-hv,60411881,2,"Friday, October 12, 2012 07:22:52 UTC",19.3137,-155.4738,2.9,9.10,43,"Island of Hawaii, Hawaii"
-ak,10577961,2,"Friday, October 12, 2012 07:10:46 UTC",51.3912,-177.0496,2.4,36.40,12,"Andreanof Islands, Aleutian Islands, Alaska"
-uu,60001142,2,"Friday, October 12, 2012 06:42:01 UTC",39.6343,-110.3898,1.2,1.40, 8,"Utah"
-nc,71857975,3,"Friday, October 12, 2012 06:12:33 UTC",38.8453,-122.8210,1.2,2.00,49,"Northern California"
-ci,15228577,0,"Friday, October 12, 2012 06:11:20 UTC",33.0708,-116.4687,1.7,10.70,59,"Southern California"
-ak,10577950,1,"Friday, October 12, 2012 06:08:46 UTC",63.1588,-144.0340,2.0,3.10,15,"Central Alaska"
-ci,15228569,0,"Friday, October 12, 2012 06:02:25 UTC",35.0725,-119.5770,1.8,13.40,24,"Central California"
-ci,15228561,0,"Friday, October 12, 2012 05:10:45 UTC",35.1478,-116.4830,1.9,0.70,22,"Southern California"
-us,b000d4vp,8,"Friday, October 12, 2012 04:57:21 UTC",35.7617,140.4623,5.1,34.90,343,"near the east coast of Honshu, Japan"
-ak,10577937,1,"Friday, October 12, 2012 04:52:46 UTC",61.2590,-152.4697,1.2,0.10, 7,"Southern Alaska"
-us,b000d4vi,3,"Friday, October 12, 2012 04:31:03 UTC",1.6328,-90.6418,4.4,9.60,81,"Galapagos Islands, Ecuador region"
-ci,15228553,0,"Friday, October 12, 2012 04:23:24 UTC",34.0638,-117.2527,1.4,13.70,80,"Greater Los Angeles area, California"
-ak,10577932,2,"Friday, October 12, 2012 04:15:43 UTC",58.3143,-143.2832,2.1,66.00,14,"Gulf of Alaska"
-hv,60411851,1,"Friday, October 12, 2012 04:02:11 UTC",19.3133,-155.4952,1.9,6.80,23,"Island of Hawaii, Hawaii"
-nn,00390848,9,"Friday, October 12, 2012 03:59:06 UTC",39.6634,-119.6822,1.0,13.50,22,"Nevada"
-hv,60411826,1,"Friday, October 12, 2012 03:43:20 UTC",19.3180,-155.4967,1.9,7.70,12,"Island of Hawaii, Hawaii"
-nc,71857925,3,"Friday, October 12, 2012 03:26:26 UTC",36.5710,-121.1703,1.9,6.40,35,"Central California"
-ak,10577922,1,"Friday, October 12, 2012 03:24:00 UTC",62.7795,-149.4529,1.3,0.50, 5,"Central Alaska"
-nc,71857915,4,"Friday, October 12, 2012 03:18:50 UTC",36.4665,-121.0505,1.0,1.30,16,"Central California"
-us,b000d4v5,8,"Friday, October 12, 2012 03:18:49 UTC",28.3295,138.7059,4.6,500.90,46,"Bonin Islands, Japan region"
-us,b000d4uy,5,"Friday, October 12, 2012 02:34:59 UTC",1.4857,-90.7480,4.4,10.00,94,"Galapagos Islands, Ecuador region"
-nc,71857895,1,"Friday, October 12, 2012 02:03:42 UTC",38.8307,-122.8090,1.5,2.40,27,"Northern California"
-nc,71857890,2,"Friday, October 12, 2012 02:01:33 UTC",37.8103,-121.8987,1.3,11.10,19,"San Francisco Bay area, California"
-nc,71857885,0,"Friday, October 12, 2012 02:00:33 UTC",38.8280,-122.8547,1.0,2.10,21,"Northern California"
-ci,15228521,0,"Friday, October 12, 2012 01:54:46 UTC",33.4845,-116.7632,2.1,10.30,118,"Southern California"
-ci,15228505,0,"Friday, October 12, 2012 01:39:38 UTC",33.9948,-117.1502,1.5,10.50,60,"Greater Los Angeles area, California"
-us,b000d4uz,2,"Friday, October 12, 2012 01:34:51 UTC",-4.8020,133.8533,4.9,20.70,52,"near the south coast of Papua, Indonesia"
-us,b000d4un,7,"Friday, October 12, 2012 01:29:15 UTC",-4.9585,133.9160,4.9,10.40,47,"near the south coast of Papua, Indonesia"
-uu,60001132,2,"Friday, October 12, 2012 01:25:32 UTC",39.5122,-111.7202,1.3,11.50, 9,"Utah"
-ak,10577897,1,"Friday, October 12, 2012 01:20:11 UTC",63.1907,-151.5571,2.4,5.40, 5,"Central Alaska"
-hv,60411801,2,"Friday, October 12, 2012 01:15:09 UTC",19.3790,-155.2380,2.2,3.40,18,"Island of Hawaii, Hawaii"
-nn,00390843,9,"Friday, October 12, 2012 00:59:10 UTC",39.3334,-119.9034,2.0,9.50,29,"Nevada"
-us,b000d4u2,7,"Friday, October 12, 2012 00:31:30 UTC",-4.8416,134.0847,6.7,24.70,142,"near the south coast of Papua, Indonesia"
-nc,71857840,3,"Friday, October 12, 2012 00:31:11 UTC",36.3745,-120.9567,1.1,6.80,15,"Central California"
-ak,10577862,1,"Friday, October 12, 2012 00:29:29 UTC",61.5493,-148.0069,1.5,6.70,13,"Southern Alaska"
-ci,15228449,2,"Friday, October 12, 2012 00:04:56 UTC",34.2357,-117.0465,1.9,5.60,21,"Southern California"
-us,b000d4tu,4,"Thursday, October 11, 2012 23:54:30 UTC",34.1529,73.7546,4.6,24.30,53,"Pakistan"
-ak,10577822,1,"Thursday, October 11, 2012 23:18:59 UTC",63.9228,-150.3225,1.0,11.30, 6,"Central Alaska"
-us,b000d4t9,7,"Thursday, October 11, 2012 22:58:57 UTC",-19.5504,-64.0181,4.6,596.00,48,"Chuquisaca, Bolivia"
-ak,10577623,1,"Thursday, October 11, 2012 22:47:07 UTC",64.1752,-150.0886,1.0,17.10, 5,"Central Alaska"
-ak,10577616,1,"Thursday, October 11, 2012 22:24:02 UTC",61.4816,-149.7134,1.3,31.20, 5,"Southern Alaska"
-ci,15228433,2,"Thursday, October 11, 2012 22:20:37 UTC",35.9627,-117.6560,1.5,4.60,13,"Central California"
-ci,15228425,4,"Thursday, October 11, 2012 22:19:38 UTC",34.3402,-116.8787,1.8,0.00,27,"Southern California"
-us,b000d4s9,8,"Thursday, October 11, 2012 22:03:45 UTC",-56.3037,-25.7325,5.1,34.90,41,"South Sandwich Islands region"
-ci,15228409,2,"Thursday, October 11, 2012 22:02:39 UTC",34.3612,-118.4553,1.9,7.90,42,"Greater Los Angeles area, California"
-nc,71857750,3,"Thursday, October 11, 2012 21:32:54 UTC",39.2235,-123.1875,1.5,7.20,19,"Northern California"
-nc,71857740,3,"Thursday, October 11, 2012 21:21:24 UTC",35.5853,-120.7670,2.2,5.50,86,"Central California"
-ci,15228369,2,"Thursday, October 11, 2012 21:01:24 UTC",33.6938,-116.7213,1.4,19.60,57,"Southern California"
-ci,15228361,2,"Thursday, October 11, 2012 20:58:43 UTC",33.2693,-116.3627,1.5,12.20,57,"Southern California"
-uw,60463032,2,"Thursday, October 11, 2012 20:44:48 UTC",46.1882,-123.3288,1.3,0.00,12,"Washington"
-ci,15228345,2,"Thursday, October 11, 2012 20:42:53 UTC",34.0520,-117.3092,1.2,19.00,34,"Greater Los Angeles area, California"
-nc,71857730,2,"Thursday, October 11, 2012 20:37:51 UTC",39.4545,-123.1003,1.5,6.20,23,"Northern California"
-nc,71857725,0,"Thursday, October 11, 2012 20:35:53 UTC",36.4738,-121.0525,1.4,6.10,10,"Central California"
-nc,71857720,4,"Thursday, October 11, 2012 20:28:45 UTC",37.3237,-122.1083,1.6,0.00,41,"San Francisco Bay area, California"
-nc,71857715,0,"Thursday, October 11, 2012 20:23:57 UTC",36.4738,-121.0570,2.0,6.00,18,"Central California"
-nn,00390819,9,"Thursday, October 11, 2012 19:59:13 UTC",38.7990,-117.1242,1.4,32.20,10,"Nevada"
-ak,10577554,1,"Thursday, October 11, 2012 19:51:49 UTC",66.0764,-148.8408,2.0,18.20,12,"northern Alaska"
-ci,15228297,2,"Thursday, October 11, 2012 19:49:08 UTC",35.9770,-117.3528,1.5,4.20,31,"Central California"
-ak,10577544,1,"Thursday, October 11, 2012 19:34:48 UTC",63.0863,-151.5331,1.8,0.00,11,"Central Alaska"
-ci,15228289,0,"Thursday, October 11, 2012 19:24:38 UTC",36.0230,-117.7825,2.0,3.70,12,"Central California"
-ci,15228281,2,"Thursday, October 11, 2012 19:21:54 UTC",35.0360,-117.6777,1.6,0.00,19,"Southern California"
-ak,10577525,1,"Thursday, October 11, 2012 19:19:36 UTC",60.4950,-147.2492,2.7,4.30,39,"Southern Alaska"
-ci,15228273,2,"Thursday, October 11, 2012 19:16:17 UTC",35.9285,-117.6610,1.4,4.10,37,"Central California"
-nc,71857690,3,"Thursday, October 11, 2012 19:07:41 UTC",39.6090,-123.5435,2.0,5.50,18,"Northern California"
-nc,71857680,3,"Thursday, October 11, 2012 19:02:18 UTC",37.5158,-118.8278,2.4,4.60,44,"Central California"
-ak,10577502,1,"Thursday, October 11, 2012 18:56:31 UTC",62.4095,-151.5134,2.2,104.30,22,"Central Alaska"
-nc,71857665,2,"Thursday, October 11, 2012 18:30:11 UTC",37.5123,-118.8275,1.4,4.10,27,"Central California"
-ci,15228217,0,"Thursday, October 11, 2012 18:05:36 UTC",35.9578,-117.6655,2.1,1.90,46,"Central California"
-ak,10577867,2,"Thursday, October 11, 2012 18:00:24 UTC",51.4430,-176.5927,2.3,25.70,12,"Andreanof Islands, Aleutian Islands, Alaska"
-ci,15228209,2,"Thursday, October 11, 2012 17:56:56 UTC",34.4987,-118.9055,1.7,0.10,15,"Southern California"
-uw,60462902,1,"Thursday, October 11, 2012 17:56:31 UTC",45.3550,-123.4648,1.3,0.00, 7,"Oregon"
-ak,10577427,1,"Thursday, October 11, 2012 17:33:57 UTC",63.3811,-148.4027,1.2,15.40, 5,"Central Alaska"
-ci,15228193,0,"Thursday, October 11, 2012 17:29:39 UTC",36.3242,-118.4003,1.7,7.00, 8,"Central California"
-us,b000d4jf,6,"Thursday, October 11, 2012 17:22:10 UTC",-32.8670,-70.4007,5.5,81.90,376,"Valparaiso, Chile"
-us,b000d4j5,6,"Thursday, October 11, 2012 17:07:53 UTC",1.4884,92.5264,5.3,28.60,88,"off the west coast of northern Sumatra"
-nc,71857585,2,"Thursday, October 11, 2012 16:52:22 UTC",40.7607,-121.1587,1.3,8.20,12,"Northern California"
-ci,15228169,0,"Thursday, October 11, 2012 16:50:52 UTC",35.8033,-117.7492,1.2,26.30,14,"Central California"
-pr,12285010,0,"Thursday, October 11, 2012 16:38:23 UTC",18.0631,-68.5298,2.8,119.00, 4,"Dominican Republic region"
-nc,71857560,2,"Thursday, October 11, 2012 16:37:49 UTC",40.7502,-121.1625,1.1,5.60, 8,"Northern California"
-ak,10577389,2,"Thursday, October 11, 2012 16:24:06 UTC",59.7612,-152.6298,2.2,82.90,23,"Southern Alaska"
-ak,10577392,2,"Thursday, October 11, 2012 16:24:02 UTC",51.5441,-178.0855,2.0,0.50,13,"Andreanof Islands, Aleutian Islands, Alaska"
-uw,60462842,1,"Thursday, October 11, 2012 16:22:28 UTC",43.9733,-122.7988,1.1,0.00,17,"Oregon"
-pr,12285009,0,"Thursday, October 11, 2012 15:51:05 UTC",18.1595,-67.1474,2.3,21.00, 7,"Puerto Rico"
-hv,60411561,1,"Thursday, October 11, 2012 15:39:50 UTC",19.3722,-155.2450,1.7,24.60,27,"Island of Hawaii, Hawaii"
-us,b000d4hv,8,"Thursday, October 11, 2012 15:13:17 UTC",24.6742,-110.1316,4.4,11.50,260,"Gulf of California"
-ak,10577379,1,"Thursday, October 11, 2012 15:02:11 UTC",60.7303,-150.4444,1.6,34.90, 6,"Kenai Peninsula, Alaska"
-ci,15228153,3,"Thursday, October 11, 2012 14:40:40 UTC",33.0202,-116.3062,1.2,7.30,38,"Southern California"
-ci,15228145,2,"Thursday, October 11, 2012 14:29:25 UTC",33.7102,-116.7592,1.1,18.60,57,"Southern California"
-ak,10577373,1,"Thursday, October 11, 2012 14:14:34 UTC",61.3456,-149.5949,1.4,30.50, 6,"Southern Alaska"
-nc,71857505,3,"Thursday, October 11, 2012 14:01:32 UTC",37.7680,-122.5942,2.4,4.90,82,"offshore Northern California"
-ci,15228121,2,"Thursday, October 11, 2012 13:41:39 UTC",36.0062,-118.3972,1.2,5.20,22,"Central California"
-ak,10577364,1,"Thursday, October 11, 2012 13:41:04 UTC",61.1504,-152.0549,1.5,17.20, 7,"Southern Alaska"
-nn,00390773,9,"Thursday, October 11, 2012 13:18:29 UTC",38.3296,-118.1570,1.4,10.00,10,"Nevada"
-nc,71857495,2,"Thursday, October 11, 2012 13:03:14 UTC",37.5995,-118.7845,1.0,7.50,22,"Central California"
-pr,12285007,0,"Thursday, October 11, 2012 12:57:58 UTC",19.0774,-65.3715,3.1,46.00, 4,"Puerto Rico region"
-mb,12633058,2,"Thursday, October 11, 2012 12:03:37 UTC",46.0286,-111.4190,1.1,12.50,11,"western Montana"
-nc,71857465,2,"Thursday, October 11, 2012 11:57:05 UTC",39.3077,-122.9355,1.7,5.70,27,"Northern California"
-ci,15228097,3,"Thursday, October 11, 2012 11:51:27 UTC",36.0657,-117.5990,1.1,2.00,27,"Central California"
-nn,00390770,9,"Thursday, October 11, 2012 11:39:50 UTC",37.2341,-114.7054,2.5,8.10, 8,"Nevada"
-ci,15228089,2,"Thursday, October 11, 2012 11:31:03 UTC",33.0135,-116.3118,1.3,9.30,68,"Southern California"
-ci,15228081,3,"Thursday, October 11, 2012 11:22:12 UTC",34.5412,-118.1180,1.8,10.80,14,"Southern California"
-pr,12285011,0,"Thursday, October 11, 2012 11:18:46 UTC",19.6422,-66.9517,3.2,81.00, 3,"Puerto Rico region"
-pr,12285008,0,"Thursday, October 11, 2012 11:12:14 UTC",19.1058,-64.1246,3.0,51.00, 4,"Virgin Islands region"
-nn,00390769,9,"Thursday, October 11, 2012 10:58:05 UTC",38.0769,-118.2266,1.9,8.80,16,"Nevada"
-ci,15228049,2,"Thursday, October 11, 2012 10:49:11 UTC",35.3248,-118.5182,1.2,7.20,38,"Central California"
-hv,60411521,2,"Thursday, October 11, 2012 10:44:06 UTC",19.3815,-155.2805,2.6,3.20,27,"Island of Hawaii, Hawaii"
-nc,71857425,0,"Thursday, October 11, 2012 10:00:53 UTC",38.8143,-122.8228,1.0,3.20,15,"Northern California"
-ak,10577339,2,"Thursday, October 11, 2012 09:55:29 UTC",51.5064,-178.1808,1.7,21.70,12,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71857420,1,"Thursday, October 11, 2012 09:45:47 UTC",38.7938,-122.7975,1.1,3.70,27,"Northern California"
-ak,10577336,2,"Thursday, October 11, 2012 09:37:40 UTC",51.4545,-178.1549,2.1,11.30,16,"Andreanof Islands, Aleutian Islands, Alaska"
-pr,12285006,0,"Thursday, October 11, 2012 09:17:37 UTC",19.1877,-65.4247,3.2,30.00, 7,"Puerto Rico region"
-ak,10577323,1,"Thursday, October 11, 2012 08:51:38 UTC",61.2733,-146.3792,2.2,3.60,34,"Southern Alaska"
-ak,10577319,1,"Thursday, October 11, 2012 08:47:08 UTC",63.1761,-150.4599,1.7,113.20,13,"Central Alaska"
-nc,71857400,3,"Thursday, October 11, 2012 08:42:48 UTC",38.8112,-122.7382,1.9,2.90,66,"Northern California"
-nc,71857390,0,"Thursday, October 11, 2012 08:39:22 UTC",38.8207,-122.7927,1.1,3.30,23,"Northern California"
-ci,15228033,2,"Thursday, October 11, 2012 08:33:25 UTC",32.7717,-116.5848,1.4,17.90,16,"Southern California"
-pr,12285005,0,"Thursday, October 11, 2012 08:06:01 UTC",19.7070,-64.2689,3.4,35.00, 5,"Virgin Islands region"
-ci,15228009,2,"Thursday, October 11, 2012 07:41:36 UTC",32.9908,-116.3442,1.4,9.60,62,"Southern California"
-ak,10577292,1,"Thursday, October 11, 2012 07:28:43 UTC",60.2233,-151.8309,2.7,35.30,28,"Kenai Peninsula, Alaska"
-ci,15228001,2,"Thursday, October 11, 2012 07:25:00 UTC",33.3393,-116.9343,2.0,21.80,111,"Southern California"
-nm,101112a,A,"Thursday, October 11, 2012 07:19:35 UTC",36.5381,-89.6018,1.4,8.60,13,"southeastern Missouri"
-nc,71857345,0,"Thursday, October 11, 2012 07:08:07 UTC",38.8357,-122.8445,1.2,2.70,23,"Northern California"
-nc,71857335,3,"Thursday, October 11, 2012 06:49:38 UTC",40.2943,-124.5320,2.3,20.90,33,"offshore Northern California"
-pr,12285004,0,"Thursday, October 11, 2012 06:45:01 UTC",18.8635,-65.2914,3.1,6.00, 6,"Puerto Rico region"
-nc,71065674,2,"Thursday, October 11, 2012 06:32:01 UTC",37.5362,-120.0605,1.9,20.30, 8,"Central California"
-nc,71857315,0,"Thursday, October 11, 2012 06:30:23 UTC",38.7502,-122.7430,1.4,1.70,18,"Northern California"
-pr,12285003,0,"Thursday, October 11, 2012 06:19:19 UTC",18.2126,-67.4570,2.7,24.00, 6,"Mona Passage, Puerto Rico"
-nc,71857310,1,"Thursday, October 11, 2012 06:01:27 UTC",37.7103,-121.9507,1.5,10.20,24,"San Francisco Bay area, California"
-mb,12580755,2,"Thursday, October 11, 2012 05:48:31 UTC",44.6226,-112.1151,1.1,8.50,14,"western Montana"
-us,b000d4du,8,"Thursday, October 11, 2012 05:47:11 UTC",4.5421,125.6464,4.9,158.90,63,"Kepulauan Sangihe, Indonesia"
-nc,71857295,2,"Thursday, October 11, 2012 05:23:53 UTC",38.9368,-123.3597,2.0,4.50,24,"Northern California"
-nc,71857290,3,"Thursday, October 11, 2012 05:20:48 UTC",37.2965,-121.6685,1.8,6.80,73,"Northern California"
-ak,10577276,1,"Thursday, October 11, 2012 05:17:57 UTC",60.1268,-152.2082,2.2,37.20,12,"Southern Alaska"
-ak,10577273,1,"Thursday, October 11, 2012 05:07:40 UTC",60.7684,-151.1422,1.8,76.80, 7,"Kenai Peninsula, Alaska"
-nc,71857270,3,"Thursday, October 11, 2012 04:57:41 UTC",39.5550,-121.9822,1.5,8.60,23,"Northern California"
-nc,71857265,3,"Thursday, October 11, 2012 04:56:13 UTC",38.8183,-122.7943,1.2,3.50,47,"Northern California"
-nc,71857670,2,"Thursday, October 11, 2012 04:45:35 UTC",37.6913,-119.3900,1.2,15.00,13,"Central California"
-ak,10577265,1,"Thursday, October 11, 2012 04:39:07 UTC",61.1442,-146.9486,1.4,16.10, 5,"Southern Alaska"
-us,b000d4d8,6,"Thursday, October 11, 2012 04:38:25 UTC",-34.0234,-72.2228,4.8,19.30,39,"offshore Libertador O'Higgins, Chile"
-pr,12285002,0,"Thursday, October 11, 2012 04:34:21 UTC",17.8558,-67.0699,2.0,10.00, 7,"Puerto Rico region"
-mb,12923066,2,"Thursday, October 11, 2012 04:29:19 UTC",47.7511,-113.6901,1.2,9.40,15,"western Montana"
-ak,10577259,2,"Thursday, October 11, 2012 04:26:46 UTC",51.4400,-178.1043,3.2,5.40,22,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10577258,1,"Thursday, October 11, 2012 04:22:57 UTC",60.0010,-140.0598,1.5,11.50, 7,"Southern Yukon Territory, Canada"
-ak,10577252,1,"Thursday, October 11, 2012 04:18:28 UTC",62.1602,-145.7545,1.9,18.00,13,"Central Alaska"
-ci,15227969,2,"Thursday, October 11, 2012 04:03:26 UTC",35.2138,-119.5300,2.9,13.80,53,"Central California"
-ak,10577240,1,"Thursday, October 11, 2012 03:38:33 UTC",59.9290,-151.6395,1.9,61.00,13,"Kenai Peninsula, Alaska"
-ak,10577239,2,"Thursday, October 11, 2012 03:35:27 UTC",61.9447,-150.1826,1.2,1.50,10,"Southern Alaska"
-ci,15227961,2,"Thursday, October 11, 2012 03:24:03 UTC",33.3772,-117.9867,1.8,7.40,53,"Gulf of Santa Catalina, California"
-ak,10577230,1,"Thursday, October 11, 2012 03:15:32 UTC",61.2935,-150.3686,1.6,48.50,15,"Southern Alaska"
-us,b000d4cj,7,"Thursday, October 11, 2012 03:05:02 UTC",-10.0159,160.8369,4.8,27.20,41,"Solomon Islands"
-nc,71857200,2,"Thursday, October 11, 2012 02:56:17 UTC",36.5837,-121.1872,1.0,5.30,11,"Central California"
-us,b000d4cc,7,"Thursday, October 11, 2012 02:38:27 UTC",-34.0770,-72.2676,4.7,1.00,15,"offshore Libertador O'Higgins, Chile"
-uu,60000961,5,"Thursday, October 11, 2012 02:36:30 UTC",39.4090,-111.0662,1.3,1.30,14,"Utah"
-mb,12002302,2,"Thursday, October 11, 2012 02:27:36 UTC",44.6843,-111.8630,1.0,8.50,18,"western Montana"
-nc,71857155,3,"Thursday, October 11, 2012 02:22:50 UTC",36.5867,-121.1825,2.5,3.30,72,"Central California"
-mb,12476151,2,"Thursday, October 11, 2012 02:20:31 UTC",44.5778,-112.3611,1.1,4.50,12,"western Montana"
-ci,15227945,4,"Thursday, October 11, 2012 02:09:34 UTC",32.6167,-115.6985,1.7,6.70,19,"Baja California, Mexico"
-ak,10577216,2,"Thursday, October 11, 2012 02:04:10 UTC",51.4897,-178.0524,2.4,4.20,19,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71857130,0,"Thursday, October 11, 2012 02:03:00 UTC",38.7690,-122.7382,1.2,2.10,20,"Northern California"
-ak,10577218,1,"Thursday, October 11, 2012 01:57:20 UTC",60.1945,-141.3258,1.1,0.00, 8,"Southern Alaska"
-nc,71857115,2,"Thursday, October 11, 2012 01:34:44 UTC",35.8520,-121.5158,1.8,9.40,41,"offshore Central California"
-pr,12285001,0,"Thursday, October 11, 2012 01:29:06 UTC",17.7975,-66.1857,2.8,2.00,14,"Puerto Rico region"
-nc,71857075,3,"Thursday, October 11, 2012 01:06:11 UTC",39.5518,-121.9918,2.5,24.60,51,"Northern California"
-ak,10577188,2,"Thursday, October 11, 2012 00:33:56 UTC",60.8990,-138.2943,1.4,4.50, 7,"Southern Yukon Territory, Canada"
-pr,12285000,0,"Thursday, October 11, 2012 00:24:43 UTC",17.8558,-64.9095,2.6,30.00, 6,"Virgin Islands region"
-ak,10577185,1,"Thursday, October 11, 2012 00:19:49 UTC",60.2211,-140.6066,1.6,15.00, 5,"Southern Yukon Territory, Canada"
-us,b000d4a5,6,"Thursday, October 11, 2012 00:17:38 UTC",-15.6342,-75.0594,4.2,49.00,22,"near the coast of central Peru"
-ci,15227929,2,"Thursday, October 11, 2012 00:00:40 UTC",35.2065,-119.5212,2.5,15.40,25,"Central California"
-ak,10577172,2,"Wednesday, October 10, 2012 23:41:03 UTC",60.8329,-146.9624,1.0,12.00, 8,"Southern Alaska"
-mb,12950000,2,"Wednesday, October 10, 2012 23:39:13 UTC",45.3751,-112.6008,1.8,9.80,14,"western Montana"
-ci,15227921,2,"Wednesday, October 10, 2012 23:26:30 UTC",35.0332,-117.6688,1.8,0.00,23,"Southern California"
-uw,60462627,2,"Wednesday, October 10, 2012 23:26:18 UTC",44.6065,-124.3597,2.1,26.20,13,"offshore Oregon"
-pr,12284000,0,"Wednesday, October 10, 2012 23:12:50 UTC",17.8565,-66.7549,2.5,6.00,14,"Puerto Rico region"
-ci,15227913,2,"Wednesday, October 10, 2012 23:10:26 UTC",33.6798,-116.7703,1.1,16.80,46,"Southern California"
-uw,60462612,2,"Wednesday, October 10, 2012 23:09:29 UTC",44.0920,-121.3347,2.6,0.00,15,"Oregon"
-ak,10577149,2,"Wednesday, October 10, 2012 23:04:14 UTC",64.9923,-147.3600,1.2,0.00, 7,"Central Alaska"
-us,b000d492,8,"Wednesday, October 10, 2012 23:03:50 UTC",-60.4424,-26.9710,4.9,57.10,33,"South Sandwich Islands region"
-ak,10578477,2,"Wednesday, October 10, 2012 22:51:28 UTC",54.8048,-160.6405,2.5,13.20, 7,"Alaska Peninsula"
-us,b000d48p,5,"Wednesday, October 10, 2012 22:49:35 UTC",-60.3197,-26.6932,5.4,55.30,37,"South Sandwich Islands region"
-nc,71856900,0,"Wednesday, October 10, 2012 22:01:15 UTC",38.8175,-122.8160,1.0,2.70,16,"Northern California"
-nc,71856870,3,"Wednesday, October 10, 2012 21:36:50 UTC",38.2190,-122.1832,2.1,5.50,49,"Northern California"
-nc,71857655,4,"Wednesday, October 10, 2012 21:24:23 UTC",37.8142,-119.0095,1.1,4.20,14,"Central California"
-nc,71856860,2,"Wednesday, October 10, 2012 21:23:57 UTC",37.0513,-121.4927,1.0,8.10,19,"Northern California"
-ak,10577108,2,"Wednesday, October 10, 2012 21:16:10 UTC",51.4895,-178.1369,1.7,12.20,15,"Andreanof Islands, Aleutian Islands, Alaska"
-uw,60462537,1,"Wednesday, October 10, 2012 21:13:23 UTC",49.3482,-120.5090,2.5,0.00,12,"British Columbia, Canada"
-ak,10577106,2,"Wednesday, October 10, 2012 21:03:36 UTC",60.0055,-139.3906,1.2,1.00, 8,"Southern Yukon Territory, Canada"
-nc,71856820,0,"Wednesday, October 10, 2012 21:00:26 UTC",38.7898,-122.7360,1.0,2.10,17,"Northern California"
-nc,71856810,3,"Wednesday, October 10, 2012 20:56:16 UTC",38.7768,-122.7173,1.9,2.50,53,"Northern California"
-ak,10577099,2,"Wednesday, October 10, 2012 20:51:39 UTC",58.7837,-153.5608,2.0,8.50,20,"Kodiak Island region, Alaska"
-pr,12284001,0,"Wednesday, October 10, 2012 20:48:56 UTC",19.7124,-64.4274,3.2,42.00, 4,"Virgin Islands region"
-nn,00390739,9,"Wednesday, October 10, 2012 20:37:31 UTC",38.2730,-118.6593,1.0,3.50, 8,"Nevada"
-ci,15227825,2,"Wednesday, October 10, 2012 20:36:27 UTC",33.0233,-116.3077,1.4,6.60,37,"Southern California"
-ci,15227793,2,"Wednesday, October 10, 2012 20:11:46 UTC",35.9555,-117.6683,1.2,4.80,11,"Central California"
-ak,10576958,2,"Wednesday, October 10, 2012 20:10:51 UTC",51.4659,-178.1532,1.6,16.30,13,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576956,2,"Wednesday, October 10, 2012 20:09:48 UTC",63.9299,-148.8019,1.9,0.00,15,"Central Alaska"
-uw,60462467,1,"Wednesday, October 10, 2012 19:54:05 UTC",44.7790,-123.0880,1.5,0.00, 7,"Oregon"
-ci,15227785,2,"Wednesday, October 10, 2012 19:52:40 UTC",34.0345,-116.8420,1.2,16.40,33,"Southern California"
-ak,10576942,2,"Wednesday, October 10, 2012 19:47:14 UTC",60.1594,-141.3263,1.9,0.00,10,"Southern Alaska"
-ci,15227777,2,"Wednesday, October 10, 2012 19:39:46 UTC",33.6677,-116.7643,1.4,17.80,26,"Southern California"
-nc,71856755,2,"Wednesday, October 10, 2012 19:25:07 UTC",36.5647,-121.1517,1.7,3.60,22,"Central California"
-ci,15227761,2,"Wednesday, October 10, 2012 19:24:38 UTC",35.9600,-117.6685,1.4,2.60,26,"Central California"
-ci,15227745,2,"Wednesday, October 10, 2012 19:00:13 UTC",34.4628,-118.4665,1.5,9.40,37,"Greater Los Angeles area, California"
-nc,71856730,2,"Wednesday, October 10, 2012 18:59:37 UTC",39.3367,-123.2442,1.5,7.20,21,"Northern California"
-ci,15227753,2,"Wednesday, October 10, 2012 18:57:31 UTC",35.0422,-117.6825,1.5,0.00,12,"Southern California"
-ak,10576724,2,"Wednesday, October 10, 2012 18:56:10 UTC",51.7186,-176.1842,1.9,61.30,15,"Andreanof Islands, Aleutian Islands, Alaska"
-uw,60462392,1,"Wednesday, October 10, 2012 18:47:15 UTC",45.7742,-123.7082,1.1,0.00, 6,"Oregon"
-ak,10576706,2,"Wednesday, October 10, 2012 18:21:50 UTC",61.4536,-151.0175,1.9,59.60,24,"Southern Alaska"
-ci,15227737,2,"Wednesday, October 10, 2012 18:21:38 UTC",36.9487,-118.2123,1.3,7.00, 9,"Central California"
-ak,10576700,2,"Wednesday, October 10, 2012 18:21:17 UTC",61.6895,-149.7901,1.6,36.40,18,"Southern Alaska"
-ci,15227729,2,"Wednesday, October 10, 2012 18:19:51 UTC",36.9465,-118.2190,1.5,3.40,14,"Central California"
-ak,10578466,2,"Wednesday, October 10, 2012 18:19:06 UTC",51.5179,-178.1010,1.7,20.00,14,"Andreanof Islands, Aleutian Islands, Alaska"
-ci,15227713,2,"Wednesday, October 10, 2012 18:17:52 UTC",35.9310,-117.1795,1.3,0.00, 8,"Central California"
-ak,10578465,2,"Wednesday, October 10, 2012 18:13:09 UTC",51.6395,-177.9749,1.4,13.10, 9,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10578464,2,"Wednesday, October 10, 2012 18:09:23 UTC",51.4751,-178.2080,1.6,29.70,11,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71856675,3,"Wednesday, October 10, 2012 17:52:04 UTC",38.7637,-122.7125,1.7,2.40,48,"Northern California"
-ci,15227681,2,"Wednesday, October 10, 2012 17:39:39 UTC",33.9255,-116.8802,1.4,10.50,44,"Southern California"
-ci,15227673,2,"Wednesday, October 10, 2012 17:38:16 UTC",35.9588,-117.6672,1.3,3.70,29,"Central California"
-ak,10576669,2,"Wednesday, October 10, 2012 17:24:23 UTC",59.9382,-151.8782,1.8,74.00,21,"Kenai Peninsula, Alaska"
-ak,10578462,2,"Wednesday, October 10, 2012 17:20:01 UTC",51.5650,-178.2138,1.7,27.90,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10578461,2,"Wednesday, October 10, 2012 17:18:54 UTC",51.6311,-177.9643,1.6,21.10, 8,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10578460,2,"Wednesday, October 10, 2012 17:17:36 UTC",53.4144,-165.8250,1.7,5.90, 7,"Fox Islands, Aleutian Islands, Alaska"
-ak,10576658,2,"Wednesday, October 10, 2012 17:16:53 UTC",63.5675,-147.4086,1.5,2.20,13,"Central Alaska"
-ak,10578458,2,"Wednesday, October 10, 2012 17:01:20 UTC",54.0025,-166.0595,1.9,108.20, 9,"Fox Islands, Aleutian Islands, Alaska"
-us,b000d3w8,7,"Wednesday, October 10, 2012 16:56:35 UTC",29.3290,52.5110,5.2,21.20,160,"southern Iran"
-ak,10576638,2,"Wednesday, October 10, 2012 16:44:09 UTC",51.6320,-178.0716,1.6,13.40,11,"Andreanof Islands, Aleutian Islands, Alaska"
-us,2012gnal,4,"Wednesday, October 10, 2012 16:37:00 UTC",-26.1639,-71.2425,4.0,8.30,18,"offshore Atacama, Chile"
-ak,10576624,2,"Wednesday, October 10, 2012 15:59:13 UTC",63.2900,-151.1588,2.2,3.20,25,"Central Alaska"
-ak,10576621,2,"Wednesday, October 10, 2012 15:42:57 UTC",51.6421,-178.0359,1.6,13.60,13,"Andreanof Islands, Aleutian Islands, Alaska"
-us,2012gnam,4,"Wednesday, October 10, 2012 15:29:32 UTC",-6.4820,153.7199,4.8,36.30,56,"New Britain region, Papua New Guinea"
-ak,10576609,2,"Wednesday, October 10, 2012 15:13:16 UTC",63.2210,-150.5307,2.1,125.80,33,"Central Alaska"
-mb,12982567,2,"Wednesday, October 10, 2012 15:02:26 UTC",47.7525,-113.6761,1.9,6.90,25,"western Montana"
-ak,10578452,2,"Wednesday, October 10, 2012 14:48:20 UTC",52.3298,-170.5426,2.7,34.10, 8,"Fox Islands, Aleutian Islands, Alaska"
-nc,71856585,2,"Wednesday, October 10, 2012 14:37:14 UTC",39.3695,-122.9065,1.8,9.30,26,"Northern California"
-ak,10578450,2,"Wednesday, October 10, 2012 14:28:12 UTC",51.4464,-178.1850,1.7,19.40,12,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576592,2,"Wednesday, October 10, 2012 14:26:34 UTC",61.1172,-146.9060,1.1,13.10,10,"Southern Alaska"
-nc,71856570,0,"Wednesday, October 10, 2012 14:07:52 UTC",38.8287,-122.8075,1.3,0.00,23,"Northern California"
-mb,12555386,2,"Wednesday, October 10, 2012 14:07:42 UTC",44.6798,-111.8623,1.0,5.80,21,"western Montana"
-ak,10578448,2,"Wednesday, October 10, 2012 13:58:13 UTC",51.6619,-178.0803,1.7,28.00,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576580,2,"Wednesday, October 10, 2012 13:48:14 UTC",61.7203,-151.5639,2.2,97.50,45,"Southern Alaska"
-ak,10578446,2,"Wednesday, October 10, 2012 13:45:27 UTC",58.8027,-154.6175,2.0,126.60,23,"Alaska Peninsula"
-nc,71856560,3,"Wednesday, October 10, 2012 13:39:14 UTC",38.8390,-122.8292,1.8,2.60,54,"Northern California"
-nn,00390694,9,"Wednesday, October 10, 2012 13:28:43 UTC",38.3333,-118.1349,1.1,10.70,10,"Nevada"
-ak,10576575,2,"Wednesday, October 10, 2012 13:24:17 UTC",61.7175,-147.2361,1.0,29.10,16,"Southern Alaska"
-nc,71856555,2,"Wednesday, October 10, 2012 13:21:59 UTC",36.5857,-121.1878,1.2,2.50,14,"Central California"
-ak,10578444,2,"Wednesday, October 10, 2012 13:20:57 UTC",63.2263,-150.6835,1.2,140.60, 8,"Central Alaska"
-ak,10576567,2,"Wednesday, October 10, 2012 13:06:46 UTC",58.8075,-153.5917,2.5,10.60,36,"Kodiak Island region, Alaska"
-ak,10576560,2,"Wednesday, October 10, 2012 12:56:40 UTC",61.1549,-146.9665,1.4,2.10,16,"Southern Alaska"
-ak,10578440,2,"Wednesday, October 10, 2012 12:55:51 UTC",53.5264,-167.0359,1.9,77.80, 9,"Fox Islands, Aleutian Islands, Alaska"
-nc,71856535,2,"Wednesday, October 10, 2012 12:53:28 UTC",35.6585,-121.0783,1.3,4.80,27,"Central California"
-uw,60462122,2,"Wednesday, October 10, 2012 12:51:37 UTC",48.3905,-122.4825,1.1,19.60,30,"Washington"
-ak,10578439,2,"Wednesday, October 10, 2012 12:47:13 UTC",53.5034,-165.8534,1.4,2.30, 7,"Fox Islands, Aleutian Islands, Alaska"
-ak,10576556,2,"Wednesday, October 10, 2012 12:46:23 UTC",60.4258,-146.7724,1.2,15.00,15,"Southern Alaska"
-us,b000d3t8,4,"Wednesday, October 10, 2012 12:41:46 UTC",35.5428,-97.4110,2.7,4.90,16,"Oklahoma City urban area, Oklahoma"
-ak,10576550,2,"Wednesday, October 10, 2012 12:23:13 UTC",65.2573,-144.6652,1.5,1.40,10,"northern Alaska"
-us,b000d3su,9,"Wednesday, October 10, 2012 12:19:46 UTC",10.2443,-85.3752,5.3,35.60,448,"Costa Rica"
-ci,15227449,2,"Wednesday, October 10, 2012 12:07:16 UTC",35.9645,-117.6638,1.8,3.90,44,"Central California"
-ak,10576542,2,"Wednesday, October 10, 2012 11:59:47 UTC",51.5398,-178.1770,2.0,12.90,14,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576539,2,"Wednesday, October 10, 2012 11:51:33 UTC",60.1090,-141.3114,1.5,0.00, 9,"Southern Alaska"
-us,b000d3s7,6,"Wednesday, October 10, 2012 11:39:00 UTC",-3.5535,139.0960,4.9,34.80,49,"Papua, Indonesia"
-ci,15227425,2,"Wednesday, October 10, 2012 11:27:53 UTC",35.8658,-118.1028,1.2,11.80,38,"Central California"
-ak,10578432,2,"Wednesday, October 10, 2012 11:24:23 UTC",51.4718,-178.1955,2.1,18.60,14,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576534,2,"Wednesday, October 10, 2012 11:23:10 UTC",61.1408,-146.9431,1.0,6.60, 9,"Southern Alaska"
-nc,71856510,3,"Wednesday, October 10, 2012 11:22:53 UTC",38.7913,-122.7610,1.9,3.50,88,"Northern California"
-nc,71856505,3,"Wednesday, October 10, 2012 11:20:47 UTC",36.3860,-120.9553,2.6,7.80,68,"Central California"
-ak,10576528,2,"Wednesday, October 10, 2012 11:02:12 UTC",60.2069,-141.2575,1.3,0.00, 6,"Southern Alaska"
-nn,00390686,9,"Wednesday, October 10, 2012 10:44:04 UTC",38.3372,-118.1462,1.1,10.50,10,"Nevada"
-nn,00390685,9,"Wednesday, October 10, 2012 10:42:35 UTC",38.9254,-119.0104,1.4,8.80,16,"Nevada"
-ci,15227401,2,"Wednesday, October 10, 2012 10:40:57 UTC",35.8658,-118.1018,2.3,12.20,61,"Central California"
-ak,10576519,2,"Wednesday, October 10, 2012 09:43:27 UTC",51.6181,-178.0125,2.1,13.10,17,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71856475,2,"Wednesday, October 10, 2012 09:42:13 UTC",39.6150,-120.6853,1.3,13.40,14,"Northern California"
-ak,10578427,2,"Wednesday, October 10, 2012 09:35:49 UTC",57.1507,-150.0198,2.3,8.10,27,"Gulf of Alaska"
-ak,10576516,2,"Wednesday, October 10, 2012 09:35:15 UTC",60.6315,-147.5678,1.0,7.00,14,"Southern Alaska"
-mb,12029235,2,"Wednesday, October 10, 2012 09:14:45 UTC",47.7545,-113.6950,1.5,12.80,19,"western Montana"
-ci,15227369,2,"Wednesday, October 10, 2012 09:05:03 UTC",33.0313,-116.4305,1.0,4.40,49,"Southern California"
-hv,60411321,2,"Wednesday, October 10, 2012 09:04:44 UTC",19.3872,-155.2810,2.3,3.20,17,"Island of Hawaii, Hawaii"
-us,b000d3q4,C,"Wednesday, October 10, 2012 09:04:39 UTC",2.3468,126.8760,4.9,34.70,20,"Molucca Sea"
-hv,60411316,2,"Wednesday, October 10, 2012 08:55:01 UTC",19.4068,-155.2618,2.3,1.60,21,"Island of Hawaii, Hawaii"
-ak,10578423,2,"Wednesday, October 10, 2012 08:52:32 UTC",51.5760,-178.1311,1.8,22.30,12,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576504,2,"Wednesday, October 10, 2012 08:29:32 UTC",62.2463,-145.6123,1.4,24.50,16,"Central Alaska"
-nc,71856465,0,"Wednesday, October 10, 2012 08:21:05 UTC",38.7567,-122.7167,1.1,1.80,10,"Northern California"
-nc,71856460,3,"Wednesday, October 10, 2012 08:16:55 UTC",35.5718,-120.7997,1.1,5.90,40,"Central California"
-ak,10576502,2,"Wednesday, October 10, 2012 08:12:44 UTC",60.1902,-141.3253,1.0,0.00,10,"Southern Alaska"
-ak,10576498,2,"Wednesday, October 10, 2012 08:06:26 UTC",60.0599,-152.7460,2.2,110.40,41,"Southern Alaska"
-ak,10578417,2,"Wednesday, October 10, 2012 07:53:41 UTC",51.4474,-178.1576,1.7,18.20,12,"Andreanof Islands, Aleutian Islands, Alaska"
-nn,00390680,9,"Wednesday, October 10, 2012 07:51:09 UTC",37.1600,-117.3827,1.1,11.30,13,"Nevada"
-ak,10578416,2,"Wednesday, October 10, 2012 07:48:44 UTC",54.4137,-161.6306,2.4,16.70, 7,"Alaska Peninsula"
-ci,15227361,2,"Wednesday, October 10, 2012 07:47:51 UTC",33.7012,-116.7575,1.6,18.60,102,"Southern California"
-nc,71856420,3,"Wednesday, October 10, 2012 07:22:21 UTC",38.8333,-122.8755,1.8,3.10,56,"Northern California"
-ak,10576486,2,"Wednesday, October 10, 2012 07:20:05 UTC",60.1613,-141.3322,1.2,0.00, 7,"Southern Alaska"
-ci,15227353,2,"Wednesday, October 10, 2012 07:16:39 UTC",32.8897,-116.2422,1.1,10.40,57,"Southern California"
-ak,10578412,2,"Wednesday, October 10, 2012 07:02:53 UTC",51.5193,-178.2490,1.8,2.50,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576475,2,"Wednesday, October 10, 2012 06:46:10 UTC",63.0259,-149.6808,1.7,85.50,30,"Central Alaska"
-ci,15227345,2,"Wednesday, October 10, 2012 06:45:00 UTC",32.8918,-116.2415,1.2,10.90,52,"Southern California"
-nn,00390679,9,"Wednesday, October 10, 2012 06:33:20 UTC",37.2722,-115.9365,1.5,4.40,19,"Nevada"
-nn,00390678,9,"Wednesday, October 10, 2012 06:19:25 UTC",38.4404,-118.4504,1.4,7.20,11,"Nevada"
-ci,15227337,2,"Wednesday, October 10, 2012 06:19:11 UTC",33.0463,-115.6657,1.3,5.80,34,"Southern California"
-us,b000d3md,A,"Wednesday, October 10, 2012 06:14:41 UTC",36.8961,4.4611,4.5,10.30,71,"northern Algeria"
-nc,71856400,2,"Wednesday, October 10, 2012 06:10:02 UTC",39.7758,-122.8558,1.2,8.30,17,"Northern California"
-ci,15227329,2,"Wednesday, October 10, 2012 05:59:39 UTC",35.9647,-117.6658,1.3,3.90,28,"Central California"
-nc,71856395,3,"Wednesday, October 10, 2012 05:48:16 UTC",39.7862,-122.9152,1.2,1.30,18,"Northern California"
-ak,10576466,2,"Wednesday, October 10, 2012 05:37:15 UTC",61.1346,-146.9479,1.0,10.10,11,"Southern Alaska"
-ci,15227321,2,"Wednesday, October 10, 2012 05:17:09 UTC",32.8918,-116.2423,1.1,10.50,57,"Southern California"
-ak,10578407,2,"Wednesday, October 10, 2012 05:14:37 UTC",61.1622,-146.9414,1.0,4.00, 9,"Southern Alaska"
-ak,10576459,2,"Wednesday, October 10, 2012 05:10:49 UTC",61.1283,-146.9405,1.6,11.80,16,"Southern Alaska"
-ak,10578405,2,"Wednesday, October 10, 2012 05:10:09 UTC",51.9858,-173.1790,2.1,75.10, 8,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10578404,2,"Wednesday, October 10, 2012 05:10:05 UTC",61.1483,-146.9001,1.2,7.20, 9,"Southern Alaska"
-ak,10576458,2,"Wednesday, October 10, 2012 04:59:30 UTC",55.1441,-160.3723,2.1,10.10, 8,"Alaska Peninsula"
-ak,10576457,2,"Wednesday, October 10, 2012 04:52:17 UTC",51.5493,-178.0894,1.6,20.90,13,"Andreanof Islands, Aleutian Islands, Alaska"
-ci,15227297,2,"Wednesday, October 10, 2012 04:45:51 UTC",33.3342,-116.3242,1.1,14.50,61,"Southern California"
-nn,00390673,9,"Wednesday, October 10, 2012 04:28:44 UTC",38.0780,-118.2334,1.9,8.20,15,"Nevada"
-ci,15227273,2,"Wednesday, October 10, 2012 04:27:21 UTC",33.1423,-116.4605,1.4,10.50,77,"Southern California"
-us,b000d3l5,5,"Wednesday, October 10, 2012 04:19:28 UTC",45.6541,-73.2286,3.9,9.90,36,"St. Lawrence Valley region, Quebec, Canada"
-ak,10578400,2,"Wednesday, October 10, 2012 04:17:25 UTC",51.5234,-178.3398,1.8,13.20, 9,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71856355,2,"Wednesday, October 10, 2012 04:13:45 UTC",37.3888,-118.8303,1.0,11.10,30,"Central California"
-nc,71856350,2,"Wednesday, October 10, 2012 03:45:36 UTC",39.5630,-123.3898,1.8,7.80,16,"Northern California"
-ak,10576437,3,"Wednesday, October 10, 2012 03:36:48 UTC",59.9364,-139.2289,1.4,14.50,20,"Southeastern Alaska"
-hv,60411201,2,"Wednesday, October 10, 2012 03:32:29 UTC",19.4027,-155.2685,2.5,1.70,43,"Island of Hawaii, Hawaii"
-hv,60411196,2,"Wednesday, October 10, 2012 03:24:59 UTC",19.4040,-155.2668,2.4,1.80,32,"Island of Hawaii, Hawaii"
-nn,00390672,9,"Wednesday, October 10, 2012 03:21:17 UTC",36.7515,-115.5519,1.3,7.60,15,"Nevada"
-nn,00390670,9,"Wednesday, October 10, 2012 03:09:13 UTC",38.5724,-119.4464,1.2,3.00, 9,"Central California"
-uw,60461987,3,"Wednesday, October 10, 2012 03:07:13 UTC",47.7113,-122.3172,2.1,32.00,93,"Seattle-Tacoma urban area, Washington"
-ci,15227265,2,"Wednesday, October 10, 2012 03:04:54 UTC",35.3322,-117.8988,1.0,10.50,16,"Southern California"
-ci,15227257,2,"Wednesday, October 10, 2012 02:52:38 UTC",32.8058,-116.1365,1.2,10.50,33,"Southern California"
-ci,15227249,2,"Wednesday, October 10, 2012 02:46:21 UTC",33.9295,-116.8490,1.7,8.80,96,"Southern California"
-hv,60411171,4,"Wednesday, October 10, 2012 02:17:29 UTC",19.4033,-155.2718,2.1,2.10,24,"Island of Hawaii, Hawaii"
-ak,10576412,2,"Wednesday, October 10, 2012 02:06:25 UTC",60.5503,-152.3651,1.7,87.50,17,"Southern Alaska"
-ak,10576409,3,"Wednesday, October 10, 2012 02:04:16 UTC",63.4377,-150.2208,1.0,6.90, 8,"Central Alaska"
-ak,10576407,2,"Wednesday, October 10, 2012 01:54:51 UTC",60.1830,-141.2696,1.4,0.00,13,"Southern Alaska"
-ak,10578393,2,"Wednesday, October 10, 2012 01:28:17 UTC",51.5186,-178.1428,1.6,20.40,11,"Andreanof Islands, Aleutian Islands, Alaska"
-ci,15227241,2,"Wednesday, October 10, 2012 01:05:30 UTC",34.0260,-117.2317,1.1,17.40,63,"Greater Los Angeles area, California"
-ak,10578392,2,"Wednesday, October 10, 2012 01:04:43 UTC",58.8448,-153.6643,1.5,8.70,12,"Kodiak Island region, Alaska"
-ci,15227233,2,"Wednesday, October 10, 2012 01:04:31 UTC",34.0260,-117.2313,1.5,17.20,95,"Greater Los Angeles area, California"
-nc,71856260,0,"Wednesday, October 10, 2012 01:02:04 UTC",38.8313,-122.8012,1.0,2.50,21,"Northern California"
-uw,60461967,1,"Wednesday, October 10, 2012 00:45:15 UTC",45.6728,-121.7458,1.1,5.40,16,"Oregon"
-us,b000d3js,5,"Wednesday, October 10, 2012 00:37:11 UTC",36.2321,71.4215,4.7,95.70,35,"Pakistan"
-ci,15227225,2,"Wednesday, October 10, 2012 00:36:01 UTC",35.0443,-117.6593,1.7,0.00,17,"Southern California"
-ak,10576372,2,"Wednesday, October 10, 2012 00:33:25 UTC",63.5831,-147.3711,1.7,4.10,20,"Central Alaska"
-nm,101012a,B,"Wednesday, October 10, 2012 00:31:52 UTC",34.3358,-90.5203,2.3,17.00,16,"Mississippi"
-nc,71856210,0,"Wednesday, October 10, 2012 00:27:44 UTC",38.7712,-122.6977,1.8,0.00,19,"Northern California"
-ak,10578388,2,"Wednesday, October 10, 2012 00:27:15 UTC",51.6081,-178.0787,1.7,18.40,12,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576366,2,"Wednesday, October 10, 2012 00:21:32 UTC",60.2564,-141.2380,1.3,0.00,10,"Southern Alaska"
-nc,71856200,5,"Wednesday, October 10, 2012 00:19:08 UTC",36.5860,-121.1823,3.1,3.60,87,"Central California"
-ak,10578386,2,"Wednesday, October 10, 2012 00:18:26 UTC",58.8078,-153.6233,1.6,1.40,11,"Kodiak Island region, Alaska"
-ci,15227209,2,"Wednesday, October 10, 2012 00:16:42 UTC",32.5995,-115.6817,1.5,9.20,24,"Baja California, Mexico"
-nn,00390660,9,"Wednesday, October 10, 2012 00:14:22 UTC",38.5699,-119.4492,1.1,3.90, 8,"Central California"
-nc,71856195,2,"Wednesday, October 10, 2012 00:02:51 UTC",36.8842,-121.6108,1.6,0.00,12,"Central California"
-nc,71856190,2,"Tuesday, October  9, 2012 23:57:27 UTC",40.0897,-122.1505,2.2,28.80,29,"Northern California"
-ak,10576340,2,"Tuesday, October  9, 2012 23:23:33 UTC",61.2930,-152.4445,2.0,0.60,16,"Southern Alaska"
-ak,10577715,2,"Tuesday, October  9, 2012 23:15:11 UTC",51.5615,-178.1291,1.7,24.90,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10577714,2,"Tuesday, October  9, 2012 23:06:28 UTC",55.1986,-160.7677,1.7,52.20, 6,"Alaska Peninsula"
-ak,10577713,2,"Tuesday, October  9, 2012 23:06:14 UTC",57.6875,-156.6145,2.1,157.60, 9,"Alaska Peninsula"
-ak,10576331,2,"Tuesday, October  9, 2012 23:05:08 UTC",65.0034,-147.3283,1.4,0.00,14,"northern Alaska"
-us,b000d3iv,3,"Tuesday, October  9, 2012 22:51:19 UTC",-43.4700,172.7800,4.2,9.00, 0,"South Island of New Zealand"
-ak,10576320,2,"Tuesday, October  9, 2012 22:51:14 UTC",62.9995,-150.6395,1.7,111.90,25,"Central Alaska"
-ak,10576315,2,"Tuesday, October  9, 2012 22:40:55 UTC",61.1561,-147.3161,1.2,0.00, 7,"Southern Alaska"
-ak,10576301,2,"Tuesday, October  9, 2012 22:28:05 UTC",62.8872,-150.7513,1.9,101.30,21,"Central Alaska"
-nn,00390650,9,"Tuesday, October  9, 2012 22:26:38 UTC",38.5746,-119.4484,1.1,3.00, 8,"Central California"
-nc,71856120,1,"Tuesday, October  9, 2012 22:25:23 UTC",38.8080,-122.7967,1.6,2.80,29,"Northern California"
-ak,10576295,3,"Tuesday, October  9, 2012 22:22:37 UTC",53.4844,-165.9692,2.1,38.90,15,"Fox Islands, Aleutian Islands, Alaska"
-us,b000d3fr,5,"Tuesday, October  9, 2012 22:14:22 UTC",-59.7899,-26.6371,4.8,99.10,28,"South Sandwich Islands region"
-ci,15227185,2,"Tuesday, October  9, 2012 22:12:56 UTC",34.0142,-117.2333,1.1,17.00,42,"Greater Los Angeles area, California"
-ak,10576281,2,"Tuesday, October  9, 2012 21:54:34 UTC",51.4833,-178.1783,3.1,17.00,21,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10576266,2,"Tuesday, October  9, 2012 21:45:02 UTC",61.6775,-147.5609,2.1,21.00,45,"Southern Alaska"
-ak,10576263,2,"Tuesday, October  9, 2012 21:38:30 UTC",61.8065,-150.2409,1.3,60.70,18,"Southern Alaska"
-nc,71856065,2,"Tuesday, October  9, 2012 21:34:52 UTC",37.4872,-121.4358,1.4,7.10,12,"Northern California"
-ak,10576249,2,"Tuesday, October  9, 2012 21:01:35 UTC",63.0532,-150.3713,2.2,93.80,43,"Central Alaska"
-pr,12283005,0,"Tuesday, October  9, 2012 20:56:13 UTC",18.7604,-65.1419,3.4,50.00, 5,"Virgin Islands region"
-uw,60461877,1,"Tuesday, October  9, 2012 20:50:48 UTC",42.8215,-123.9743,1.5,3.50, 6,"Oregon"
-us,b000d3bw,4,"Tuesday, October  9, 2012 20:49:36 UTC",32.6488,132.3783,4.8,45.90,58,"Shikoku, Japan"
-us,b000d3bt,5,"Tuesday, October  9, 2012 20:43:29 UTC",28.7071,143.7980,4.9,36.50,104,"Bonin Islands, Japan region"
-ak,10577702,2,"Tuesday, October  9, 2012 20:37:09 UTC",63.1714,-150.7469,1.5,125.00,12,"Central Alaska"
-ak,10577701,2,"Tuesday, October  9, 2012 19:43:46 UTC",61.2821,-152.4113,1.5,4.00,16,"Southern Alaska"
-nc,71856020,2,"Tuesday, October  9, 2012 19:36:13 UTC",37.3265,-122.1075,1.3,0.00,10,"San Francisco Bay area, California"
-hv,60411121,2,"Tuesday, October  9, 2012 19:35:27 UTC",19.3765,-155.2430,2.0,2.90,16,"Island of Hawaii, Hawaii"
-hv,60411111,2,"Tuesday, October  9, 2012 19:29:11 UTC",19.3803,-155.2445,2.0,3.40,16,"Island of Hawaii, Hawaii"
-pr,12283004,0,"Tuesday, October  9, 2012 19:18:44 UTC",18.3764,-64.4380,2.9,101.00, 3,"Virgin Islands region"
-hv,60411076,2,"Tuesday, October  9, 2012 19:04:48 UTC",19.3797,-155.2405,2.0,3.20,19,"Island of Hawaii, Hawaii"
-us,c000d4st,6,"Tuesday, October  9, 2012 18:34:50 UTC",-4.4749,129.2451,4.7,52.00,48,"Banda Sea"
-ci,15227089,2,"Tuesday, October  9, 2012 17:59:30 UTC",32.9147,-115.5097,1.6,9.20,24,"Southern California"
-ak,10577699,2,"Tuesday, October  9, 2012 17:55:36 UTC",52.1618,-171.5042,2.6,26.00, 6,"Fox Islands, Aleutian Islands, Alaska"
-ak,10576038,2,"Tuesday, October  9, 2012 17:48:59 UTC",61.4395,-146.2231,1.5,28.80,25,"Southern Alaska"
-ak,10576030,2,"Tuesday, October  9, 2012 17:44:57 UTC",59.6838,-153.4251,2.3,114.50,27,"Southern Alaska"
-ak,10576029,2,"Tuesday, October  9, 2012 17:44:10 UTC",61.5901,-151.3882,1.4,83.40,13,"Southern Alaska"
-ak,10576011,2,"Tuesday, October  9, 2012 17:24:35 UTC",58.7862,-153.5089,2.7,3.50,31,"Kodiak Island region, Alaska"
-pr,12283003,0,"Tuesday, October  9, 2012 17:21:39 UTC",19.4930,-64.3769,3.8,64.00,10,"Virgin Islands region"
-ak,10577694,2,"Tuesday, October  9, 2012 17:18:05 UTC",51.6209,-177.9998,1.6,19.80, 8,"Andreanof Islands, Aleutian Islands, Alaska"
-mb,12503084,2,"Tuesday, October  9, 2012 17:17:44 UTC",46.0266,-111.4221,1.2,11.20,15,"western Montana"
-ak,10577693,2,"Tuesday, October  9, 2012 17:11:30 UTC",51.4678,-178.2021,1.7,19.80,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10577692,2,"Tuesday, October  9, 2012 16:51:09 UTC",63.0358,-149.6331,1.0,69.10, 8,"Central Alaska"
-mb,12976933,2,"Tuesday, October  9, 2012 16:48:59 UTC",46.0323,-111.4228,1.1,12.30,11,"western Montana"
-ak,10577691,2,"Tuesday, October  9, 2012 16:23:06 UTC",63.2667,-150.7525,1.6,130.00,24,"Central Alaska"
-us,2012gmar,5,"Tuesday, October  9, 2012 16:11:57 UTC",20.7595,122.1845,4.3,158.20,29,"Batan Islands region, Philippines"
-ci,15227073,2,"Tuesday, October  9, 2012 16:09:02 UTC",35.1487,-118.4020,1.3,0.00,14,"Central California"
-ci,15227065,2,"Tuesday, October  9, 2012 16:08:30 UTC",33.9843,-116.6797,1.0,15.80,35,"Southern California"
-pr,12283001,0,"Tuesday, October  9, 2012 16:06:49 UTC",19.6270,-64.3237,3.7,54.00,10,"Virgin Islands region"
-us,2012gmaq,A,"Tuesday, October  9, 2012 15:50:54 UTC",24.4382,-109.3985,4.0,10.00,54,"Gulf of California"
-ci,15227049,2,"Tuesday, October  9, 2012 15:33:31 UTC",35.9618,-117.6645,2.0,3.90,47,"Central California"
-uw,60474361,2,"Tuesday, October  9, 2012 15:25:42 UTC",48.3035,-121.8705,1.1,2.60,15,"Washington"
-pr,12283002,0,"Tuesday, October  9, 2012 15:21:29 UTC",19.5657,-64.4294,3.5,52.00, 4,"Virgin Islands region"
-nc,71855880,3,"Tuesday, October  9, 2012 15:03:13 UTC",38.8170,-122.8058,1.9,2.90,56,"Northern California"
-nc,71855870,2,"Tuesday, October  9, 2012 14:47:25 UTC",40.6302,-121.6963,1.0,7.20,10,"Northern California"
-ak,10575973,2,"Tuesday, October  9, 2012 14:14:10 UTC",60.7756,-139.5965,1.3,14.90,22,"Southern Yukon Territory, Canada"
-ak,10575971,2,"Tuesday, October  9, 2012 14:13:10 UTC",60.7653,-139.6329,1.2,20.00,18,"Southern Yukon Territory, Canada"
-ci,15227025,2,"Tuesday, October  9, 2012 14:06:27 UTC",32.8037,-116.1398,1.6,4.70,55,"Southern California"
-ak,10575962,2,"Tuesday, October  9, 2012 13:45:45 UTC",60.1830,-141.3150,1.7,0.00,19,"Southern Alaska"
-ak,10577686,2,"Tuesday, October  9, 2012 13:41:00 UTC",63.2610,-152.0718,1.0,5.50, 6,"Central Alaska"
-ak,10575955,2,"Tuesday, October  9, 2012 13:38:04 UTC",61.3220,-149.4287,2.3,27.70,48,"Southern Alaska"
-mb,12613951,2,"Tuesday, October  9, 2012 13:34:20 UTC",46.0291,-111.4221,1.5,11.90,18,"western Montana"
-nc,71855835,2,"Tuesday, October  9, 2012 13:32:45 UTC",36.4552,-121.0345,1.4,6.00,17,"Central California"
-mb,12214485,2,"Tuesday, October  9, 2012 13:29:37 UTC",46.0281,-111.4191,1.4,12.60,23,"western Montana"
-ak,10575952,2,"Tuesday, October  9, 2012 13:25:29 UTC",51.6042,-178.0443,2.6,13.20,21,"Andreanof Islands, Aleutian Islands, Alaska"
-uw,60474321,1,"Tuesday, October  9, 2012 13:20:43 UTC",46.4010,-119.2772,1.0,0.00,14,"Washington"
-ak,10575946,2,"Tuesday, October  9, 2012 13:03:33 UTC",62.8568,-150.8710,2.4,96.60,38,"Central Alaska"
-ci,15227017,4,"Tuesday, October  9, 2012 13:00:02 UTC",33.7102,-117.3492,3.4,13.40,227,"Southern California"
-mb,12087800,2,"Tuesday, October  9, 2012 12:55:06 UTC",46.0248,-111.4201,1.1,10.10,14,"western Montana"
-ak,10575939,2,"Tuesday, October  9, 2012 12:54:44 UTC",60.3043,-152.6414,2.2,102.70,48,"Southern Alaska"
-ak,10575940,2,"Tuesday, October  9, 2012 12:50:55 UTC",63.1411,-149.7513,1.4,87.10,13,"Central Alaska"
-ak,10577680,2,"Tuesday, October  9, 2012 12:46:37 UTC",51.5700,-178.1894,1.8,31.20, 9,"Andreanof Islands, Aleutian Islands, Alaska"
-us,c000d4li,6,"Tuesday, October  9, 2012 12:32:04 UTC",-61.0333,153.9596,6.4,10.20,45,"Balleny Islands region"
-ak,10575929,2,"Tuesday, October  9, 2012 12:28:39 UTC",61.0441,-152.7869,1.3,4.50,16,"Southern Alaska"
-nc,71855795,3,"Tuesday, October  9, 2012 12:23:07 UTC",38.8253,-122.8022,1.8,3.60,60,"Northern California"
-ci,15226993,2,"Tuesday, October  9, 2012 12:15:33 UTC",34.0250,-117.1035,1.4,12.70,89,"Greater Los Angeles area, California"
-us,c000d4lf,7,"Tuesday, October  9, 2012 12:14:28 UTC",-23.4279,-179.8538,4.5,596.60,88,"south of the Fiji Islands"
-ak,10575922,2,"Tuesday, October  9, 2012 11:46:17 UTC",61.3998,-151.3385,1.2,75.30,15,"Southern Alaska"
-mb,12561649,2,"Tuesday, October  9, 2012 11:27:06 UTC",46.0258,-111.4183,1.6,11.40,19,"western Montana"
-ak,10575915,2,"Tuesday, October  9, 2012 11:24:54 UTC",59.9801,-153.4779,2.3,141.00,42,"Southern Alaska"
-nc,71855780,2,"Tuesday, October  9, 2012 11:22:59 UTC",36.5458,-121.0927,1.0,8.60,15,"Central California"
-ak,10575909,2,"Tuesday, October  9, 2012 11:14:42 UTC",63.0914,-150.3979,1.4,102.00,16,"Central Alaska"
-ak,10577673,2,"Tuesday, October  9, 2012 11:12:31 UTC",51.5226,-178.0762,1.8,13.20, 9,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10575904,2,"Tuesday, October  9, 2012 11:04:58 UTC",61.9296,-149.7431,1.5,15.10,23,"Southern Alaska"
-ak,10577671,2,"Tuesday, October  9, 2012 10:43:35 UTC",51.4293,-178.1408,1.9,16.90,10,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10575902,2,"Tuesday, October  9, 2012 10:41:24 UTC",63.9189,-148.6703,1.0,0.00, 9,"Central Alaska"
-ak,10577669,2,"Tuesday, October  9, 2012 10:39:56 UTC",66.0736,-147.4673,1.2,2.20,10,"northern Alaska"
-mb,12167036,2,"Tuesday, October  9, 2012 10:31:00 UTC",47.4933,-113.8441,1.4,18.30,26,"western Montana"
-ak,10575901,3,"Tuesday, October  9, 2012 10:29:48 UTC",66.0478,-147.4889,1.6,24.50,14,"northern Alaska"
-ak,10577667,2,"Tuesday, October  9, 2012 10:22:02 UTC",59.9688,-153.3958,1.9,146.50,20,"Southern Alaska"
-ak,10577666,2,"Tuesday, October  9, 2012 10:16:05 UTC",58.2917,-154.9855,1.4,2.40,17,"Alaska Peninsula"
-ak,10577665,2,"Tuesday, October  9, 2012 10:15:18 UTC",51.5443,-178.2220,1.9,27.00,16,"Andreanof Islands, Aleutian Islands, Alaska"
-uw,60474296,1,"Tuesday, October  9, 2012 10:07:58 UTC",45.6278,-122.6708,1.5,9.60,16,"Portland urban area, Washington"
-nc,71855765,2,"Tuesday, October  9, 2012 10:01:26 UTC",37.5837,-119.0065,1.2,5.00,24,"Central California"
-ak,10577663,2,"Tuesday, October  9, 2012 09:56:33 UTC",62.3316,-153.9726,1.4,4.50,11,"Central Alaska"
-ak,10575894,2,"Tuesday, October  9, 2012 09:55:35 UTC",61.6998,-150.7876,1.3,62.90,17,"Southern Alaska"
-ak,10575892,2,"Tuesday, October  9, 2012 09:55:03 UTC",60.8403,-138.1861,1.5,7.80,14,"Southern Yukon Territory, Canada"
-ak,10575890,2,"Tuesday, October  9, 2012 09:53:36 UTC",63.1651,-147.0843,1.6,10.80,24,"Central Alaska"
-nc,71855760,2,"Tuesday, October  9, 2012 09:52:37 UTC",37.5980,-119.3933,1.1,6.40,10,"Central California"
-ak,10575876,2,"Tuesday, October  9, 2012 09:42:48 UTC",60.1801,-140.9350,2.2,5.90,44,"Southern Yukon Territory, Canada"
-ak,10575875,2,"Tuesday, October  9, 2012 09:39:20 UTC",60.1634,-141.3176,1.1,0.00,10,"Southern Alaska"
-ci,15226937,2,"Tuesday, October  9, 2012 09:23:17 UTC",34.0180,-116.7427,1.5,16.50,78,"Southern California"
-nc,71855740,3,"Tuesday, October  9, 2012 09:21:39 UTC",39.4582,-123.2995,1.5,7.70,17,"Northern California"
-ak,10577654,2,"Tuesday, October  9, 2012 09:11:09 UTC",59.0005,-136.8031,1.5,9.50, 8,"Southeastern Alaska"
-nc,71855720,2,"Tuesday, October  9, 2012 09:02:09 UTC",37.5713,-118.8662,1.3,5.30,29,"Central California"
-us,c000d4j3,B,"Tuesday, October  9, 2012 08:49:07 UTC",36.0833,-97.3862,3.3,9.00, 0,"Oklahoma"
-ak,10577653,2,"Tuesday, October  9, 2012 08:44:41 UTC",51.9704,-174.3820,2.0,60.70, 7,"Andreanof Islands, Aleutian Islands, Alaska"
-ak,10577652,2,"Tuesday, October  9, 2012 08:26:51 UTC",51.5351,-178.0849,1.8,13.00,10,"Andreanof Islands, Aleutian Islands, Alaska"
-nc,71855705,0,"Tuesday, October  9, 2012 08:07:39 UTC",38.8220,-122.8245,1.0,3.00,21,"Northern California"
-ak,10577651,2,"Tuesday, October  9, 2012 08:07:27 UTC",59.6802,-138.7636,1.3,9.90, 8,"Southeastern Alaska"
-ak,10575864,2,"Tuesday, October  9, 2012 08:05:45 UTC",63.8265,-151.6495,1.3,15.10,11,"Central Alaska"
-us,c000d4ik,6,"Tuesday, October  9, 2012 07:57:52 UTC",-2.6923,139.2001,4.8,45.90,33,"near the north coast of Papua, Indonesia"
-us,c000d4ig,B,"Tuesday, October  9, 2012 07:49:54 UTC",-2.7570,139.1795,5.5,36.90,183,"near the north coast of Papua, Indonesia"
-ak,10575856,2,"Tuesday, October  9, 2012 07:49:43 UTC",63.5936,-150.7915,1.2,10.50,14,"Central Alaska"
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-03-16T19:37:32.570Z,-35.4648,-179.5779,35.0,5.0,mb,,157.0,2.699,0.95,us,us20008sj2,2017-03-16T20:31:30.040Z,East of the North Island of New Zealand,earthquake,12.8,1.9,0.115,24.0,reviewed,us,us
+2017-03-16T18:39:24.680Z,-11.6429,114.5423,10.0,5.4,mb,,55.0,3.176,1.45,us,us20008siq,2017-03-16T20:16:27.040Z,"South of Bali, Indonesia",earthquake,3.2,1.8,0.077,61.0,reviewed,us,us
+2017-03-16T18:28:34.620Z,-8.0473,160.8493,35.0,4.7,mb,,111.0,1.645,1.28,us,us20008six,2017-03-16T19:48:22.040Z,"81km NNE of Auki, Solomon Islands",earthquake,12.4,2.0,0.087,40.0,reviewed,us,us
+2017-03-16T18:25:26.950Z,-8.0735,160.7629,35.0,5.1,mb,,63.0,1.577,1.17,us,us20008sim,2017-03-16T19:37:47.040Z,"77km N of Auki, Solomon Islands",earthquake,7.8,1.9,0.042,186.0,reviewed,us,us
+2017-03-16T17:16:45.030Z,5.0864,127.7516,88.94,4.8,mb,,128.0,2.923,0.68,us,us20008sii,2017-03-16T19:01:25.040Z,"224km SE of Pondaguitan, Philippines",earthquake,9.4,8.5,0.084,44.0,reviewed,us,us
+2017-03-16T15:38:09.650Z,4.8931,-72.6136,11.64,5.2,mb,,51.0,1.097,1.03,us,us20008shs,2017-03-16T20:23:49.961Z,"18km NNW of Ubala, Colombia",earthquake,5.2,4.4,0.027000000000000003,438.0,reviewed,us,us
+2017-03-16T14:12:15.670Z,-6.3922,147.253,82.33,4.7,mb,,84.0,2.9939999999999998,1.46,us,us20008shl,2017-03-16T14:33:44.040Z,"47km NE of Lae, Papua New Guinea",earthquake,9.5,4.4,0.08900000000000001,38.0,reviewed,us,us
+2017-03-16T08:29:14.400Z,-23.724,179.1622,540.75,5.1,mb,,58.0,6.039,0.77,us,us20008sfq,2017-03-16T08:47:15.040Z,South of the Fiji Islands,earthquake,9.7,7.5,0.066,75.0,reviewed,us,us
+2017-03-16T08:08:05.780Z,-24.17,-66.9191,190.39,5.2,mb,,39.0,2.398,1.28,us,us20008sfi,2017-03-16T21:04:47.793Z,"61km W of San Antonio de los Cobres, Argentina",earthquake,9.3,20.4,0.036000000000000004,256.0,reviewed,us,us
+2017-03-16T07:05:12.310Z,-33.9915,-72.1759,22.68,4.5,mwr,,75.0,0.574,0.68,us,us20008sf5,2017-03-16T21:04:18.834Z,"67km SW of San Antonio, Chile",earthquake,4.1,5.0,0.036000000000000004,73.0,reviewed,us,us
+2017-03-16T06:30:42.380Z,-20.3361,-173.1111,10.0,5.2,mb,,107.0,3.25,1.19,us,us20008sf4,2017-03-16T06:50:14.040Z,"142km ESE of Pangai, Tonga",earthquake,10.6,1.9,0.078,54.0,reviewed,us,us
+2017-03-15T22:19:42.190Z,51.2211,179.0567,22.68,5.6,mww,,45.0,0.218,1.32,us,us20008sd8,2017-03-16T16:16:14.613Z,"89km SSE of Little Sitkin Island, Alaska",earthquake,6.4,3.4,0.057999999999999996,29.0,reviewed,us,us
+2017-03-15T21:47:15.310Z,51.1705,179.0891,27.81,4.9,mb,,130.0,0.245,0.98,us,us20008sd5,2017-03-15T22:13:42.587Z,"93km SSW of Semisopochnoi Island, Alaska",earthquake,8.0,4.8,0.040999999999999995,190.0,reviewed,us,us
+2017-03-15T18:01:00.870Z,-5.9167,151.1342,46.86,4.9,mb,,64.0,1.9969999999999999,0.73,us,us20008sbb,2017-03-15T19:15:49.040Z,"117km ESE of Kimbe, Papua New Guinea",earthquake,8.3,8.0,0.07400000000000001,58.0,reviewed,us,us
+2017-03-15T16:38:19.740Z,-5.4842,146.8759,212.01,4.5,mb,,77.0,3.905,1.03,us,us20008sar,2017-03-16T00:31:39.353Z,"123km ESE of Madang, Papua New Guinea",earthquake,10.4,8.5,0.079,47.0,reviewed,us,us
+2017-03-15T15:17:19.730Z,60.926,165.5867,16.55,4.9,mb,,111.0,7.178999999999999,0.65,us,us20008s9z,2017-03-15T22:07:32.040Z,"58km NNW of Tilichiki, Russia",earthquake,8.5,4.1,0.032,316.0,reviewed,us,us
+2017-03-15T09:59:10.890Z,-6.8069,129.9902,132.78,4.5,mb,,89.0,1.746,0.81,us,us20008s97,2017-03-15T10:22:51.040Z,"193km NW of Saumlaki, Indonesia",earthquake,8.8,6.6,0.121,20.0,reviewed,us,us
+2017-03-15T05:35:16.900Z,-5.5079,154.0038,42.16,4.8,mb,,119.0,2.252,1.22,us,us20008s8i,2017-03-15T06:24:49.040Z,"157km SE of Taron, Papua New Guinea",earthquake,9.6,4.8,0.096,34.0,reviewed,us,us
+2017-03-15T02:26:53.980Z,-7.9489,107.8601,67.86,4.6,mb,,119.0,2.638,1.18,us,us20008s80,2017-03-15T02:45:59.040Z,"26km SSW of Ciheras, Indonesia",earthquake,8.2,6.4,0.085,41.0,reviewed,us,us
+2017-03-15T01:38:57.450Z,1.7687,127.0391,65.78,5.1,mb,,54.0,1.043,0.77,us,us20008s7z,2017-03-15T01:56:13.040Z,"108km W of Tobelo, Indonesia",earthquake,6.8,6.4,0.067,72.0,reviewed,us,us
+2017-03-15T00:23:24.020Z,-44.9371,167.6442,130.64,4.5,mb,,82.0,0.544,0.85,us,us20008s7t,2017-03-15T00:59:48.786Z,"53km N of Te Anau, New Zealand",earthquake,7.1,7.2,0.128,18.0,reviewed,us,us
+2017-03-15T00:00:27.110Z,-35.2035,-70.9627,98.42,4.6,mb,,55.0,0.436,1.02,us,us20008s7n,2017-03-15T08:26:12.851Z,"30km ESE of Molina, Chile",earthquake,5.5,5.1,0.08,46.0,reviewed,us,us
+2017-03-14T23:39:26.890Z,-40.5141,-91.8906,10.0,4.9,mb,,71.0,14.356,0.73,us,us20008s7j,2017-03-15T00:05:56.040Z,West Chile Rise,earthquake,14.5,1.9,0.071,62.0,reviewed,us,us
+2017-03-14T21:01:12.960Z,52.3035,-170.5655,52.3,5.1,mb,,130.0,0.662,1.06,us,us20008s6s,2017-03-14T21:22:42.338Z,"37km SSE of Yunaska Island, Alaska",earthquake,7.5,6.7,0.032,312.0,reviewed,us,us
+2017-03-14T20:31:27.290Z,-24.4112,-175.4864,10.0,5.1,mb,,91.0,5.285,1.39,us,us20008s6f,2017-03-15T17:06:12.040Z,South of Tonga,earthquake,8.9,1.8,0.063,82.0,reviewed,us,us
+2017-03-14T20:03:49.110Z,-24.0054,-67.0795,201.83,4.5,mb,,35.0,2.181,1.26,us,us20008s69,2017-03-15T16:46:25.040Z,"80km WNW of San Antonio de los Cobres, Argentina",earthquake,7.3,7.8,0.136,19.0,reviewed,us,us
+2017-03-14T18:16:51.960Z,-30.3057,-177.4697,31.48,5.3,mb,,55.0,1.13,0.9,us,us100088xz,2017-03-15T15:56:11.040Z,"122km SSE of Raoul Island, New Zealand",earthquake,9.0,3.8,0.048,146.0,reviewed,us,us
+2017-03-14T15:03:39.950Z,-15.6669,-177.1231,10.0,5.2,mb,,74.0,5.063,0.49,us,us100088wf,2017-03-14T16:16:48.153Z,"188km SE of Sigave, Wallis and Futuna",earthquake,10.6,1.8,0.049,138.0,reviewed,us,us
+2017-03-14T13:13:38.120Z,3.6430000000000002,95.8566,41.23,5.5,mb,,48.0,1.9140000000000001,1.28,us,us100088vy,2017-03-14T17:32:56.040Z,"62km SSW of Meulaboh, Indonesia",earthquake,7.0,3.8,0.039,228.0,reviewed,us,us
+2017-03-14T12:36:43.950Z,-20.9839,169.9928,129.73,5.6,mww,,49.0,2.582,1.02,us,us100088vp,2017-03-14T15:20:21.040Z,"175km SSE of Isangel, Vanuatu",earthquake,8.6,6.2,,,reviewed,us,us
+2017-03-14T11:52:18.870Z,-17.8444,-172.2689,10.0,4.6,mb,,135.0,2.5380000000000003,1.31,us,us100088vg,2017-03-14T16:21:29.899Z,"202km ENE of Neiafu, Tonga",earthquake,12.2,1.9,0.094,34.0,reviewed,us,us
+2017-03-14T11:47:58.950Z,9.7662,125.3667,58.52,4.6,mb,,109.0,2.687,0.87,us,us100088vj,2017-03-15T10:47:10.179Z,"6km W of San Francisco, Philippines",earthquake,10.4,7.9,0.067,66.0,reviewed,us,us
+2017-03-14T11:07:11.400Z,39.2694,73.4711,10.0,5.1,mb,,81.0,2.245,0.89,us,us100088v9,2017-03-14T11:26:21.040Z,"30km NNW of Karakul, Tajikistan",earthquake,5.9,1.8,0.048,141.0,reviewed,us,us
+2017-03-14T09:13:27.980Z,-3.3369999999999997,137.5581,68.52,4.9,mb,,97.0,5.317,1.12,us,us100088uy,2017-03-14T09:31:48.040Z,"148km ENE of Enarotali, Indonesia",earthquake,9.1,4.5,0.084,44.0,reviewed,us,us
+2017-03-14T06:56:38.880Z,31.6366,141.7827,10.0,4.7,mb,,117.0,2.224,1.13,us,us100088uh,2017-03-14T07:20:23.040Z,"246km SE of Hachijo-jima, Japan",earthquake,9.6,1.9,0.057,92.0,reviewed,us,us
+2017-03-14T05:55:21.830Z,0.6764,121.1553,79.23,5.6,mb,,36.0,0.5710000000000001,0.96,us,us100088tq,2017-03-14T16:19:17.040Z,"48km WNW of Lemito, Indonesia",earthquake,6.7,1.9,0.079,72.0,reviewed,us,us
+2017-03-14T04:36:30.320Z,-5.6735,110.1787,541.23,5.2,mb,,72.0,1.391,0.82,us,us100088t6,2017-03-14T16:44:34.685Z,"107km NNW of Batang, Indonesia",earthquake,10.1,9.9,0.217,7.0,reviewed,us,us
+2017-03-14T03:56:48.920Z,42.7059,142.701,92.35,4.7,mwr,,96.0,0.768,0.74,us,us100088sq,2017-03-14T12:46:31.163Z,"47km WSW of Obihiro, Japan",earthquake,5.5,5.8,0.08,15.0,reviewed,us,us
+2017-03-14T02:51:16.850Z,6.1292,92.3167,10.0,6.0,mww,,34.0,4.694,1.25,us,us100088sf,2017-03-15T15:10:42.332Z,"231km SSW of Mohean, India",earthquake,8.2,1.8,,,reviewed,us,us
+2017-03-13T21:04:05.710Z,13.8276,-92.2693,37.51,4.7,mb,,183.0,0.889,0.91,us,us100088rh,2017-03-14T16:13:31.484Z,"64km SW of Champerico, Guatemala",earthquake,7.6,9.9,0.045,152.0,reviewed,us,us
+2017-03-13T15:05:54.850Z,-30.4146,-71.4753,34.06,5.1,mww,,66.0,0.292,0.93,us,us100088n2,2017-03-14T16:44:50.040Z,"33km NW of Ovalle, Chile",earthquake,5.5,3.3,,,reviewed,us,guc
+2017-03-13T14:19:06.700Z,17.415,96.0107,10.0,5.1,mb,,42.0,0.563,0.62,us,us100088mq,2017-03-15T14:53:40.211Z,"34km SE of Tharyarwady, Burma",earthquake,6.9,1.8,0.061,88.0,reviewed,us,us
+2017-03-13T12:32:36.070Z,-16.5105,-173.2212,34.25,4.6,mb,,104.0,4.044,0.68,us,us100088mn,2017-03-13T13:21:24.040Z,"83km SE of Hihifo, Tonga",earthquake,14.8,6.5,0.136,16.0,reviewed,us,us
+2017-03-13T08:49:05.880Z,14.3219,145.2049,104.46,5.5,mb,,46.0,0.7979999999999999,1.19,us,us100088m4,2017-03-14T17:05:13.040Z,"18km N of Rota, Northern Mariana Islands",earthquake,8.9,5.4,0.045,168.0,reviewed,us,us
+2017-03-13T07:15:55.030Z,-2.0192,140.5986,28.68,5.0,mb,,102.0,8.389,0.81,us,us100088ly,2017-03-13T07:31:28.040Z,"57km N of Jayapura, Indonesia",earthquake,10.6,6.4,0.094,36.0,reviewed,us,us
+2017-03-13T06:25:37.510Z,40.2498,143.6091,10.0,4.6,mb,,144.0,1.796,1.03,us,us100088ls,2017-03-13T06:43:44.040Z,"157km ENE of Miyako, Japan",earthquake,6.8,1.9,0.087,40.0,reviewed,us,us
+2017-03-13T02:48:51.110Z,13.9565,120.7489,165.58,4.6,mb,,106.0,8.329,0.91,us,us100088l9,2017-03-13T09:58:12.580Z,"2km NE of Balayan, Philippines",earthquake,10.9,7.3,0.052000000000000005,108.0,reviewed,us,us
+2017-03-13T02:07:19.620Z,36.2105,70.6783,114.94,4.5,mb,,80.0,0.917,0.97,us,us100088kv,2017-03-13T02:43:09.040Z,"21km NNW of `Alaqahdari-ye Kiran wa Munjan, Afghanistan",earthquake,5.6,6.1,0.07,60.0,reviewed,us,us
+2017-03-12T20:29:57.100Z,-7.192,129.6088,127.42,4.5,mb,,83.0,1.85,0.87,us,us100088k1,2017-03-12T20:46:35.040Z,"206km WNW of Saumlaki, Indonesia",earthquake,7.4,7.4,0.096,32.0,reviewed,us,us
+2017-03-12T12:21:23.880Z,27.1914,103.5868,39.59,4.8,mb,,75.0,6.028,0.59,us,us100088iq,2017-03-12T12:55:34.040Z,"5km E of Wenping, China",earthquake,8.3,7.6,0.065,72.0,reviewed,us,us
+2017-03-12T10:09:37.380Z,-21.6748,-179.2312,597.5,5.1,mb,,52.0,4.672,1.0,us,us100088hw,2017-03-12T10:27:54.040Z,"126km SSW of Ndoi Island, Fiji",earthquake,10.9,7.7,0.038,232.0,reviewed,us,us
+2017-03-12T09:12:40.400Z,13.3443,-90.8109,56.45,4.8,mb,,145.0,1.5730000000000002,1.33,us,us100088hp,2017-03-12T09:27:11.040Z,"64km S of Puerto San Jose, Guatemala",earthquake,8.8,9.4,0.035,245.0,reviewed,us,us
+2017-03-12T05:48:51.660Z,1.9669999999999999,98.9783,139.85,4.5,mb,,97.0,0.7240000000000001,0.71,us,us100088gy,2017-03-12T06:09:18.040Z,"33km NE of Sibolga, Indonesia",earthquake,7.2,2.9,0.1,29.0,reviewed,us,us
+2017-03-12T04:03:22.100Z,16.4088,-98.3496,12.35,4.5,mb,,182.0,1.166,0.67,us,us100088gn,2017-03-12T23:05:55.040Z,"9km SE of Cuajinicuilapa, Mexico",earthquake,8.6,6.3,0.031,313.0,reviewed,us,us
+2017-03-12T02:14:18.580Z,-2.9445,138.9062,35.0,4.5,mb,,98.0,6.648,0.81,us,us100088gg,2017-03-12T23:24:43.040Z,"189km W of Abepura, Indonesia",earthquake,10.8,2.0,0.107,26.0,reviewed,us,us
+2017-03-12T01:26:28.100Z,-4.6816,102.56,51.82,4.7,mb,,96.0,0.507,0.59,us,us100088gf,2017-03-12T23:35:31.040Z,"102km SSE of Bengkulu, Indonesia",earthquake,6.9,6.2,0.073,56.0,reviewed,us,us
+2017-03-11T21:39:47.670Z,-12.3393,165.6852,10.0,4.5,mb,,94.0,6.329,0.68,us,us100088ft,2017-03-11T22:27:54.040Z,"180km S of Lata, Solomon Islands",earthquake,11.1,1.9,0.131,17.0,reviewed,us,us
+2017-03-11T19:57:46.650Z,37.5229,141.6361,40.32,5.4,mb,,135.0,0.755,1.02,us,us100088fi,2017-03-12T04:33:44.918Z,"56km E of Namie, Japan",earthquake,3.4,8.1,0.095,38.0,reviewed,us,us
+2017-03-11T18:48:41.090Z,30.994,130.3956,139.21,5.3,mww,,28.0,0.516,0.91,us,us100088fc,2017-03-14T14:52:35.250Z,"31km SSE of Makurazaki, Japan",earthquake,5.8,3.7,0.055,32.0,reviewed,us,us
+2017-03-11T17:10:38.680Z,-30.5136,-177.5283,22.0,5.6,mww,,62.0,1.311,0.71,us,us100088f7,2017-03-14T14:10:12.942Z,"142km SSE of Raoul Island, New Zealand",earthquake,7.5,1.8,0.062,25.0,reviewed,us,us
+2017-03-11T14:04:50.520Z,-6.7979,130.3182,124.09,5.2,mb,,73.0,1.526,1.36,us,us100088eu,2017-03-11T16:06:40.726Z,"168km NW of Saumlaki, Indonesia",earthquake,6.7,4.6,0.098,34.0,reviewed,us,us
+2017-03-11T12:53:41.920Z,23.5082,-44.9967,10.0,4.9,mb,,131.0,20.881,0.61,us,us100088eq,2017-03-11T13:38:27.040Z,Northern Mid-Atlantic Ridge,earthquake,13.6,1.9,0.045,157.0,reviewed,us,us
+2017-03-11T07:02:10.680Z,-4.7719,-105.67200000000001,10.0,5.0,mb,,193.0,23.275,0.66,us,us100088dp,2017-03-11T07:23:24.040Z,Central East Pacific Rise,earthquake,12.6,1.8,0.047,144.0,reviewed,us,us
+2017-03-11T07:00:31.600Z,-29.2347,-69.28699999999999,91.79,5.2,mb,,43.0,0.95,1.18,us,us100088dn,2017-03-11T17:01:18.040Z,"117km WSW of Vinchina, Argentina",earthquake,5.9,7.3,0.083,48.0,reviewed,us,us
+2017-03-11T03:42:16.750Z,-34.7839,-71.833,42.76,4.9,mb,,70.0,0.239,0.73,us,us100088d4,2017-03-12T14:12:14.434Z,"45km WSW of Santa Cruz, Chile",earthquake,5.0,7.3,0.053,116.0,reviewed,us,us
+2017-03-10T21:20:54.040Z,-1.8709,133.4668,25.36,4.9,mb,,68.0,1.601,0.49,us,us100088bk,2017-03-13T00:29:02.040Z,"130km SSW of Manokwari, Indonesia",earthquake,7.1,5.0,0.05,125.0,reviewed,us,us
+2017-03-10T16:41:12.370Z,72.8351,4.7642,10.0,5.0,mb,,88.0,6.09,0.82,us,us1000888q,2017-03-10T16:58:47.040Z,Norwegian Sea,earthquake,6.6,1.4,0.069,67.0,reviewed,us,us
+2017-03-10T16:33:15.300Z,-7.2416,105.2858,51.61,4.8,mb,,177.0,3.6830000000000003,0.82,us,us1000888j,2017-03-10T16:48:34.040Z,"61km SW of Tugu Hilir, Indonesia",earthquake,10.7,6.4,0.105,28.0,reviewed,us,us
+2017-03-10T16:13:36.900Z,-6.6428,105.0673,70.69,4.7,mb,,90.0,3.091,0.66,us,us1000887k,2017-03-10T16:27:50.040Z,"62km W of Cangkeuteuk Sabrang, Indonesia",earthquake,9.6,8.1,0.08900000000000001,39.0,reviewed,us,us
+2017-03-10T15:53:52.240Z,29.6909,141.0343,106.07,5.0,mb,,144.0,2.7769999999999997,0.97,us,us1000887f,2017-03-10T16:12:25.040Z,"Izu Islands, Japan region",earthquake,6.7,7.5,0.095,35.0,reviewed,us,us
+2017-03-10T13:46:39.590Z,11.9584,-69.5903,10.0,5.5,mb,,24.0,0.6559999999999999,1.44,us,us1000885n,2017-03-12T20:11:23.808Z,"54km N of La Vela de Coro, Venezuela",earthquake,5.8,1.8,0.023,658.0,reviewed,us,us
+2017-03-10T13:13:20.860Z,13.3591,-90.1375,56.56,4.5,mb,,164.0,0.9390000000000001,0.67,us,us1000885d,2017-03-10T15:08:56.603Z,"42km SW of Acajutla, El Salvador",earthquake,8.0,9.3,0.046,141.0,reviewed,us,us
+2017-03-10T11:11:09.130Z,51.516999999999996,-177.3535,65.06,4.6,mb,,142.0,0.358,0.91,us,us10008851,2017-03-14T18:19:39.269Z,"62km SW of Adak, Alaska",earthquake,6.9,6.0,0.035,252.0,reviewed,us,us
+2017-03-10T06:22:20.380Z,-30.5622,-72.101,14.29,5.1,mwr,,84.0,0.41600000000000004,0.88,us,us1000882x,2017-03-11T04:11:44.415Z,"86km W of Ovalle, Chile",earthquake,5.8,3.4,0.034,84.0,reviewed,us,us
+2017-03-10T06:01:17.210Z,17.5044,-62.801,104.75,4.5,mb,,102.0,0.172,0.64,us,us1000882u,2017-03-11T04:13:22.837Z,"10km N of Dieppe Bay Town, Saint Kitts and Nevis",earthquake,6.2,5.4,0.044000000000000004,151.0,reviewed,us,us
+2017-03-10T03:41:52.560Z,-2.2941,138.8406,54.21,4.6,mb,,128.0,6.614,0.87,us,us1000882g,2017-03-10T04:01:37.040Z,"197km W of Abepura, Indonesia",earthquake,13.4,9.5,0.105,27.0,reviewed,us,us
+2017-03-09T17:20:26.510Z,-10.4482,161.3269,60.15,4.9,mb,,98.0,1.689,0.67,us,us100087y0,2017-03-09T20:29:03.040Z,"64km W of Kirakira, Solomon Islands",earthquake,7.8,6.4,0.051,123.0,reviewed,us,us
+2017-03-09T16:38:14.490Z,-4.6332,129.6254,149.84,4.9,mb,,26.0,3.122,0.83,us,us100087xt,2017-03-16T21:20:43.040Z,"159km SE of Saparua, Indonesia",earthquake,5.9,6.4,0.061,83.0,reviewed,us,us
+2017-03-09T13:35:16.880Z,-4.9229,155.1309,77.09,4.8,mb,,118.0,3.0460000000000003,1.1,us,us100087xg,2017-03-09T13:52:03.040Z,"149km NNW of Arawa, Papua New Guinea",earthquake,7.0,10.4,0.139,16.0,reviewed,us,us
+2017-03-09T13:29:27.180Z,12.0428,-69.6011,16.78,4.8,mb,,25.0,0.609,0.95,us,us100087xb,2017-03-10T14:31:27.650Z,"59km WSW of Dorp Soto, Curaçao",earthquake,4.9,3.8,0.057999999999999996,92.0,reviewed,us,us
+2017-03-09T13:03:39.140Z,21.753166699999998,-156.8668333,31.965999999999998,4.71,ml,30.0,231.0,0.6314,0.19,hv,hv61636051,2017-03-10T00:13:35.090Z,"58km NNE of Kualapu'u, Hawaii",earthquake,0.48,0.94,0.16399999999999998,52.0,reviewed,hv,hv
+2017-03-09T11:14:26.430Z,-60.1464,150.2962,10.0,5.9,mww,,96.0,7.346,0.84,us,us100087wv,2017-03-09T19:41:24.040Z,West of Macquarie Island,earthquake,10.5,1.9,,,reviewed,us,us
+2017-03-09T02:26:19.090Z,52.1101,178.3848,121.92,5.3,mb,,35.0,2.694,0.7,us,us100087v3,2017-03-09T18:27:48.040Z,"19km NNW of Little Sitkin Island, Alaska",earthquake,7.9,4.4,0.025,536.0,reviewed,us,us
+2017-03-08T20:44:40.390Z,-6.4476,155.4956,137.72,4.6,mb,,71.0,4.003,0.79,us,us100087sf,2017-03-08T21:31:32.040Z,"14km S of Panguna, Papua New Guinea",earthquake,9.3,6.4,0.057999999999999996,87.0,reviewed,us,us
+2017-03-08T14:03:30.740Z,-54.0472,-133.8839,10.0,5.1,mb,,59.0,29.079,0.62,us,us100087pr,2017-03-08T14:52:42.040Z,Pacific-Antarctic Ridge,earthquake,12.2,1.8,0.062,84.0,reviewed,us,us
+2017-03-08T11:52:00.200Z,31.6863,141.9388,10.0,4.7,mb,,122.0,2.293,0.7,us,us100087p9,2017-03-08T12:22:44.040Z,"253km SE of Hachijo-jima, Japan",earthquake,8.0,1.9,0.075,53.0,reviewed,us,us
+2017-03-08T10:06:46.060Z,4.0713,126.2356,57.99,4.5,mb,,112.0,3.049,0.68,us,us100087pj,2017-03-08T14:06:13.040Z,"170km SSE of Sarangani, Philippines",earthquake,6.4,7.9,0.094,33.0,reviewed,us,us
+2017-03-08T07:30:43.160Z,-6.2976,147.5833,55.17,4.7,mb,,105.0,3.115,1.26,us,us100087nd,2017-03-08T07:47:29.238Z,"46km NW of Finschhafen, Papua New Guinea",earthquake,9.9,8.0,0.092,36.0,reviewed,us,us
+2017-03-08T03:39:45.730Z,15.9509,-93.4277,103.52,4.7,mb,,129.0,1.2830000000000001,0.93,us,us100087m8,2017-03-08T03:54:46.040Z,"14km NE of Tres Picos, Mexico",earthquake,7.6,7.3,0.037000000000000005,226.0,reviewed,us,us
+2017-03-08T01:38:45.090Z,2.2976,128.6049,65.72,5.6,mb,,51.0,1.956,0.98,us,us100087lk,2017-03-08T03:41:49.395Z,"91km NE of Tobelo, Indonesia",earthquake,7.4,6.6,0.044000000000000004,178.0,reviewed,us,us
+2017-03-07T23:38:23.890Z,-15.038,168.0581,12.51,5.6,mww,,102.0,5.76,1.02,us,us100087kn,2017-03-08T16:26:34.040Z,"108km E of Port-Olry, Vanuatu",earthquake,8.8,4.2,,,reviewed,us,us
+2017-03-07T22:10:51.930Z,24.2928,122.1634,54.59,4.9,mb,,72.0,0.532,0.89,us,us100087k6,2017-03-12T10:56:18.598Z,"46km SE of Su'ao, Taiwan",earthquake,3.2,5.4,0.053,112.0,reviewed,us,us
+2017-03-07T19:51:54.500Z,39.8478,143.07299999999998,26.53,4.7,mb,,136.0,1.8,0.68,us,us100087jh,2017-03-16T19:16:09.040Z,"98km ENE of Miyako, Japan",earthquake,7.0,5.5,0.052000000000000005,111.0,reviewed,us,us
+2017-03-07T16:22:25.930Z,36.6582,84.9521,13.87,4.7,mb,,125.0,10.03,0.46,us,us100087hb,2017-03-07T20:16:43.040Z,"171km SSW of Qiemo, China",earthquake,9.5,3.4,0.083,44.0,reviewed,us,us
+2017-03-07T16:08:19.020Z,41.5343,141.903,55.19,5.7,mww,,108.0,0.976,0.53,us,us100087h5,2017-03-07T23:43:25.676Z,"63km ENE of Mutsu, Japan",earthquake,6.8,4.7,,,reviewed,us,us
+2017-03-07T15:45:39.560Z,-6.2429,102.1762,10.0,5.3,mww,,24.0,2.024,0.71,us,us100087gx,2017-03-07T22:48:52.040Z,"220km SW of Kuripan, Indonesia",earthquake,7.1,1.7,,,reviewed,us,us
+2017-03-07T14:23:52.630Z,51.9354,178.4471,102.79,4.9,mb,,113.0,2.727,0.66,us,us100087gj,2017-03-13T18:03:01.236Z,"4km WSW of Little Sitkin Island, Alaska",earthquake,7.9,5.3,0.035,252.0,reviewed,us,us
+2017-03-07T12:31:03.270Z,0.7988,123.8316,264.7,4.5,mb,,62.0,2.113,1.12,us,us100087g7,2017-03-07T12:53:39.040Z,"21km WSW of Lolak, Indonesia",earthquake,6.4,7.2,0.07400000000000001,54.0,reviewed,us,us
+2017-03-07T11:03:34.220Z,-37.5503,179.3484,10.0,4.9,mwr,,154.0,0.828,0.74,us,us100087fn,2017-03-07T12:33:36.040Z,"169km NE of Gisborne, New Zealand",earthquake,7.7,1.8,0.098,10.0,reviewed,us,us
+2017-03-07T10:55:40.630Z,-22.8706,171.2884,35.0,5.4,mb,,33.0,3.555,1.06,us,us100087fm,2017-03-07T11:16:04.040Z,"94km SW of Ile Hunter, New Caledonia",earthquake,7.9,1.9,0.040999999999999995,206.0,reviewed,us,us
+2017-03-07T09:46:03.670Z,-5.996,153.7755,10.0,4.8,mb,,50.0,2.406,0.84,us,us100087fg,2017-03-07T13:23:30.040Z,"188km SSE of Taron, Papua New Guinea",earthquake,8.3,1.9,0.07,62.0,reviewed,us,us
+2017-03-06T23:45:19.420Z,-5.7548,151.7173,10.0,4.6,mb,,68.0,1.615,1.2,us,us100087d9,2017-03-11T23:56:23.040Z,"166km SSW of Kokopo, Papua New Guinea",earthquake,5.5,1.9,0.065,71.0,reviewed,us,us
+2017-03-06T19:25:59.300Z,-31.19,-179.87900000000002,384.38,4.9,mb,,107.0,2.57,0.71,us,us100087cq,2017-03-06T19:58:52.040Z,"97km WNW of L'Esperance Rock, New Zealand",earthquake,8.3,5.7,0.068,68.0,reviewed,us,us
+2017-03-06T18:18:02.700Z,-24.0057,179.015,565.23,5.0,mb,,62.0,5.891,1.05,us,us100087c9,2017-03-06T18:55:34.040Z,South of the Fiji Islands,earthquake,10.4,6.1,0.055,105.0,reviewed,us,us
+2017-03-06T17:55:07.380Z,-21.021,-178.78900000000002,610.81,4.6,mb,,94.0,4.416,0.71,us,us100087c2,2017-03-06T20:31:10.040Z,"42km SSW of Ndoi Island, Fiji",earthquake,15.3,8.7,0.068,65.0,reviewed,us,us
+2017-03-06T17:30:50.090Z,60.8729,167.2543,18.05,5.2,mb,,48.0,7.23,1.01,us,us100087br,2017-03-06T19:02:29.040Z,"77km NE of Tilichiki, Russia",earthquake,7.5,3.7,0.027000000000000003,454.0,reviewed,us,us
+2017-03-06T16:25:39.840Z,1.2018,126.5381,39.93,4.6,mb,,88.0,0.932,0.89,us,us100087aq,2017-03-06T17:57:57.040Z,"103km WNW of Kota Ternate, Indonesia",earthquake,7.0,7.7,0.081,45.0,reviewed,us,us
+2017-03-06T16:17:25.960Z,39.8766,143.1645,31.98,4.6,mb,,147.0,1.8459999999999999,0.5,us,us100087ap,2017-03-06T17:37:27.040Z,"107km ENE of Miyako, Japan",earthquake,5.8,3.9,0.09,37.0,reviewed,us,us
+2017-03-06T08:32:15.350Z,-18.1346,-178.1833,546.85,4.6,mb,,70.0,3.6039999999999996,0.9,us,us1000878y,2017-03-06T08:52:13.040Z,"283km N of Ndoi Island, Fiji",earthquake,5.5,8.0,0.044000000000000004,159.0,reviewed,us,us
+2017-03-06T03:06:21.490Z,-19.5991,178.3764,35.73,5.3,mb,,44.0,1.869,0.77,us,us1000877f,2017-03-07T00:58:11.861Z,"161km S of Suva, Fiji",earthquake,7.9,0.6,0.04,213.0,reviewed,us,us
+2017-03-06T02:56:22.810Z,-40.4352,-71.9032,141.93,4.6,mb,,65.0,0.61,1.4,us,us1000877d,2017-03-07T13:10:05.165Z,"42km NNW of Villa La Angostura, Argentina",earthquake,5.5,5.9,0.11,25.0,reviewed,us,us
+2017-03-06T01:39:03.210Z,5.6689,124.0092,529.44,4.6,mb,,75.0,2.09,0.82,us,us10008774,2017-03-06T23:16:56.040Z,"62km SW of Malisbeng, Philippines",earthquake,11.1,8.5,0.052000000000000005,109.0,reviewed,us,us
+2017-03-06T01:26:22.010Z,43.4018,45.792,10.0,4.5,mb,,43.0,1.8980000000000001,0.84,us,us10008771,2017-03-16T21:35:38.707Z,"3km NW of Petropavlovskaya, Russia",earthquake,5.6,1.9,0.073,55.0,reviewed,us,us
+2017-03-05T23:31:52.210Z,-18.2715,-174.6358,70.98,4.5,mb,,191.0,4.534,0.95,us,us100088pc,2017-03-13T21:53:15.040Z,"80km WNW of Neiafu, Tonga",earthquake,15.3,14.3,0.11,24.0,reviewed,us,us
+2017-03-05T22:47:53.310Z,-5.999,149.35299999999998,31.07,6.3,mww,,17.0,3.326,0.99,us,us1000876f,2017-03-10T18:37:18.734Z,"32km NW of Kandrian, Papua New Guinea",earthquake,6.6,3.2,,,reviewed,us,us
+2017-03-05T22:28:11.240Z,-58.3599,-139.6975,10.0,5.1,mb,,35.0,27.199,0.69,us,us1000876d,2017-03-05T22:53:55.040Z,Pacific-Antarctic Ridge,earthquake,5.6,1.7,0.084,46.0,reviewed,us,us
+2017-03-05T15:48:33.030Z,-6.1617,148.9734,53.75,4.6,mb,,76.0,3.6889999999999996,0.6,us,us1000874r,2017-03-05T16:46:12.040Z,"64km W of Kandrian, Papua New Guinea",earthquake,10.6,9.2,0.114,23.0,reviewed,us,us
+2017-03-05T13:42:18.380Z,-21.87,-68.3141,111.13,4.7,mb,,31.0,0.865,0.94,us,us1000874i,2017-03-05T14:40:05.040Z,"91km NE of Calama, Chile",earthquake,6.8,7.4,0.061,80.0,reviewed,us,us
+2017-03-05T12:22:15.370Z,-55.0791,-129.3625,10.0,5.3,mb,,93.0,29.98,0.64,us,us1000874a,2017-03-06T18:44:18.040Z,Pacific-Antarctic Ridge,earthquake,13.9,1.9,0.09,42.0,reviewed,us,us
+2017-03-05T10:04:44.420Z,37.2909,141.3529,24.05,4.6,mb,,126.0,0.73,0.83,us,us1000873g,2017-03-07T02:00:48.263Z,"37km SE of Namie, Japan",earthquake,6.8,5.7,0.083,43.0,reviewed,us,us
+2017-03-05T01:46:56.670Z,36.5353,6.7413,13.01,4.7,mb,,82.0,2.255,1.07,us,us10008715,2017-03-05T19:50:42.898Z,"13km NE of Didouche Mourad, Algeria",earthquake,7.9,4.6,0.068,66.0,reviewed,us,us
+2017-03-05T01:18:54.330Z,35.646,140.8909,39.58,4.9,mb,,127.0,2.22,0.91,us,us1000870y,2017-03-06T01:48:18.367Z,"11km SSE of Hasaki, Japan",earthquake,4.3,6.6,0.064,78.0,reviewed,us,us
+2017-03-05T00:08:20.090Z,9.8207,125.54799999999999,19.59,5.7,mb,,77.0,2.733,0.93,us,us1000870s,2017-03-15T10:50:45.430Z,"7km ENE of Surigao, Philippines",earthquake,4.0,4.1,0.048,155.0,reviewed,us,us
+2017-03-04T20:11:49.650Z,-59.1424,-17.6654,10.0,5.0,mb,,107.0,11.414000000000001,0.81,us,us1000871g,2017-03-05T03:19:27.040Z,East of the South Sandwich Islands,earthquake,13.7,1.9,0.096,35.0,reviewed,us,us
+2017-03-04T20:03:46.050Z,-20.5164,-178.3557,615.86,4.9,mb,,89.0,4.373,0.88,us,us10008704,2017-03-04T20:19:15.040Z,"38km ENE of Ndoi Island, Fiji",earthquake,13.9,11.0,0.091,38.0,reviewed,us,us
+2017-03-04T17:36:38.730Z,-24.9693,179.6757,490.14,4.7,mb,,75.0,7.346,0.91,us,us100086zt,2017-03-16T14:08:18.040Z,South of the Fiji Islands,earthquake,11.3,7.3,0.07,62.0,reviewed,us,us
+2017-03-04T17:22:16.550Z,-64.9293,177.9816,10.0,4.8,mb,,125.0,13.422,1.27,us,us1000889q,2017-03-16T14:02:53.040Z,"288km NNW of Scott Island Bank, Antarctica",earthquake,9.4,1.9,0.161,14.0,reviewed,us,us
+2017-03-04T10:05:26.080Z,-7.2852,155.7187,50.72,4.9,mb,,95.0,4.686,0.64,us,us100086yg,2017-03-04T10:47:59.040Z,"110km SSE of Panguna, Papua New Guinea",earthquake,8.2,5.2,0.077,55.0,reviewed,us,us
+2017-03-04T03:50:01.060Z,-7.191,155.8292,51.08,4.8,mb,,102.0,4.647,0.83,us,us100086xf,2017-03-04T04:09:10.040Z,"101km SW of Chirovanga, Solomon Islands",earthquake,8.5,9.2,0.135,19.0,reviewed,us,us
+2017-03-04T03:18:41.280Z,-7.2921,155.7504,35.07,5.0,mb,,88.0,15.703,0.88,us,us100086xu,2017-03-04T06:15:14.040Z,"111km SSE of Panguna, Papua New Guinea",earthquake,10.8,4.7,0.105,33.0,reviewed,us,us
+2017-03-04T03:16:35.070Z,-7.3524,155.6747,50.81,5.1,mb,,30.0,4.697,1.02,us,us100086x8,2017-03-04T03:34:34.040Z,"116km S of Panguna, Papua New Guinea",earthquake,6.5,6.2,0.07400000000000001,61.0,reviewed,us,us
+2017-03-04T02:58:24.950Z,-7.3527,155.7048,53.72,5.9,mww,,17.0,4.681,1.11,us,us100086x7,2017-03-06T18:48:17.040Z,"117km SSE of Panguna, Papua New Guinea",earthquake,7.5,5.9,,,reviewed,us,us
+2017-03-04T02:11:53.910Z,25.1802,94.6957,75.66,5.1,mb,,62.0,1.012,0.86,us,us100086x4,2017-03-05T09:45:17.902Z,"57km SSE of Phek, India",earthquake,3.8,6.9,0.046,153.0,reviewed,us,us
+2017-03-04T00:14:54.150Z,-55.0061,-129.1062,10.0,5.0,mb,,87.0,33.126,0.98,us,us1000888z,2017-03-11T05:07:07.040Z,Pacific-Antarctic Ridge,earthquake,14.1,1.9,0.115,24.0,reviewed,us,us
+2017-03-03T23:53:36.200Z,-54.8941,-129.5809,10.0,5.1,mb,,67.0,29.791999999999998,0.45,us,us1000888a,2017-03-11T04:14:42.040Z,Pacific-Antarctic Ridge,earthquake,12.1,1.8,0.069,69.0,reviewed,us,us
+2017-03-03T23:31:07.440Z,54.7575,168.0199,34.39,4.9,mb,,84.0,4.1419999999999995,0.5,us,us100086vq,2017-03-07T01:23:44.040Z,"138km ESE of Nikol'skoye, Russia",earthquake,8.4,4.6,0.031,338.0,reviewed,us,us
+2017-03-03T21:06:53.210Z,28.3008,139.6502,409.53,4.5,mb,,78.0,2.5469999999999997,1.44,us,us1000888b,2017-03-11T04:47:39.040Z,"286km WNW of Chichi-shima, Japan",earthquake,12.7,8.9,0.157,12.0,reviewed,us,us
+2017-03-03T17:46:58.260Z,30.779,141.8316,28.31,4.5,mb,,132.0,2.892,0.68,us,us100086ub,2017-03-14T21:04:41.040Z,"Izu Islands, Japan region",earthquake,7.5,5.8,0.079,47.0,reviewed,us,us
+2017-03-03T10:46:56.120Z,-5.5998,147.2633,137.38,4.7,mb,,37.0,5.079,0.66,us,us100086pz,2017-03-03T11:03:58.040Z,"127km NNE of Lae, Papua New Guinea",earthquake,8.6,7.3,0.076,53.0,reviewed,us,us
+2017-03-03T08:27:35.740Z,43.1235,145.5694,82.22,5.3,mb,,121.0,2.0980000000000003,0.86,us,us100086pe,2017-03-05T15:26:59.605Z,"22km S of Nemuro, Japan",earthquake,8.4,6.2,0.053,119.0,reviewed,us,us
+2017-03-03T04:01:43.810Z,5.5189,127.0097,110.98,4.7,mb,,139.0,2.096,0.58,us,us100086nd,2017-03-11T00:05:12.040Z,"130km SE of Pondaguitan, Philippines",earthquake,6.1,8.0,0.09300000000000001,35.0,reviewed,us,us
+2017-03-03T02:14:33.510Z,-5.728,149.3567,99.93,4.7,mb,,52.0,3.01,0.64,us,us100086n0,2017-03-11T00:14:11.040Z,"58km NNW of Kandrian, Papua New Guinea",earthquake,8.9,6.1,0.08800000000000001,39.0,reviewed,us,us
+2017-03-02T21:11:22.640Z,-55.6033,-121.8079,10.0,4.8,mb,,98.0,29.112,0.83,us,us10008871,2017-03-11T01:06:40.040Z,Southern East Pacific Rise,earthquake,10.3,1.9,0.131,18.0,reviewed,us,us
+2017-03-02T20:14:27.700Z,-6.0919,154.97,161.18,4.8,mb,,56.0,3.373,0.96,us,us100086ku,2017-03-13T18:47:24.040Z,"62km WNW of Panguna, Papua New Guinea",earthquake,8.8,8.2,0.06,87.0,reviewed,us,us
+2017-03-02T19:13:15.670Z,61.3504,-27.4296,10.0,5.0,mb,,57.0,4.396,0.82,us,us100086kc,2017-03-13T18:46:28.040Z,Iceland region,earthquake,7.9,1.8,0.027000000000000003,431.0,reviewed,us,us
+2017-03-02T19:11:06.490Z,-43.2275,-74.0636,27.61,4.5,mwr,,188.0,0.313,1.02,us,us100086k8,2017-03-16T13:55:56.040Z,"38km WSW of Puerto Quellon, Chile",earthquake,5.4,8.1,,,reviewed,us,guc
+2017-03-02T16:53:47.800Z,-39.4816,177.4404,18.24,4.5,mwr,,160.0,0.8,0.8,us,us100086id,2017-03-14T19:09:00.841Z,"45km E of Napier, New Zealand",earthquake,5.3,4.8,0.065,23.0,reviewed,us,us
+2017-03-02T15:13:35.280Z,-18.5462,-177.6394,610.53,4.5,mb,,195.0,4.172,0.78,us,us1000886t,2017-03-14T16:45:12.040Z,"258km NNE of Ndoi Island, Fiji",earthquake,19.4,13.0,0.106,26.0,reviewed,us,us
+2017-03-02T14:53:42.900Z,32.6365,132.0995,48.15,5.3,mww,,61.0,1.138,1.26,us,us100086hr,2017-03-03T14:20:07.543Z,"39km SSE of Saiki, Japan",earthquake,5.9,5.4,0.066,22.0,reviewed,us,us
+2017-03-02T12:44:20.030Z,-5.0292,151.1703,146.05,4.7,mb,,64.0,1.2930000000000001,0.56,us,us100086h7,2017-03-02T13:04:46.040Z,"127km ENE of Kimbe, Papua New Guinea",earthquake,9.7,7.4,0.069,64.0,reviewed,us,us
+2017-03-02T11:07:27.000Z,37.5798,38.4402,10.0,5.6,mww,,37.0,1.061,0.98,us,us100086gw,2017-03-03T01:58:57.866Z,"3km W of Samsat, Turkey",earthquake,3.2,1.9,,,reviewed,us,us
+2017-03-02T10:09:44.460Z,-6.3973,155.1973,47.87,4.8,mb,,110.0,3.7319999999999998,0.77,us,us100086gr,2017-03-02T10:30:18.040Z,"33km WSW of Panguna, Papua New Guinea",earthquake,8.2,7.9,0.109,26.0,reviewed,us,us
+2017-03-02T08:37:08.840Z,-16.5828,-174.3531,61.34,4.5,mb,,73.0,4.89,0.73,us,us1000886h,2017-03-15T13:09:06.040Z,"95km SW of Hihifo, Tonga",earthquake,10.5,7.2,0.139,15.0,reviewed,us,us
+2017-03-02T04:50:52.860Z,-5.8136,147.1366,68.14,4.6,mb,,60.0,3.5669999999999997,0.95,us,us100086fu,2017-03-02T05:08:24.040Z,"101km N of Lae, Papua New Guinea",earthquake,6.0,7.8,0.073,56.0,reviewed,us,us
+2017-03-02T02:11:30.682Z,59.5785,-152.6546,78.0,5.5,ml,,,,0.92,ak,ak15426300,2017-03-13T23:55:23.379Z,"42km WSW of Anchor Point, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-03-02T01:27:35.810Z,20.4074,120.2697,10.0,4.7,mb,,104.0,2.898,0.69,us,us100086et,2017-03-02T02:53:58.040Z,"167km W of Sabtang, Philippines",earthquake,9.8,1.2,0.079,49.0,reviewed,us,us
+2017-03-01T22:28:59.110Z,-56.0048,-25.4965,10.0,4.5,mb,,203.0,6.5329999999999995,0.8,us,us1000884l,2017-03-15T05:16:18.040Z,"130km NE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,8.6,2.0,0.15,13.0,reviewed,us,us
+2017-03-01T22:04:31.090Z,-6.1179,113.0763,584.16,4.6,mb,,18.0,2.569,1.12,us,us100086dr,2017-03-15T05:09:07.040Z,"105km NNE of Ujungpangkah, Indonesia",earthquake,9.8,6.1,0.055,98.0,reviewed,us,us
+2017-03-01T20:33:16.800Z,-8.3052,156.2654,17.5,4.9,mb,,52.0,3.8080000000000003,0.94,us,us1000863c,2017-03-13T18:45:25.040Z,"67km WSW of Gizo, Solomon Islands",earthquake,7.5,5.6,0.084,45.0,reviewed,us,us
+2017-03-01T19:01:01.970Z,-43.0132,173.1781,9.53,4.8,mww,,126.0,0.114,0.72,us,us10008621,2017-03-14T22:50:30.552Z,"40km ENE of Amberley, New Zealand",earthquake,4.6,3.7,0.08900000000000001,12.0,reviewed,us,us
+2017-03-01T17:10:51.100Z,38.91,-29.8083,12.98,4.5,mb,,132.0,1.234,0.66,us,us1000884g,2017-03-14T14:37:17.040Z,"105km WNW of Ribeira Grande, Portugal",earthquake,9.8,4.8,0.102,28.0,reviewed,us,us
+2017-03-01T16:51:52.140Z,-6.265,148.7759,61.25,4.9,mb,,115.0,3.5060000000000002,0.82,us,us10008609,2017-03-14T22:20:41.040Z,"85km W of Kandrian, Papua New Guinea",earthquake,10.2,7.2,0.087,42.0,reviewed,us,us
+2017-03-01T16:47:48.750Z,-10.8005,161.9507,39.97,4.9,mb,,109.0,2.391,0.7,us,us10008604,2017-03-14T21:56:25.040Z,"38km S of Kirakira, Solomon Islands",earthquake,9.6,7.5,0.073,59.0,reviewed,us,us
+2017-03-01T16:17:41.910Z,-43.0363,173.2632,7.17,4.5,mwr,,134.0,0.18100000000000002,0.78,us,us100085zw,2017-03-14T21:36:17.040Z,"45km ENE of Amberley, New Zealand",earthquake,3.1,4.3,0.046,46.0,reviewed,us,us
+2017-03-01T15:08:02.560Z,51.7616,-175.3531,53.3,4.9,mb,,137.0,0.835,0.72,us,us100085yt,2017-03-14T04:23:32.040Z,"90km E of Adak, Alaska",earthquake,7.0,6.6,0.033,284.0,reviewed,us,us
+2017-03-01T14:26:00.230Z,22.1071,143.0898,113.46,4.6,mb,,103.0,5.034,0.76,us,us100085ys,2017-03-15T12:37:41.040Z,"255km NW of Farallon de Pajaros, Northern Mariana Islands",earthquake,9.8,7.8,0.085,41.0,reviewed,us,us
+2017-03-01T10:39:49.370Z,52.1729,-173.3643,58.17,5.5,mb,,93.0,2.0709999999999997,1.21,us,us100085xq,2017-03-07T22:45:49.536Z,"57km E of Atka, Alaska",earthquake,6.0,4.8,0.023,667.0,reviewed,us,us
+2017-03-01T09:08:15.730Z,49.6085,-28.4637,10.0,4.9,mb,,89.0,14.237,0.55,us,us100085xd,2017-03-01T09:37:35.040Z,Northern Mid-Atlantic Ridge,earthquake,10.3,1.9,0.033,280.0,reviewed,us,us
+2017-03-01T06:59:40.570Z,-6.325,130.0288,130.99,5.5,mb,,32.0,2.073,1.11,us,us100085ws,2017-03-01T16:51:08.040Z,"229km NW of Saumlaki, Indonesia",earthquake,7.3,6.0,0.06,95.0,reviewed,us,us
+2017-03-01T06:43:05.720Z,37.576,141.3978,51.15,5.0,mb,,123.0,0.564,1.08,us,us100085wr,2017-03-01T14:05:53.228Z,"36km ENE of Namie, Japan",earthquake,7.3,3.1,0.048,136.0,reviewed,us,us
+2017-03-01T06:08:53.410Z,21.6405,143.1896,290.36,5.1,mb,,97.0,5.507000000000001,0.95,us,us100085wp,2017-03-01T06:27:24.040Z,"215km NW of Farallon de Pajaros, Northern Mariana Islands",earthquake,8.8,6.7,0.031,346.0,reviewed,us,us
+2017-03-01T05:00:36.660Z,-7.65,127.6041,161.86,4.5,mb,,61.0,3.675,0.87,us,us100085wc,2017-03-01T05:50:43.040Z,"245km ENE of Dili, East Timor",earthquake,6.1,8.5,0.11599999999999999,22.0,reviewed,us,us
+2017-03-01T04:35:11.380Z,2.0844,121.6181,10.0,4.9,mb,,72.0,1.278,0.98,us,us100085w8,2017-03-01T04:54:24.040Z,"104km NNE of Kali, Indonesia",earthquake,4.8,1.8,0.096,34.0,reviewed,us,us
+2017-03-01T02:48:33.930Z,-57.2891,-142.6257,10.0,5.4,mwc,,69.0,32.076,1.06,us,us100086wu,2017-03-14T04:14:16.040Z,Pacific-Antarctic Ridge,earthquake,9.8,1.8,,,reviewed,us,gcmt
+2017-03-01T02:32:13.980Z,-5.4923,153.8008,34.21,4.5,mb,,101.0,2.081,0.72,us,us100085vm,2017-03-14T03:55:43.040Z,"141km SE of Taron, Papua New Guinea",earthquake,5.6,5.6,0.10300000000000001,28.0,reviewed,us,us
+2017-03-01T00:42:47.670Z,44.2367,148.47,36.5,4.9,mb,,151.0,4.229,0.85,us,us100085v5,2017-03-14T02:45:50.040Z,"120km SSE of Kuril'sk, Russia",earthquake,9.3,4.3,0.042,181.0,reviewed,us,us
+2017-02-28T23:44:39.540Z,-2.7531,129.2462,37.02,4.5,mb,,78.0,3.003,0.84,us,us100085uh,2017-03-14T00:20:56.040Z,"73km NNE of Amahai, Indonesia",earthquake,7.6,6.7,0.094,33.0,reviewed,us,us
+2017-02-28T23:27:33.770Z,39.521,26.1249,8.66,4.6,mwr,,35.0,1.361,0.77,us,us100085uc,2017-03-13T05:09:26.079Z,"17km NNW of Mithymna, Greece",earthquake,4.5,3.7,0.052000000000000005,36.0,reviewed,us,us
+2017-02-28T21:19:42.090Z,-43.0259,173.2034,9.38,4.5,mwr,,133.0,0.136,0.87,us,us100085tp,2017-03-15T02:49:51.039Z,"41km ENE of Amberley, New Zealand",earthquake,4.3,2.3,0.053,34.0,reviewed,us,us
+2017-02-28T21:07:56.060Z,-17.7491,-174.7576,195.55,4.5,mb,,92.0,4.772,0.76,us,us100087qx,2017-03-15T03:04:35.040Z,"129km NW of Neiafu, Tonga",earthquake,4.9,7.1,0.09699999999999999,31.0,reviewed,us,us
+2017-02-28T20:12:41.270Z,-18.9711,169.2892,144.15,4.5,mb,,144.0,2.762,1.07,us,us100085t7,2017-03-11T23:09:20.040Z,"64km N of Isangel, Vanuatu",earthquake,10.3,9.2,0.115,23.0,reviewed,us,us
+2017-02-28T19:16:45.930Z,1.7974,126.573,37.43,4.9,mb,,102.0,1.291,0.87,us,us100085sq,2017-03-11T23:06:01.040Z,"142km NW of Kota Ternate, Indonesia",earthquake,6.3,7.0,0.06,87.0,reviewed,us,us
+2017-02-28T19:08:34.160Z,-1.3196,127.5752,32.33,5.0,mb,,45.0,2.0869999999999997,1.0,us,us100085si,2017-03-11T23:04:45.040Z,"11km WNW of Laiwui, Indonesia",earthquake,6.0,4.8,0.055999999999999994,103.0,reviewed,us,us
+2017-02-28T18:36:00.740Z,-14.0517,167.2632,175.93,4.5,mb,,150.0,7.06,1.15,us,us100087qt,2017-03-11T23:02:51.040Z,"36km WSW of Sola, Vanuatu",earthquake,10.4,6.0,0.095,32.0,reviewed,us,us
+2017-02-28T17:41:22.570Z,28.7168,143.1648,31.49,4.9,mb,,95.0,1.8330000000000002,0.77,us,us100085s6,2017-03-10T22:54:24.040Z,"203km NNE of Chichi-shima, Japan",earthquake,7.7,4.9,0.061,85.0,reviewed,us,us
+2017-02-28T17:35:40.370Z,-44.793,-80.8972,10.0,5.6,mww,,150.0,5.484,0.8,us,us100085qu,2017-03-10T22:54:50.502Z,"Off the coast of Aisen, Chile",earthquake,8.8,1.9,0.061,26.0,reviewed,us,us
+2017-02-28T17:03:13.930Z,39.9151,81.3133,15.87,4.6,mb,,83.0,3.22,0.81,us,us20008mz2,2017-03-10T22:34:00.040Z,"66km S of Aral, China",earthquake,7.1,4.6,0.077,50.0,reviewed,us,us
+2017-02-28T15:52:16.010Z,-8.0208,147.879,63.09,4.7,mb,,100.0,1.548,0.71,us,us20008myg,2017-02-28T16:38:20.040Z,"90km NNW of Popondetta, Papua New Guinea",earthquake,9.6,7.6,0.08,47.0,reviewed,us,us
+2017-02-28T13:42:18.870Z,37.7028,72.1044,128.04,5.2,mwb,,28.0,0.392,0.75,us,us20008mxr,2017-03-01T05:38:26.821Z,"51km ENE of Shughnon, Tajikistan",earthquake,5.6,4.1,0.09300000000000001,11.0,reviewed,us,us
+2017-02-28T13:10:41.350Z,-29.2308,-176.5761,14.45,4.6,mb,,154.0,1.182,0.53,us,us100087qm,2017-03-15T19:59:46.040Z,"128km E of Raoul Island, New Zealand",earthquake,14.1,8.9,0.133,17.0,reviewed,us,us
+2017-02-28T08:09:31.100Z,-14.1184,-74.9925,83.11,4.7,mb,,130.0,2.781,0.92,us,us20008mw8,2017-03-13T08:08:56.130Z,"49km NNE of Rio Grande, Peru",earthquake,9.6,8.3,0.077,51.0,reviewed,us,us
+2017-02-28T08:08:27.710Z,36.9365,142.1298,24.04,4.8,mb,,143.0,1.416,0.95,us,us20008mw7,2017-03-13T08:06:48.040Z,"111km E of Iwaki, Japan",earthquake,8.3,6.2,0.115,23.0,reviewed,us,us
+2017-02-28T07:49:02.860Z,37.5573,141.3377,47.36,5.7,mww,,52.0,0.534,1.04,us,us20008mw4,2017-03-13T08:08:08.179Z,"30km ENE of Namie, Japan",earthquake,6.8,3.1,0.049,40.0,reviewed,us,us
+2017-02-28T03:50:21.410Z,-48.0411,-9.8333,10.0,5.1,mb,,82.0,23.930999999999997,0.82,us,us20008mv5,2017-02-28T04:08:12.040Z,Southern Mid-Atlantic Ridge,earthquake,13.1,1.9,0.081,49.0,reviewed,us,us
+2017-02-27T17:52:16.180Z,39.4231,143.4734,18.5,4.5,mb,,135.0,2.296,0.69,us,us20008mqu,2017-03-13T18:51:29.040Z,"131km E of Yamada, Japan",earthquake,7.7,4.2,0.081,44.0,reviewed,us,us
+2017-02-27T16:18:30.880Z,24.248,122.8754,43.92,4.9,mb,,73.0,0.251,0.6,us,us20008mpq,2017-03-15T16:54:25.203Z,"27km SSW of Yonakuni, Japan",earthquake,3.4,5.0,0.046,150.0,reviewed,us,us
+2017-02-27T16:07:26.310Z,55.3296,-157.7955,25.35,4.9,mb,,145.0,1.034,0.77,us,us20008mpl,2017-03-15T16:49:14.040Z,"119km SSE of Chignik Lake, Alaska",earthquake,5.7,3.3,0.063,78.0,reviewed,us,us
+2017-02-27T14:51:55.860Z,-17.1519,-171.9741,22.84,4.6,mb,,110.0,2.7289999999999996,0.88,us,us100087i2,2017-03-15T14:05:00.040Z,"231km SE of Hihifo, Tonga",earthquake,10.0,5.9,0.158,12.0,reviewed,us,us
+2017-02-27T13:24:26.550Z,-29.2275,-177.6263,70.82,4.5,mb,,263.0,0.265,0.28,us,us100087i1,2017-03-15T13:33:04.040Z,"26km E of Raoul Island, New Zealand",earthquake,22.6,10.0,0.157,12.0,reviewed,us,us
+2017-02-27T12:02:21.580Z,-8.4814,29.8825,37.7,4.5,mb,,78.0,7.872999999999999,0.77,us,us100087i7,2017-03-13T06:13:15.040Z,"24km E of Kaputa, Zambia",earthquake,9.8,5.4,0.163,11.0,reviewed,us,us
+2017-02-27T11:47:25.970Z,1.7651,99.4345,164.73,4.5,mb,,76.0,1.054,0.87,us,us20008mny,2017-03-13T06:09:10.040Z,"47km NNE of Padangsidempuan, Indonesia",earthquake,7.6,7.3,0.113,23.0,reviewed,us,us
+2017-02-27T11:39:21.190Z,-37.0568,-74.1727,10.0,4.6,mb,,153.0,0.845,1.25,us,us20008mnq,2017-03-13T06:06:26.040Z,"77km NW of Lebu, Chile",earthquake,5.7,1.8,0.146,14.0,reviewed,us,us
+2017-02-27T11:26:30.860Z,-5.9903,154.9477,176.27,4.6,mb,,142.0,3.299,0.48,us,us20008mnp,2017-03-13T06:03:25.040Z,"69km WNW of Arawa, Papua New Guinea",earthquake,11.7,6.4,0.11900000000000001,21.0,reviewed,us,us
+2017-02-27T11:26:25.290Z,2.3226,95.32799999999999,28.51,4.8,mb,,175.0,2.463,0.85,us,us20008mnm,2017-03-13T06:02:14.040Z,"118km W of Sinabang, Indonesia",earthquake,8.8,6.5,0.111,25.0,reviewed,us,us
+2017-02-27T09:29:12.070Z,12.254000000000001,143.3487,10.0,4.6,mb,,94.0,1.989,0.92,us,us20008mn7,2017-02-27T10:28:13.040Z,"181km SW of Merizo Village, Guam",earthquake,10.6,1.9,0.07200000000000001,58.0,reviewed,us,us
+2017-02-27T09:10:38.240Z,42.3131,142.9835,52.39,4.9,mb,,71.0,0.324,0.9,us,us20008mn2,2017-02-27T14:34:20.288Z,"50km E of Shizunai, Japan",earthquake,7.6,5.1,0.038,220.0,reviewed,us,us
+2017-02-27T05:19:57.010Z,37.3901,141.3787,35.0,4.6,mb,,125.0,0.6679999999999999,0.77,us,us20008mm2,2017-02-27T10:53:11.040Z,"35km ESE of Namie, Japan",earthquake,5.2,1.9,0.055,100.0,reviewed,us,us
+2017-02-27T04:32:42.920Z,31.6104,141.7481,13.31,4.9,mb,,122.0,2.22,0.79,us,us20008mly,2017-03-13T03:20:22.040Z,"245km SE of Hachijo-jima, Japan",earthquake,7.5,4.6,0.043,171.0,reviewed,us,us
+2017-02-27T04:21:41.510Z,27.361,85.9644,17.78,4.6,mb,,156.0,0.6559999999999999,0.56,us,us20008mlv,2017-03-13T01:41:55.040Z,"12km WNW of Ramechhap, Nepal",earthquake,8.6,3.1,0.066,69.0,reviewed,us,us
+2017-02-27T03:37:45.840Z,27.4339,86.1167,10.0,4.7,mb,,57.0,0.755,0.67,us,us20008mll,2017-03-10T05:29:06.256Z,"12km NNE of Ramechhap, Nepal",earthquake,6.1,0.7,0.059000000000000004,86.0,reviewed,us,us
+2017-02-27T02:17:34.420Z,39.3631,143.545,9.64,4.8,mb,,134.0,2.377,0.58,us,us20008mky,2017-03-09T06:13:57.040Z,"137km E of Yamada, Japan",earthquake,8.1,4.8,0.046,149.0,reviewed,us,us
+2017-02-27T01:21:22.330Z,52.0984,158.9516,64.21,5.0,mb,,119.0,0.9440000000000001,0.64,us,us20008mks,2017-03-09T03:07:07.329Z,"99km SSE of Vilyuchinsk, Russia",earthquake,9.2,6.5,0.03,357.0,reviewed,us,us
+2017-02-27T01:04:51.950Z,18.9963,-70.0378,72.97,4.5,mb,,27.0,0.542,1.13,us,us20008mkq,2017-03-08T05:49:33.640Z,"6km W of Cevicos, Dominican Republic",earthquake,5.4,6.4,0.039,197.0,reviewed,us,us
+2017-02-27T00:03:18.790Z,3.2937,126.8642,73.42,4.9,mb,,108.0,2.5540000000000003,0.7,us,us20008mkk,2017-03-07T04:45:03.040Z,"214km NW of Tobelo, Indonesia",earthquake,7.2,7.1,0.066,73.0,reviewed,us,us
+2017-02-26T23:17:08.070Z,26.9085,144.0535,14.59,5.2,mb,,23.0,1.6769999999999998,0.72,us,us20008mka,2017-03-07T04:28:02.040Z,"183km E of Chichi-shima, Japan",earthquake,7.0,2.4,0.03,362.0,reviewed,us,us
+2017-02-26T18:48:45.790Z,30.2773,83.5638,10.0,4.8,mb,,95.0,8.705,1.3,us,us20008mji,2017-02-26T19:08:33.040Z,"90km NW of Zhadong, China",earthquake,8.1,1.7,0.106,27.0,reviewed,us,us
+2017-02-26T15:21:58.830Z,-4.2077,102.012,30.87,5.4,mb,,55.0,0.953,1.3,us,us20008miw,2017-03-14T19:50:44.027Z,"53km SSW of Bengkulu, Indonesia",earthquake,6.8,3.6,0.051,132.0,reviewed,us,us
+2017-02-26T15:03:33.910Z,37.1593,141.1658,48.5,4.8,mww,,75.0,0.769,0.65,us,us20008mit,2017-03-14T19:43:52.672Z,"27km ENE of Iwaki, Japan",earthquake,5.1,4.1,0.08900000000000001,12.0,reviewed,us,us
+2017-02-26T14:54:46.030Z,37.2233,141.2045,60.48,4.6,mb,,64.0,0.7240000000000001,1.13,us,us20008mip,2017-03-14T19:31:10.544Z,"34km NE of Iwaki, Japan",earthquake,6.3,5.4,0.073,56.0,reviewed,us,us
+2017-02-26T12:33:57.390Z,-15.004000000000001,-71.9889,95.64,4.5,mb,,124.0,3.926,1.45,us,us20008mi8,2017-03-12T12:46:30.040Z,"47km NE of Orcopampa, Peru",earthquake,10.2,21.7,0.191,8.0,reviewed,us,us
+2017-02-26T09:24:34.440Z,1.2504,122.4328,42.15,4.9,mb,,84.0,1.656,0.94,us,us20008mhv,2017-03-12T12:08:12.040Z,"69km NNW of Sidomulyo, Indonesia",earthquake,7.0,7.1,0.096,34.0,reviewed,us,us
+2017-02-26T08:59:16.490Z,-28.9219,-71.4883,31.92,5.0,mwr,,94.0,0.696,0.79,us,us20008mhp,2017-02-28T23:29:39.040Z,"81km WSW of Vallenar, Chile",earthquake,5.3,4.7,0.046,45.0,reviewed,us,us
+2017-02-26T06:44:21.790Z,-18.5234,169.3793,243.87,5.5,mb,,49.0,3.015,0.88,us,us20008mhb,2017-02-28T20:47:17.040Z,"114km N of Isangel, Vanuatu",earthquake,7.4,5.3,0.032,338.0,reviewed,us,us
+2017-02-26T01:30:04.930Z,-5.8643,153.3486,17.22,4.6,mb,,154.0,2.032,0.62,us,us20008mgp,2017-03-09T01:08:20.040Z,"158km SSE of Taron, Papua New Guinea",earthquake,9.8,5.9,0.094,34.0,reviewed,us,us
+2017-02-25T23:08:52.120Z,-14.8157,167.4306,163.91,5.0,mb,,56.0,5.931,0.75,us,us20008mga,2017-03-12T02:39:58.040Z,"48km ENE of Port-Olry, Vanuatu",earthquake,5.5,6.6,0.057999999999999996,95.0,reviewed,us,us
+2017-02-25T21:08:49.460Z,-1.1248,126.9045,17.44,4.8,mb,,65.0,8.119,0.74,us,us20008mfy,2017-03-11T23:44:52.040Z,"88km WNW of Laiwui, Indonesia",earthquake,7.8,4.2,0.071,62.0,reviewed,us,us
+2017-02-25T21:06:04.610Z,37.059,36.0706,2.31,4.6,mb,,50.0,0.917,0.74,us,us20008mfu,2017-03-11T23:30:09.040Z,"6km W of Toprakkale, Turkey",earthquake,5.0,4.8,0.066,69.0,reviewed,us,us
+2017-02-25T20:11:44.050Z,36.1786,139.8249,55.99,4.5,mb,,133.0,1.358,0.86,us,us20008mfp,2017-03-11T23:12:04.351Z,"9km E of Koga, Japan",earthquake,5.5,5.6,0.08900000000000001,37.0,reviewed,us,us
+2017-02-25T19:24:52.160Z,31.0068,103.652,10.0,4.5,mb,,43.0,5.087,0.54,us,us20008mfi,2017-03-11T05:16:28.301Z,"2km E of Guankou, China",earthquake,8.5,1.9,0.085,40.0,reviewed,us,us
+2017-02-25T19:01:42.940Z,10.3713,126.7978,46.55,4.5,mb,,138.0,16.480999999999998,0.42,us,us100086ty,2017-03-12T04:30:24.040Z,"88km ENE of San Isidro, Philippines",earthquake,12.4,9.2,0.135,16.0,reviewed,us,us
+2017-02-25T18:57:30.320Z,10.4992,126.8432,53.17,5.1,mb,,50.0,3.6289999999999996,1.03,us,us20008mfc,2017-03-10T19:32:52.040Z,"99km ENE of San Isidro, Philippines",earthquake,7.5,5.2,0.044000000000000004,167.0,reviewed,us,us
+2017-02-25T17:19:35.220Z,1.4127,31.1166,10.0,4.7,mb,,118.0,2.036,0.68,us,us20008mew,2017-03-10T17:55:32.255Z,"25km W of Hoima, Uganda",earthquake,6.1,1.8,0.077,51.0,reviewed,us,us
+2017-02-25T16:03:42.570Z,31.1559,140.4044,90.6,4.9,mb,,106.0,2.016,1.32,us,us20008meq,2017-02-25T16:29:27.040Z,"221km SSE of Hachijo-jima, Japan",earthquake,7.5,7.4,0.071,62.0,reviewed,us,us
+2017-02-25T15:14:15.970Z,-32.0766,-178.7516,53.05,4.9,mb,,158.0,2.91,0.83,us,us20008mem,2017-02-25T15:31:18.040Z,"72km S of L'Esperance Rock, New Zealand",earthquake,10.1,6.0,0.125,20.0,reviewed,us,us
+2017-02-25T14:00:31.810Z,-29.2397,-68.0086,116.62,5.3,mb,,47.0,1.959,1.05,us,us20008meg,2017-02-28T18:59:00.040Z,"50km W of Chilecito, Argentina",earthquake,7.7,7.3,0.114,26.0,reviewed,us,us
+2017-02-25T13:24:40.390Z,-5.9676,147.4039,101.35,5.0,mb,,77.0,3.423,0.76,us,us20008meb,2017-02-25T13:41:34.626Z,"86km NW of Finschhafen, Papua New Guinea",earthquake,9.5,10.1,0.163,12.0,reviewed,us,us
+2017-02-25T09:21:23.040Z,42.8799,147.398,10.0,4.5,mb,,137.0,3.255,0.64,us,us20008md6,2017-02-25T10:37:14.040Z,"116km SSE of Shikotan, Russia",earthquake,8.4,1.9,0.111,24.0,reviewed,us,us
+2017-02-25T09:03:06.700Z,35.1524,-35.3756,10.0,4.7,mb,,141.0,21.511,0.88,us,us20008md7,2017-02-25T10:14:28.040Z,Northern Mid-Atlantic Ridge,earthquake,12.9,1.9,0.06,84.0,reviewed,us,us
+2017-02-25T07:30:59.370Z,12.6701,143.2964,73.58,4.5,mb,,109.0,1.7830000000000001,0.66,us,us100086ti,2017-03-12T12:08:02.040Z,"162km WSW of Merizo Village, Guam",earthquake,12.7,9.1,0.099,30.0,reviewed,us,us
+2017-02-25T04:52:55.100Z,38.7647,142.2577,38.55,4.6,mb,,125.0,1.46,0.63,us,us20008mcu,2017-03-08T02:57:30.545Z,"57km SE of Ofunato, Japan",earthquake,7.5,6.2,0.071,59.0,reviewed,us,us
+2017-02-25T04:39:59.120Z,47.6843,147.0564,402.89,4.6,mb,,108.0,3.011,0.63,us,us20008mcs,2017-03-08T02:59:37.040Z,"193km SW of Vostok, Russia",earthquake,10.3,6.2,0.028999999999999998,342.0,reviewed,us,us
+2017-02-25T02:50:06.580Z,29.4685,130.671,27.09,4.8,mb,,125.0,2.042,0.59,us,us20008mcl,2017-03-08T03:15:14.040Z,"143km SSW of Nishinoomote, Japan",earthquake,7.3,5.5,0.062,81.0,reviewed,us,us
+2017-02-25T02:31:24.470Z,-19.4782,-69.08800000000001,108.33,5.2,mww,,43.0,0.59,0.88,us,us20008mc5,2017-03-08T04:14:10.385Z,"137km NE of Iquique, Chile",earthquake,6.0,3.8,0.061,26.0,reviewed,us,us
+2017-02-25T01:11:37.890Z,-7.26,130.4187,37.28,4.8,mb,,67.0,1.129,0.97,us,us20008mbt,2017-03-08T03:28:24.040Z,"125km NW of Saumlaki, Indonesia",earthquake,7.3,3.3,0.08199999999999999,46.0,reviewed,us,us
+2017-02-24T23:46:45.370Z,-17.9678,-178.4533,581.4,5.9,mww,,29.0,3.335,0.75,us,us20008man,2017-02-26T23:56:56.349Z,"287km SE of Lambasa, Fiji",earthquake,9.3,3.5,0.073,18.0,reviewed,us,us
+2017-02-24T19:26:49.540Z,52.8334,-174.5239,191.95,4.5,mb,,145.0,1.631,0.77,us,us20008m90,2017-03-09T21:36:15.040Z,"74km NNW of Atka, Alaska",earthquake,11.4,8.6,0.04,180.0,reviewed,us,us
+2017-02-24T19:16:53.060Z,18.4384,-25.2443,16.25,4.9,mb,,58.0,3.7880000000000003,0.85,us,us20008m8v,2017-03-09T20:12:17.040Z,"138km N of Ponta do Sol, Cape Verde",earthquake,8.6,4.2,0.054000000000000006,107.0,reviewed,us,us
+2017-02-24T17:57:59.740Z,-16.3382,-175.5085,10.0,4.7,mb,,152.0,5.975,0.68,us,us100086sw,2017-03-08T20:50:28.040Z,"192km WSW of Hihifo, Tonga",earthquake,9.4,1.9,0.134,18.0,reviewed,us,us
+2017-02-24T17:28:44.870Z,-23.2601,-178.8033,414.89,6.9,mww,,19.0,6.011,0.96,us,us20008m3t,2017-03-08T18:38:16.565Z,"289km S of Ndoi Island, Fiji",earthquake,8.6,3.5,,,reviewed,us,us
+2017-02-24T16:39:41.210Z,-29.980999999999998,-177.0076,10.0,5.1,mb,,175.0,1.087,1.4,us,us20008m2u,2017-02-24T16:57:52.040Z,"117km SE of Raoul Island, New Zealand",earthquake,9.4,2.0,0.11800000000000001,23.0,reviewed,us,us
+2017-02-24T16:17:20.690Z,-22.5509,173.0529,53.47,4.6,mb,,124.0,4.78,0.75,us,us20008m2p,2017-02-24T17:39:04.040Z,"104km E of Ile Hunter, New Caledonia",earthquake,4.5,11.7,0.114,23.0,reviewed,us,us
+2017-02-24T13:41:14.840Z,12.5963,-87.8264,77.75,4.9,mb,,58.0,0.764,1.08,us,us20008m19,2017-03-04T12:40:41.371Z,"43km WSW of Jiquilillo, Nicaragua",earthquake,6.3,5.3,0.059000000000000004,90.0,reviewed,us,us
+2017-02-24T12:28:25.620Z,49.7058,-129.1182,10.0,5.2,mww,,142.0,1.129,0.76,us,us20008m0k,2017-02-28T21:59:07.449Z,"164km SW of Port Hardy, Canada",earthquake,6.1,1.9,,,reviewed,us,us
+2017-02-24T12:02:51.460Z,24.1314,93.4958,61.72,5.0,mb,,41.0,0.741,0.78,us,us20008m0e,2017-02-25T02:03:25.975Z,"28km SW of Churachandpur, India",earthquake,5.0,4.1,0.057,105.0,reviewed,us,us
+2017-02-24T10:24:09.050Z,51.4291,176.3023,34.17,4.9,mb,,128.0,1.8780000000000001,0.71,us,us20008lzu,2017-03-04T17:59:43.243Z,"106km SSE of Buldir Island, Alaska",earthquake,9.2,5.7,0.037000000000000005,228.0,reviewed,us,us
+2017-02-24T09:44:19.510Z,-9.5991,159.8768,28.42,4.9,mb,,97.0,0.174,0.69,us,us20008lzm,2017-02-24T20:52:56.666Z,"20km SSW of Honiara, Solomon Islands",earthquake,7.8,5.4,0.06,87.0,reviewed,us,us
+2017-02-24T08:22:36.420Z,4.7036,96.9622,174.81,5.0,mb,,110.0,0.522,0.7,us,us20008lz4,2017-03-12T08:54:42.040Z,"56km SSW of Lhokseumawe, Indonesia",earthquake,8.2,7.1,0.059000000000000004,90.0,reviewed,us,us
+2017-02-24T06:17:57.360Z,-44.9953,-14.2686,10.0,4.6,mb,,107.0,8.055,0.76,us,us100086t4,2017-03-09T10:09:48.040Z,Southern Mid-Atlantic Ridge,earthquake,9.7,1.9,0.223,6.0,reviewed,us,us
+2017-02-24T05:59:07.350Z,-55.3028,-30.6778,10.0,5.3,mb,,78.0,3.515,0.55,us,us20008lyf,2017-03-09T09:59:25.040Z,"266km NW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,9.9,1.2,0.059000000000000004,97.0,reviewed,us,us
+2017-02-24T03:11:41.310Z,-15.8273,-71.6347,142.04,4.9,mb,,126.0,2.708,0.91,us,us20008lxn,2017-03-08T00:34:07.442Z,"19km WSW of Huarancante, Peru",earthquake,7.5,5.5,0.057999999999999996,94.0,reviewed,us,us
+2017-02-24T00:32:17.530Z,-8.4449,30.0448,30.0,5.9,mww,,16.0,7.821000000000001,0.77,us,us20008lww,2017-03-11T00:58:32.567Z,"42km E of Kaputa, Zambia",earthquake,7.7,1.7,0.053,34.0,reviewed,us,us
+2017-02-23T23:54:51.720Z,39.9021,143.1389,26.51,4.5,mb,,168.0,1.8159999999999998,0.88,us,us20008lwe,2017-02-27T05:57:31.040Z,"105km ENE of Miyako, Japan",earthquake,8.5,7.3,0.1,29.0,reviewed,us,us
+2017-02-23T21:10:31.440Z,-21.2721,174.3809,10.0,5.5,mb,,38.0,4.928999999999999,1.03,us,us20008lv9,2017-02-27T05:23:31.968Z,"56km NNW of Ceva-i-Ra, Fiji",earthquake,8.5,1.8,0.035,289.0,reviewed,us,us
+2017-02-23T20:13:40.310Z,86.1559,74.2575,10.0,5.0,mb,,44.0,18.264,0.86,us,us20008luw,2017-03-07T23:32:05.040Z,North of Severnaya Zemlya,earthquake,9.7,1.8,0.03,348.0,reviewed,us,us
+2017-02-23T20:12:26.780Z,-29.3727,-177.4035,20.1,4.5,mb,,192.0,0.47600000000000003,0.73,us,us100086r5,2017-03-09T23:53:20.040Z,"49km ESE of Raoul Island, New Zealand",earthquake,5.8,6.9,0.151,13.0,reviewed,us,us
+2017-02-23T17:07:04.870Z,16.2648,-98.6933,9.67,4.6,mb,,183.0,0.5579999999999999,0.97,us,us20008ltv,2017-03-07T23:30:17.893Z,"28km SSE of Tecoanapa, Mexico",earthquake,4.1,5.5,0.039,195.0,reviewed,us,us
+2017-02-23T17:03:18.120Z,-22.4079,-178.4302,396.76,5.1,mb,,50.0,5.695,1.01,us,us20008ltr,2017-03-07T23:21:49.040Z,"196km S of Ndoi Island, Fiji",earthquake,9.9,5.0,0.03,370.0,reviewed,us,us
+2017-02-23T16:23:46.020Z,-24.0027,179.335,545.21,4.6,mb,,116.0,6.34,0.65,us,us100086r3,2017-03-07T22:59:06.040Z,South of the Fiji Islands,earthquake,13.5,10.0,0.087,39.0,reviewed,us,us
+2017-02-23T15:21:14.770Z,16.1542,-95.5219,55.29,4.9,mb,,150.0,3.2539999999999996,0.64,us,us20008lsy,2017-03-07T22:50:08.825Z,"34km W of Salina Cruz, Mexico",earthquake,4.0,8.3,0.031,316.0,reviewed,us,us
+2017-02-23T15:16:12.160Z,12.1895,-88.1298,10.0,4.6,mb,,169.0,1.168,1.06,us,us20008lsw,2017-03-07T22:44:39.040Z,"96km SW of Jiquilillo, Nicaragua",earthquake,5.4,1.8,0.08199999999999999,44.0,reviewed,us,us
+2017-02-23T15:11:05.790Z,-5.8455,146.745,116.0,5.4,mww,,14.0,3.56,0.99,us,us20008lsv,2017-03-07T22:28:58.388Z,"100km NNW of Lae, Papua New Guinea",earthquake,6.3,1.8,0.069,20.0,reviewed,us,us
+2017-02-23T13:35:54.310Z,-43.125,171.7142,10.02,4.7,mwr,,49.0,0.31,0.97,us,us20008lsg,2017-03-03T14:39:14.040Z,"42km WNW of Oxford, New Zealand",earthquake,2.5,4.9,0.042,55.0,reviewed,us,us
+2017-02-23T11:52:18.100Z,-19.2137,-172.8284,10.0,4.8,mb,,103.0,2.7460000000000004,0.99,us,us20008lrc,2017-02-23T12:07:21.040Z,"136km ESE of Neiafu, Tonga",earthquake,7.6,1.8,0.127,19.0,reviewed,us,us
+2017-02-23T10:25:07.820Z,21.6192,143.2122,300.69,4.5,mb,,104.0,5.532,0.57,us,us20008lqv,2017-02-23T10:50:13.040Z,"212km NW of Farallon de Pajaros, Northern Mariana Islands",earthquake,11.1,7.8,0.040999999999999995,173.0,reviewed,us,us
+2017-02-23T09:47:55.710Z,16.1889,-95.4139,75.03,4.8,mb,,153.0,3.1489999999999996,0.68,us,us20008lqk,2017-03-05T00:39:53.473Z,"23km W of Salina Cruz, Mexico",earthquake,8.7,8.7,0.035,256.0,reviewed,us,us
+2017-02-23T06:04:59.030Z,49.7045,-129.1713,10.0,4.8,mb,,154.0,1.15,1.0,us,us20008lph,2017-02-24T18:54:48.783Z,"166km SW of Port Hardy, Canada",earthquake,7.6,1.9,0.032,304.0,reviewed,us,us
+2017-02-23T01:50:16.740Z,7.0606,125.5854,15.55,4.6,mb,,98.0,0.011000000000000001,0.71,us,us20008lnh,2017-02-23T21:38:31.797Z,"3km WSW of Davao, Philippines",earthquake,10.4,5.3,0.11199999999999999,24.0,reviewed,us,us
+2017-02-23T00:42:15.680Z,-58.266000000000005,-139.5672,10.0,5.2,mb,,26.0,26.366999999999997,0.61,us,us20008ln6,2017-03-11T02:56:21.215Z,Pacific-Antarctic Ridge,earthquake,12.6,1.7,0.067,74.0,reviewed,us,us
+2017-02-22T23:46:30.670Z,-15.6509,168.0149,185.82,4.9,mb,,143.0,5.151,0.77,us,us20008lmp,2017-03-11T02:09:19.040Z,"81km NE of Norsup, Vanuatu",earthquake,12.6,7.6,0.07200000000000001,60.0,reviewed,us,us
+2017-02-22T23:25:50.920Z,-44.2629,-15.7978,10.0,5.0,mb,,101.0,32.016,0.78,us,us20008lmf,2017-03-11T00:04:04.040Z,Southern Mid-Atlantic Ridge,earthquake,11.1,1.5,0.084,45.0,reviewed,us,us
+2017-02-22T20:58:46.870Z,-29.6613,-176.9783,20.22,4.5,mb,,261.0,0.927,0.33,us,us100086j7,2017-03-09T23:56:28.040Z,"99km ESE of Raoul Island, New Zealand",earthquake,17.8,9.0,0.14,15.0,reviewed,us,us
+2017-02-22T13:04:26.710Z,2.1976,132.6865,10.0,4.5,mb,,119.0,5.101,1.01,us,us20008lfd,2017-03-08T09:30:40.040Z,Palau region,earthquake,6.2,1.9,0.1,29.0,reviewed,us,us
+2017-02-22T09:47:38.690Z,-20.8462,-178.5175,566.16,4.7,mb,,123.0,4.473,1.04,us,us20008ldu,2017-03-16T08:29:00.040Z,"28km SE of Ndoi Island, Fiji",earthquake,11.9,6.5,0.039,196.0,reviewed,us,us
+2017-02-22T09:02:04.330Z,-15.7162,-173.4492,10.0,4.7,mb,,112.0,2.416,0.53,us,us20008ldf,2017-03-16T07:28:35.040Z,"41km NE of Hihifo, Tonga",earthquake,6.4,1.9,0.09,38.0,reviewed,us,us
+2017-02-22T08:25:36.200Z,-60.8751,-51.5244,68.11,5.3,mb,,78.0,3.678,1.11,us,us20008lda,2017-02-22T09:00:25.040Z,Scotia Sea,earthquake,9.6,5.3,0.055,111.0,reviewed,us,us
+2017-02-22T05:31:44.630Z,4.7831,127.5565,66.12,5.1,mb,,119.0,3.0039999999999996,0.98,us,us20008lcx,2017-02-23T02:20:47.534Z,"231km SE of Pondaguitan, Philippines",earthquake,5.4,7.5,0.053,114.0,reviewed,us,us
+2017-02-22T01:29:04.690Z,-15.4104,-173.7514,71.6,4.6,mb,,155.0,2.424,0.64,us,us100086iw,2017-03-09T00:29:34.040Z,"59km N of Hihifo, Tonga",earthquake,10.4,12.5,0.152,13.0,reviewed,us,us
+2017-02-21T14:46:43.650Z,3.8932,95.1135,35.0,4.5,mb,,264.0,2.258,0.79,us,us1000861f,2017-03-13T21:02:45.040Z,"115km WSW of Meulaboh, Indonesia",earthquake,10.2,2.0,0.243,5.0,reviewed,us,us
+2017-02-21T14:24:52.280Z,-24.4242,-179.7923,503.05,4.8,mb,,153.0,6.943,0.87,us,us10008617,2017-03-13T20:48:39.040Z,South of the Fiji Islands,earthquake,13.9,18.0,0.22699999999999998,9.0,reviewed,us,us
+2017-02-21T14:09:04.320Z,-19.2814,-63.9047,595.98,6.5,mww,,14.0,4.242,0.9,us,us20008l41,2017-03-14T13:55:31.666Z,"41km E of Padilla, Bolivia",earthquake,9.6,3.0,0.04,59.0,reviewed,us,us
+2017-02-21T13:32:46.850Z,36.4616,70.9962,128.88,4.5,mb,,101.0,0.743,1.18,us,us20008l3y,2017-03-13T19:09:59.040Z,"47km SSE of Jarm, Afghanistan",earthquake,7.9,6.1,0.087,39.0,reviewed,us,us
+2017-02-21T11:56:28.990Z,16.5654,-98.579,10.93,4.9,mb,,123.0,0.991,1.06,us,us20008l3k,2017-02-23T15:29:48.887Z,"19km ENE of Tecoanapa, Mexico",earthquake,6.2,4.6,0.03,345.0,reviewed,us,us
+2017-02-21T11:08:16.190Z,-29.0979,61.2173,10.0,5.1,mb,,52.0,14.862,0.82,us,us20008l37,2017-02-21T12:03:20.040Z,Southwest Indian Ridge,earthquake,11.1,1.8,0.076,56.0,reviewed,us,us
+2017-02-21T10:40:27.810Z,16.1932,-98.6763,10.0,4.7,mb,,159.0,1.365,1.07,us,us20008l2z,2017-02-23T10:18:10.992Z,"36km SSE of Tecoanapa, Mexico",earthquake,7.9,1.9,0.033,271.0,reviewed,us,us
+2017-02-21T10:24:49.450Z,39.0495,69.9799,10.0,4.7,mb,,46.0,0.266,1.46,us,us20008l2v,2017-02-21T11:00:21.040Z,"15km WNW of Novobod, Tajikistan",earthquake,2.8,1.9,0.063,76.0,reviewed,us,us
+2017-02-21T10:01:31.480Z,-10.9273,161.3386,10.0,4.9,mb,,60.0,2.015,0.93,us,us20008l2q,2017-02-21T10:35:45.040Z,"82km SW of Kirakira, Solomon Islands",earthquake,8.7,1.9,0.081,48.0,reviewed,us,us
+2017-02-21T07:03:45.020Z,-6.314,147.727,52.7,4.5,mb,,104.0,3.1210000000000004,0.45,us,us20008l1y,2017-03-03T13:30:53.040Z,"35km NNW of Finschhafen, Papua New Guinea",earthquake,10.4,7.8,0.124,19.0,reviewed,us,us
+2017-02-21T02:26:54.370Z,-20.5967,-178.3389,550.37,4.8,mb,,111.0,4.435,0.88,us,us20008l1d,2017-02-21T02:40:25.040Z,"38km E of Ndoi Island, Fiji",earthquake,5.5,11.7,0.16,12.0,reviewed,us,us
+2017-02-20T23:55:48.750Z,-14.9768,-176.3811,6.0,5.5,mww,,95.0,4.584,0.84,us,us20008l0q,2017-02-26T06:09:41.365Z,"188km S of Mata-Utu, Wallis and Futuna",earthquake,10.9,1.8,,,reviewed,us,us
+2017-02-20T19:35:48.360Z,8.2963,-79.2494,16.46,4.7,mb,,85.0,1.041,0.85,us,us20008ky6,2017-03-09T23:45:26.843Z,"73km ESE of Nueva Gorgona, Panama",earthquake,7.0,4.8,0.034,266.0,reviewed,us,us
+2017-02-20T19:25:18.850Z,55.4652,163.6044,10.0,4.9,mb,,87.0,3.799,0.95,us,us20008ky4,2017-03-07T22:34:10.040Z,"110km SE of Ust'-Kamchatsk Staryy, Russia",earthquake,9.1,1.8,0.035,251.0,reviewed,us,us
+2017-02-20T16:26:12.230Z,-2.4073,-12.3443,10.0,4.7,mb,,71.0,11.712,1.14,us,us100085zi,2017-03-13T14:44:52.040Z,North of Ascension Island,earthquake,13.1,1.9,0.126,19.0,reviewed,us,us
+2017-02-20T14:59:06.780Z,-5.0078,153.579,56.88,5.0,mb,,99.0,1.6269999999999998,0.6,us,us20008kwg,2017-03-13T14:08:16.040Z,"85km SE of Taron, Papua New Guinea",earthquake,4.9,6.8,0.057999999999999996,95.0,reviewed,us,us
+2017-02-20T07:53:06.260Z,-37.595,178.8068,32.16,4.9,mb,,255.0,0.39799999999999996,0.91,us,us20008kvk,2017-02-20T15:55:44.948Z,"136km NNE of Gisborne, New Zealand",earthquake,11.3,8.9,0.11,26.0,reviewed,us,us
+2017-02-20T07:45:10.150Z,-5.2197,-74.9708,10.0,5.4,mb,,84.0,3.359,1.3,us,us20008kvi,2017-02-21T19:52:51.000Z,"78km E of Lagunas, Peru",earthquake,6.1,1.7,0.023,638.0,reviewed,us,us
+2017-02-20T06:10:36.880Z,2.3783,95.2852,25.5,5.0,mb,,150.0,2.525,0.5,us,us20008kva,2017-02-20T06:25:41.040Z,"122km W of Sinabang, Indonesia",earthquake,6.3,5.8,0.092,38.0,reviewed,us,us
+2017-02-20T05:18:10.980Z,-21.4938,-178.8169,533.33,4.5,mb,,72.0,4.755,1.32,us,us20008kv2,2017-02-20T05:39:13.040Z,"94km S of Ndoi Island, Fiji",earthquake,12.1,4.2,0.052000000000000005,107.0,reviewed,us,us
+2017-02-20T03:56:45.190Z,-11.5455,166.3501,49.66,5.0,mb,,53.0,6.635,0.82,us,us20008kus,2017-03-08T02:25:03.905Z,"107km SSE of Lata, Solomon Islands",earthquake,8.6,5.1,0.047,145.0,reviewed,us,us
+2017-02-20T02:58:38.970Z,32.5142,141.9224,10.0,4.6,mb,,148.0,1.874,1.08,us,us100085za,2017-03-07T23:10:24.040Z,"208km ESE of Hachijo-jima, Japan",earthquake,4.8,1.9,0.146,14.0,reviewed,us,us
+2017-02-20T00:17:48.890Z,-12.7796,169.6828,662.16,4.6,mb,,105.0,8.796,0.63,us,us100085z1,2017-03-04T04:57:30.040Z,"261km ENE of Sola, Vanuatu",earthquake,15.8,15.2,0.091,36.0,reviewed,us,us
+2017-02-19T23:29:02.310Z,-6.0832,154.9004,161.55,4.5,mb,,119.0,3.3110000000000004,0.69,us,us100085rx,2017-03-04T04:20:31.040Z,"69km WNW of Panguna, Papua New Guinea",earthquake,11.9,8.0,0.09300000000000001,34.0,reviewed,us,us
+2017-02-19T19:10:03.520Z,-6.4575,152.5449,18.85,4.9,mb,,113.0,2.283,0.95,us,us20008ku0,2017-03-03T14:43:21.040Z,"226km SSW of Taron, Papua New Guinea",earthquake,9.9,6.0,0.077,54.0,reviewed,us,us
+2017-02-19T19:07:25.830Z,-37.4792,-73.8972,18.39,4.7,mb,,99.0,0.9229999999999999,0.59,us,us20008ktu,2017-02-19T19:51:46.757Z,"26km NW of Lebu, Chile",earthquake,4.8,5.3,0.159,12.0,reviewed,us,us
+2017-02-19T17:07:16.800Z,-19.3951,-177.3367,574.94,4.5,mb,,81.0,4.671,1.1,us,us20008ktn,2017-03-03T14:47:52.040Z,"199km NE of Ndoi Island, Fiji",earthquake,13.9,9.6,0.091,35.0,reviewed,us,us
+2017-02-19T16:20:33.070Z,-10.6527,115.8822,41.07,4.7,mb,,109.0,2.759,0.86,us,us100085rm,2017-03-12T19:54:00.040Z,"199km SSW of Kute, Indonesia",earthquake,8.3,6.8,0.079,49.0,reviewed,us,us
+2017-02-19T15:49:19.230Z,-37.4652,-74.0598,26.8,4.5,mwr,,196.0,0.997,0.46,us,us20008kt6,2017-03-12T19:26:48.434Z,"39km WNW of Lebu, Chile",earthquake,8.3,7.0,,,reviewed,us,guc
+2017-02-19T15:39:42.100Z,-7.8406,107.9434,67.97,4.7,mb,,48.0,2.556,0.98,us,us20008kt4,2017-03-12T19:19:31.040Z,"12km S of Ciheras, Indonesia",earthquake,8.6,6.9,0.079,49.0,reviewed,us,us
+2017-02-19T15:14:07.500Z,-6.4023,104.6528,45.93,5.1,mb,,82.0,2.639,0.81,us,us20008ksv,2017-03-12T18:24:47.040Z,"100km S of Kotaagung, Indonesia",earthquake,6.7,5.9,0.067,72.0,reviewed,us,us
+2017-02-19T14:50:45.510Z,22.9882,124.8534,10.0,4.5,mb,,128.0,2.24,0.72,us,us100085ri,2017-03-12T14:44:20.040Z,"166km SSE of Ishigaki, Japan",earthquake,11.3,1.9,0.071,58.0,reviewed,us,us
+2017-02-19T14:08:48.070Z,-11.6225,166.4644,153.89,4.7,mb,,146.0,9.12,0.68,us,us100085rg,2017-03-12T13:51:49.040Z,"121km SE of Lata, Solomon Islands",earthquake,6.2,10.4,0.11699999999999999,25.0,reviewed,us,us
+2017-02-19T11:02:20.010Z,-15.8246,-179.6647,10.0,4.9,mb,,122.0,2.9019999999999997,0.92,us,us20008ksg,2017-03-03T08:52:14.040Z,"121km ENE of Lambasa, Fiji",earthquake,15.0,1.9,0.12,22.0,reviewed,us,us
+2017-02-19T10:42:08.390Z,13.7674,147.5275,10.0,5.1,mb,,59.0,2.59,0.62,us,us20008ksf,2017-03-03T08:50:42.040Z,"244km ESE of JP Tinian Town pre-WW2, Northern Mariana Islands",earthquake,10.1,1.9,0.064,78.0,reviewed,us,us
+2017-02-19T09:37:23.060Z,-37.566,-73.866,14.4,4.6,mb,,108.0,0.978,0.84,us,us20008ksb,2017-03-03T08:46:43.078Z,"19km WNW of Lebu, Chile",earthquake,7.7,5.0,0.16399999999999998,11.0,reviewed,us,us
+2017-02-19T09:19:31.080Z,35.6621,140.7523,42.0,5.4,mww,,82.0,2.202,1.27,us,us20008ks7,2017-03-03T08:45:34.569Z,"10km SW of Hasaki, Japan",earthquake,6.4,1.9,0.071,19.0,reviewed,us,us
+2017-02-19T07:06:55.120Z,-37.5395,-73.8852,20.0,4.5,mwr,,134.0,0.965,0.75,us,us20008krx,2017-03-15T11:04:45.439Z,"22km WNW of Lebu, Chile",earthquake,6.6,2.0,,,reviewed,us,guc
+2017-02-19T07:05:53.550Z,-24.6703,179.5359,519.98,4.5,mb,,118.0,7.028,1.18,us,us20008kry,2017-03-15T09:30:41.040Z,South of the Fiji Islands,earthquake,13.3,8.9,0.102,28.0,reviewed,us,us
+2017-02-19T04:03:33.600Z,-37.5559,-73.6964,13.57,4.5,mwr,,121.0,0.902,0.85,us,us20008kqn,2017-03-05T06:29:44.430Z,"7km NNW of Lebu, Chile",earthquake,5.5,2.9,0.047,43.0,reviewed,us,us
+2017-02-18T23:31:18.220Z,13.9019,-91.9944,35.0,4.5,mb,,160.0,0.6829999999999999,1.1,us,us20008kq3,2017-03-08T03:23:10.040Z,"44km S of Champerico, Guatemala",earthquake,6.0,2.0,0.059000000000000004,84.0,reviewed,us,us
+2017-02-18T22:23:00.010Z,13.4426,145.8877,36.87,4.9,mb,,65.0,1.002,0.58,us,us20008kpw,2017-03-04T06:05:23.922Z,"108km E of Yigo Village, Guam",earthquake,8.6,6.7,0.055999999999999994,101.0,reviewed,us,us
+2017-02-18T22:18:11.670Z,-23.5006,-175.2493,10.0,4.6,mb,,96.0,6.632000000000001,0.61,us,us100085qm,2017-03-08T00:28:28.040Z,"241km S of `Ohonua, Tonga",earthquake,7.8,1.9,0.141,15.0,reviewed,us,us
+2017-02-18T12:43:33.250Z,-23.9825,-66.7687,198.99,4.5,mb,,68.0,2.395,0.87,us,us20008knf,2017-03-03T08:36:12.040Z,"52km WNW of San Antonio de los Cobres, Argentina",earthquake,8.8,7.6,0.10099999999999999,29.0,reviewed,us,us
+2017-02-18T12:10:17.970Z,-23.8613,-66.6592,222.0,6.3,mww,,28.0,2.415,1.23,us,us20008kn8,2017-03-03T08:33:46.369Z,"52km NW of San Antonio de los Cobres, Argentina",earthquake,6.9,1.8,0.039,63.0,reviewed,us,us
+2017-02-18T11:24:05.380Z,3.9854,126.8171,41.15,4.5,mb,,136.0,3.239,0.38,us,us100085q8,2017-03-03T08:22:33.040Z,"217km SE of Sarangani, Philippines",earthquake,9.9,8.7,0.14,15.0,reviewed,us,us
+2017-02-18T10:58:49.530Z,0.2398,-24.7906,10.0,4.5,mb,,96.0,16.057000000000002,0.56,us,us100085q7,2017-03-12T11:07:42.040Z,Central Mid-Atlantic Ridge,earthquake,7.3,1.9,0.11599999999999999,22.0,reviewed,us,us
+2017-02-18T09:37:38.060Z,-25.0275,179.8409,505.49,4.6,mb,,95.0,4.647,0.81,us,us100085q5,2017-03-12T07:08:08.040Z,South of the Fiji Islands,earthquake,13.2,9.6,0.091,36.0,reviewed,us,us
+2017-02-18T07:04:18.230Z,26.3261,-44.6236,10.0,4.6,mb,,105.0,18.497,0.87,us,us20008kmm,2017-03-05T14:28:46.040Z,Northern Mid-Atlantic Ridge,earthquake,12.7,1.9,0.08800000000000001,39.0,reviewed,us,us
+2017-02-18T07:01:28.010Z,10.4092,126.74799999999999,63.14,4.5,mb,,133.0,16.455,0.55,us,us100085q1,2017-03-05T13:10:23.040Z,"85km ENE of San Isidro, Philippines",earthquake,14.1,8.5,0.111,24.0,reviewed,us,us
+2017-02-18T02:43:31.110Z,-35.4763,-102.7473,10.0,4.8,mb,,127.0,10.047,0.75,us,us20008klu,2017-03-03T01:10:14.040Z,Southeast of Easter Island,earthquake,13.4,1.9,0.048,132.0,reviewed,us,us
+2017-02-18T00:22:53.100Z,-56.1176,-27.2606,81.82,4.7,mb,,126.0,5.595,0.93,us,us100085pz,2017-03-11T23:17:49.040Z,"64km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,9.2,8.3,0.08,47.0,reviewed,us,us
+2017-02-17T21:33:15.060Z,3.8032,126.7453,66.27,4.8,mb,,64.0,3.074,0.75,us,us20008kks,2017-02-25T01:22:15.040Z,"227km SE of Sarangani, Philippines",earthquake,5.5,7.6,0.07200000000000001,59.0,reviewed,us,us
+2017-02-17T19:31:35.720Z,-13.4465,-111.8266,10.0,4.7,mb,,158.0,24.820999999999998,0.79,us,us20008kka,2017-03-04T22:52:55.040Z,Central East Pacific Rise,earthquake,13.9,1.9,0.039,203.0,reviewed,us,us
+2017-02-17T18:07:13.700Z,45.8906,150.4048,100.2,4.5,mb,,138.0,5.392,1.01,us,us20008kk5,2017-03-04T22:33:56.040Z,"209km ENE of Kuril'sk, Russia",earthquake,9.2,7.5,0.061,78.0,reviewed,us,us
+2017-02-17T17:45:48.290Z,14.4681,144.2433,390.8,4.7,mb,,39.0,1.063,0.61,us,us20008kjq,2017-03-04T22:30:14.040Z,"109km WNW of Rota, Northern Mariana Islands",earthquake,10.1,5.4,0.040999999999999995,177.0,reviewed,us,us
+2017-02-17T17:05:40.390Z,52.8655,-32.3823,10.0,4.5,mb,,154.0,13.062000000000001,0.54,us,us20008mrl,2017-03-04T21:53:35.040Z,Reykjanes Ridge,earthquake,12.0,1.9,0.111,24.0,reviewed,us,us
+2017-02-17T15:33:30.660Z,20.0665,-156.0566667,40.721,4.66,ml,25.0,133.0,0.1881,0.13,hv,hv61610021,2017-03-11T01:44:14.266Z,"24km NW of Waikoloa Village, Hawaii",earthquake,0.55,0.99,0.18899999999999997,44.0,reviewed,hv,hv
+2017-02-17T14:05:40.640Z,-10.3927,161.2381,80.12,4.7,mb,,130.0,1.5859999999999999,0.62,us,us20008kga,2017-03-03T08:12:17.040Z,"75km W of Kirakira, Solomon Islands",earthquake,4.8,9.2,0.11199999999999999,24.0,reviewed,us,us
+2017-02-17T11:21:32.050Z,-2.4622,140.0246,40.6,5.3,mb,,35.0,7.78,0.94,us,us20008kez,2017-02-17T15:09:51.040Z,"64km WNW of Abepura, Indonesia",earthquake,8.3,6.0,0.049,139.0,reviewed,us,us
+2017-02-17T09:18:29.940Z,9.8335,125.3807,35.26,4.7,mb,,78.0,2.753,1.17,us,us20008ken,2017-02-23T02:31:45.896Z,"7km WNW of Mabua, Philippines",earthquake,4.4,7.9,0.07200000000000001,59.0,reviewed,us,us
+2017-02-17T09:17:52.090Z,-23.4664,-70.5704,61.95,4.5,mwr,,109.0,0.049,1.4,us,us20008kem,2017-02-18T12:47:20.712Z,"26km NW of Antofagasta, Chile",earthquake,6.7,7.0,0.048,42.0,reviewed,us,us
+2017-02-17T05:04:32.210Z,4.573,96.5459,41.74,4.6,mb,,92.0,0.764,0.91,us,us20008ke5,2017-03-05T12:24:29.040Z,"66km NE of Meulaboh, Indonesia",earthquake,7.3,8.3,0.096,32.0,reviewed,us,us
+2017-02-17T01:18:04.990Z,25.1201,125.1252,18.97,4.7,mb,,110.0,2.028,0.66,us,us20008kde,2017-03-01T03:56:29.040Z,"38km NNW of Hirara, Japan",earthquake,8.8,5.2,0.073,56.0,reviewed,us,us
+2017-02-16T22:51:11.650Z,-3.0824,146.3165,10.0,4.5,mb,,118.0,6.336,0.39,us,us20008m62,2017-02-26T04:11:09.040Z,"158km SW of Lorengau, Papua New Guinea",earthquake,9.4,1.9,0.14,15.0,reviewed,us,us
+2017-02-16T21:59:01.730Z,-19.2135,169.2781,141.58,4.6,mb,,157.0,2.468,0.7,us,us20008m61,2017-02-26T04:26:27.040Z,"37km N of Isangel, Vanuatu",earthquake,13.7,10.4,0.141,15.0,reviewed,us,us
+2017-02-16T21:48:30.290Z,13.5357,-91.4545,35.0,4.5,mb,,167.0,1.01,0.94,us,us20008kcb,2017-02-25T02:15:08.040Z,"74km SW of La Gomera, Guatemala",earthquake,3.0,2.0,0.047,131.0,reviewed,us,us
+2017-02-16T21:44:05.130Z,18.7358,145.1448,345.62,5.0,mb,,28.0,5.124,0.88,us,us20008kc8,2017-02-25T02:33:07.040Z,"55km W of Agrihan, Northern Mariana Islands",earthquake,9.5,5.8,0.032,314.0,reviewed,us,us
+2017-02-16T19:53:53.600Z,-16.3038,-174.1205,92.3,4.9,mb,,58.0,3.284,0.92,us,us20008kb6,2017-03-06T14:04:41.040Z,"55km SW of Hihifo, Tonga",earthquake,8.7,5.4,0.035,255.0,reviewed,us,us
+2017-02-16T19:39:18.570Z,-35.8204,-73.8069,18.93,4.5,mb,,166.0,1.051,0.7,us,us20008kaw,2017-02-17T15:16:25.040Z,"117km NNW of Talcahuano, Chile",earthquake,8.3,5.3,0.106,26.0,reviewed,us,us
+2017-02-16T18:39:46.550Z,-35.8397,-73.6786,23.38,4.6,mwr,,117.0,0.988,1.06,us,us20008kaj,2017-02-17T15:13:44.040Z,"108km NW of Tome, Chile",earthquake,3.8,6.5,,,reviewed,us,guc
+2017-02-16T15:00:58.510Z,18.3608,147.1541,49.45,4.5,mb,,98.0,5.228,0.85,us,us20008m5v,2017-03-04T17:14:09.040Z,"148km E of Pagan, Northern Mariana Islands",earthquake,9.8,7.6,0.075,57.0,reviewed,us,us
+2017-02-16T13:33:42.450Z,14.4957,-90.5518,197.27,4.9,mb,,122.0,1.107,1.13,us,us20008k7u,2017-02-16T13:50:57.040Z,"0km S of Petapa, Guatemala",earthquake,7.7,7.3,0.065,74.0,reviewed,us,us
+2017-02-16T12:51:55.060Z,18.7828,-69.3977,105.91,4.6,mb,,113.0,0.586,0.89,us,us20008k7r,2017-02-27T01:14:21.580Z,"7km E of El Puerto, Dominican Republic",earthquake,3.9,7.8,0.07,61.0,reviewed,us,us
+2017-02-16T12:10:00.670Z,-20.6938,-178.5661,586.96,5.1,mb,,85.0,4.337,0.94,us,us20008k6s,2017-02-16T17:28:49.040Z,"14km ESE of Ndoi Island, Fiji",earthquake,10.9,8.6,0.08199999999999999,48.0,reviewed,us,us
+2017-02-16T10:36:08.570Z,-7.1634,-80.64,40.17,4.8,mb,,123.0,2.858,0.82,us,us20008k68,2017-02-16T13:57:42.678Z,"85km WSW of Pimentel, Peru",earthquake,8.8,4.8,0.047,141.0,reviewed,us,us
+2017-02-16T07:02:05.500Z,-30.1677,-72.1093,9.84,5.4,mww,,136.0,0.795,1.04,us,us20008k59,2017-03-05T08:54:33.435Z,"77km WSW of Coquimbo, Chile",earthquake,4.0,3.2,0.048,41.0,reviewed,us,us
+2017-02-16T06:27:07.020Z,6.9502,125.4062,24.77,4.5,mb,,106.0,0.20800000000000002,1.01,us,us20008kcd,2017-03-11T13:13:13.695Z,"2km SSW of Baracatan, Philippines",earthquake,14.6,7.5,0.136,16.0,reviewed,us,us
+2017-02-16T05:38:34.620Z,-17.8233,-13.7371,10.0,5.0,mb,,58.0,7.871,0.58,us,us20008k4y,2017-03-11T13:19:39.040Z,Southern Mid-Atlantic Ridge,earthquake,10.5,1.8,0.064,77.0,reviewed,us,us
+2017-02-16T00:19:00.240Z,39.5439,26.1208,7.1,4.5,mwr,,33.0,1.351,0.87,us,us20008k41,2017-03-03T06:39:26.602Z,"19km WNW of Behram, Turkey",earthquake,4.4,4.2,0.066,22.0,reviewed,us,us
+2017-02-15T23:01:23.840Z,34.7047,24.9022,25.94,4.6,mb,,62.0,0.5820000000000001,0.71,us,us20008k3m,2017-03-03T04:42:36.497Z,"38km S of Moirai, Greece",earthquake,2.8,4.7,0.06,82.0,reviewed,us,us
+2017-02-15T22:30:40.010Z,-18.0036,-178.2524,612.84,4.5,mb,,160.0,3.528,0.57,us,us20008m3u,2017-03-03T04:52:11.040Z,"296km N of Ndoi Island, Fiji",earthquake,14.5,10.1,0.107,26.0,reviewed,us,us
+2017-02-15T19:53:31.800Z,5.2541,96.1999,38.57,5.0,mb,,41.0,0.7440000000000001,1.25,us,us20008k22,2017-03-06T14:10:19.859Z,"10km WNW of Reuleuet, Indonesia",earthquake,7.0,5.0,0.063,82.0,reviewed,us,us
+2017-02-15T19:47:07.360Z,5.2905,96.0645,13.0,5.4,mww,,35.0,0.8809999999999999,1.29,us,us20008k1z,2017-03-07T21:26:22.298Z,"15km SE of Sigli, Indonesia",earthquake,5.3,1.7,0.061,26.0,reviewed,us,us
+2017-02-15T19:41:00.930Z,37.196,135.2654,367.36,4.5,mb,,28.0,2.316,0.99,us,us20008k1x,2017-03-06T15:29:11.040Z,"134km NW of Mikuni, Japan",earthquake,7.8,5.8,0.037000000000000005,211.0,reviewed,us,us
+2017-02-15T19:26:11.720Z,-4.4562,152.9494,81.94,4.6,mb,,89.0,0.826,0.65,us,us20008k1q,2017-02-15T23:15:42.040Z,"9km W of Taron, Papua New Guinea",earthquake,8.8,7.9,0.094,34.0,reviewed,us,us
+2017-02-15T18:53:38.570Z,-7.5161,107.3878,77.33,5.0,mb,,40.0,3.063,1.21,us,us20008k1a,2017-03-06T15:28:16.729Z,"4km SE of Kaum, Indonesia",earthquake,8.5,4.6,0.057,99.0,reviewed,us,us
+2017-02-15T17:58:14.050Z,-59.3933,149.4026,10.0,4.9,mb,,119.0,7.162999999999999,0.95,us,us20008k14,2017-03-06T15:17:28.040Z,West of Macquarie Island,earthquake,9.4,1.9,0.10400000000000001,29.0,reviewed,us,us
+2017-02-15T17:33:22.900Z,0.4888,99.7436,153.29,4.5,mb,,135.0,1.306,0.86,us,us20008k0x,2017-03-06T15:12:26.040Z,"77km NW of Bonjol, Indonesia",earthquake,7.0,7.9,0.10400000000000001,27.0,reviewed,us,us
+2017-02-15T15:51:50.160Z,-33.1872,-69.6605,21.39,4.7,mb,,42.0,0.556,0.85,us,us20008jzz,2017-03-07T06:17:58.317Z,"84km WSW of Mendoza, Argentina",earthquake,3.6,6.2,0.153,13.0,reviewed,us,us
+2017-02-15T15:28:16.720Z,52.2948,-173.4021,100.39,4.5,mb,,138.0,2.066,0.98,us,us20008jzk,2017-03-07T06:03:24.040Z,"55km ENE of Atka, Alaska",earthquake,9.7,7.9,0.045,142.0,reviewed,us,us
+2017-02-15T14:07:29.500Z,3.9156,126.8062,44.56,5.0,mb,,107.0,3.1719999999999997,0.79,us,us20008jzd,2017-03-05T08:21:33.040Z,"221km SE of Sarangani, Philippines",earthquake,4.5,7.0,0.064,79.0,reviewed,us,us
+2017-02-15T10:55:13.520Z,-60.9067,-51.4435,10.0,4.6,mb,,135.0,3.701,0.44,us,us20008m3k,2017-03-11T08:57:45.040Z,Scotia Sea,earthquake,6.5,2.0,0.098,31.0,reviewed,us,us
+2017-02-15T10:48:55.470Z,-5.5129,147.2432,208.84,4.5,mb,,58.0,3.867,0.69,us,us20008m3l,2017-03-11T08:08:31.040Z,"136km NNE of Lae, Papua New Guinea",earthquake,8.1,8.0,0.111,24.0,reviewed,us,us
+2017-02-15T07:50:27.720Z,38.186,72.8313,117.52,4.7,mb,,86.0,2.079,1.24,us,us20008jwh,2017-02-15T08:18:31.040Z,"99km W of Murghob, Tajikistan",earthquake,7.1,8.4,0.12,21.0,reviewed,us,us
+2017-02-15T03:05:31.580Z,-56.0673,-26.6769,42.83,5.1,mb,,81.0,18.611,0.75,us,us20008jvg,2017-03-16T01:55:29.040Z,"77km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,15.0,5.8,0.077,54.0,reviewed,us,us
+2017-02-15T02:47:38.200Z,12.1516,-88.2756,42.05,4.8,mb,,151.0,1.314,0.86,us,us20008jvc,2017-03-07T05:42:40.040Z,"111km SW of Jiquilillo, Nicaragua",earthquake,7.4,8.7,0.036000000000000004,238.0,reviewed,us,us
+2017-02-15T01:34:20.450Z,0.8176,-28.3284,10.0,4.9,mb,,92.0,14.815999999999999,0.79,us,us20008jv2,2017-03-07T04:31:40.040Z,Central Mid-Atlantic Ridge,earthquake,12.2,1.9,0.07400000000000001,58.0,reviewed,us,us
+2017-02-14T22:19:56.280Z,-5.8787,154.618,75.19,5.1,mb,,100.0,2.964,0.75,us,us20008jtf,2017-03-03T23:29:06.040Z,"107km WNW of Panguna, Papua New Guinea",earthquake,8.3,7.2,0.07200000000000001,63.0,reviewed,us,us
