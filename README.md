@@ -1,3 +1,3 @@
-CrossCompute Tutorials
+Analytical Tutorials
 ======================
-Learn how to build analytical tools.
+Learn how to write analytical scripts.
