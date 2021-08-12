@@ -1,3 +1,5 @@
+*.csv
+*.geojson
 *.py[co]
 *.sw[op]
 .cache
