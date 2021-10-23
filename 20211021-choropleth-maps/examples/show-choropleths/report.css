@@ -1,0 +1,12 @@
+@page {
+  margin-left: 1in;
+  margin-right: 1in;
+  margin-top: 1in;
+  margin-bottom: 1in;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 130%;
+  font-size: 12pt;
+}

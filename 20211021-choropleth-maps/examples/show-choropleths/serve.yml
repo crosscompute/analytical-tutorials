@@ -1,0 +1,69 @@
+---
+# version of crosscompute
+crosscompute: 0.9.0
+
+# name of your resource
+name: Show Choropleths
+
+# version of your resource
+version: 0.0.1
+
+# input configuration
+input:
+
+  # input variables
+  # - id to use when referencing your variable in the template
+  # - view to use when rendering your variable on the display
+  # - path where your script loads the variable,
+  #   relative to the input folder
+  variables:
+    - id: geometries
+      view: map-mapbox
+      path: geometries.geojson
+
+# output configuration
+output:
+
+  # output variables
+  # - id to use when referencing your variable in the template
+  # - view to use when rendering your variable on the display
+  # - path where your script saves the variable,
+  #   relative to the output folder
+  variables:
+    - id: dark
+      view: map-mapbox
+      path: geometries.geojson
+      settings:
+        - style: mapbox://styles/mapbox/dark-v10
+    - id: satellite-streets
+      view: map-mapbox
+      path: geometries.geojson
+      settings:
+        - style: mapbox://styles/mapbox/satellite-streets-v11
+
+  # output templates
+  #   - path to your markdown template or jupyter notebook wizard
+  templates:
+    - path: report.md
+
+# test configuration
+# - folder that contains an input subfolder with paths for
+#   input variables that define a specific test
+tests:
+  - folder: tests/usa-states
+
+# batch configuration
+# - folder that contains an input subfolder with paths for
+#   input variables that define a specific batch
+batches:
+  - folder: batches/nyc-zipcodes
+
+# display configuration
+display:
+
+  style:
+    # path to CSS stylesheet that will be used to render your templates
+    path: report.css
+
+  # layout to use by default when rendering this resource
+  layout: output

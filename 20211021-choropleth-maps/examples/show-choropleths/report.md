@@ -1,0 +1,3 @@
+# Graffiti Hotspots
+
+{ map }
