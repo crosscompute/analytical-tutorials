@@ -2,5 +2,5 @@
 
 ## Assessment Exercise
 
-- Choose an example from [Mapbox](https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS) or [deck.gl](https://deck.gl/examples).
-- Show a demo and explain how it works in five minutes.
+- Choose an example from [Mapbox GL JS](https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS) or [deck.gl](https://deck.gl/examples).
+- Be prepared to summarize how the code works in three minutes on Saturday, August 5, 2022.
